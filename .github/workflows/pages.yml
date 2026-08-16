@@ -25,6 +25,7 @@ jobs:
       - name: Validate static publication
         run: |
           node scripts/build-authority.mjs
+          node scripts/inject-cloudflare-analytics.mjs
           node scripts/audit-static-site.mjs
       - name: Assemble GitHub Pages artifact
         run: |
