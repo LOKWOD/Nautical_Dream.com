@@ -28,6 +28,7 @@ jobs:
           node scripts/generate-expansion.mjs
           node scripts/generate-expansion-two.mjs
           node scripts/inject-cloudflare-analytics.mjs
+          node scripts/inject-visitor-beacon.mjs . nautical-dream
           node scripts/audit-static-site.mjs
       - name: Assemble GitHub Pages artifact
         run: |
