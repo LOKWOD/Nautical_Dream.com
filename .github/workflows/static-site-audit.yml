@@ -12,9 +12,15 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-      - name: Generate authority pages
-        run: npm run build:authority
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate complete publication
+        run: |
+          node scripts/build-authority.mjs
+          node scripts/generate-expansion.mjs
+          node scripts/generate-expansion-two.mjs
       - name: Inject Cloudflare Web Analytics
         run: node scripts/inject-cloudflare-analytics.mjs
       - name: Validate links, metadata, images and analytics
-        run: npm run audit:site
+        run: node scripts/audit-static-site.mjs
