@@ -22,9 +22,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Validate static publication
+      - name: Build and validate static publication
         run: |
           node scripts/build-authority.mjs
+          node scripts/generate-expansion.mjs
           node scripts/inject-cloudflare-analytics.mjs
           node scripts/audit-static-site.mjs
       - name: Assemble GitHub Pages artifact
