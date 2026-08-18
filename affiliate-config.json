@@ -2,7 +2,7 @@
   "version": 1,
   "amazon": {
     "enabled": true,
-    "associateTag": "",
+    "associateTag": "nauticaldr087-20",
     "domain": "www.amazon.com"
   },
   "defaults": {
