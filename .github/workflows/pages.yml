@@ -23,10 +23,13 @@ jobs:
         with:
           node-version: 20
       - name: Build and validate static publication
+        env:
+          AMAZON_ASSOCIATE_TAG: ${{ vars.AMAZON_ASSOCIATE_TAG }}
         run: |
           node scripts/build-authority.mjs
           node scripts/generate-expansion.mjs
           node scripts/generate-expansion-two.mjs
+          node scripts/inject-affiliate-links.mjs
           node scripts/inject-cloudflare-analytics.mjs
           node scripts/inject-visitor-beacon.mjs . nautical-dream
           node scripts/audit-static-site.mjs

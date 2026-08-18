@@ -5,6 +5,7 @@
   "scripts": {
     "build:authority": "node scripts/build-authority.mjs",
     "build:editorial": "node scripts/build-editorial.mjs && node scripts/build-image-credits.mjs",
+    "build:affiliate": "node scripts/inject-affiliate-links.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
