@@ -13,7 +13,16 @@
     "filePatterns": [
       "^best-.*\\.html$",
       ".*-guide\\.html$",
-      "^beginner-boat-diy.*\\.html$"
+      "^beginner-boat-diy.*\\.html$",
+      ".*maintenance.*\\.html$",
+      ".*battery.*\\.html$",
+      ".*cleaning.*\\.html$",
+      ".*corrosion.*\\.html$",
+      ".*storage.*\\.html$",
+      "^spring-commissioning-checklist\\.html$",
+      "^saltwater-rinse-routine\\.html$",
+      "^boat-trailer-safety-checklist\\.html$",
+      "^covering-boat-for-winter\\.html$"
     ],
     "linkClasses": [
       "buy-button",
