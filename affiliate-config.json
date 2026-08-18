@@ -13,7 +13,7 @@
     "filePatterns": [
       "^best-.*\\.html$",
       ".*-guide\\.html$",
-      "^beginner-boat-diy\\.html$"
+      "^beginner-boat-diy.*\\.html$"
     ],
     "linkClasses": [
       "buy-button",

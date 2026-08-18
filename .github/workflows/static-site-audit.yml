@@ -20,6 +20,7 @@ jobs:
           node scripts/build-authority.mjs
           node scripts/generate-expansion.mjs
           node scripts/generate-expansion-two.mjs
+          node scripts/inject-commerce-sitemap.mjs
       - name: Inject Impact website verification
         run: node scripts/inject-impact-verification.mjs
       - name: Inject affiliate links
