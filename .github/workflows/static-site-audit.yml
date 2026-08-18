@@ -20,6 +20,8 @@ jobs:
           node scripts/build-authority.mjs
           node scripts/generate-expansion.mjs
           node scripts/generate-expansion-two.mjs
+      - name: Inject Impact website verification
+        run: node scripts/inject-impact-verification.mjs
       - name: Inject affiliate links
         env:
           AMAZON_ASSOCIATE_TAG: ${{ vars.AMAZON_ASSOCIATE_TAG }}
