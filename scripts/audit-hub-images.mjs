@@ -1,10 +1,13 @@
-import { existsSync, readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import { resolve } from "node:path";
 
 const root = resolve(process.argv[2] || ".");
-const hubFiles = ["destinations.html", "gear.html", "fall-boating-destinations.html"];
+const htmlFiles = readdirSync(root).filter((file) => file.toLowerCase().endsWith(".html")).sort();
 const imagePattern = /\.(?:jpe?g|png|webp|svg)(?:[?#].*)?$/i;
 const failures = [];
+let pagesWithImages = 0;
+let displayRefs = 0;
+let uniqueRefs = 0;
 
 function normalizeImage(value) {
   const raw = String(value || "").trim().replace(/^['"]|['"]$/g, "");
@@ -13,14 +16,8 @@ function normalizeImage(value) {
   return imagePattern.test(clean) ? clean : null;
 }
 
-for (const file of hubFiles) {
-  const path = resolve(root, file);
-  if (!existsSync(path)) {
-    failures.push(`${file}: flagship hub is missing`);
-    continue;
-  }
-
-  const html = readFileSync(path, "utf8");
+for (const file of htmlFiles) {
+  const html = readFileSync(resolve(root, file), "utf8");
   const refs = [];
 
   for (const match of html.matchAll(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/gi)) {
@@ -32,20 +29,25 @@ for (const file of hubFiles) {
     if (image) refs.push(image);
   }
 
+  if (!refs.length) continue;
+  pagesWithImages += 1;
+  displayRefs += refs.length;
+
   const counts = new Map();
   for (const ref of refs) counts.set(ref, (counts.get(ref) || 0) + 1);
+  uniqueRefs += counts.size;
   const repeated = [...counts.entries()].filter(([, count]) => count > 1);
 
   for (const [ref, count] of repeated) {
     failures.push(`${file}: repeated display image ${ref} appears ${count} times`);
   }
-
-  console.log(`${file}: ${refs.length} display image references, ${counts.size} unique.`);
 }
 
+console.log(`Site-wide image scan: ${htmlFiles.length} HTML pages, ${pagesWithImages} with display images, ${displayRefs} display references, ${uniqueRefs} unique page-level references.`);
+
 if (failures.length) {
-  console.error("Flagship hub image audit failed:\n- " + failures.join("\n- "));
+  console.error(`Duplicate image audit failed on ${failures.length} page/image pair(s):\n- ${failures.join("\n- ")}`);
   process.exit(1);
 }
 
-console.log("Flagship hub image audit passed: no repeated display images.");
+console.log("Site-wide duplicate image audit passed: no local display image is reused on the same HTML page.");
