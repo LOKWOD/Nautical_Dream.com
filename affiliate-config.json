@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "amazon": {
+    "enabled": true,
+    "associateTag": "",
+    "domain": "www.amazon.com"
+  },
+  "defaults": {
+    "amazonSearchWhenNoDirectLink": true,
+    "affiliateButtonLabel": "Check current price"
+  },
+  "eligibility": {
+    "filePatterns": [
+      "^best-.*\\.html$",
+      ".*-guide\\.html$",
+      "^beginner-boat-diy\\.html$"
+    ],
+    "linkClasses": [
+      "buy-button",
+      "product-link",
+      "affiliate-link",
+      "btn"
+    ],
+    "linkTextPattern": "buy|shop|price|models?|packages?|product|check|view|find|see"
+  },
+  "overrides": [],
+  "reportPath": "assets/affiliate-link-report.json"
+}
