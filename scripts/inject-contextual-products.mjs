@@ -17,23 +17,20 @@ function esc(value) {
 
 function render(module) {
   const cards = module.products.map((product) => `
-      <article class="product-shelf-card">
-        <span class="product-shelf-category">${esc(product.category)}</span>
+      <section class="pick">
+        <span class="pick-label">${esc(product.category)}</span>
         <h3>${esc(product.name)}</h3>
         <p>${esc(product.why)}</p>
         <a class="buy-button product-link" href="${esc(product.url)}" target="_blank" rel="noopener" data-affiliate-product="${esc(product.name)}">Check current price</a>
-      </article>`).join("");
+      </section>`).join("");
 
   return `${start}
-<section class="contextual-products" data-affiliate-module="contextual-products" aria-label="Recommended products for this article">
-  <div class="product-shelf-head">
-    <span>Useful gear for this job</span>
-    <h2>${esc(module.title)}</h2>
-    <p>${esc(module.intro)}</p>
+<section class="article-section contextual-products" data-affiliate-module="contextual-products" aria-label="Recommended products for this article">
+  <aside class="editor-note"><strong>Useful gear for this job</strong><p>${esc(module.intro)}</p></aside>
+  <h2>${esc(module.title)}</h2>
+  <div class="pick-grid">${cards}
   </div>
-  <div class="product-shelf-grid">${cards}
-  </div>
-  <p class="product-shelf-note">Choose products by the exact boat, engine, battery, trailer and surface specifications. Manufacturer instructions take priority over a general recommendation.</p>
+  <p class="updated">Choose products by the exact boat, engine, battery, trailer and surface specifications. Manufacturer instructions take priority over a general recommendation.</p>
 </section>
 ${end}`;
 }
