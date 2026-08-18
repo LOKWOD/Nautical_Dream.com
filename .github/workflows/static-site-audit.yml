@@ -21,7 +21,10 @@ jobs:
           node scripts/generate-expansion.mjs
           node scripts/generate-expansion-two.mjs
           node scripts/inject-commerce-sitemap.mjs
+          node scripts/dedupe-display-images.mjs
+          node scripts/dedupe-display-images-extra.mjs
           node scripts/audit-hub-images.mjs
+          node scripts/inject-contextual-products.mjs
       - name: Inject Impact website verification
         run: node scripts/inject-impact-verification.mjs
       - name: Inject affiliate links
