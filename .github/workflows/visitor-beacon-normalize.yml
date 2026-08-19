@@ -1,0 +1,40 @@
+name: Keep Visitor Light beacon in published HTML
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nautical-dream-visitor-beacon
+  cancel-in-progress: true
+
+jobs:
+  normalize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Inject Visitor Light beacon into every HTML page
+        run: node scripts/inject-visitor-beacon.mjs . nautical-dream
+      - name: Commit normalized pages
+        run: |
+          if git diff --quiet; then
+            echo "Nautical Dream Visitor Light beacon is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.html'
+          git commit -m "Keep Nautical Dream Visitor Light beacon installed"
+          git pull --rebase origin main
+          git push origin HEAD:main
