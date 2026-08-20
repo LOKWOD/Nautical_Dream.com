@@ -28,6 +28,7 @@ function render(module) {
 <section class="article-section contextual-products" data-affiliate-module="contextual-products" aria-label="Recommended products for this article">
   <aside class="editor-note"><strong>Useful gear for this job</strong><p>${esc(module.intro)}</p></aside>
   <h2>${esc(module.title)}</h2>
+  <p class="disclosure affiliate-module-disclosure"><strong>Paid links:</strong> We may earn a commission when you purchase through the product links below, at no additional cost to you.</p>
   <div class="pick-grid">${cards}
   </div>
   <p class="updated">Choose products by the exact boat, engine, battery, trailer and surface specifications. Manufacturer instructions take priority over a general recommendation.</p>
