@@ -18,13 +18,20 @@ function normalizeImage(value) {
 
 for (const file of htmlFiles) {
   const html = readFileSync(resolve(root, file), "utf8");
+  // Contextual commerce cards are generated after this audit in the normal
+  // publication pipeline. Ignore an already-published module when a generated
+  // page is used as the next build's input, so the audit remains idempotent.
+  const auditableHtml = html.replace(
+    /<section\b[^>]*\bdata-affiliate-module=["']contextual-products["'][^>]*>[\s\S]*?<\/section>/gi,
+    ""
+  );
   const refs = [];
 
-  for (const match of html.matchAll(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/gi)) {
+  for (const match of auditableHtml.matchAll(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/gi)) {
     const image = normalizeImage(match[1]);
     if (image) refs.push(image);
   }
-  for (const match of html.matchAll(/url\(\s*(["']?)([^)'"\s]+)\1\s*\)/gi)) {
+  for (const match of auditableHtml.matchAll(/url\(\s*(["']?)([^)'"\s]+)\1\s*\)/gi)) {
     const image = normalizeImage(match[2]);
     if (image) refs.push(image);
   }
