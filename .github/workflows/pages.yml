@@ -22,22 +22,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Build and validate static publication
-        env:
-          AMAZON_ASSOCIATE_TAG: ${{ vars.AMAZON_ASSOCIATE_TAG }}
+      - name: Validate the published static site
         run: |
-          node scripts/build-authority.mjs
-          node scripts/generate-expansion.mjs
-          node scripts/generate-expansion-two.mjs
-          node scripts/inject-commerce-sitemap.mjs
-          node scripts/dedupe-display-images.mjs
-          node scripts/dedupe-display-images-extra.mjs
           node scripts/audit-hub-images.mjs
-          node scripts/inject-contextual-products.mjs
-          node scripts/inject-impact-verification.mjs
-          node scripts/inject-affiliate-links.mjs
-          node scripts/inject-cloudflare-analytics.mjs
-          node scripts/inject-visitor-beacon.mjs . nautical-dream
           node scripts/audit-static-site.mjs
       - name: Assemble GitHub Pages artifact
         run: |

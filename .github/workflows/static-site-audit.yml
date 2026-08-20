@@ -15,23 +15,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Generate complete publication
+      - name: Validate the published static site
         run: |
-          node scripts/build-authority.mjs
-          node scripts/generate-expansion.mjs
-          node scripts/generate-expansion-two.mjs
-          node scripts/inject-commerce-sitemap.mjs
-          node scripts/dedupe-display-images.mjs
-          node scripts/dedupe-display-images-extra.mjs
           node scripts/audit-hub-images.mjs
-          node scripts/inject-contextual-products.mjs
-      - name: Inject Impact website verification
-        run: node scripts/inject-impact-verification.mjs
-      - name: Inject affiliate links
-        env:
-          AMAZON_ASSOCIATE_TAG: ${{ vars.AMAZON_ASSOCIATE_TAG }}
-        run: node scripts/inject-affiliate-links.mjs
-      - name: Inject Cloudflare Web Analytics
-        run: node scripts/inject-cloudflare-analytics.mjs
-      - name: Validate links, metadata, images and analytics
-        run: node scripts/audit-static-site.mjs
+          node scripts/audit-static-site.mjs
