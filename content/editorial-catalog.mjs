@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"],
     ["lake-george-guide.html", "Lake George Weekend Guide"],
     ["thousand-islands-guide.html", "Thousand Islands Cruising Guide"],
     ["finger-lakes-guide.html", "Finger Lakes Boating Guide"],
@@ -11,6 +12,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["marine-binoculars-buying-guide.html", "Marine Binoculars Buying Guide"],
     ["best-chartplotters.html", "Best Marine Chartplotters"],
     ["best-boat-coolers.html", "Best Boat Coolers"],
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
@@ -29,7 +31,7 @@ export function relatedSet(overrides = {}) {
   const rotate = (items, start = 0) => [...items.slice(start), ...items.slice(0, start)].slice(0, 3);
   return {
     destinations: overrides.destinations || rotate(catalog.destinations, overrides.destinationStart || 0),
-    guides: overrides.guides || catalog.guides,
+    guides: overrides.guides || rotate(catalog.guides, overrides.guideStart || 0),
     journal: overrides.journal || rotate(catalog.journal, overrides.journalStart || 0),
   };
 }

@@ -86,6 +86,13 @@ function footer() {
 
 export function renderPage(page) {
   const hero = imageData(page.hero);
+  const modifiedDate = page.dateModified || "2026-08-05";
+  const displayDate = new Intl.DateTimeFormat("en-US", {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(new Date(`${modifiedDate}T00:00:00Z`));
   const sectionHtml = page.sections.map((section, index) => {
     const heading = `<h2>${section.heading}</h2>`;
     const pullQuote = section.pullQuote ? `<blockquote class="pull-quote">${section.pullQuote}</blockquote>` : "";
@@ -116,6 +123,10 @@ export function renderPage(page) {
   <meta property="og:description" content="${esc(page.ogDescription || page.description)}">
   <meta property="og:url" content="https://nauticaldream.com/${esc(page.slug)}">
   ${hero?.src ? `<meta property="og:image" content="https://nauticaldream.com/${esc(hero.src)}">` : ""}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${esc(page.ogTitle || page.title)}">
+  <meta name="twitter:description" content="${esc(page.ogDescription || page.description)}">
+  ${hero?.src ? `<meta name="twitter:image" content="https://nauticaldream.com/${esc(hero.src)}">` : ""}
   <link rel="stylesheet" href="styles.css">
   ${schemaMarkup(page, hero)}
 </head>
@@ -125,7 +136,7 @@ ${header()}
   <section class="article-hero"${heroStyle}><div class="shell"><div class="eyebrow">${esc(page.eyebrow)}</div><h1>${esc(page.title)}</h1><p>${esc(page.dek)}</p></div></section>
   <section class="section"><article class="shell article">
 ${disclosure}
-    <div class="article-meta"><span>By Nautical Dream Editorial Desk</span><span>Updated August 5, 2026</span><span>${esc(page.readTime || "12 minute read")}</span></div>
+    <div class="article-meta"><span>By Nautical Dream Editorial Desk</span><span>Updated ${esc(displayDate)}</span><span>${esc(page.readTime || "12 minute read")}</span></div>
     <p class="lede">${page.lede}</p>
 ${facts}
 ${sectionHtml}

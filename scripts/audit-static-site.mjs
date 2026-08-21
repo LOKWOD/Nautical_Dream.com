@@ -2,6 +2,11 @@ import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { extname, join, normalize } from "node:path";
 import { authorityHubs } from "../content/authority-batch.mjs";
 import { authorityHubsTwo } from "../content/authority-batch-two.mjs";
+import { destinations } from "../content/destinations.mjs";
+import { productGuides } from "../content/product-guides.mjs";
+import { journalFeatures } from "../content/journal-features.mjs";
+import { resourceFeatures } from "../content/resource-features.mjs";
+import { publication20260821 } from "../content/publication-2026-08-21.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -10,6 +15,8 @@ const htmlFiles = readdirSync(root).filter((file) => file.endsWith(".html"));
 const sitemap = readFileSync(join(root, "sitemap.xml"), "utf8");
 const problems = [];
 const checkedAssets = new Set();
+const seenTitles = new Map();
+const seenCanonicals = new Map();
 const authorityPages = new Map();
 const authoritySlugs = new Set();
 for (const hub of allAuthorityHubs) {
@@ -23,6 +30,20 @@ for (const hub of allAuthorityHubs) {
   }
 }
 authorityPages.set("boating-library.html", { kind: "index" });
+const existingEditorial = [...destinations, ...productGuides, ...journalFeatures, ...resourceFeatures];
+const sourceSlugs = new Set([...authorityPages.keys(), ...existingEditorial.map((page) => page.slug)]);
+const sourceTitles = new Set([
+  ...[...authorityPages.values()].flatMap((entry) => entry.hub?.title ? [entry.hub.title.toLowerCase()] : []),
+  ...allAuthorityHubs.flatMap((hub) => hub.articles.map((article) => article[1].toLowerCase())),
+  ...existingEditorial.map((page) => page.title.toLowerCase()),
+]);
+if (publication20260821.length !== 2) problems.push(`2026-08-21 publication: expected exactly 2 pages; found ${publication20260821.length}`);
+for (const page of publication20260821) {
+  if (sourceSlugs.has(page.slug)) problems.push(`2026-08-21 publication: duplicate existing slug ${page.slug}`);
+  if (sourceTitles.has(page.title.toLowerCase())) problems.push(`2026-08-21 publication: duplicate existing title ${page.title}`);
+  sourceSlugs.add(page.slug);
+  sourceTitles.add(page.title.toLowerCase());
+}
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -162,6 +183,15 @@ for (const htmlFile of htmlFiles) {
     if (!/<meta\s+property=["']og:description["']/i.test(html)) problems.push(`${htmlFile}: missing Open Graph description`);
     if (!/<meta\s+property=["']og:url["']/i.test(html)) problems.push(`${htmlFile}: missing Open Graph URL`);
     if ((html.match(/<h1\b/gi) || []).length !== 1) problems.push(`${htmlFile}: must contain exactly one h1`);
+    const title = html.match(/<title>([\s\S]*?)<\/title>/i)?.[1].replace(/\s+/g, " ").trim();
+    if (!title) problems.push(`${htmlFile}: missing title element`);
+    else if (seenTitles.has(title)) problems.push(`${htmlFile}: duplicates title element from ${seenTitles.get(title)}`);
+    else seenTitles.set(title, htmlFile);
+    const canonical = html.match(/<link\s+rel=["']canonical["']\s+href=(["'])(.*?)\1/i)?.[2];
+    if (canonical) {
+      if (seenCanonicals.has(canonical)) problems.push(`${htmlFile}: duplicates canonical URL from ${seenCanonicals.get(canonical)}`);
+      else seenCanonicals.set(canonical, htmlFile);
+    }
     const publicUrl = htmlFile === "index.html" ? "https://nauticaldream.com/" : `https://nauticaldream.com/${htmlFile}`;
     if (!sitemap.includes(publicUrl)) problems.push(`${htmlFile}: missing from sitemap.xml`);
     const descriptionMatch = html.match(/<meta\s+name=["']description["']\s+content=(["'])(.*?)\1/i);
@@ -229,6 +259,38 @@ for (const htmlFile of htmlFiles) {
 
     if (editorialGroups.journal.files.includes(htmlFile) && !/class=["'](?:pull-quote|editor-note)["']/.test(html)) {
       problems.push(`${htmlFile}: Journal feature needs a pull quote or editorial callout`);
+    }
+  }
+
+  const dailyPage = publication20260821.find((page) => page.slug === htmlFile);
+  if (dailyPage) {
+    const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || "";
+    const words = wordCount(article);
+    if (words < 1600 || words > 3400) problems.push(`${htmlFile}: ${words} publication words; expected 1600-3400`);
+    if ((html.match(/<section\s+class="article-section"/g) || []).length < 8) problems.push(`${htmlFile}: publication needs at least 8 detailed sections`);
+    if ((html.match(/<details>/g) || []).length < 4) problems.push(`${htmlFile}: publication needs at least 4 FAQs`);
+    if (!/application\/ld\+json/i.test(html) || !/FAQPage/.test(html)) problems.push(`${htmlFile}: publication missing Article/FAQ structured data`);
+    if (!/<meta\s+name=["']twitter:card["']/i.test(html)) problems.push(`${htmlFile}: missing Twitter card metadata`);
+    if (!/class=["']source-box["']/.test(html)) problems.push(`${htmlFile}: publication missing primary-source box`);
+    const related = html.match(/<aside\s+class=["']related-content["'][^>]*>([\s\S]*?)<\/aside>/i)?.[1] || "";
+    if ((related.match(/<a\s+href=/gi) || []).length !== 9) problems.push(`${htmlFile}: publication related module must contain exactly 9 links`);
+    const internalLinks = [...article.matchAll(/<a\s+[^>]*href=["']([^"']+\.html)["']/gi)].map((match) => match[1]);
+    if (new Set(internalLinks).size < 3) problems.push(`${htmlFile}: publication needs at least 3 distinct internal links`);
+    const heroPath = `assets/editorial/${dailyPage.hero.key === "marine-binoculars-lookout" ? "marine-binoculars-lookout.jpg" : "skaneateles-boat-garages.jpg"}`;
+    for (const other of htmlFiles) {
+      if (other === htmlFile) continue;
+      if (readFileSync(join(root, other), "utf8").includes(heroPath)) problems.push(`${htmlFile}: hero image is reused by ${other}`);
+    }
+    if (htmlFile === "marine-binoculars-buying-guide.html") {
+      const activeLinks = (html.match(/data-affiliate-active="true"/g) || []).length;
+      if (activeLinks < 5) problems.push(`${htmlFile}: expected at least 5 active affiliate links; found ${activeLinks}`);
+      if (!/As an Amazon Associate/i.test(html)) problems.push(`${htmlFile}: missing Amazon Associate disclosure`);
+      for (const match of html.matchAll(/<a\b([^>]*data-commercial-link="true"[^>]*)>/gi)) {
+        const rel = match[1].match(/\brel="([^"]*)"/i)?.[1] || "";
+        if (!/\bsponsored\b/i.test(rel) || !/\bnofollow\b/i.test(rel) || !/\bnoopener\b/i.test(rel)) {
+          problems.push(`${htmlFile}: commercial link missing sponsored/nofollow/noopener`);
+        }
+      }
     }
   }
 }

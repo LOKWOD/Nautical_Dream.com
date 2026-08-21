@@ -196,7 +196,11 @@ function processHtml(path) {
 
     const visibleText = plainText(innerHtml);
     const currentHref = getAttribute(attributes, "href");
-    const originalHref = getAttribute(attributes, "data-original-destination") || currentHref;
+    // Stored HTML attributes are escaped. Decode before writing the value back
+    // so repeated generation does not turn `&amp;` into `&amp;amp;`.
+    const originalHref = decodeBasicEntities(
+      getAttribute(attributes, "data-original-destination") || currentHref,
+    );
     const product = getAttribute(attributes, "data-affiliate-product") || nearestHeading(working, offset, visibleText);
     const keyBase = `${fileName}::${slugify(product)}`;
     const duplicateCount = (keyCounts.get(keyBase) || 0) + 1;

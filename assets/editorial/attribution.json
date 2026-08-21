@@ -454,5 +454,53 @@
     "query": "family pontoon boat",
     "width": 640,
     "height": 355
+  },
+  "marine-binoculars-lookout": {
+    "localPath": "assets/editorial/marine-binoculars-lookout.jpg",
+    "title": "US Navy binoculars lookout.jpg",
+    "creator": "Mass Communication Specialist 3rd Class Kenneth R. Hendrix, U.S. Navy",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States#Works_by_the_US_Federal_Government",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Navy_binoculars_lookout.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/US_Navy_binoculars_lookout.jpg",
+    "query": "marine lookout using handheld binoculars",
+    "width": 2258,
+    "height": 1500
+  },
+  "skaneateles-boat-garages": {
+    "localPath": "assets/editorial/skaneateles-boat-garages.jpg",
+    "title": "Boat garages from Skaneateles Village Pier.jpg",
+    "creator": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boat_garages_from_Skaneateles_Village_Pier.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Boat_garages_from_Skaneateles_Village_Pier.jpg",
+    "query": "Skaneateles Lake boating",
+    "width": 2108,
+    "height": 1187
+  },
+  "marine-binoculars-deck": {
+    "localPath": "assets/editorial/marine-binoculars-deck.jpg",
+    "title": "US Navy 070518-N-4420S-115 lookout with binoculars.jpg",
+    "creator": "Mass Communication Specialist Seaman Apprentice John Scorza, U.S. Navy",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States#Works_by_the_US_Federal_Government",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Navy_070518-N-4420S-115_Operations_Specialist_Seaman_Caitlyn_Hagedorn_looks_through_a_pair_of_binoculars_while_standing_lookout_watch_aboard_nuclear-powered_aircraft_carrier_USS_Nimitz_(CVN_68).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/US_Navy_070518-N-4420S-115_Operations_Specialist_Seaman_Caitlyn_Hagedorn_looks_through_a_pair_of_binoculars_while_standing_lookout_watch_aboard_nuclear-powered_aircraft_carrier_USS_Nimitz_%28CVN_68%29.jpg",
+    "query": "ship lookout handheld marine binoculars",
+    "width": 2464,
+    "height": 1632
+  },
+  "skaneateles-wooden-boats": {
+    "localPath": "assets/editorial/skaneateles-wooden-boats.jpg",
+    "title": "Wooden boats Skaneateles 2007.jpg",
+    "creator": "R. A. Nonenmacher",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wooden_boats_Skaneateles_2007.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wooden_boats_Skaneateles_2007.jpg",
+    "query": "Skaneateles Lake boats",
+    "width": 1728,
+    "height": 1152
   }
 }
