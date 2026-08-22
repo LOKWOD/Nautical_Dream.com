@@ -502,5 +502,53 @@
     "query": "Skaneateles Lake boats",
     "width": 1728,
     "height": 1152
+  },
+  "throwable-flotation-lifebelt": {
+    "localPath": "assets/editorial/throwable-flotation-lifebelt.jpg",
+    "title": "Lifebelt on a small fishing boat.jpg",
+    "creator": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lifebelt_on_a_small_fishing_boat.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lifebelt_on_a_small_fishing_boat.jpg",
+    "query": "throwable flotation device mounted on boat",
+    "width": 1920,
+    "height": 1644
+  },
+  "throwable-flotation-card": {
+    "localPath": "assets/editorial/throwable-flotation-card.jpg",
+    "title": "Lifebelt on a small fishing boat square version.jpg",
+    "creator": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lifebelt_on_a_small_fishing_boat_square_version.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lifebelt_on_a_small_fishing_boat_square_version.jpg",
+    "query": "throwable flotation device gear card",
+    "width": 1920,
+    "height": 1920
+  },
+  "oneida-lake-sylvan-beach": {
+    "localPath": "assets/editorial/oneida-lake-sylvan-beach.jpg",
+    "title": "Sylvan Beach - 20210522 - 04.jpg",
+    "creator": "Andre Carrotflower",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvan_Beach_-_20210522_-_04.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sylvan_Beach_-_20210522_-_04.jpg",
+    "query": "Oneida Lake Sylvan Beach panorama",
+    "width": 1920,
+    "height": 459
+  },
+  "oneida-lake-cicero-boats": {
+    "localPath": "assets/editorial/oneida-lake-cicero-boats.jpg",
+    "title": "Cicero, New York Yacht Club.jpg",
+    "creator": "Joegrimes",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cicero,_New_York_Yacht_Club.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cicero,_New_York_Yacht_Club.jpg",
+    "query": "Cicero Oneida Lake boats",
+    "width": 1024,
+    "height": 768
   }
 }

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["oneida-lake-family-boating.html", "Oneida Lake Family Boat Plan"],
     ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"],
     ["lake-george-guide.html", "Lake George Weekend Guide"],
     ["thousand-islands-guide.html", "Thousand Islands Cruising Guide"],
@@ -12,6 +13,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-throwable-flotation-device-guide.html", "Boat Throwable Flotation Device Guide"],
     ["marine-binoculars-buying-guide.html", "Marine Binoculars Buying Guide"],
     ["best-chartplotters.html", "Best Marine Chartplotters"],
     ["best-boat-coolers.html", "Best Boat Coolers"],

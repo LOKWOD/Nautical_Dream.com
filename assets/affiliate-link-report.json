@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T20:16:48.590Z",
+  "generatedAt": "2026-08-22T15:55:28.045Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 125,
-    "commercialLinks": 250,
-    "activeAffiliateLinks": 250,
+    "eligiblePages": 126,
+    "commercialLinks": 255,
+    "activeAffiliateLinks": 255,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 250,
+    "amazonAffiliateLinks": 255,
     "fallbackLinks": 0,
-    "changedPages": 72
+    "changedPages": 73
   },
   "links": [
     {
@@ -1113,6 +1113,61 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-throwable-flotation-device-guide.html",
+      "key": "boat-throwable-flotation-device-guide.html::uscg-approved-throwable-boat-cushion",
+      "product": "USCG approved throwable boat cushion",
+      "visibleText": "Check approved throwable cushions",
+      "originalUrl": "https://www.uscgboating.org/recreational-boaters/life-jacket-wear-wearing-your-life-jacket.php",
+      "destinationUrl": "https://www.amazon.com/s?k=USCG+approved+throwable+boat+cushion&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-throwable-flotation-device-guide.html",
+      "key": "boat-throwable-flotation-device-guide.html::uscg-approved-ring-buoy-for-boat",
+      "product": "USCG approved ring buoy for boat",
+      "visibleText": "Check approved ring buoys",
+      "originalUrl": "https://www.uscgboating.org/recreational-boaters/life-jacket-wear-wearing-your-life-jacket.php",
+      "destinationUrl": "https://www.amazon.com/s?k=USCG+approved+ring+buoy+for+boat&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-throwable-flotation-device-guide.html",
+      "key": "boat-throwable-flotation-device-guide.html::uscg-approved-throwable-horseshoe-buoy",
+      "product": "USCG approved throwable horseshoe buoy",
+      "visibleText": "Check approved horseshoe buoys",
+      "originalUrl": "https://www.uscgboating.org/recreational-boaters/life-jacket-wear-wearing-your-life-jacket.php",
+      "destinationUrl": "https://www.amazon.com/s?k=USCG+approved+throwable+horseshoe+buoy&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-throwable-flotation-device-guide.html",
+      "key": "boat-throwable-flotation-device-guide.html::marine-rescue-throw-bag-with-floating-line",
+      "product": "marine rescue throw bag with floating line",
+      "visibleText": "Check supplemental marine rescue throw bags",
+      "originalUrl": "https://www.nrs.com/rescue/nrs-standard-rescue-throw-bag/pmit",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+rescue+throw+bag+with+floating+line&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-throwable-flotation-device-guide.html",
+      "key": "boat-throwable-flotation-device-guide.html::floating-telescoping-boat-hook-for-recovery",
+      "product": "floating telescoping boat hook for recovery",
+      "visibleText": "Check floating boat hooks",
+      "originalUrl": "https://www.uscgboating.org/recreational-boaters/life-jacket-wear-wearing-your-life-jacket.php",
+      "destinationUrl": "https://www.amazon.com/s?k=floating+telescoping+boat+hook+for+recovery&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-trailer-safety-checklist.html",
       "key": "boat-trailer-safety-checklist.html::lucas-oil-marine-grease",
       "product": "Lucas Oil Marine Grease",
@@ -1897,7 +1952,7 @@
       "page": "marine-binoculars-buying-guide.html",
       "key": "marine-binoculars-buying-guide.html::nikon-oceanpro-7x50-marine-binoculars",
       "product": "Nikon OceanPro 7x50 marine binoculars",
-      "visibleText": "Check Nikon OceanPro options",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.nikonusa.com/p/oceanpro-7x50/7440/overview",
       "destinationUrl": "https://www.amazon.com/s?k=Nikon+OceanPro+7x50+marine+binoculars&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1908,7 +1963,7 @@
       "page": "marine-binoculars-buying-guide.html",
       "key": "marine-binoculars-buying-guide.html::steiner-marine-7x50-binoculars",
       "product": "Steiner Marine 7x50 binoculars",
-      "visibleText": "Check Steiner Marine 7x50 options",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.steiner-optics.com/products/marine-7x50",
       "destinationUrl": "https://www.amazon.com/s?k=Steiner+Marine+7x50+binoculars&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1919,7 +1974,7 @@
       "page": "marine-binoculars-buying-guide.html",
       "key": "marine-binoculars-buying-guide.html::fujinon-mariner-7x50-wpc-xl-compass-binoculars",
       "product": "Fujinon Mariner 7x50 WPC-XL compass binoculars",
-      "visibleText": "Check Fujinon Mariner compass models",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.fujifilm.com/us/en/consumer/binoculars/mariner/specification",
       "destinationUrl": "https://www.amazon.com/s?k=Fujinon+Mariner+7x50+WPC-XL+compass+binoculars&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1930,7 +1985,7 @@
       "page": "marine-binoculars-buying-guide.html",
       "key": "marine-binoculars-buying-guide.html::waterproof-image-stabilized-marine-binoculars",
       "product": "waterproof image stabilized marine binoculars",
-      "visibleText": "Check stabilized marine binoculars",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.fujifilm.com/us/en/consumer/binoculars/technostabi",
       "destinationUrl": "https://www.amazon.com/s?k=waterproof+image+stabilized+marine+binoculars&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1941,7 +1996,7 @@
       "page": "marine-binoculars-buying-guide.html",
       "key": "marine-binoculars-buying-guide.html::floating-binocular-strap-for-marine-binoculars",
       "product": "floating binocular strap for marine binoculars",
-      "visibleText": "Check floating binocular straps",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.fujifilm.com/us/en/consumer/binoculars/mariner/accessories",
       "destinationUrl": "https://www.amazon.com/s?k=floating+binocular+strap+for+marine+binoculars&tag=nauticaldr087-20",
       "retailer": "Amazon",

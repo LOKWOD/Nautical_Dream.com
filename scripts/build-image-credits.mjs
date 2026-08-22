@@ -37,6 +37,8 @@ const page = `<!doctype html>
 <div class="table-wrap"><table class="comparison"><thead><tr><th>Image</th><th>Creator</th><th>Source</th><th>License</th></tr></thead><tbody>${rows}<tr><td>Boldt Castle and Power House, Heart Island</td><td>remundo</td><td><a href="https://commons.wikimedia.org/wiki/File:Boldt_Castle_and_Power_House,_Heart_Island,_1000_Islands_(30211977530).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></td><td><a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener">CC BY-SA 2.0</a></td></tr></tbody></table></div>
 <p><a class="back-link" href="privacy.html">← Privacy, disclosure and editorial policy</a></p></div></section></main>
 <footer class="footer"><div class="shell footer-row"><div><div class="brand">NAUTICAL <span>DREAM</span></div><p>Premium inspiration, practical planning and trusted recommendations for life on the water.</p></div><div class="legal">© 2026 Nautical Dream · <a href="privacy.html">Privacy &amp; Disclosure</a></div></div></footer>
+<!-- Cloudflare Web Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"7d34e78ef7f14920a113c9c7564e42ea"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- LOKWOD Website Visitor Beacon --><script defer src="https://lokwod-visitor-beacon.syracuseappraiser.workers.dev/beacon.js" data-site="nautical-dream"></script><!-- End LOKWOD Website Visitor Beacon -->
 </body></html>\n`;
 
 writeFileSync(join(root, "image-credits.html"), page);

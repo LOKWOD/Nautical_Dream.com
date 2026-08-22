@@ -7,6 +7,7 @@ import { productGuides } from "../content/product-guides.mjs";
 import { journalFeatures } from "../content/journal-features.mjs";
 import { resourceFeatures } from "../content/resource-features.mjs";
 import { publication20260821 } from "../content/publication-2026-08-21.mjs";
+import { publication20260822 } from "../content/publication-2026-08-22.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -44,6 +45,14 @@ for (const page of publication20260821) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
+if (publication20260822.length !== 2) problems.push(`2026-08-22 publication: expected exactly 2 pages; found ${publication20260822.length}`);
+for (const page of publication20260822) {
+  if (sourceSlugs.has(page.slug)) problems.push(`2026-08-22 publication: duplicate existing slug ${page.slug}`);
+  if (sourceTitles.has(page.title.toLowerCase())) problems.push(`2026-08-22 publication: duplicate existing title ${page.title}`);
+  sourceSlugs.add(page.slug);
+  sourceTitles.add(page.title.toLowerCase());
+}
+const dailyPublications = [...publication20260821, ...publication20260822];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -262,7 +271,7 @@ for (const htmlFile of htmlFiles) {
     }
   }
 
-  const dailyPage = publication20260821.find((page) => page.slug === htmlFile);
+  const dailyPage = dailyPublications.find((page) => page.slug === htmlFile);
   if (dailyPage) {
     const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || "";
     const words = wordCount(article);
@@ -272,16 +281,36 @@ for (const htmlFile of htmlFiles) {
     if (!/application\/ld\+json/i.test(html) || !/FAQPage/.test(html)) problems.push(`${htmlFile}: publication missing Article/FAQ structured data`);
     if (!/<meta\s+name=["']twitter:card["']/i.test(html)) problems.push(`${htmlFile}: missing Twitter card metadata`);
     if (!/class=["']source-box["']/.test(html)) problems.push(`${htmlFile}: publication missing primary-source box`);
+    if ((html.match(/static\.cloudflareinsights\.com\/beacon\.min\.js/g) || []).length !== 1) problems.push(`${htmlFile}: publication must contain exactly one Cloudflare analytics beacon`);
+    if ((html.match(/lokwod-visitor-beacon\.syracuseappraiser\.workers\.dev\/beacon\.js/g) || []).length !== 1) problems.push(`${htmlFile}: publication must contain exactly one visitor beacon`);
     const related = html.match(/<aside\s+class=["']related-content["'][^>]*>([\s\S]*?)<\/aside>/i)?.[1] || "";
     if ((related.match(/<a\s+href=/gi) || []).length !== 9) problems.push(`${htmlFile}: publication related module must contain exactly 9 links`);
     const internalLinks = [...article.matchAll(/<a\s+[^>]*href=["']([^"']+\.html)["']/gi)].map((match) => match[1]);
     if (new Set(internalLinks).size < 3) problems.push(`${htmlFile}: publication needs at least 3 distinct internal links`);
-    const heroPath = `assets/editorial/${dailyPage.hero.key === "marine-binoculars-lookout" ? "marine-binoculars-lookout.jpg" : "skaneateles-boat-garages.jpg"}`;
+    const heroPaths = {
+      "marine-binoculars-lookout": "assets/editorial/marine-binoculars-lookout.jpg",
+      "skaneateles-boat-garages": "assets/editorial/skaneateles-boat-garages.jpg",
+      "throwable-flotation-lifebelt": "assets/editorial/throwable-flotation-lifebelt.jpg",
+      "oneida-lake-sylvan-beach": "assets/editorial/oneida-lake-sylvan-beach.jpg",
+    };
+    const heroPath = heroPaths[dailyPage.hero.key];
+    if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
     for (const other of htmlFiles) {
       if (other === htmlFile) continue;
       if (readFileSync(join(root, other), "utf8").includes(heroPath)) problems.push(`${htmlFile}: hero image is reused by ${other}`);
     }
     if (htmlFile === "marine-binoculars-buying-guide.html") {
+      const activeLinks = (html.match(/data-affiliate-active="true"/g) || []).length;
+      if (activeLinks < 5) problems.push(`${htmlFile}: expected at least 5 active affiliate links; found ${activeLinks}`);
+      if (!/As an Amazon Associate/i.test(html)) problems.push(`${htmlFile}: missing Amazon Associate disclosure`);
+      for (const match of html.matchAll(/<a\b([^>]*data-commercial-link="true"[^>]*)>/gi)) {
+        const rel = match[1].match(/\brel="([^"]*)"/i)?.[1] || "";
+        if (!/\bsponsored\b/i.test(rel) || !/\bnofollow\b/i.test(rel) || !/\bnoopener\b/i.test(rel)) {
+          problems.push(`${htmlFile}: commercial link missing sponsored/nofollow/noopener`);
+        }
+      }
+    }
+    if (htmlFile === "boat-throwable-flotation-device-guide.html") {
       const activeLinks = (html.match(/data-affiliate-active="true"/g) || []).length;
       if (activeLinks < 5) problems.push(`${htmlFile}: expected at least 5 active affiliate links; found ${activeLinks}`);
       if (!/As an Amazon Associate/i.test(html)) problems.push(`${htmlFile}: missing Amazon Associate disclosure`);

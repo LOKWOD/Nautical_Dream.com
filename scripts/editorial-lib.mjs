@@ -147,6 +147,8 @@ ${relatedBlock(page.related)}
   </article></section>
 </main>
 ${footer()}
+<!-- Cloudflare Web Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"7d34e78ef7f14920a113c9c7564e42ea"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- LOKWOD Website Visitor Beacon --><script defer src="https://lokwod-visitor-beacon.syracuseappraiser.workers.dev/beacon.js" data-site="nautical-dream"></script><!-- End LOKWOD Website Visitor Beacon -->
 </body>
 </html>\n`;
 }
