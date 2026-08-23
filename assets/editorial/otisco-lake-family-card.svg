@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Otisco Lake short family day card</title>
+  <desc id="desc">A compact editorial illustration emphasizing the thirteen-trailer launch, road closure, short main-basin route and early return.</desc>
+  <rect width="1200" height="900" fill="#eaf3f1"/>
+  <rect width="1200" height="210" fill="#07364b"/>
+  <text x="70" y="85" fill="#63d8cf" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="5">OTISCO LAKE</text>
+  <text x="70" y="155" fill="#fff" font-family="Georgia,serif" font-size="56" font-weight="700">KEEP THE DAY SMALL</text>
+  <path d="M0 645 C190 565 340 690 535 620 C760 540 900 685 1200 570 V900 H0Z" fill="#2b8290"/>
+  <path d="M0 730 C220 650 380 775 620 700 C840 632 1010 755 1200 685" fill="none" stroke="#72d2ca" stroke-width="9" opacity=".65"/>
+  <g transform="translate(80 290)" font-family="Arial,Helvetica,sans-serif">
+    <rect width="1040" height="250" rx="30" fill="#fff" stroke="#c6d9d6" stroke-width="3"/>
+    <circle cx="110" cy="98" r="58" fill="#e36f3d"/><text x="110" y="110" text-anchor="middle" fill="#fff" font-size="38" font-weight="700">13</text>
+    <text x="110" y="185" text-anchor="middle" fill="#07364b" font-size="21" font-weight="700">TRAILER SPACES</text>
+    <circle cx="390" cy="98" r="58" fill="#d49b2f"/><path d="M355 98 H425 M390 63 V133" stroke="#07364b" stroke-width="12"/>
+    <text x="390" y="185" text-anchor="middle" fill="#07364b" font-size="21" font-weight="700">ROAD CLOSURE</text>
+    <circle cx="675" cy="98" r="58" fill="#3ca89d"/><path d="M640 105 Q675 55 710 105 Q675 155 640 105Z" fill="#07364b"/>
+    <text x="675" y="185" text-anchor="middle" fill="#07364b" font-size="21" font-weight="700">ONE SHORT LEG</text>
+    <circle cx="930" cy="98" r="58" fill="#07364b"/><path d="M955 70 L905 98 L955 126Z" fill="#fff"/>
+    <text x="930" y="185" text-anchor="middle" fill="#07364b" font-size="21" font-weight="700">RETURN EARLY</text>
+  </g>
+  <rect x="70" y="720" width="1060" height="115" rx="22" fill="#07364b"/>
+  <text x="600" y="770" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">NO BEACH OR AMENITY ASSUMPTIONS</text>
+  <text x="600" y="810" text-anchor="middle" fill="#b8d9d6" font-family="Arial,Helvetica,sans-serif" font-size="21">Planning graphic — not a navigation chart</text>
+</svg>

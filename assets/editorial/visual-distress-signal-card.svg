@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Day and night boat distress signal card</title>
+  <desc id="desc">A compact editorial illustration showing separate approved day and night signal roles with label, date and access checks.</desc>
+  <rect width="1200" height="900" fill="#071c2c"/>
+  <text x="75" y="100" fill="#62d7e8" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="5">WHAT COUNTS?</text>
+  <text x="75" y="172" fill="#fff" font-family="Georgia,serif" font-size="60" font-weight="700">DAY ≠ NIGHT</text>
+  <g transform="translate(75 250)">
+    <rect width="480" height="310" rx="30" fill="#f0a44b"/>
+    <circle cx="240" cy="105" r="58" fill="#071c2c"/>
+    <path d="M240 64 V146 M199 105 H281" stroke="#f0a44b" stroke-width="14"/>
+    <text x="240" y="215" text-anchor="middle" fill="#071c2c" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700">DAY SIGNAL</text>
+    <text x="240" y="260" text-anchor="middle" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="24">Approved for the day role</text>
+  </g>
+  <g transform="translate(645 250)">
+    <rect width="480" height="310" rx="30" fill="#e6f1f3"/>
+    <circle cx="240" cy="105" r="58" fill="#071c2c"/>
+    <path d="M207 118 C221 65 267 73 278 96 C251 83 230 105 235 137 C220 134 211 127 207 118Z" fill="#62d7e8"/>
+    <text x="240" y="215" text-anchor="middle" fill="#071c2c" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700">NIGHT SIGNAL</text>
+    <text x="240" y="260" text-anchor="middle" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="24">Approved for the night role</text>
+  </g>
+  <rect x="75" y="635" width="1050" height="150" rx="24" fill="#0e4255" stroke="#2a6e80" stroke-width="3"/>
+  <text x="600" y="700" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">LABEL • SERVICE LIFE • ACCESS</text>
+  <text x="600" y="752" text-anchor="middle" fill="#b7cad2" font-family="Arial,Helvetica,sans-serif" font-size="23">Brightness alone does not make a required signal.</text>
+</svg>

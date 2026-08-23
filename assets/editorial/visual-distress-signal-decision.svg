@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Boat visual distress signal decision framework</title>
+  <desc id="desc">An editorial diagram separating day and night signal roles, then requiring approval, serviceability and accessibility checks.</desc>
+  <rect width="1600" height="900" fill="#071c2c"/>
+  <path d="M0 720 C320 630 520 800 820 710 C1120 620 1320 760 1600 660 V900 H0Z" fill="#0c5365"/>
+  <path d="M0 780 C300 700 560 850 880 760 C1180 680 1380 790 1600 730" fill="none" stroke="#49b6c8" stroke-width="9" opacity=".45"/>
+  <text x="100" y="125" fill="#62d7e8" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="6">VISUAL DISTRESS SIGNALS</text>
+  <text x="100" y="205" fill="#ffffff" font-family="Georgia,serif" font-size="70" font-weight="700">What actually counts?</text>
+  <text x="100" y="260" fill="#b7cad2" font-family="Arial,Helvetica,sans-serif" font-size="28">The label and role matter more than the shape or brightness.</text>
+  <g transform="translate(100 335)">
+    <rect width="420" height="250" rx="28" fill="#f0a44b"/>
+    <circle cx="82" cy="72" r="34" fill="#071c2c"/>
+    <path d="M82 46 V98 M56 72 H108" stroke="#f0a44b" stroke-width="10"/>
+    <text x="140" y="72" fill="#071c2c" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="3">DAY ROLE</text>
+    <text x="42" y="142" fill="#071c2c" font-family="Georgia,serif" font-size="38" font-weight="700">Approved flag</text>
+    <text x="42" y="188" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="24">or approved day signal</text>
+    <text x="42" y="224" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="20">Exact standard • quantity • condition</text>
+  </g>
+  <g transform="translate(590 335)">
+    <rect width="420" height="250" rx="28" fill="#dcecf0"/>
+    <circle cx="82" cy="72" r="34" fill="#071c2c"/>
+    <path d="M63 78 C77 43 99 50 106 64 C92 58 81 71 84 92 C73 89 65 84 63 78Z" fill="#62d7e8"/>
+    <text x="140" y="72" fill="#071c2c" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="3">NIGHT ROLE</text>
+    <text x="42" y="142" fill="#071c2c" font-family="Georgia,serif" font-size="38" font-weight="700">Approved light</text>
+    <text x="42" y="188" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="24">or approved night signal</text>
+    <text x="42" y="224" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="20">Batteries • test routine • visibility</text>
+  </g>
+  <g transform="translate(1080 335)">
+    <rect width="420" height="250" rx="28" fill="#ffffff"/>
+    <path d="M55 78 l24 24 46-55" fill="none" stroke="#0c7c8c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="150" y="82" fill="#071c2c" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="2">BOTH MUST PASS</text>
+    <text x="42" y="142" fill="#071c2c" font-family="Georgia,serif" font-size="34" font-weight="700">Approval label</text>
+    <text x="42" y="184" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="22">Serviceable • in date</text>
+    <text x="42" y="220" fill="#17384a" font-family="Arial,Helvetica,sans-serif" font-size="22">Readily accessible</text>
+  </g>
+  <text x="100" y="690" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">Then add communication: VHF / DSC / registered beacon as appropriate.</text>
+  <text x="100" y="742" fill="#b7cad2" font-family="Arial,Helvetica,sans-serif" font-size="22">A bright object without the required approval may be useful—but it does not become the required device.</text>
+</svg>

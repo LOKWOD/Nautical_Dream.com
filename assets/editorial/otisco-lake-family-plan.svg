@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Otisco Lake short family boating plan</title>
+  <desc id="desc">An editorial planning sequence showing alternate road access, a thirteen-trailer public launch, a short main-basin outing and an early return.</desc>
+  <rect width="1600" height="900" fill="#eaf3f1"/>
+  <rect x="0" y="0" width="1600" height="210" fill="#07364b"/>
+  <text x="95" y="90" fill="#63d8cf" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="6">OTISCO LAKE FAMILY PLAN</text>
+  <text x="95" y="162" fill="#ffffff" font-family="Georgia,serif" font-size="64" font-weight="700">Short day. Small launch. Easy exit.</text>
+  <text x="95" y="250" fill="#20445a" font-family="Arial,Helvetica,sans-serif" font-size="25">A planning sequence — not a navigation chart.</text>
+  <line x1="205" y1="470" x2="1395" y2="470" stroke="#1a6675" stroke-width="15" stroke-linecap="round"/>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <g transform="translate(205 470)">
+      <circle r="74" fill="#e36f3d"/>
+      <text y="12" fill="#fff" font-size="38" font-weight="700">1</text>
+      <text y="125" fill="#07364b" font-size="25" font-weight="700">ROUTE FIRST</text>
+      <text y="160" fill="#42616e" font-size="19">Church Hill Rd closure</text>
+    </g>
+    <g transform="translate(505 470)">
+      <circle r="74" fill="#d49b2f"/>
+      <text y="12" fill="#07364b" font-size="38" font-weight="700">2</text>
+      <text y="125" fill="#07364b" font-size="25" font-weight="700">LAUNCH EARLY</text>
+      <text y="160" fill="#42616e" font-size="19">13 trailer spaces</text>
+    </g>
+    <g transform="translate(800 470)">
+      <circle r="74" fill="#2b8290"/>
+      <text y="12" fill="#fff" font-size="38" font-weight="700">3</text>
+      <text y="125" fill="#07364b" font-size="25" font-weight="700">PROVE THE BOAT</text>
+      <text y="160" fill="#42616e" font-size="19">Stay close to return</text>
+    </g>
+    <g transform="translate(1095 470)">
+      <circle r="74" fill="#3ca89d"/>
+      <text y="12" fill="#07364b" font-size="38" font-weight="700">4</text>
+      <text y="125" fill="#07364b" font-size="25" font-weight="700">ONE SHORT LEG</text>
+      <text y="160" fill="#42616e" font-size="19">Main basin • wind first</text>
+    </g>
+    <g transform="translate(1395 470)">
+      <circle r="74" fill="#07364b"/>
+      <text y="12" fill="#fff" font-size="38" font-weight="700">5</text>
+      <text y="125" fill="#07364b" font-size="25" font-weight="700">RETURN EARLY</text>
+      <text y="160" fill="#42616e" font-size="19">Before ramp pressure</text>
+    </g>
+  </g>
+  <g transform="translate(95 720)">
+    <rect width="1410" height="105" rx="22" fill="#ffffff" stroke="#bfd4d1" stroke-width="3"/>
+    <text x="45" y="45" fill="#e36f3d" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">DO NOT ASSUME:</text>
+    <text x="260" y="45" fill="#07364b" font-family="Arial,Helvetica,sans-serif" font-size="24">swimming • restrooms • food • fuel • a safe causeway passage</text>
+    <text x="45" y="82" fill="#42616e" font-family="Arial,Helvetica,sans-serif" font-size="20">Check DEC access, weather, current navigation information and the boat before departure.</text>
+  </g>
+</svg>

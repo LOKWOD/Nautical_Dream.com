@@ -22,6 +22,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Generate daily publication from source
+        run: |
+          node scripts/build-publication-2026-08-21.mjs
+          node scripts/build-publication-2026-08-22.mjs
+          node scripts/build-publication-2026-08-23.mjs
+          node scripts/build-image-credits.mjs
+          node scripts/inject-affiliate-links.mjs .
       - name: Validate the published static site
         run: |
           node scripts/audit-hub-images.mjs

@@ -8,6 +8,7 @@ import { journalFeatures } from "../content/journal-features.mjs";
 import { resourceFeatures } from "../content/resource-features.mjs";
 import { publication20260821 } from "../content/publication-2026-08-21.mjs";
 import { publication20260822 } from "../content/publication-2026-08-22.mjs";
+import { publication20260823 } from "../content/publication-2026-08-23.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -52,7 +53,14 @@ for (const page of publication20260822) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-const dailyPublications = [...publication20260821, ...publication20260822];
+if (publication20260823.length !== 2) problems.push(`2026-08-23 publication: expected exactly 2 pages; found ${publication20260823.length}`);
+for (const page of publication20260823) {
+  if (sourceSlugs.has(page.slug)) problems.push(`2026-08-23 publication: duplicate existing slug ${page.slug}`);
+  if (sourceTitles.has(page.title.toLowerCase())) problems.push(`2026-08-23 publication: duplicate existing title ${page.title}`);
+  sourceSlugs.add(page.slug);
+  sourceTitles.add(page.title.toLowerCase());
+}
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -292,6 +300,8 @@ for (const htmlFile of htmlFiles) {
       "skaneateles-boat-garages": "assets/editorial/skaneateles-boat-garages.jpg",
       "throwable-flotation-lifebelt": "assets/editorial/throwable-flotation-lifebelt.jpg",
       "oneida-lake-sylvan-beach": "assets/editorial/oneida-lake-sylvan-beach.jpg",
+      "visual-distress-signal-decision": "assets/editorial/visual-distress-signal-decision.svg",
+      "otisco-lake-family-plan": "assets/editorial/otisco-lake-family-plan.svg",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
@@ -320,6 +330,21 @@ for (const htmlFile of htmlFiles) {
           problems.push(`${htmlFile}: commercial link missing sponsored/nofollow/noopener`);
         }
       }
+    }
+    if (htmlFile === "boat-flares-electronic-distress-signal-guide.html") {
+      const activeLinks = (html.match(/data-affiliate-active="true"/g) || []).length;
+      if (activeLinks < 5) problems.push(`${htmlFile}: expected at least 5 active affiliate links; found ${activeLinks}`);
+      if (!/As an Amazon Associate/i.test(html)) problems.push(`${htmlFile}: missing Amazon Associate disclosure`);
+      if (/<a\b[^>]*data-commercial-link="true"[^>]*>\s*<img/i.test(html)) problems.push(`${htmlFile}: unverified affiliate product image found`);
+      for (const match of html.matchAll(/<a\b([^>]*data-commercial-link="true"[^>]*)>/gi)) {
+        const rel = match[1].match(/\brel="([^"]*)"/i)?.[1] || "";
+        if (!/\bsponsored\b/i.test(rel) || !/\bnofollow\b/i.test(rel) || !/\bnoopener\b/i.test(rel)) {
+          problems.push(`${htmlFile}: commercial link missing sponsored/nofollow/noopener`);
+        }
+      }
+    }
+    if (htmlFile === "otisco-lake-family-boating.html" && /data-affiliate-active="true"/.test(html)) {
+      problems.push(`${htmlFile}: destination guide must not contain active affiliate links`);
     }
   }
 }

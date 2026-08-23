@@ -14,7 +14,7 @@ const skipDirectories = new Set([".git", "node_modules", ".wrangler", "_site"]);
 const trackingScript = "assets/js/affiliate-tracking.js";
 const disclosureStart = "<!-- Nautical Dream Affiliate Program Disclosure -->";
 const disclosureEnd = "<!-- End Nautical Dream Affiliate Program Disclosure -->";
-const disclosurePattern = /<!--\s*Nautical Dream Affiliate Program Disclosure\s*-->[\s\S]*?<!--\s*End Nautical Dream Affiliate Program Disclosure\s*-->/gi;
+const disclosurePattern = /[ \t]*\r?\n?<!--\s*Nautical Dream Affiliate Program Disclosure\s*-->[\s\S]*?<!--\s*End Nautical Dream Affiliate Program Disclosure\s*-->[ \t]*\r?\n?/gi;
 const trackingPattern = /\s*<script\b[^>]*\bsrc=["'](?:\.\/)?assets\/js\/affiliate-tracking\.js["'][^>]*>\s*<\/script>\s*/gi;
 
 if (!existsSync(configPath)) {
@@ -71,13 +71,19 @@ function escapeAttribute(value) {
 }
 
 function decodeBasicEntities(value) {
-  return String(value)
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&amp;/gi, "&")
-    .replace(/&quot;/gi, '"')
-    .replace(/&#39;|&apos;/gi, "'")
-    .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">");
+  let decoded = String(value);
+  for (let pass = 0; pass < 32; pass += 1) {
+    const next = decoded
+      .replace(/&nbsp;/gi, " ")
+      .replace(/&amp;/gi, "&")
+      .replace(/&quot;/gi, '"')
+      .replace(/&#39;|&apos;/gi, "'")
+      .replace(/&lt;/gi, "<")
+      .replace(/&gt;/gi, ">");
+    if (next === decoded) break;
+    decoded = next;
+  }
+  return decoded;
 }
 
 function plainText(value) {
@@ -201,7 +207,9 @@ function processHtml(path) {
     const originalHref = decodeBasicEntities(
       getAttribute(attributes, "data-original-destination") || currentHref,
     );
-    const product = getAttribute(attributes, "data-affiliate-product") || nearestHeading(working, offset, visibleText);
+    const product = decodeBasicEntities(
+      getAttribute(attributes, "data-affiliate-product") || nearestHeading(working, offset, visibleText),
+    );
     const keyBase = `${fileName}::${slugify(product)}`;
     const duplicateCount = (keyCounts.get(keyBase) || 0) + 1;
     keyCounts.set(keyBase, duplicateCount);
@@ -280,7 +288,7 @@ function processHtml(path) {
   if (report.links.some((link) => link.page === fileName && link.active && link.retailer === "Amazon")) {
     disclosureParts.push("As an Amazon Associate I earn from qualifying purchases.");
   }
-  const disclosureBlock = `${disclosureStart}\n<p class="disclosure affiliate-program-disclosure">${disclosureParts.join(" ")}</p>\n${disclosureEnd}`;
+  const disclosureBlock = `${disclosureStart}\n<p class="disclosure affiliate-program-disclosure">${disclosureParts.join(" ")}</p>\n${disclosureEnd}\n`;
 
   if (pageActiveLinks > 0) {
     const firstDisclosure = /<p\b[^>]*\bclass=["'][^"']*\bdisclosure\b[^"']*["'][^>]*>[\s\S]*?<\/p>/i;
@@ -296,10 +304,16 @@ function processHtml(path) {
   if (!/<\/body>/i.test(working)) {
     throw new Error(`Cannot install affiliate tracking in ${relative(root, path)}: missing </body>.`);
   }
-  working = working.replace(
-    /<\/body>/i,
-    `<script src="${trackingScript}" defer></script>\n</body>`,
-  );
+  const trackingTag = `<script src="${trackingScript}" defer></script>`;
+  const visitorBeaconMarker = /<!--\s*LOKWOD Website Visitor Beacon\s*-->/i;
+  if (visitorBeaconMarker.test(working)) {
+    // Keep affiliate tracking ahead of the visitor beacon. The beacon is
+    // intentionally the final integration before </body> so later injectors
+    // cannot silently remove or strand it.
+    working = working.replace(visitorBeaconMarker, `${trackingTag}\n$&`);
+  } else {
+    working = working.replace(/<\/body>/i, `${trackingTag}\n</body>`);
+  }
 
   const activeCountInHtml = (working.match(/data-affiliate-active="true"/g) || []).length;
   if (activeCountInHtml !== pageActiveLinks) {
@@ -308,6 +322,9 @@ function processHtml(path) {
   if ((working.match(/affiliate-tracking\.js/g) || []).length !== 1) {
     throw new Error(`Affiliate tracking script verification failed for ${relative(root, path)}.`);
   }
+
+  // Removal/reinsertion must not accumulate blank lines on every daily build.
+  working = working.replace(/\n{3,}/g, "\n\n");
 
   if (working !== original) {
     writeFileSync(path, working);

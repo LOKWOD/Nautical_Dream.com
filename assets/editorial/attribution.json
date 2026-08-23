@@ -550,5 +550,53 @@
     "query": "Cicero Oneida Lake boats",
     "width": 1024,
     "height": 768
+  },
+  "visual-distress-signal-decision": {
+    "localPath": "assets/editorial/visual-distress-signal-decision.svg",
+    "title": "Boat visual distress signal decision framework",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original compliance decision framework",
+    "width": 1600,
+    "height": 900
+  },
+  "otisco-lake-family-plan": {
+    "localPath": "assets/editorial/otisco-lake-family-plan.svg",
+    "title": "Otisco Lake short family boating plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Otisco Lake planning sequence",
+    "width": 1600,
+    "height": 900
+  },
+  "visual-distress-signal-card": {
+    "localPath": "assets/editorial/visual-distress-signal-card.svg",
+    "title": "Day and night boat distress signal card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original distress-signal discovery card",
+    "width": 1200,
+    "height": 900
+  },
+  "otisco-lake-family-card": {
+    "localPath": "assets/editorial/otisco-lake-family-card.svg",
+    "title": "Otisco Lake short family day card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Otisco Lake discovery card",
+    "width": 1200,
+    "height": 900
   }
 }

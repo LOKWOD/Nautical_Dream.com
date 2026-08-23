@@ -97,7 +97,7 @@ export const publication20260822 = [
       guides: [
         ["best-life-jackets.html", "Best Life Jackets for Boating"],
         ["life-jackets-for-kids-guide.html", "Life Jackets for Kids"],
-        ["marine-binoculars-buying-guide.html", "Marine Binoculars Buying Guide"],
+        ["boat-flares-electronic-distress-signal-guide.html", "Boat Visual Distress Signal Guide"],
       ],
     },
   },
@@ -197,9 +197,9 @@ export const publication20260822 = [
         ["how-to-read-marine-forecast.html", "How to Read a Marine Forecast"],
       ],
       destinations: [
+        ["otisco-lake-family-boating.html", "Otisco Lake Family Boat Plan"],
         ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"],
         ["finger-lakes-guide.html", "Finger Lakes Boating Guide"],
-        ["cayuga-lake-boating.html", "Cayuga Lake Boating Guide"],
       ],
       guides: [
         ["boat-throwable-flotation-device-guide.html", "Throwable Flotation Device Guide"],
