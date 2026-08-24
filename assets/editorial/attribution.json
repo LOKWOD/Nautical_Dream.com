@@ -598,5 +598,53 @@
     "query": "Original Otisco Lake discovery card",
     "width": 1200,
     "height": 900
+  },
+  "boat-tool-kit-layout": {
+    "localPath": "assets/editorial/boat-tool-kit-layout.svg",
+    "title": "Boat-specific tool kit layout",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boat tool kit decision diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-tool-kit-card": {
+    "localPath": "assets/editorial/boat-tool-kit-card.svg",
+    "title": "Boat tool kit discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boat tool kit discovery card",
+    "width": 1200,
+    "height": 900
+  },
+  "keuka-lake-family-plan": {
+    "localPath": "assets/editorial/keuka-lake-family-plan.svg",
+    "title": "Keuka Lake one-branch family boat plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Keuka Lake family planning diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "keuka-lake-family-card": {
+    "localPath": "assets/editorial/keuka-lake-family-card.svg",
+    "title": "Keuka Lake one-branch family card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Keuka Lake discovery card",
+    "width": 1200,
+    "height": 900
   }
 }

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"],
     ["otisco-lake-family-boating.html", "Otisco Lake Family Boat Plan"],
     ["oneida-lake-family-boating.html", "Oneida Lake Family Boat Plan"],
     ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"],
@@ -14,6 +15,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-tool-kit-guide.html", "Boat Tool Kit Guide"],
     ["boat-flares-electronic-distress-signal-guide.html", "Boat Visual Distress Signal Guide"],
     ["boat-throwable-flotation-device-guide.html", "Boat Throwable Flotation Device Guide"],
     ["marine-binoculars-buying-guide.html", "Marine Binoculars Buying Guide"],

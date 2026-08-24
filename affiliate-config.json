@@ -54,7 +54,7 @@
       "affiliate-link",
       "btn"
     ],
-    "linkTextPattern": "buy|shop|price|models?|packages?|product|check|view|find|see"
+    "linkTextPattern": "buy|shop|price|models?|packages?|product|check|compare|view|find|see"
   },
   "overrides": [],
   "reportPath": "assets/affiliate-link-report.json"

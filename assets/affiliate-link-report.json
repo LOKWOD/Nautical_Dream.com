@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T15:34:55.079Z",
+  "generatedAt": "2026-08-24T16:34:01.131Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 127,
-    "commercialLinks": 260,
-    "activeAffiliateLinks": 260,
+    "eligiblePages": 128,
+    "commercialLinks": 264,
+    "activeAffiliateLinks": 264,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 260,
+    "amazonAffiliateLinks": 264,
     "fallbackLinks": 0,
-    "changedPages": 0
+    "changedPages": 1
   },
   "links": [
     {
@@ -1218,6 +1218,50 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.uscgboating.org/recreational-boaters/life-jacket-wear-wearing-your-life-jacket.php",
       "destinationUrl": "https://www.amazon.com/s?k=floating+telescoping+boat+hook+for+recovery&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-tool-kit-guide.html",
+      "key": "boat-tool-kit-guide.html::compact-water-resistant-marine-tool-bag-with-zippered-compartments",
+      "product": "compact water resistant marine tool bag with zippered compartments",
+      "visibleText": "Compare compact marine tool bags",
+      "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
+      "destinationUrl": "https://www.amazon.com/s?k=compact+water+resistant+marine+tool+bag+with+zippered+compartments&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-tool-kit-guide.html",
+      "key": "boat-tool-kit-guide.html::compact-corrosion-resistant-socket-and-wrench-set-for-boat-tool-kit",
+      "product": "compact corrosion resistant socket and wrench set for boat tool kit",
+      "visibleText": "Compare compact socket sets",
+      "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
+      "destinationUrl": "https://www.amazon.com/s?k=compact+corrosion+resistant+socket+and+wrench+set+for+boat+tool+kit&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-tool-kit-guide.html",
+      "key": "boat-tool-kit-guide.html::corrosion-resistant-marine-pliers-and-line-cutters",
+      "product": "corrosion resistant marine pliers and line cutters",
+      "visibleText": "Compare marine pliers and cutters",
+      "originalUrl": "https://www.uscgboating.org/recreational-boaters/",
+      "destinationUrl": "https://www.amazon.com/s?k=corrosion+resistant+marine+pliers+and+line+cutters&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-tool-kit-guide.html",
+      "key": "boat-tool-kit-guide.html::reusable-waterproof-boat-tool-pouch-with-desiccant-storage",
+      "product": "reusable waterproof boat tool pouch with desiccant storage",
+      "visibleText": "Compare dry tool-storage pouches",
+      "originalUrl": "https://www.mercurymarine.com/sp/en/parts-and-service/maintenance/maintenance-made-easy/whats-in-it-for-you",
+      "destinationUrl": "https://www.amazon.com/s?k=reusable+waterproof+boat+tool+pouch+with+desiccant+storage&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
