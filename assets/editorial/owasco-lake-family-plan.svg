@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Owasco Lake short family boating plan</title>
+  <desc id="desc">A five-step family sequence from Emerson Park launch through a short north-lake loop, early turn, picnic and shore backup.</desc>
+  <rect width="1600" height="900" fill="#edf3ee"/>
+  <rect x="0" y="0" width="1600" height="185" fill="#0b3e4d"/>
+  <text x="100" y="92" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">OWASCO: START AND FINISH AT EMERSON</text>
+  <text x="100" y="143" font-family="Arial, sans-serif" font-size="25" fill="#cbe4df">First-visit sequence · north-lake plan · not a navigation chart</text>
+  <path d="M170 470 C340 335 500 345 660 455 S975 575 1160 440 S1380 365 1450 405" fill="none" stroke="#4a9db3" stroke-width="18" stroke-linecap="round" opacity="0.65"/>
+  <line x1="170" y1="470" x2="1430" y2="470" stroke="#184d57" stroke-width="8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="190" cy="470" r="54" fill="#f26a2c"/><text x="190" y="485" font-size="40" font-weight="800" fill="#fff">1</text><text x="190" y="565" font-size="25" font-weight="800" fill="#0b2530">LAUNCH</text><text x="190" y="599" font-size="19" fill="#345865">Emerson Park</text>
+    <circle cx="490" cy="470" r="54" fill="#28716d"/><text x="490" y="485" font-size="40" font-weight="800" fill="#fff">2</text><text x="490" y="565" font-size="25" font-weight="800" fill="#0b2530">LEARN</text><text x="490" y="599" font-size="19" fill="#345865">short north loop</text>
+    <circle cx="790" cy="470" r="54" fill="#2b7596"/><text x="790" y="485" font-size="40" font-weight="800" fill="#fff">3</text><text x="790" y="565" font-size="25" font-weight="800" fill="#0b2530">TURN</text><text x="790" y="599" font-size="19" fill="#345865">45 minutes or sooner</text>
+    <circle cx="1090" cy="470" r="54" fill="#d29a29"/><text x="1090" y="485" font-size="40" font-weight="800" fill="#fff">4</text><text x="1090" y="565" font-size="25" font-weight="800" fill="#0b2530">RETRIEVE</text><text x="1090" y="599" font-size="19" fill="#345865">before the queue</text>
+    <circle cx="1390" cy="470" r="54" fill="#0b2530"/><text x="1390" y="485" font-size="40" font-weight="800" fill="#fff">5</text><text x="1390" y="565" font-size="25" font-weight="800" fill="#0b2530">RESET</text><text x="1390" y="599" font-size="19" fill="#345865">picnic · playground</text>
+  </g>
+  <line x1="120" y1="690" x2="1480" y2="690" stroke="#9bb7ad" stroke-width="3"/>
+  <text x="800" y="765" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="800" fill="#0b2530">ADD TIME, NOT DISTANCE.</text>
+  <text x="800" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#345865">Check wind, NYHABS, launch operations and actual water before departure.</text>
+</svg>

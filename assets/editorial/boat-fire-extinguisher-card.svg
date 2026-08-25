@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Boat fire extinguisher buying card</title>
+  <desc id="desc">Editorial card showing the sequence boat, rating, access and inspection.</desc>
+  <rect width="1200" height="900" fill="#071f30"/>
+  <text x="80" y="115" font-family="Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff">WHAT COUNTS ABOARD?</text>
+  <text x="80" y="165" font-family="Arial, sans-serif" font-size="24" fill="#b9d7e8">Start with the vessel. Finish with access.</text>
+  <g font-family="Arial, sans-serif" font-weight="800">
+    <rect x="80" y="245" width="240" height="270" rx="20" fill="#e0ecea"/><text x="200" y="340" text-anchor="middle" font-size="26" fill="#28716d">1 · BOAT</text><text x="200" y="405" text-anchor="middle" font-size="22" font-weight="400" fill="#173f4d">year · length</text><text x="200" y="445" text-anchor="middle" font-size="22" font-weight="400" fill="#173f4d">fuel · spaces</text>
+    <rect x="345" y="245" width="240" height="270" rx="20" fill="#d6e4ef"/><text x="465" y="340" text-anchor="middle" font-size="26" fill="#2b7596">2 · RATING</text><text x="465" y="405" text-anchor="middle" font-size="30" fill="#071f30">5-B / 20-B</text><text x="465" y="450" text-anchor="middle" font-size="21" font-weight="400" fill="#173f4d">exact label</text>
+    <rect x="610" y="245" width="240" height="270" rx="20" fill="#f0dfbc"/><text x="730" y="340" text-anchor="middle" font-size="26" fill="#946817">3 · ACCESS</text><text x="730" y="405" text-anchor="middle" font-size="22" font-weight="400" fill="#173f4d">correct bracket</text><text x="730" y="445" text-anchor="middle" font-size="22" font-weight="400" fill="#173f4d">clear path</text>
+    <rect x="875" y="245" width="245" height="270" rx="20" fill="#e7d9d5"/><text x="998" y="340" text-anchor="middle" font-size="26" fill="#8d3b2c">4 · CHECK</text><text x="998" y="405" text-anchor="middle" font-size="22" font-weight="400" fill="#173f4d">date · seal</text><text x="998" y="445" text-anchor="middle" font-size="22" font-weight="400" fill="#173f4d">gauge · damage</text>
+  </g>
+  <text x="600" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="800" fill="#ffffff">APPROVED. ACCESSIBLE. SERVICEABLE.</text>
+  <text x="600" y="722" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#b9d7e8">Not a product photograph. Verify the delivered label.</text>
+  <rect x="80" y="790" width="1040" height="4" fill="#f26a2c"/>
+</svg>

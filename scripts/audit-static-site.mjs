@@ -9,6 +9,8 @@ import { resourceFeatures } from "../content/resource-features.mjs";
 import { publication20260821 } from "../content/publication-2026-08-21.mjs";
 import { publication20260822 } from "../content/publication-2026-08-22.mjs";
 import { publication20260823 } from "../content/publication-2026-08-23.mjs";
+import { publication20260824 } from "../content/publication-2026-08-24.mjs";
+import { publication20260825 } from "../content/publication-2026-08-25.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -60,7 +62,16 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823];
+for (const [date, publication] of [["2026-08-24", publication20260824], ["2026-08-25", publication20260825]]) {
+  if (publication.length !== 2) problems.push(`${date} publication: expected exactly 2 pages; found ${publication.length}`);
+  for (const page of publication) {
+    if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);
+    if (sourceTitles.has(page.title.toLowerCase())) problems.push(`${date} publication: duplicate existing title ${page.title}`);
+    sourceSlugs.add(page.slug);
+    sourceTitles.add(page.title.toLowerCase());
+  }
+}
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -302,6 +313,10 @@ for (const htmlFile of htmlFiles) {
       "oneida-lake-sylvan-beach": "assets/editorial/oneida-lake-sylvan-beach.jpg",
       "visual-distress-signal-decision": "assets/editorial/visual-distress-signal-decision.svg",
       "otisco-lake-family-plan": "assets/editorial/otisco-lake-family-plan.svg",
+      "boat-tool-kit-layout": "assets/editorial/boat-tool-kit-layout.svg",
+      "keuka-lake-family-plan": "assets/editorial/keuka-lake-family-plan.svg",
+      "boat-fire-extinguisher-decision": "assets/editorial/boat-fire-extinguisher-decision.svg",
+      "owasco-lake-family-plan": "assets/editorial/owasco-lake-family-plan.svg",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
@@ -344,6 +359,21 @@ for (const htmlFile of htmlFiles) {
       }
     }
     if (htmlFile === "otisco-lake-family-boating.html" && /data-affiliate-active="true"/.test(html)) {
+      problems.push(`${htmlFile}: destination guide must not contain active affiliate links`);
+    }
+    if (htmlFile === "boat-fire-extinguisher-guide.html") {
+      const activeLinks = (html.match(/data-affiliate-active="true"/g) || []).length;
+      if (activeLinks !== 3) problems.push(`${htmlFile}: expected exactly 3 active affiliate links; found ${activeLinks}`);
+      if (!/As an Amazon Associate/i.test(html)) problems.push(`${htmlFile}: missing Amazon Associate disclosure`);
+      if (/<a\b[^>]*data-commercial-link="true"[^>]*>\s*<img/i.test(html)) problems.push(`${htmlFile}: unverified affiliate product image found`);
+      for (const match of html.matchAll(/<a\b([^>]*data-commercial-link="true"[^>]*)>/gi)) {
+        const rel = match[1].match(/\brel="([^"]*)"/i)?.[1] || "";
+        if (!/\bsponsored\b/i.test(rel) || !/\bnofollow\b/i.test(rel) || !/\bnoopener\b/i.test(rel)) {
+          problems.push(`${htmlFile}: commercial link missing sponsored/nofollow/noopener`);
+        }
+      }
+    }
+    if (htmlFile === "owasco-lake-family-boating.html" && /data-affiliate-active="true"/.test(html)) {
       problems.push(`${htmlFile}: destination guide must not contain active affiliate links`);
     }
   }

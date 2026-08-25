@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Owasco Lake family day discovery card</title>
+  <desc id="desc">Editorial card with five steps: launch, learn, turn, retrieve and shore reset.</desc>
+  <rect width="1200" height="900" fill="#edf3ee"/>
+  <rect x="0" y="0" width="1200" height="190" fill="#0b3e4d"/>
+  <text x="70" y="88" font-family="Arial, sans-serif" font-size="50" font-weight="800" fill="#ffffff">OWASCO: KEEP THE RETURN EASY</text>
+  <text x="70" y="139" font-family="Arial, sans-serif" font-size="23" fill="#cbe4df">Emerson Park is launch, lunch and backup.</text>
+  <line x1="115" y1="455" x2="1085" y2="455" stroke="#184d57" stroke-width="9"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="130" cy="455" r="52" fill="#f26a2c"/><text x="130" y="470" font-size="38" font-weight="800" fill="#fff">1</text><text x="130" y="550" font-size="21" font-weight="800" fill="#0b2530">LAUNCH</text>
+    <circle cx="365" cy="455" r="52" fill="#28716d"/><text x="365" y="470" font-size="38" font-weight="800" fill="#fff">2</text><text x="365" y="550" font-size="21" font-weight="800" fill="#0b2530">LEARN</text>
+    <circle cx="600" cy="455" r="52" fill="#2b7596"/><text x="600" y="470" font-size="38" font-weight="800" fill="#fff">3</text><text x="600" y="550" font-size="21" font-weight="800" fill="#0b2530">TURN</text>
+    <circle cx="835" cy="455" r="52" fill="#d29a29"/><text x="835" y="470" font-size="38" font-weight="800" fill="#fff">4</text><text x="835" y="550" font-size="21" font-weight="800" fill="#0b2530">RETRIEVE</text>
+    <circle cx="1070" cy="455" r="52" fill="#0b2530"/><text x="1070" y="470" font-size="38" font-weight="800" fill="#fff">5</text><text x="1070" y="550" font-size="21" font-weight="800" fill="#0b2530">RESET</text>
+  </g>
+  <text x="600" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="43" font-weight="800" fill="#0b2530">NORTH LAKE. EARLY TURN. SHORE LUNCH.</text>
+  <text x="600" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#345865">Planning diagram · not a route, chart or place photograph</text>
+  <rect x="70" y="810" width="1060" height="4" fill="#f26a2c"/>
+</svg>

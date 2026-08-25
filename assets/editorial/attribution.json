@@ -646,5 +646,53 @@
     "query": "Original Keuka Lake discovery card",
     "width": 1200,
     "height": 900
+  },
+  "boat-fire-extinguisher-decision": {
+    "localPath": "assets/editorial/boat-fire-extinguisher-decision.svg",
+    "title": "Boat fire extinguisher compliance and access decision",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boat fire extinguisher compliance diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-fire-extinguisher-card": {
+    "localPath": "assets/editorial/boat-fire-extinguisher-card.svg",
+    "title": "Boat fire extinguisher buying guide card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boat fire extinguisher discovery card",
+    "width": 1200,
+    "height": 900
+  },
+  "owasco-lake-family-plan": {
+    "localPath": "assets/editorial/owasco-lake-family-plan.svg",
+    "title": "Owasco Lake family boating sequence",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Owasco Lake family planning diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "owasco-lake-family-card": {
+    "localPath": "assets/editorial/owasco-lake-family-card.svg",
+    "title": "Owasco Lake family boating discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Owasco Lake discovery card",
+    "width": 1200,
+    "height": 900
   }
 }
