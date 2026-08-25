@@ -128,12 +128,13 @@ export function renderPage(page) {
   <meta name="twitter:description" content="${esc(page.ogDescription || page.description)}">
   ${hero?.src ? `<meta name="twitter:image" content="https://nauticaldream.com/${esc(hero.src)}">` : ""}
   <link rel="stylesheet" href="styles.css">
+  ${page.hero?.className === "diagram-hero" ? `<style>.article-hero.diagram-hero{background:linear-gradient(90deg,rgba(5,25,39,.9) 0%,rgba(5,25,39,.62) 54%,rgba(5,25,39,.16) 100%),var(--hero) center/cover}</style>` : ""}
   ${schemaMarkup(page, hero)}
 </head>
 <body>
 ${header()}
 <main>
-  <section class="article-hero"${heroStyle}><div class="shell"><div class="eyebrow">${esc(page.eyebrow)}</div><h1>${esc(page.title)}</h1><p>${esc(page.dek)}</p></div></section>
+  <section class="article-hero${page.hero?.className ? ` ${esc(page.hero.className)}` : ""}"${heroStyle}><div class="shell"><div class="eyebrow">${esc(page.eyebrow)}</div><h1>${esc(page.title)}</h1><p>${esc(page.dek)}</p></div></section>
   <section class="section"><article class="shell article">
 ${disclosure}
     <div class="article-meta"><span>By Nautical Dream Editorial Desk</span><span>Updated ${esc(displayDate)}</span><span>${esc(page.readTime || "12 minute read")}</span></div>

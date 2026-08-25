@@ -12,6 +12,7 @@ export const publication20260825 = [
     dek: "Do not shop by red cylinder, star rating or a generic 'marine' keyword. Start with the boat, count what the rule accepts, then make the correct extinguisher reachable.",
     hero: {
       key: "boat-fire-extinguisher-decision",
+      className: "diagram-hero",
       alt: "Boat fire extinguisher decision diagram moving from vessel requirement to approved rating, accessible placement and monthly inspection",
       caption: "Compliance and placement framework—not a product photograph or substitute for the label on the exact extinguisher.",
     },
@@ -92,6 +93,7 @@ export const publication20260825 = [
     dek: "Owasco is easy to reach and easy to overrun. The better first day treats Emerson Park as both launch and destination, with a short north-lake route and a real shore fallback.",
     hero: {
       key: "owasco-lake-family-plan",
+      className: "diagram-hero",
       alt: "Illustrated Owasco Lake family boat sequence showing Emerson Park launch, north-lake loop, early turn, picnic and shore backup",
       caption: "Planning sequence, not a navigation chart or place photograph: confirm current hazards, weather, water quality and launch operations before departure.",
     },
