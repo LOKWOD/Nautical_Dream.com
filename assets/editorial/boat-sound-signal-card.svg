@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Boat horn and sound-signal guide card</title>
+  <desc id="desc">An original editorial card with generic whistle, handheld air horn and electric horn symbols arranged as a primary-and-backup decision, with no branded product depicted.</desc>
+  <rect width="1200" height="900" fill="#061d2a"/>
+  <circle cx="600" cy="395" r="285" fill="#0d536a"/>
+  <circle cx="600" cy="395" r="220" fill="#0a3d50" stroke="#35b8c8" stroke-width="8"/>
+  <g fill="none" stroke="#f8bc4c" stroke-width="18" stroke-linecap="round">
+    <path d="M380 395h120l75-70v140l-75-70H380z" fill="#f8bc4c" stroke="none"/>
+    <path d="M662 328c64 30 64 104 0 134M708 289c112 57 112 155 0 212"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="112" font-size="28" font-weight="700" letter-spacing="7" fill="#aeeaf0">SOUND DEVICE GUIDE</text>
+    <text x="600" y="706" font-size="58" font-weight="800" fill="#fff">PRIMARY + BACKUP</text>
+    <text x="600" y="765" font-size="25" fill="#c9e8ec">Rule · access · endurance · inspection</text>
+  </g>
+</svg>

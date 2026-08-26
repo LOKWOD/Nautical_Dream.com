@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["canandaigua-lake-family-boating.html", "Canandaigua Lake Family Boat Plan"],
     ["owasco-lake-family-boating.html", "Owasco Lake Family Boat Plan"],
     ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"],
     ["otisco-lake-family-boating.html", "Otisco Lake Family Boat Plan"],
@@ -16,6 +17,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-horn-sound-signal-guide.html", "Boat Horn and Sound Signal Guide"],
     ["boat-fire-extinguisher-guide.html", "Boat Fire Extinguisher Guide"],
     ["boat-tool-kit-guide.html", "Boat Tool Kit Guide"],
     ["boat-flares-electronic-distress-signal-guide.html", "Boat Visual Distress Signal Guide"],

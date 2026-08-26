@@ -128,7 +128,7 @@ export function renderPage(page) {
   <meta name="twitter:description" content="${esc(page.ogDescription || page.description)}">
   ${hero?.src ? `<meta name="twitter:image" content="https://nauticaldream.com/${esc(hero.src)}">` : ""}
   <link rel="stylesheet" href="styles.css">
-  ${page.hero?.className === "diagram-hero" ? `<style>.article-hero.diagram-hero{background:linear-gradient(90deg,rgba(5,25,39,.9) 0%,rgba(5,25,39,.62) 54%,rgba(5,25,39,.16) 100%),var(--hero) center/cover}</style>` : ""}
+  ${page.hero?.className === "diagram-hero" ? `<style>.article-hero.diagram-hero{background:linear-gradient(90deg,rgba(5,25,39,.9) 0%,rgba(5,25,39,.62) 54%,rgba(5,25,39,.16) 100%),var(--hero) center/cover}</style>` : "<!-- Standard hero rendering -->"}
   ${schemaMarkup(page, hero)}
 </head>
 <body>

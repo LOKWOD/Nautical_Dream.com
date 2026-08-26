@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Boat sound-signal selection framework</title>
+  <desc id="desc">A conceptual editorial diagram showing vessel rule, primary sound device, independent backup, access and monthly inspection. It compares a whistle, handheld air horn and installed electric horn without depicting a specific product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061925"/><stop offset="1" stop-color="#0b4960"/></linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <path d="M0 745 C300 675 520 825 820 752 S1300 660 1600 760 V900 H0Z" fill="#0e7892" opacity=".32"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#fff">
+    <text x="840" y="118" font-size="34" font-weight="700" letter-spacing="5">RULE → DEVICE → BACKUP</text>
+    <text x="840" y="163" font-size="22" fill="#bceaf2">Select by vessel and use—not a decibel headline.</text>
+  </g>
+  <g transform="translate(790 220)">
+    <rect width="700" height="470" rx="34" fill="#f7fbfc"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="45" y="42" width="610" height="82" rx="18" fill="#e8f5f7"/>
+      <text x="76" y="79" font-size="20" font-weight="700" fill="#0b4054">1 · VERIFY THE RULE</text>
+      <text x="76" y="108" font-size="18" fill="#46636d">Under 12 m · 12 m+ · operating waters</text>
+      <g transform="translate(45 157)">
+        <rect width="180" height="190" rx="22" fill="#fff" stroke="#c6dce1" stroke-width="3"/>
+        <circle cx="84" cy="70" r="30" fill="#f8bc4c"/>
+        <path d="M84 57h45v26H96M52 87l19-18 24 24-18 19z" fill="#0b4054" stroke="#0b4054" stroke-width="5" stroke-linejoin="round"/>
+        <text x="90" y="139" text-anchor="middle" font-size="19" font-weight="700" fill="#0b4054">WHISTLE</text>
+        <text x="90" y="166" text-anchor="middle" font-size="15" fill="#5d747c">manual backup</text>
+      </g>
+      <g transform="translate(260 157)">
+        <rect width="180" height="190" rx="22" fill="#fff" stroke="#c6dce1" stroke-width="3"/>
+        <path d="M49 78h63l31-26v70l-31-26H49z" fill="#f78b5e"/>
+        <rect x="48" y="121" width="61" height="28" rx="9" fill="#0b4054"/>
+        <text x="90" y="139" text-anchor="middle" font-size="19" font-weight="700" fill="#fff">AIR</text>
+        <text x="90" y="166" text-anchor="middle" font-size="15" fill="#5d747c">finite canister</text>
+      </g>
+      <g transform="translate(475 157)">
+        <rect width="180" height="190" rx="22" fill="#fff" stroke="#c6dce1" stroke-width="3"/>
+        <path d="M45 64h65l30-26v72l-30-24H45z" fill="#19a7b8"/>
+        <text x="90" y="139" text-anchor="middle" font-size="19" font-weight="700" fill="#0b4054">12 V</text>
+        <text x="90" y="166" text-anchor="middle" font-size="15" fill="#5d747c">installed primary</text>
+      </g>
+      <rect x="45" y="380" width="610" height="52" rx="14" fill="#0b4054"/>
+      <text x="350" y="413" text-anchor="middle" font-size="19" font-weight="700" fill="#fff">REACHABLE · REPEATABLE · INDEPENDENT BACKUP</text>
+    </g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#d9f5f8">
+    <text x="84" y="783" font-size="20" letter-spacing="2">CONCEPTUAL EDITORIAL DIAGRAM · NOT A PRODUCT PHOTO</text>
+  </g>
+</svg>

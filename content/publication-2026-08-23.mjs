@@ -97,9 +97,9 @@ export const publication20260823 = [
         ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"],
       ],
       guides: [
+        ["boat-horn-sound-signal-guide.html", "Boat Horn and Sound Signal Guide"],
         ["boat-throwable-flotation-device-guide.html", "Throwable Flotation Device Guide"],
         ["choosing-vhf-radio.html", "Choosing a VHF Radio"],
-        ["best-life-jackets.html", "Best Life Jackets for Boating"],
       ],
     },
   },

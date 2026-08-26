@@ -694,5 +694,53 @@
     "query": "Original Owasco Lake discovery card",
     "width": 1200,
     "height": 900
+  },
+  "boat-sound-signal-decision": {
+    "localPath": "assets/editorial/boat-sound-signal-decision.svg",
+    "title": "Boat sound-signal selection framework",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original whistle, air horn and electric horn decision diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-sound-signal-card": {
+    "localPath": "assets/editorial/boat-sound-signal-card.svg",
+    "title": "Boat horn and sound-signal guide card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boat sound-device discovery card",
+    "width": 1200,
+    "height": 900
+  },
+  "canandaigua-lake-family-plan": {
+    "localPath": "assets/editorial/canandaigua-lake-family-plan.svg",
+    "title": "Canandaigua Lake north-end family boating plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Canandaigua Lake family planning sequence",
+    "width": 1600,
+    "height": 900
+  },
+  "canandaigua-lake-family-card": {
+    "localPath": "assets/editorial/canandaigua-lake-family-card.svg",
+    "title": "Canandaigua Lake family boating discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Canandaigua Lake family discovery card",
+    "width": 1200,
+    "height": 900
   }
 }

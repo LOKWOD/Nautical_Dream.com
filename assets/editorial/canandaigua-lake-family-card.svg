@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Canandaigua Lake family boating discovery card</title>
+  <desc id="desc">An original conceptual card showing a small family boat making a short loop near the north end before returning to a marked launch. It is not a map or place photograph.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#072739"/><stop offset="1" stop-color="#0b7891"/></linearGradient></defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 610c210-74 384 91 603 16s365-30 597 24v250H0z" fill="#20adc0" opacity=".38"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="105" font-size="27" font-weight="700" letter-spacing="7" fill="#bdeef2">CANANDAIGUA LAKE</text>
+    <text x="600" y="165" font-size="55" font-weight="800" fill="#fff">KEEP THE RETURN SHORT</text>
+  </g>
+  <g transform="translate(225 285)">
+    <path d="M0 214h750" stroke="#b9edf1" stroke-width="8" stroke-dasharray="13 18" opacity=".75"/>
+    <path d="M48 168h188l-36 72H88z" fill="#f8bc4c"/>
+    <path d="M100 168v-73h69l42 73" fill="#f7fbfc" stroke="#0a4356" stroke-width="8"/>
+    <circle cx="125" cy="127" r="18" fill="#f78b5e"/>
+    <circle cx="170" cy="127" r="18" fill="#19a7b8"/>
+    <path d="M270 214c125-145 278-145 400 0" fill="none" stroke="#fff" stroke-width="8" stroke-dasharray="18 16"/>
+    <path d="M650 190l20 24-31 5" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M702 151v86M671 179l31-29 31 29" stroke="#f78b5e" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <text x="702" y="276" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="21" font-weight="700" fill="#fff">LAUNCH</text>
+  </g>
+  <text x="600" y="779" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="23" fill="#d5f4f6">North-end loop · early turn · shore reset</text>
+  <text x="600" y="821" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="17" letter-spacing="3" fill="#a9dfe4">CONCEPTUAL PLAN · NOT A NAVIGATION CHART</text>
+</svg>

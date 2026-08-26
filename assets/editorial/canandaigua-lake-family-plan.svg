@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Canandaigua Lake north-end family boating plan</title>
+  <desc id="desc">A conceptual sequence showing the state marine park launch, a short north-end loop, an early turnaround and a waterfront shore backup. It is explicitly not a navigation chart.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#082638"/><stop offset="1" stop-color="#0a5871"/></linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <path d="M0 688C240 620 410 765 650 699s400-74 624-10 244 52 326 22v189H0z" fill="#19a9bd" opacity=".28"/>
+  <g transform="translate(795 95)">
+    <rect width="700" height="665" rx="36" fill="#f7fbfc"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="350" y="64" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="4" fill="#0a4860">CANANDAIGUA · NORTH END</text>
+      <text x="350" y="100" text-anchor="middle" font-size="17" fill="#58727b">Family sequence · not a navigation chart</text>
+      <path d="M350 150c-84 35-110 118-83 192 19 52 21 101-8 161-21 44 6 85 91 112 85-27 112-68 91-112-29-60-27-109-8-161 27-74 1-157-83-192z" fill="#31a7bd" opacity=".9"/>
+      <g fill="#fff" stroke="#0a4860" stroke-width="5">
+        <circle cx="350" cy="181" r="35"/>
+        <circle cx="310" cy="313" r="35"/>
+        <circle cx="402" cy="405" r="35"/>
+        <circle cx="350" cy="574" r="35"/>
+      </g>
+      <g font-size="24" font-weight="800" fill="#0a4860" text-anchor="middle">
+        <text x="350" y="190">1</text><text x="310" y="322">2</text><text x="402" y="414">3</text><text x="350" y="583">4</text>
+      </g>
+      <g font-size="19" font-weight="700" fill="#0a4860">
+        <text x="74" y="187">STATE MARINE PARK</text>
+        <text x="490" y="319">SHORT NORTH LOOP</text>
+        <text x="78" y="411">EARLY TURN</text>
+        <text x="474" y="581">SHORE BACKUP</text>
+      </g>
+        <path d="M168 211h143M389 315h94M275 405h87M389 573h78" stroke="#9ebec5" stroke-width="4"/>
+    </g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#d7f5f7">
+    <text x="80" y="790" font-size="20" letter-spacing="2">CHECK WEATHER · NYHABS · LAUNCH STATUS · CURRENT NAVIGATION</text>
+  </g>
+</svg>

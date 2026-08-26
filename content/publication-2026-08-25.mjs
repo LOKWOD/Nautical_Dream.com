@@ -78,7 +78,7 @@ export const publication20260825 = [
     ],
     related: {
       journal: [["boat-fire-response.html", "Boat Fire Prevention and Response"], ["predeparture-safety-checklist.html", "Predeparture Safety Checklist"], ["boat-records-and-logbook.html", "Boat Records and Logbook"]],
-      destinations: [["owasco-lake-family-boating.html", "Owasco Lake Family Boat Plan"], ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"], ["oneida-lake-family-boating.html", "Oneida Lake Family Boat Plan"]],
+      destinations: [["canandaigua-lake-family-boating.html", "Canandaigua Lake Family Boat Plan"], ["owasco-lake-family-boating.html", "Owasco Lake Family Boat Plan"], ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"]],
       guides: [["boat-ventilation-guide.html", "Boat Ventilation Guide"], ["boat-tool-kit-guide.html", "Boat Tool Kit Guide"], ["marine-first-aid-planning.html", "Marine First-Aid Planning"]],
     },
   },
@@ -163,8 +163,8 @@ export const publication20260825 = [
     ],
     related: {
       journal: [["first-boat-trip-with-kids.html", "The First Boat Trip With Kids"], ["family-boating-weather-plan.html", "Family Boating Weather Plan"], ["boat-ramp-launch-checklist.html", "Boat Ramp Launch Checklist"]],
-      destinations: [["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"], ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"], ["otisco-lake-family-boating.html", "Otisco Lake Family Boat Plan"]],
-      guides: [["boat-fire-extinguisher-guide.html", "Boat Fire Extinguisher Guide"], ["life-jackets-for-kids-guide.html", "Life Jackets for Kids"], ["family-boat-packing-list.html", "Family Boat Packing List"]],
+      destinations: [["canandaigua-lake-family-boating.html", "Canandaigua Lake Family Boat Plan"], ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"], ["skaneateles-lake-family-boating.html", "Skaneateles Lake Family Boat Plan"]],
+      guides: [["boat-fire-extinguisher-guide.html", "Boat Fire Extinguisher Guide"], ["boat-horn-sound-signal-guide.html", "Boat Horn and Sound Signal Guide"], ["family-boat-packing-list.html", "Family Boat Packing List"]],
     },
   },
 ];
