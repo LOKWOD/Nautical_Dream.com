@@ -30,6 +30,7 @@ jobs:
           node scripts/build-publication-2026-08-24.mjs
           node scripts/build-publication-2026-08-25.mjs
           node scripts/build-publication-2026-08-26.mjs
+          node scripts/build-publication-2026-08-27.mjs
           node scripts/build-image-credits.mjs
           node scripts/inject-affiliate-links.mjs .
       - name: Validate the published static site

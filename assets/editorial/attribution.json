@@ -742,5 +742,53 @@
     "query": "Original Canandaigua Lake family discovery card",
     "width": 1200,
     "height": 900
+  },
+  "boat-navigation-light-decision": {
+    "localPath": "assets/editorial/boat-navigation-light-decision.svg",
+    "title": "Boat navigation light selection framework",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original portable and hardwired navigation-light decision diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-navigation-light-card": {
+    "localPath": "assets/editorial/boat-navigation-light-card.svg",
+    "title": "Boat navigation light guide card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boat navigation-light discovery card",
+    "width": 1200,
+    "height": 900
+  },
+  "blenheim-gilboa-family-plan": {
+    "localPath": "assets/editorial/blenheim-gilboa-family-plan.svg",
+    "title": "Blenheim-Gilboa Lower Reservoir mandatory-wash family plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Mine Kill State Park wash, sign-in, short-loop and recovery sequence",
+    "width": 1600,
+    "height": 900
+  },
+  "blenheim-gilboa-family-card": {
+    "localPath": "assets/editorial/blenheim-gilboa-family-card.svg",
+    "title": "Blenheim-Gilboa Lower Reservoir family boating card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original lower-reservoir wash and short-loop discovery card",
+    "width": 1200,
+    "height": 900
   }
 }

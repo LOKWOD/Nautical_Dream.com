@@ -178,7 +178,7 @@ export const publication20260826 = [
     related: {
       journal: [["family-boating-weather-plan.html", "Family Boating Weather Plan"], ["first-boat-trip-with-kids.html", "First Boat Trip With Kids"], ["boat-ramp-launch-checklist.html", "Boat Ramp Launch Checklist"]],
       destinations: [["finger-lakes-guide.html", "Finger Lakes Weekend Guide"], ["owasco-lake-family-boating.html", "Owasco Lake Family Boat Plan"], ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"]],
-      guides: [["boat-horn-sound-signal-guide.html", "Boat Horn and Sound Signal Guide"], ["family-boat-packing-list.html", "Family Boat Packing List"], ["life-jackets-for-kids-guide.html", "Life Jackets for Kids"]],
+      guides: [["boat-navigation-lights-buying-guide.html", "Boat Navigation Lights Buying Guide"], ["family-boat-packing-list.html", "Family Boat Packing List"], ["life-jackets-for-kids-guide.html", "Life Jackets for Kids"]],
     },
   },
 ];

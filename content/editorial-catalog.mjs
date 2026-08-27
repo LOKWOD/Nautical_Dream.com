@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["blenheim-gilboa-lower-reservoir-family-boating.html", "Blenheim-Gilboa Lower Reservoir Family Boat Plan"],
     ["canandaigua-lake-family-boating.html", "Canandaigua Lake Family Boat Plan"],
     ["owasco-lake-family-boating.html", "Owasco Lake Family Boat Plan"],
     ["keuka-lake-family-boating.html", "Keuka Lake Family Boat Plan"],
@@ -17,6 +18,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-navigation-lights-buying-guide.html", "Boat Navigation Lights Buying Guide"],
     ["boat-horn-sound-signal-guide.html", "Boat Horn and Sound Signal Guide"],
     ["boat-fire-extinguisher-guide.html", "Boat Fire Extinguisher Guide"],
     ["boat-tool-kit-guide.html", "Boat Tool Kit Guide"],

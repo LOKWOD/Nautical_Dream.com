@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Boat navigation light selection framework</title>
+  <desc id="desc">A dark-blue technical illustration of a small powerboat with red and green sidelights, an all-round white light, visibility arcs, and a portable versus hardwired comparison.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#041723"/><stop offset="1" stop-color="#0b4354"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="15"/></filter></defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <path d="M0 650 Q220 615 420 650 T820 650 T1220 650 T1600 650 V900 H0Z" fill="#0c5a70" opacity=".65"/>
+  <g fill="none" stroke="#d8edf0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M790 250Q965 365 995 610L900 680H680L585 610Q615 365 790 250Z" fill="#e8f2f0" stroke="#e8f2f0"/>
+    <path d="M790 285V650M690 445H890" stroke="#0b4354" opacity=".45"/>
+  </g>
+  <g filter="url(#glow)" opacity=".8"><circle cx="650" cy="430" r="55" fill="#e04745"/><circle cx="930" cy="430" r="55" fill="#46cf93"/><circle cx="790" cy="600" r="60" fill="#fff6c7"/></g>
+  <circle cx="650" cy="430" r="16" fill="#ef4e4a"/><circle cx="930" cy="430" r="16" fill="#55dfa2"/><circle cx="790" cy="600" r="17" fill="#fff9d9"/>
+  <g fill="none" stroke-width="5" stroke-dasharray="13 12" opacity=".85"><path d="M650 430Q400 175 205 360" stroke="#ef4e4a"/><path d="M930 430q250-255 445-70" stroke="#55dfa2"/><circle cx="790" cy="600" r="175" stroke="#fff9d9"/></g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700"><text x="590" y="420" fill="#ef7773">PORT</text><text x="950" y="420" fill="#75e7b6">STARBOARD</text><text x="805" y="630" fill="#615e4c">ALL-ROUND WHITE</text></g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#f4faf8"><text x="92" y="105" font-size="34" font-weight="700" letter-spacing="4">READ THE PATTERN BEFORE THE PACKAGE</text><text x="92" y="152" font-size="24" fill="#b9d6da">Powerboat under 12 m · common arrangement shown · current rules control</text></g>
+  <g font-family="Arial,Helvetica,sans-serif" font-weight="700" text-anchor="middle"><rect x="145" y="745" width="390" height="105" rx="18" fill="#062b3c" stroke="#56c1cf" stroke-width="3"/><text x="340" y="790" font-size="25" fill="#fff">PORTABLE</text><text x="340" y="825" font-size="18" fill="#b8dce0">mount · batteries · obstruction</text><rect x="605" y="745" width="390" height="105" rx="18" fill="#062b3c" stroke="#56c1cf" stroke-width="3"/><text x="800" y="790" font-size="25" fill="#fff">HARDWIRED</text><text x="800" y="825" font-size="18" fill="#b8dce0">circuit · placement · service</text><rect x="1065" y="745" width="390" height="105" rx="18" fill="#062b3c" stroke="#e5bd5c" stroke-width="3"/><text x="1260" y="790" font-size="25" fill="#fff">VERIFY</text><text x="1260" y="825" font-size="18" fill="#eadcae">certification · arcs · ranges</text></g>
+</svg>
