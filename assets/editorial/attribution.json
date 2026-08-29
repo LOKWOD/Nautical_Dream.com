@@ -779,6 +779,54 @@
     "width": 1600,
     "height": 900
   },
+  "boat-boarding-ladder-decision": {
+    "localPath": "assets/editorial/boat-boarding-ladder-decision.svg",
+    "title": "Boat boarding ladder selection framework",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original transom, platform, gunwale and portable boat-ladder decision diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-boarding-ladder-card": {
+    "localPath": "assets/editorial/boat-boarding-ladder-card.svg",
+    "title": "Boat boarding ladder discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original boarding ladder and propulsion keep-clear discovery card",
+    "width": 1200,
+    "height": 900
+  },
+  "chautauqua-long-point-family-plan": {
+    "localPath": "assets/editorial/chautauqua-long-point-family-plan.svg",
+    "title": "Chautauqua Lake Long Point family boating plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Long Point north-basin shakedown, turn and return planning diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "chautauqua-long-point-family-card": {
+    "localPath": "assets/editorial/chautauqua-long-point-family-card.svg",
+    "title": "Chautauqua Lake Long Point discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Long Point one-loop family discovery card",
+    "width": 1200,
+    "height": 900
+  },
   "blenheim-gilboa-family-card": {
     "localPath": "assets/editorial/blenheim-gilboa-family-card.svg",
     "title": "Blenheim-Gilboa Lower Reservoir family boating card",
