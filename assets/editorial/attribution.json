@@ -910,5 +910,77 @@
     "query": "Original marine CO alarm and source-control card",
     "width": 1200,
     "height": 900
+  },
+  "anchor-rode-photo-hero": {
+    "localPath": "assets/editorial/anchor-rode-photo-hero.webp",
+    "title": "Anchor rode system in a powerboat bow locker",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Photorealistic powerboat anchor locker with nylon rode, galvanized chain, windlass, bow roller and anchor",
+    "width": 1600,
+    "height": 900
+  },
+  "anchor-rode-photo-card": {
+    "localPath": "assets/editorial/anchor-rode-photo-card.webp",
+    "title": "Anchor rode system discovery card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Cropped powerboat anchor locker with nylon rode, galvanized chain, windlass, bow roller and anchor",
+    "width": 1200,
+    "height": 900
+  },
+  "fair-haven-harbor-hero": {
+    "localPath": "assets/editorial/fair-haven-harbor-hero.webp",
+    "title": "Little Sodus Harbor entrance at Fair Haven",
+    "creator": "Jess Levenson, U.S. Army Corps of Engineers Buffalo District",
+    "license": "Public domain",
+    "licenseUrl": "https://www.dvidshub.net/about/copyright",
+    "sourceUrl": "https://www.dvidshub.net/image/6320062/little-sodus-harbor-west-pier-stabilization-project",
+    "originalUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2008/6320062/2000w_q95.jpg",
+    "query": "Little Sodus Bay and west pier, Fair Haven, New York, June 16 2020",
+    "width": 1600,
+    "height": 900
+  },
+  "fair-haven-harbor-card": {
+    "localPath": "assets/editorial/fair-haven-harbor-card.webp",
+    "title": "Little Sodus Harbor Fair Haven discovery card",
+    "creator": "Jess Levenson, U.S. Army Corps of Engineers Buffalo District",
+    "license": "Public domain",
+    "licenseUrl": "https://www.dvidshub.net/about/copyright",
+    "sourceUrl": "https://www.dvidshub.net/image/6320062/little-sodus-harbor-west-pier-stabilization-project",
+    "originalUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2008/6320062/2000w_q95.jpg",
+    "query": "Cropped Little Sodus Bay and west pier, Fair Haven, New York, June 16 2020",
+    "width": 1200,
+    "height": 900
+  },
+  "marine-co-alarm-photo-hero": {
+    "localPath": "assets/editorial/marine-co-alarm-photo-hero.webp",
+    "title": "Testing a marine carbon monoxide alarm in a cruiser cabin",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Photorealistic boat owner testing an unbranded marine carbon monoxide alarm inside a ventilated cruiser cabin",
+    "width": 1600,
+    "height": 900
+  },
+  "marine-co-alarm-photo-card": {
+    "localPath": "assets/editorial/marine-co-alarm-photo-card.webp",
+    "title": "Marine carbon monoxide alarm discovery card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Cropped boat owner testing an unbranded marine carbon monoxide alarm inside a cruiser cabin",
+    "width": 1200,
+    "height": 900
   }
 }

@@ -327,9 +327,9 @@ for (const htmlFile of htmlFiles) {
       "blenheim-gilboa-family-plan": "assets/editorial/blenheim-gilboa-family-plan.svg",
       "boat-boarding-ladder-decision": "assets/editorial/boat-boarding-ladder-decision.svg",
       "chautauqua-long-point-family-plan": "assets/editorial/chautauqua-long-point-family-plan.svg",
-      "anchor-rode-system": "assets/editorial/anchor-rode-system.svg",
-      "fair-haven-family-plan": "assets/editorial/fair-haven-family-plan.svg",
-      "marine-co-defense": "assets/editorial/marine-co-defense.svg",
+      "anchor-rode-photo-hero": "assets/editorial/anchor-rode-photo-hero.webp",
+      "fair-haven-harbor-hero": "assets/editorial/fair-haven-harbor-hero.webp",
+      "marine-co-alarm-photo-hero": "assets/editorial/marine-co-alarm-photo-hero.webp",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);

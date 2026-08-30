@@ -5,9 +5,9 @@ import { publication20260830 } from "../content/publication-2026-08-30.mjs";
 const root = process.cwd();
 const errors = [];
 const expected = {
-  "boat-anchor-rode-buying-guide.html": { affiliate: 3, hub: "gear.html", card: "assets/editorial/anchor-rode-card.svg" },
-  "fair-haven-little-sodus-bay-family-boating.html": { affiliate: 0, hub: "destinations.html", card: "assets/editorial/fair-haven-family-card.svg" },
-  "marine-carbon-monoxide-alarm-guide.html": { affiliate: 3, hub: "gear.html", card: "assets/editorial/marine-co-card.svg" },
+  "boat-anchor-rode-buying-guide.html": { affiliate: 3, hub: "gear.html", card: "assets/editorial/anchor-rode-photo-card.webp" },
+  "fair-haven-little-sodus-bay-family-boating.html": { affiliate: 0, hub: "destinations.html", card: "assets/editorial/fair-haven-harbor-card.webp" },
+  "marine-carbon-monoxide-alarm-guide.html": { affiliate: 3, hub: "gear.html", card: "assets/editorial/marine-co-alarm-photo-card.webp" },
 };
 if (publication20260830.length !== 3) errors.push(`expected exactly 3 source pages, found ${publication20260830.length}`);
 const titles = new Set();
@@ -32,10 +32,15 @@ for (const page of publication20260830) {
   if (!hub.includes(page.slug) || !hub.includes(expected[page.slug].card)) errors.push(`${page.slug}: missing hub/card discovery`);
 }
 const attribution = JSON.parse(readFileSync(join(root, "assets/editorial/attribution.json"), "utf8"));
-for (const key of ["anchor-rode-system", "anchor-rode-card", "fair-haven-family-plan", "fair-haven-family-card", "marine-co-defense", "marine-co-card"]) {
+const illustrations = ["anchor-rode-system", "anchor-rode-card", "fair-haven-family-plan", "fair-haven-family-card", "marine-co-defense", "marine-co-card"];
+const generatedPhotos = ["anchor-rode-photo-hero", "anchor-rode-photo-card", "marine-co-alarm-photo-hero", "marine-co-alarm-photo-card"];
+const publicDomainPhotos = ["fair-haven-harbor-hero", "fair-haven-harbor-card"];
+for (const key of [...illustrations, ...generatedPhotos, ...publicDomainPhotos]) {
   const record = attribution[key];
   if (!record || !existsSync(join(root, record.localPath))) errors.push(`missing credited visual ${key}`);
-  if (record?.license !== "Original editorial illustration") errors.push(`${key}: unexpected license record`);
+  if (illustrations.includes(key) && record?.license !== "Original editorial illustration") errors.push(`${key}: unexpected illustration license record`);
+  if (generatedPhotos.includes(key) && record?.license !== "Original AI-assisted editorial image") errors.push(`${key}: unexpected generated-photo license record`);
+  if (publicDomainPhotos.includes(key) && (record?.license !== "Public domain" || !record?.sourceUrl?.includes("dvidshub.net/image/6320062"))) errors.push(`${key}: unexpected public-domain source record`);
 }
 const sitemap = readFileSync(join(root, "sitemap.xml"), "utf8");
 for (const slug of slugs) {
@@ -50,4 +55,4 @@ if (errors.length) {
   for (const error of errors) console.error(`- ${error}`);
   process.exit(1);
 }
-console.log("Daily 2026-08-30 audit passed: 3 substantial pages, 6 credited editorial visuals, 6 disclosed affiliate links, and complete discovery.");
+console.log("Daily 2026-08-30 audit passed: 3 substantial pages, 6 photographic discovery assets, 6 in-article diagrams, 6 disclosed affiliate links, and complete discovery.");
