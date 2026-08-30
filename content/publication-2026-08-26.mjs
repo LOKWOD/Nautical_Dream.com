@@ -11,10 +11,9 @@ export const publication20260826 = [
     eyebrow: "Rule-first safety gear",
     dek: "A horn is not décor and a whistle is not automatically a legal answer. Start with vessel length and operating rules, then buy the simplest device the crew can reach, sound and maintain.",
     hero: {
-      key: "boat-sound-signal-decision",
-      className: "diagram-hero",
-      alt: "Boat sound-signal decision diagram comparing a pealess whistle, handheld air horn and installed electric horn by vessel length, power and backup",
-      caption: "Selection framework, not a product photograph: verify the exact appliance, vessel length, operating rules and installation before relying on it.",
+      key: "boat-sound-signal-photo-hero",
+      alt: "Boat operator pressing the helm horn button with a handheld air horn and whistle stored within reach",
+      caption: "Primary and backup sound devices should be reachable, understood and matched to the vessel and current navigation rules.",
     },
     datePublished: "2026-08-26",
     dateModified: "2026-08-26",
@@ -30,6 +29,7 @@ export const publication20260826 = [
     ],
     lede: "A sound device has two jobs that marketplace listings routinely blur: it has to satisfy the rule that applies to the vessel, and it has to work when the operator needs to communicate. A tiny plastic whistle, a disposable canister and a hardwired horn can all be useful. They are not interchangeable simply because each makes noise. The right system begins with length and operating context, then adds reach, audibility, endurance, installation and a backup that does not share the same failure mode.",
     sections: [
+      { heading: "Choose the system, not the loudest object", body: `<p>The framework below compares whistle, air-horn and installed-horn roles by vessel length, access, power and backup. It is a selection aid, not a product endorsement; verify the current rule and the exact appliance before relying on it.</p>`, image: { key: "boat-sound-signal-decision", alt: "Boat sound-signal framework comparing a pealess whistle, handheld air horn and installed electric horn", caption: "A reachable primary plus an independent backup is more useful than one impressive but inaccessible device." } },
       {
         heading: "Start with Rule 33, not a decibel headline",
         body: `<p>The Coast Guard's current amalgamated Navigation Rules define a whistle as a sound-signaling appliance capable of the prescribed blasts and compliant with Annex III. Rule 33 requires a whistle on vessels 12 meters or longer. At 20 meters or longer, a bell is also required, and larger vessels have additional requirements. A vessel under 12 meters is not obliged to carry the appliances in Rule 33(a), but if it does not, it must have some other means of making an efficient signal.</p><p>That last sentence is not permission to carry any object that squeaks. “Efficient” depends on the actual boat and conditions. A device should be operable from the normal control position, audible over the engine and wind, and capable of the duration the rule calls for. State or local equipment requirements may add another layer. Confirm the current <a href="https://www.navcen.uscg.gov/navigation-rules-amalgamated" target="_blank" rel="noopener">Navigation Rules</a> and the rules for the water where the boat operates.</p><p>Do not infer compliance from “marine,” a review count or a sound-pressure number measured under undisclosed conditions. For a vessel that must carry a Rule 33 whistle, verify the manufacturer's declaration, technical documentation and installation instructions for the exact delivered device. When the answer is unclear, use a vessel-safety examiner or qualified marine technician before departure.</p>`,
@@ -100,10 +100,9 @@ export const publication20260826 = [
     eyebrow: "Finger Lakes family boat plan",
     dek: "Canandaigua rewards restraint. Launch from the official state marine park, learn the north end first and return before a long lake turns one optional mile into a tired ride home.",
     hero: {
-      key: "canandaigua-lake-family-plan",
-      className: "diagram-hero",
-      alt: "Illustrated Canandaigua Lake family boat sequence showing the state marine park launch, a short north-end loop, an early turn and a shore backup",
-      caption: "Planning sequence, not a navigation chart or place photograph: verify current hazards, weather, water quality and launch operations before departure.",
+      key: "canandaigua-lake-kershaw-hero",
+      alt: "Canandaigua Lake viewed from Kershaw Park at the north end of the lake",
+      caption: "The north end of Canandaigua Lake from Kershaw Park. Launch status, hazards and operating conditions still require same-day checks.",
     },
     datePublished: "2026-08-26",
     dateModified: "2026-08-26",
@@ -118,6 +117,7 @@ export const publication20260826 = [
     ],
     lede: "Canandaigua Lake gives a trailer crew something valuable: a state-operated launch at the north end and a city waterfront that can salvage the day if the boat stays on the trailer. It also tempts a family to turn a first visit into a long southbound run. The useful plan does the opposite. Launch early, prove the boat and crew close to the known ramp, treat every dock or swim as a separate verified decision, and return while an easy recovery is still available.",
     sections: [
+      { heading: "The north-end plan at a glance", body: `<p>The visual below is a timing and logistics sequence: use the state marine park, learn the north end, make one early turn and keep Kershaw Park as the shore backup. It is not a navigation chart; verify current hazards, weather, water quality and launch operations separately.</p>`, image: { key: "canandaigua-lake-family-plan", alt: "Canandaigua Lake family boat sequence showing the state marine park launch, a short north-end loop, early turn and shore backup", caption: "Keep the first route reversible and the shore backup separate from assumed boat access." } },
       {
         heading: "Use the state marine park as the only assumed launch",
         body: `<p>New York State Parks lists Canandaigua Lake State Marine Park at 620 South Main Street in Canandaigua. The official page describes it as a boat-launch and fishing-access facility and lists the launch open year-round. For 2026, the page publishes a $7 vehicle fee collected from 4 a.m. to 6 p.m. on weekends and holidays May 9 through June 7, daily June 13 through September 2, and weekends and holidays September 5 through October 12.</p><p>Those are fee-collection windows, not a promise that every dock, restroom or staff service is available at every hour. The page does not publish a day-use reservation requirement. Fees, water level, dock position, staffing and construction can change. Check the <a href="https://parks.ny.gov/visit/state-parks/canandaigua-lake-state-marine-park" target="_blank" rel="noopener">official park page</a> and call 585-394-9420 when any facility detail controls the day.</p><p>Rig in the staging area, not on the ramp. Fit children's life jackets before anyone reaches the dock, assign one adult to passengers and use the <a href="boat-ramp-launch-checklist.html">launch checklist</a> before entering the lane. Do not improvise trailer parking at the city waterfront.</p>`,

@@ -3,8 +3,6 @@ import { resolve } from "node:path";
 
 const root = resolve(process.argv[2] || ".");
 const swaps = [
-  ["best-chartplotters.html", "assets/chartplotter.svg", "assets/editorial/chartplotter-layout.svg", "Illustrated marine chartplotter layout showing chart and sonar panes"],
-  ["chartplotter-needs.html", "assets/chartplotter.svg", "assets/editorial/chartplotter-layout.svg", "Illustrated helm layout for evaluating chartplotter visibility and controls"],
   ["best-life-jackets.html", "assets/editorial/gear-child-pfd.jpg", "assets/editorial/pfd-fit.svg", "Illustrated personal flotation device fit points for shoulders, chest and waist"],
   ["best-life-jackets.html", "assets/editorial/gear-inflatable-pfd.jpg", "assets/editorial/pfd-inflatable.svg", "Illustrated slim inflatable personal flotation device for adult boating"],
   ["dock-box-essentials.html", "assets/editorial/journal-fenders.jpg", "assets/editorial/dock-gear-layout.svg", "Illustrated dock gear layout with fender, line, boat hook and storage box"],

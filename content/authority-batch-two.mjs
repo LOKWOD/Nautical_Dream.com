@@ -1,7 +1,7 @@
 const hub = (slug, title, label, kind, image, intro, articles) => ({ slug, title, label, kind, image, intro, articles });
 
 export const authorityHubsTwo = [
-  hub("fishing-electronics.html", "Fishing Electronics", "Fishing Electronics", "gear", "assets/editorial/gear-navigation.jpg", "Build a useful fishing-electronics system by matching sonar, mapping, transducers, power and installation to the water and species you actually fish.", [
+  hub("fishing-electronics.html", "Fishing Electronics", "Fishing Electronics", "gear", "assets/chartplotter.svg", "Build a useful fishing-electronics system by matching sonar, mapping, transducers, power and installation to the water and species you actually fish.", [
     ["fish-finder-buying-guide.html", "Fish Finder Buying Guide", "Compare sonar types, screen sizes, mapping and transducers without paying for features your fishing will not use."],
     ["side-imaging-sonar-explained.html", "Side-Imaging Sonar Explained", "Understand range, boat speed, image interpretation and installation details that determine useful side imaging."],
     ["down-imaging-vs-traditional-sonar.html", "Down Imaging vs. Traditional Sonar", "Learn what each sonar view reveals and why capable anglers use them together rather than choosing by screenshots."],
@@ -25,13 +25,13 @@ export const authorityHubsTwo = [
     ["premium-marina-services.html", "Premium Marina Services Explained", "Evaluate concierge support, power, security, provisioning and storm planning beyond the glossy amenities list."],
     ["luxury-boat-ownership-costs.html", "Luxury Boat Ownership Costs", "Budget for dockage, detailing, systems, professional service and depreciation at the premium end."],
   ]),
-  hub("center-console-boats.html", "Center Console Boats", "Center Consoles", "boat-type", "assets/editorial/winnipesaukee-cruise.jpg", "Choose a center console around sea conditions, family use, fishing layout, range and protection rather than horsepower and rod holders alone.", [
+  hub("center-console-boats.html", "Center Console Boats", "Center Consoles", "boat-type", "assets/editorial/center-console-underway-photo-hero.webp", "Choose a center console around sea conditions, family use, fishing layout, range and protection rather than horsepower and rod holders alone.", [
     ["center-console-buying-guide.html", "Center Console Buying Guide", "Compare hull, size, seating, storage, systems and power for Northeast coastal and inland use."],
     ["single-vs-twin-outboards.html", "Single vs. Twin Outboards", "Weigh redundancy, maneuverability, maintenance, performance and total operating cost."],
     ["center-console-family-setup.html", "Setting Up a Center Console for Family Use", "Add shade, seating, storage and safety without ruining fishing access or weight balance."],
     ["center-console-trailering.html", "Center Console Trailering Guide", "Plan tow ratings, beam, height, launch depth and securing systems for a large open boat."],
   ]),
-  hub("cabin-cruisers.html", "Cabin Cruisers", "Cabin Cruisers", "boat-type", "assets/editorial/chesapeake-sailing.jpg", "Evaluate cabin cruisers as compact living systems where ventilation, power, plumbing, storage and handling matter as much as overnight berths.", [
+  hub("cabin-cruisers.html", "Cabin Cruisers", "Cabin Cruisers", "boat-type", "assets/editorial/cabin-cruiser-marina-photo-hero.webp", "Evaluate cabin cruisers as compact living systems where ventilation, power, plumbing, storage and handling matter as much as overnight berths.", [
     ["cabin-cruiser-buying-guide.html", "Cabin Cruiser Buying Guide", "Compare layouts, propulsion, systems and practical sleeping capacity before choosing a cruiser."],
     ["first-overnight-on-boat.html", "Your First Overnight on a Boat", "Prepare power, water, ventilation, meals and sleeping arrangements for a calm first night aboard."],
     ["cabin-cruiser-electrical-systems.html", "Cabin Cruiser Electrical Systems", "Understand shore power, batteries, charging, loads and safe energy management."],
@@ -43,13 +43,13 @@ export const authorityHubsTwo = [
     ["yacht-crew-vs-owner-operated.html", "Crewed vs. Owner-Operated Yachts", "Compare workload, training, privacy, insurance and operating scale."],
     ["annual-yacht-budget.html", "Building an Annual Yacht Budget", "Estimate dockage, service, fuel, insurance, upgrades and reserves without relying on one percentage rule."],
   ]),
-  hub("boat-diy-projects.html", "Boat DIY Projects", "DIY Projects", "maintenance", "assets/editorial/journal-engine-maintenance.jpg", "Complete boat projects safely by defining scope, protecting structure and wiring, using marine materials and knowing when specialist work is the economical choice.", [
+  hub("boat-diy-projects.html", "Boat DIY Projects", "DIY Projects", "maintenance", "assets/editorial/boat-diy-project-photo-hero.webp", "Complete boat projects safely by defining scope, protecting structure and wiring, using marine materials and knowing when specialist work is the economical choice.", [
     ["beginner-boat-diy-projects.html", "Beginner Boat DIY Projects", "Start with useful low-risk upgrades that teach access, sealing, wiring and documentation."],
     ["marine-wiring-diy-basics.html", "Marine Wiring DIY Basics", "Plan circuit protection, conductor size, terminations, support and labeling for dependable additions."],
     ["installing-boat-accessories.html", "Installing Boat Accessories Without Creating Leaks", "Use backing, bedding and careful hole preparation for durable deck-mounted equipment."],
     ["when-not-to-diy-boat-repair.html", "When Not to DIY a Boat Repair", "Recognize structural, fuel, steering, propulsion and electrical work that needs qualified help."],
   ]),
-  hub("boat-cleaning.html", "Boat Cleaning", "Boat Cleaning", "maintenance", "assets/editorial/journal-classic-boat.jpg", "Clean a boat efficiently with surface-specific products, sensible frequency and techniques that protect gelcoat, metal, vinyl and waterways.", [
+  hub("boat-cleaning.html", "Boat Cleaning", "Boat Cleaning", "maintenance", "assets/editorial/fiberglass-polishing-photo-hero.webp", "Clean a boat efficiently with surface-specific products, sensible frequency and techniques that protect gelcoat, metal, vinyl and waterways.", [
     ["boat-cleaning-schedule.html", "A Practical Boat Cleaning Schedule", "Separate after-trip, weekly, monthly and seasonal cleaning so neglect never becomes restoration."],
     ["cleaning-boat-gelcoat.html", "Cleaning Boat Gelcoat", "Remove grime and staining without stripping protection or creating unnecessary abrasion."],
     ["boat-vinyl-cleaning.html", "Boat Vinyl Cleaning and Mildew Prevention", "Clean seams, dry cushions and improve storage conditions before mildew takes hold."],
@@ -61,7 +61,7 @@ export const authorityHubsTwo = [
     ["storing-boat-at-home.html", "Storing a Boat at Home", "Plan surface, drainage, security, neighborhood limits and maintenance access."],
     ["boat-storage-ventilation.html", "Boat Storage Ventilation and Moisture Control", "Reduce mildew and corrosion through drying, airflow and sensible cover management."],
   ]),
-  hub("boat-launching.html", "Boat Launching", "Launching", "seamanship", "assets/editorial/journal-boat-trailer.jpg", "Make launching repeatable with staging, communication, ramp assessment and a sequence that works without rushing or blocking others.", [
+  hub("boat-launching.html", "Boat Launching", "Launching", "seamanship", "assets/editorial/boat-trailer-ramp-photo-hero.webp", "Make launching repeatable with staging, communication, ramp assessment and a sequence that works without rushing or blocking others.", [
     ["boat-ramp-launch-checklist.html", "Boat Ramp Launch Checklist", "Use a concise staging-area sequence before backing onto the ramp."],
     ["launching-boat-alone.html", "Launching a Boat Alone", "Prepare control lines, parking and recovery so a solo launch stays controlled."],
     ["shallow-boat-ramp-launching.html", "Launching at a Shallow Boat Ramp", "Assess grade, traction, water depth and trailer position without drowning tow-vehicle components."],
@@ -79,19 +79,19 @@ export const authorityHubsTwo = [
     ["water-in-boat-fuel.html", "Water in Boat Fuel: Prevention and Response", "Recognize symptoms, inspect filtration and correct the source before repeated breakdowns."],
     ["safe-boat-fueling.html", "Safe Boat Fueling Procedure", "Control ignition sources, ventilation, spills and passenger movement at the fuel dock."],
   ]),
-  hub("boat-ramps.html", "Boat Ramps", "Boat Ramps", "destination", "assets/editorial/journal-boat-trailer.jpg", "Evaluate ramps through grade, depth, parking, wind exposure, traffic and local rules so arrival does not become the first inspection.", [
+  hub("boat-ramps.html", "Boat Ramps", "Boat Ramps", "destination", "assets/editorial/boat-trailer-ramp-photo-hero.webp", "Evaluate ramps through grade, depth, parking, wind exposure, traffic and local rules so arrival does not become the first inspection.", [
     ["how-to-evaluate-boat-ramp.html", "How to Evaluate an Unfamiliar Boat Ramp", "Research access and inspect the lane, dock, depth and turnaround before committing."],
     ["boat-ramp-parking-planning.html", "Boat Ramp Parking Planning", "Confirm capacity, payment, trailer rules and overflow options before a busy weekend."],
     ["windy-boat-ramp-technique.html", "Launching and Retrieving at a Windy Ramp", "Use dock position, lines and crew roles to control drift without panic."],
     ["boat-ramp-security.html", "Boat Ramp Security", "Reduce theft and break-in exposure through parking choices, inventory and visible discipline."],
   ]),
-  hub("marine-communications.html", "Marine Communications", "Marine Communications", "gear", "assets/editorial/gear-navigation.jpg", "Build dependable communication with correct VHF use, DSC registration, antennas, backups and crew knowledge rather than a radio left on the wrong channel.", [
+  hub("marine-communications.html", "Marine Communications", "Marine Communications", "gear", "assets/editorial/marine-vhf-communications-photo-hero.webp", "Build dependable communication with correct VHF use, DSC registration, antennas, backups and crew knowledge rather than a radio left on the wrong channel.", [
     ["vhf-radio-basics.html", "VHF Radio Basics", "Learn channels, listening watch, call structure and the limits of marine radio."],
     ["dsc-mmsi-setup.html", "DSC and MMSI Setup", "Register identity information and connect position data so distress features can work."],
     ["marine-vhf-antenna-guide.html", "Marine VHF Antenna Guide", "Compare height, gain, mounting and cable quality as one communication system."],
     ["satellite-communicator-for-boating.html", "Satellite Communicators for Boating", "Understand where satellite messaging complements rather than replaces VHF and emergency beacons."],
   ]),
-  hub("marine-batteries.html", "Marine Batteries", "Marine Batteries", "gear", "assets/editorial/journal-engine-maintenance.jpg", "Choose and maintain marine batteries by starting with load, starting demand, chemistry, charging compatibility and the consequences of failure.", [
+  hub("marine-batteries.html", "Marine Batteries", "Marine Batteries", "gear", "assets/editorial/marine-battery-system-photo-hero.webp", "Choose and maintain marine batteries by starting with load, starting demand, chemistry, charging compatibility and the consequences of failure.", [
     ["marine-battery-buying-guide.html", "Marine Battery Buying Guide", "Compare starting, deep-cycle, dual-purpose, AGM and lithium choices for the actual system."],
     ["boat-battery-bank-sizing.html", "Sizing a Boat Battery Bank", "Turn energy use, reserve and charging time into a practical capacity target."],
     ["lithium-boat-batteries.html", "Lithium Boat Batteries Explained", "Evaluate weight, cycle life, protection, charging and cold-weather limitations."],
@@ -103,13 +103,13 @@ export const authorityHubsTwo = [
     ["trailerable-boat-covers.html", "Trailerable Boat Covers", "Understand securement, fabric, speed and abrasion before towing with a cover."],
     ["boat-cover-care-repair.html", "Boat Cover Care and Repair", "Clean fabric, restore water resistance and repair small failures before they spread."],
   ]),
-  hub("marine-corrosion.html", "Marine Corrosion Prevention", "Corrosion Prevention", "maintenance", "assets/editorial/journal-engine-maintenance.jpg", "Control corrosion through material awareness, anodes, electrical integrity, rinsing and inspection rather than hoping stainless hardware makes the problem disappear.", [
+  hub("marine-corrosion.html", "Marine Corrosion Prevention", "Corrosion Prevention", "maintenance", "assets/editorial/marine-corrosion-anode-photo-hero.webp", "Control corrosion through material awareness, anodes, electrical integrity, rinsing and inspection rather than hoping stainless hardware makes the problem disappear.", [
     ["galvanic-corrosion-boats.html", "Galvanic Corrosion on Boats", "Understand dissimilar metals, electrolytes and protection without confusing galvanic and stray-current damage."],
     ["boat-anodes-guide.html", "Boat Anodes Guide", "Choose material, inspect consumption and replace anodes before protection is lost."],
     ["saltwater-rinse-routine.html", "A Practical Saltwater Rinse Routine", "Prioritize cooling passages, metal, canvas and hidden salt without wasting time or water."],
     ["stray-current-corrosion.html", "Stray-Current Corrosion", "Recognize rapid damage patterns and involve qualified electrical help early."],
   ]),
-  hub("fiberglass-gelcoat.html", "Fiberglass and Gelcoat", "Fiberglass and Gelcoat", "maintenance", "assets/editorial/journal-classic-boat.jpg", "Care for fiberglass structure and gelcoat finish by distinguishing cosmetic wear from moisture, cracking and structural movement that need deeper investigation.", [
+  hub("fiberglass-gelcoat.html", "Fiberglass and Gelcoat", "Fiberglass and Gelcoat", "maintenance", "assets/editorial/fiberglass-polishing-photo-hero.webp", "Care for fiberglass structure and gelcoat finish by distinguishing cosmetic wear from moisture, cracking and structural movement that need deeper investigation.", [
     ["gelcoat-oxidation-restoration.html", "Gelcoat Oxidation and Restoration", "Match cleaning, compounding, polishing and protection to the actual condition."],
     ["small-gelcoat-repair.html", "Small Gelcoat Repair", "Plan color, preparation, fill and finishing for minor chips and scratches."],
     ["fiberglass-cracks-explained.html", "Fiberglass Cracks Explained", "Separate common surface crazing from stress patterns that justify professional evaluation."],
@@ -121,7 +121,7 @@ export const authorityHubsTwo = [
     ["northeast-harbor-hopping.html", "Northeast Harbor-Hopping", "Build a route around refuge, reservations, fuel and daylight rather than maximum mileage."],
     ["cold-water-coastal-cruising.html", "Cold-Water Coastal Cruising", "Align clothing, flotation, recovery and weather margins with water temperature."],
   ]),
-  hub("boating-emergencies.html", "Boating Emergency Readiness", "Emergency Readiness", "seamanship", "assets/editorial/gear-life-jacket.jpg", "Prepare for boating emergencies with reachable equipment, practiced crew actions, clear communication and early decisions that keep small failures from escalating.", [
+  hub("boating-emergencies.html", "Boating Emergency Readiness", "Emergency Readiness", "seamanship", "assets/editorial/boating-emergency-kit-photo-hero.webp", "Prepare for boating emergencies with reachable equipment, practiced crew actions, clear communication and early decisions that keep small failures from escalating.", [
     ["boat-fire-response.html", "Boat Fire Prevention and Response", "Control ignition risks and understand immediate actions without overestimating portable extinguishers."],
     ["engine-failure-on-water.html", "What to Do When the Engine Fails", "Stabilize the boat, assess hazards, communicate and choose the safest recovery path."],
     ["taking-on-water-response.html", "Responding to Water Intrusion", "Find the source, slow ingress, dewater, communicate and move toward safety early."],

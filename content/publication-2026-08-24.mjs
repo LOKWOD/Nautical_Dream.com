@@ -11,9 +11,9 @@ export const publication20260824 = [
     eyebrow: "Practical gear buyer guide",
     dek: "The right kit is not the biggest case. It is the smallest dry, labeled set that fits the jobs you can safely perform on your actual boat.",
     hero: {
-      key: "boat-tool-kit-layout",
-      alt: "Illustrated boat tool kit divided into inspect, tighten, cut and protect zones with a separate boat-specific spares pouch",
-      caption: "Build by job and by boat: identify the fastener, pack the matching tool, add only the spares and procedures you understand.",
+      key: "boat-tool-kit-photo-hero",
+      alt: "Compact boat tool kit with pliers, adjustable wrench, screwdrivers, flashlight, fuses, hose clamps and tape",
+      caption: "A useful onboard kit is compact, dry and matched to the fasteners, spares and safe jobs on the actual boat.",
     },
     datePublished: "2026-08-24",
     dateModified: "2026-08-24",
@@ -29,6 +29,7 @@ export const publication20260824 = [
     ],
     lede: "A generic mechanic's assortment looks reassuring until the one socket aboard does not fit the prop hardware, the pliers are rusted shut and the flashlight is buried beneath oily spares. A useful boat tool kit starts with the jobs the manuals actually permit, the fasteners physically installed and the consequences of getting the repair wrong. It is a field-support system, not permission to become the marina's least-qualified technician.",
     sections: [
+      { heading: "Use the layout to audit the case", body: `<p>The diagram below groups tools by the jobs they support and keeps boat-specific spares separate. Use it after inventorying the actual fasteners and procedures aboard; it is not a universal shopping list and it does not authorize repairs beyond the operator's competence.</p>`, image: { key: "boat-tool-kit-layout", alt: "Boat tool kit framework divided into inspect, tighten, cut and protect zones with a separate spares pouch", caption: "Audit by job and by boat: every tool should have a known use, and every spare should fit the installed equipment." } },
       {
         heading: "The fifteen-minute inventory before you buy anything",
         body: `<p>Open the manuals for the engine, drive, batteries, steering, electronics and any accessory that can strand the boat. Mercury's owner-resource desk, for example, locates the correct engine manual by serial number and directs service work beyond the owner procedures to an authorized dealer. Make a two-column list: <strong>owner-authorized checks</strong> and <strong>technician work</strong>. The kit supports the first column only.</p><p>Next, walk the boat while it is secure ashore. Record the actual sizes and types of accessible fasteners involved in simple owner checks: battery-box straps, removable panels, propeller hardware if the manual provides an owner procedure, hose-clamp inspections, canvas hardware and trailer fittings. Photograph labels and part numbers. Do not remove guards or energize systems merely to complete the inventory.</p><p>The result should be a short compatibility card kept in the kit: engine model and serial, prop-hardware sizes and procedure reference, battery-terminal tool size, common panel fasteners, required spare fuses by exact type and rating, and the dealer or tow number. That card is more valuable than twelve mystery sockets.</p>`,
@@ -95,9 +96,9 @@ export const publication20260824 = [
     eyebrow: "Finger Lakes family boat plan",
     dek: "Keuka's Y shape invites a grand tour. The better first family day launches at the state park, explores one branch and comes home with energy left.",
     hero: {
-      key: "keuka-lake-family-plan",
-      alt: "Illustrated Keuka Lake family boat plan showing a state park launch, one-branch route, early lunch and return before afternoon wind",
-      caption: "Planning diagram, not a navigation chart: launch from the state park, choose one branch, keep a short return and do not turn the Y into a checklist.",
+      key: "keuka-lake-state-park-hero",
+      alt: "Keuka Lake shoreline and clear blue water viewed from Keuka Lake State Park",
+      caption: "Keuka Lake from the state park. The first family route should still choose one branch and preserve an easy return.",
     },
     datePublished: "2026-08-24",
     dateModified: "2026-08-24",
@@ -112,6 +113,7 @@ export const publication20260824 = [
     ],
     lede: "Keuka is not a straight-line lake. Its two northern arms meet near Bluff Point and continue south toward Hammondsport, making every route choice look like a chance to see one more shoreline. That geometry is exactly why a first family day should be deliberately incomplete. Keuka Lake State Park gives a trailer crew a practical west-branch base; the day works when the operator keeps an easy return, treats dockage and shore stops as optional, and refuses to chase all three ends of the lake.",
     sections: [
+      { heading: "The one-branch plan at a glance", body: `<p>The planning visual below shows the restraint that makes the day work: use the state park as the base, choose one branch and return before the Y turns into a mileage target. It is not a navigation chart; use current charts, markers, weather and posted directions.</p>`, image: { key: "keuka-lake-family-plan", alt: "Keuka Lake family boat plan showing a state park launch, one-branch route, early lunch and return before afternoon wind", caption: "One branch is enough for a first family day; the diagram is a timing framework, not a plotted route." } },
       {
         heading: "Use the state park as the default family base",
         body: `<p>New York State Parks currently lists Keuka Lake State Park at 3560 Pepper Road, Bluff Point, open year-round from dawn to dusk. The park publishes a boat launch, dockage, playground, showers, hiking, campsites and pavilions. The statewide launch table describes a hard-surface ramp with parking for 50 cars and trailers and a pumpout. That is a more forgiving first-family setup than the Penn Yan village launch, which the same table lists at only six cars.</p><p>For 2026, the park publishes an $8 vehicle entry fee collected in seasonal windows and daily from June 19 through September 7, with marina operation from May 15 through October 12. Fees, staffing, water level and dock availability remain volatile. Check the official park page and call the office before towing. Do not assume an Empire Pass, campsite or pavilion reservation automatically solves every boat, trailer or slip fee.</p><p>Campers need the separate boat rule: the park says boats and trailers are not permitted on the campsite. They go in the main parking lot or a rented marina slip. Reserve and confirm that arrangement rather than discovering it after the campsite is set.</p>`,

@@ -122,7 +122,7 @@ export const resourceFeatures = [
       {
         heading: "The boat is part of the test",
         body: `<p>Marine products do not live on a clean workbench. We consider mounting area, cable runs, electrical load, spray exposure, glare, engine vibration, salt, ultraviolet light, deck traffic and how equipment must be stored. Published dimensions can hide handles, drain plugs, cable bend radius or the room required to open a lid. A good guide tells the reader to measure the complete working envelope, not just the headline dimensions.</p><p>Installation can change the verdict. A discounted display that requires a new transducer and network backbone may cost more than an apparently expensive compatible replacement. A cooler without tie-down points can become a dangerous moving object. A life jacket whose inflation mechanism is difficult to inspect may be neglected. We treat those consequences as product characteristics, even when they are not printed on the box.</p>`,
-        image: { key: "gear-navigation", alt: "Marine navigation equipment installed aboard a working boat", caption: "A feature list cannot show whether the complete system fits the helm, power supply and operator." },
+        image: { key: "gear-chartplotter", src: "assets/chartplotter.svg", alt: "Marine chartplotter installed at a recreational powerboat helm", caption: "A feature list cannot show whether the complete system fits the helm, power supply and operator." },
       },
       {
         heading: "Specifications are verified at the model level",

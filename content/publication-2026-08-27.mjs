@@ -11,10 +11,9 @@ export const publication20260827 = [
     eyebrow: "Rule-first electrical gear",
     dek: "A bright lamp can still show the wrong color, arc or vessel status. Identify the light pattern first, then buy the exact certified fixture and install it where the whole horizon—not the catalog photo—can see it.",
     hero: {
-      key: "boat-navigation-light-decision",
-      className: "diagram-hero",
-      alt: "Boat navigation light decision diagram showing red and green sidelights, an all-round white light, required visibility arcs and portable versus hardwired power",
-      caption: "Selection framework, not a legal light diagram or product photograph: verify the current rules, exact vessel and certified fixture before relying on any arrangement.",
+      key: "boat-navigation-lights-photo-hero",
+      alt: "Small powerboat underway at blue hour showing a green starboard sidelight and white all-round light",
+      caption: "A visible light is not automatically a compliant light: pattern, color, arc, range, placement and vessel status all matter.",
     },
     datePublished: "2026-08-27",
     dateModified: "2026-08-27",
@@ -30,6 +29,7 @@ export const publication20260827 = [
     ],
     lede: "Navigation lights are a language. Red, green and white tell another operator what kind of vessel is present, which way it is moving and, in some cases, whether it is underway or anchored. The common shopping mistake is to treat that language as a brightness contest. The useful buying process starts with the exact pattern required for the boat's length, propulsion and status. Only then do housing style, LED efficiency, pole length, wiring and price become meaningful.",
     sections: [
+      { heading: "Read the required pattern before the catalog", body: `<p>The framework below shows why color alone is not enough: determine the vessel's operating state, required sectors and placement before choosing portable or hardwired power. It is not a legal light diagram; verify the current rules and certified fixture for the exact vessel.</p>`, image: { key: "boat-navigation-light-decision", alt: "Boat navigation-light framework showing red and green sidelights, an all-round white light, visibility arcs and portable versus hardwired power", caption: "Use the framework to ask the right questions, then confirm every required detail in the current rules and product documentation." } },
       {
         heading: "Start with the operating state, not the fixture",
         body: `<p>The Coast Guard says navigation lights are displayed from sunset to sunrise and in or near restricted visibility such as fog, snow or heavy rain. Rule 20 also prohibits other lights that can be mistaken for the prescribed lights, impair their visibility or interfere with a proper lookout. Decorative LEDs and cockpit glare are therefore part of the decision, not harmless background.</p><p>Next identify the boat as it will actually be operating: power-driven underway, sailing, rowing, anchored, towing or in another special status. This guide focuses on ordinary recreational powerboats under 12 meters because that is where portable-versus-hardwired shopping is most common. Rule 23 permits those powerboats to show sidelights and an all-round white light instead of the larger-vessel arrangement. That shortcut does not apply to every craft or status.</p><p>Read the current <a href="https://www.navcen.uscg.gov/navigation-rules-amalgamated" target="_blank" rel="noopener">Amalgamated Navigation Rules</a> for the actual vessel. The <a href="night-boating-safety.html">night-boating guide</a> addresses lookout, speed and route planning; buying a legal light pattern does not make night operation easy.</p>`,
@@ -101,10 +101,9 @@ export const publication20260827 = [
     eyebrow: "Schoharie Valley family plan",
     dek: "This reservoir makes the invisible logistics visible. Wash before launch, sign in, run one short loop and recover early enough to wash again before the gate—not the family—sets the deadline.",
     hero: {
-      key: "blenheim-gilboa-family-plan",
-      className: "diagram-hero",
-      alt: "Blenheim-Gilboa Lower Reservoir family boating sequence showing Mine Kill State Park, required hot-water wash, sign-in, short loop, early recovery and second wash",
-      caption: "Planning sequence, not a navigation chart or place photograph: verify the 2026 opening, weather, reservoir status and all posted directions before departure.",
+      key: "blenheim-gilboa-station-hero",
+      alt: "Blenheim–Gilboa hydroelectric station at the lower reservoir in Schoharie County, New York",
+      caption: "The Blenheim–Gilboa facility at the lower reservoir. Recreational access remains governed by the current NYPA and park rules.",
     },
     datePublished: "2026-08-27",
     dateModified: "2026-08-27",
@@ -119,6 +118,7 @@ export const publication20260827 = [
     ],
     lede: "The Blenheim-Gilboa Lower Reservoir is not a casual roll-through launch. Its 2026 reopening comes with a clear operating sequence: report to Mine Kill State Park, wash the boat with the park's hot-water station before entering, sign in, leave the water one hour before the park closes and wash again on exit. That structure is an advantage if the crew accepts it. The right family day is short, reversible and built around the decontamination queue rather than squeezing every minute from the reservoir.",
     sections: [
+      { heading: "The wash-and-return sequence", body: `<p>The planning visual below keeps the unusual access steps visible: wash before launch, sign in, run a short loop, recover early and wash again. It is not a navigation chart or a substitute for the current NYPA notice, park hours, weather and posted directions.</p>`, image: { key: "blenheim-gilboa-family-plan", alt: "Blenheim-Gilboa Lower Reservoir family boating sequence showing Mine Kill State Park, required wash, sign-in, short loop and early recovery", caption: "The operating sequence matters here as much as the route: verify every step before towing." } },
       {
         heading: "Confirm the lower reservoir—not the upper reservoir",
         body: `<p>There are two different boating areas at the Blenheim-Gilboa Pumped Storage Project. New York Power Authority's May 22, 2026 announcement says gasoline-powered boats, electric boats and human-powered craft may use the <strong>lower</strong> reservoir through the Mine Kill State Park launch. The upper reservoir is limited to rowboats, canoes, kayaks and similar craft, with or without electric trolling motors; gasoline engines and sailboats are prohibited there.</p><p>This guide covers only the lower reservoir and the Mine Kill process. Put <strong>161 Minekill Road, North Blenheim</strong> in the trip notes, then confirm directions on the <a href="https://parks.ny.gov/visit/state-parks/mine-kill-state-park" target="_blank" rel="noopener">official park page</a>. Do not follow a generic map pin to the upper reservoir and expect the same rules, hours or access.</p><p>NYPA states that either reservoir may close to boating at its discretion. Check the park alert and NYPA notice on the morning of departure. A previous season's opening is not evidence of today's access.</p>`,

@@ -202,6 +202,17 @@ for (const htmlFile of htmlFiles) {
   const externalImage = html.match(/<img\b[^>]*\bsrc=["']https?:\/\//i);
   if (externalImage) problems.push(`${htmlFile}: display image is externally hotlinked`);
 
+  if (/class=["'][^"']*\bdiagram-hero\b/i.test(html)) {
+    problems.push(`${htmlFile}: diagram-hero is prohibited; use a subject-accurate photographic hero and move the diagram into the article`);
+  }
+  if (["index.html", "gear.html", "destinations.html", "journal.html"].includes(htmlFile)) {
+    for (const match of html.matchAll(/<article\b[^>]*class=["'][^"']*\bcard\b[^"']*["'][^>]*>[\s\S]*?<img\b[^>]*src=["']([^"']+)["']/gi)) {
+      if (/(?:-card|-plan|-decision|-layout)\.svg$/i.test(match[1])) {
+        problems.push(`${htmlFile}: chart-style SVG ${match[1]} is prohibited as a discovery card image`);
+      }
+    }
+  }
+
   const emptyAlts = [...html.matchAll(/<img\b[^>]*\balt=["']\s*["'][^>]*>/gi)].length;
   const imagesWithoutAlt = [...html.matchAll(/<img\b(?![^>]*\balt=)[^>]*>/gi)].length;
   if (emptyAlts || imagesWithoutAlt) {
@@ -315,24 +326,25 @@ for (const htmlFile of htmlFiles) {
       "skaneateles-boat-garages": "assets/editorial/skaneateles-boat-garages.jpg",
       "throwable-flotation-lifebelt": "assets/editorial/throwable-flotation-lifebelt.jpg",
       "oneida-lake-sylvan-beach": "assets/editorial/oneida-lake-sylvan-beach.jpg",
-      "visual-distress-signal-decision": "assets/editorial/visual-distress-signal-decision.svg",
-      "otisco-lake-family-plan": "assets/editorial/otisco-lake-family-plan.svg",
-      "boat-tool-kit-layout": "assets/editorial/boat-tool-kit-layout.svg",
-      "keuka-lake-family-plan": "assets/editorial/keuka-lake-family-plan.svg",
-      "boat-fire-extinguisher-decision": "assets/editorial/boat-fire-extinguisher-decision.svg",
-      "owasco-lake-family-plan": "assets/editorial/owasco-lake-family-plan.svg",
-      "boat-sound-signal-decision": "assets/editorial/boat-sound-signal-decision.svg",
-      "canandaigua-lake-family-plan": "assets/editorial/canandaigua-lake-family-plan.svg",
-      "boat-navigation-light-decision": "assets/editorial/boat-navigation-light-decision.svg",
-      "blenheim-gilboa-family-plan": "assets/editorial/blenheim-gilboa-family-plan.svg",
-      "boat-boarding-ladder-decision": "assets/editorial/boat-boarding-ladder-decision.svg",
-      "chautauqua-long-point-family-plan": "assets/editorial/chautauqua-long-point-family-plan.svg",
+      "visual-distress-signal-photo-hero": "assets/editorial/visual-distress-signal-photo-hero.webp",
+      "otisco-lake-overlook-hero": "assets/editorial/otisco-lake-overlook-hero.webp",
+      "boat-tool-kit-photo-hero": "assets/editorial/boat-tool-kit-photo-hero.webp",
+      "keuka-lake-state-park-hero": "assets/editorial/keuka-lake-state-park-hero.webp",
+      "boat-fire-extinguisher-photo-hero": "assets/editorial/boat-fire-extinguisher-photo-hero.webp",
+      "owasco-lake-emerson-park-hero": "assets/editorial/owasco-lake-emerson-park-hero.webp",
+      "boat-sound-signal-photo-hero": "assets/editorial/boat-sound-signal-photo-hero.webp",
+      "canandaigua-lake-kershaw-hero": "assets/editorial/canandaigua-lake-kershaw-hero.webp",
+      "boat-navigation-lights-photo-hero": "assets/editorial/boat-navigation-lights-photo-hero.webp",
+      "blenheim-gilboa-station-hero": "assets/editorial/blenheim-gilboa-station-hero.webp",
+      "boat-boarding-ladder-photo-hero": "assets/editorial/boat-boarding-ladder-photo-hero.webp",
+      "chautauqua-lake-hartley-park-hero": "assets/editorial/chautauqua-lake-hartley-park-hero.webp",
       "anchor-rode-photo-hero": "assets/editorial/anchor-rode-photo-hero.webp",
       "fair-haven-harbor-hero": "assets/editorial/fair-haven-harbor-hero.webp",
       "marine-co-alarm-photo-hero": "assets/editorial/marine-co-alarm-photo-hero.webp",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
+    if (/\.svg$/i.test(heroPath || "")) problems.push(`${htmlFile}: publication hero must be a subject-accurate photograph, not an SVG diagram`);
     for (const other of htmlFiles) {
       if (other === htmlFile) continue;
       if (readFileSync(join(root, other), "utf8").includes(heroPath)) problems.push(`${htmlFile}: hero image is reused by ${other}`);

@@ -12,13 +12,6 @@ const replacements = {
       ["assets/editorial/journal-family-pontoon.jpg", "Family boating day-trip context for cooler capacity and deck space"],
     ],
   },
-  "best-chartplotters.html": {
-    "assets/editorial/gear-navigation.jpg": [
-      ["assets/chartplotter.svg", "Illustrated marine chartplotter mounted at a recreational boat helm"],
-      ["assets/waterfront-escape.svg", "Illustrated cruising context for route planning and navigation electronics"],
-      ["assets/editorial/thousand-islands-river.jpg", "Island cruising waterway used as a real-world navigation-planning example"],
-    ],
-  },
   "best-life-jackets.html": {
     "assets/editorial/gear-life-jacket.jpg": [
       ["assets/editorial/gear-child-pfd.jpg", "Child wearing a properly fitted personal flotation device"],
@@ -28,12 +21,6 @@ const replacements = {
   "cape-cod-guide.html": {
     "assets/editorial/cape-cod-provincetown.jpg": [["assets/waterfront-escape.svg", "Illustrated coastal harbor planning scene for a Cape Cod boating trip"]],
     "assets/editorial/cape-cod-canal.jpg": [["assets/family-boat.svg", "Illustrated recreational-boat trip-planning scene for protected and exposed Cape Cod waters"]],
-  },
-  "chartplotter-needs.html": {
-    "assets/editorial/gear-navigation.jpg": [
-      ["assets/chartplotter.svg", "Illustrated chartplotter layout for evaluating helm visibility and controls"],
-      ["assets/waterfront-escape.svg", "Illustrated cruising context for deciding whether navigation electronics need an upgrade"],
-    ],
   },
   "chesapeake-bay-guide.html": {
     "assets/editorial/chesapeake-sailing.jpg": [["assets/waterfront-escape.svg", "Illustrated Chesapeake cruising context for planning anchorages and harbor stops"]],

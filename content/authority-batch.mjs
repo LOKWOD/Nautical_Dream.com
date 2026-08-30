@@ -34,7 +34,7 @@ export const authorityHubs = [
   },
   {
     slug: "great-lakes-boating.html", title: "Great Lakes Boating", label: "Great Lakes", kind: "destination",
-    image: "assets/editorial/champlain-lighthouse.jpg",
+    image: "assets/editorial/lake-ontario-fair-haven-hero.webp",
     intro: "Treat the Great Lakes like the inland seas they are: plan for cold water, fast weather, commercial traffic, long distances and harbors that may be farther apart than they look.",
     articles: [
       ["great-lakes-first-trip.html", "Planning a First Great Lakes Boating Trip", "Start with conservative water, short harbor hops and serious weather margins."],
@@ -45,7 +45,7 @@ export const authorityHubs = [
   },
   {
     slug: "hudson-river-boating.html", title: "Hudson River Boating", label: "Hudson River", kind: "destination",
-    image: "assets/editorial/newport-narragansett.jpg",
+    image: "assets/editorial/hudson-river-bear-mountain-hero.webp",
     intro: "Explore the Hudson with a working understanding of current, tides, commercial traffic, bridges, marinas and the dramatic shoreline between New York Harbor and the canal system.",
     articles: [
       ["hudson-river-first-trip.html", "Your First Hudson River Boating Trip", "Choose a manageable reach and learn the river before building a longer itinerary."],
@@ -56,7 +56,7 @@ export const authorityHubs = [
   },
   {
     slug: "intracoastal-waterway.html", title: "Intracoastal Waterway", label: "Intracoastal Waterway", kind: "destination",
-    image: "assets/editorial/chesapeake-sailing.jpg",
+    image: "assets/editorial/intracoastal-ft-lauderdale-hero.webp",
     intro: "Prepare for the Intracoastal Waterway with route segments, bridge timing, shallow-water awareness, marina communication and the daily discipline long-distance cruising demands.",
     articles: [
       ["icw-first-timer.html", "The Intracoastal Waterway for First-Timers", "Understand the rhythm of bridge openings, navigation checks and daily mileage."],
@@ -100,7 +100,7 @@ export const authorityHubs = [
   },
   {
     slug: "boat-electronics.html", title: "Boat Electronics", label: "Boat Electronics", kind: "gear",
-    image: "assets/editorial/gear-navigation.jpg",
+    image: "assets/chartplotter.svg",
     intro: "Choose and operate marine electronics as a connected navigation and communication system, with power, installation, compatibility and operator skill considered together.",
     articles: [
       ["marine-electronics-explained.html", "Marine Electronics Explained", "Understand the roles of chartplotters, sonar, radar, AIS and VHF."],
@@ -133,7 +133,7 @@ export const authorityHubs = [
   },
   {
     slug: "anchoring.html", title: "Anchoring", label: "Anchoring", kind: "seamanship",
-    image: "assets/editorial/journal-fenders.jpg",
+    image: "assets/editorial/anchored-powerboat-photo-hero.webp",
     intro: "Anchor with confidence by matching ground tackle to the bottom, setting it deliberately, calculating scope from the correct height and monitoring the boat after everyone relaxes.",
     articles: [
       ["how-to-anchor-a-boat.html", "How to Anchor a Boat Correctly", "Choose the spot, lower under control, set the anchor and verify holding."],
@@ -155,7 +155,7 @@ export const authorityHubs = [
   },
   {
     slug: "marine-navigation.html", title: "Marine Navigation", label: "Navigation", kind: "seamanship",
-    image: "assets/editorial/gear-navigation.jpg",
+    image: "assets/chartplotter.svg",
     intro: "Navigate by combining charts, aids, position awareness, lookout and a route plan that still works when electronics, visibility or assumptions fail.",
     articles: [
       ["how-to-read-nautical-chart.html", "How to Read a Nautical Chart", "Understand depth, hazards, aids and notes without treating the screen as a moving road map."],
@@ -188,7 +188,7 @@ export const authorityHubs = [
   },
   {
     slug: "fishing-boats.html", title: "Fishing Boats", label: "Fishing Boats", kind: "boat-type",
-    image: "assets/editorial/winnipesaukee-cruise.jpg",
+    image: "assets/editorial/center-console-underway-photo-hero.webp",
     intro: "Choose a fishing boat around target water, weather, crew and technique while preserving the safety, storage and ride quality needed to enjoy non-fishing days too.",
     articles: [
       ["fishing-boat-buying-guide.html", "Fishing Boat Buying Guide", "Compare hull, layout, livewell, electronics and power for the fishing you actually do."],
@@ -199,7 +199,7 @@ export const authorityHubs = [
   },
   {
     slug: "boat-trailering.html", title: "Boat Trailering", label: "Trailering", kind: "ownership",
-    image: "assets/editorial/journal-boat-trailer.jpg",
+    image: "assets/editorial/boat-trailer-ramp-photo-hero.webp",
     intro: "Trailer with less stress by confirming ratings, maintaining bearings and brakes, practicing setup and using repeatable launch and retrieval routines.",
     articles: [
       ["boat-trailer-safety-checklist.html", "Boat Trailer Safety Checklist", "Inspect hitch, tires, bearings, brakes, lights and tie-downs before every tow."],

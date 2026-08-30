@@ -11,9 +11,9 @@ export const publication20260823 = [
     eyebrow: "Emergency signaling buyer guide",
     dek: "Buy the signal system your boat, water and operating hours actually require—not the brightest object in a marketplace search result.",
     hero: {
-      key: "visual-distress-signal-decision",
-      alt: "Illustrated boat visual-distress-signal decision showing separate day and night requirements, approval labels, accessibility and expiration checks",
-      caption: "Compliance is a system: jurisdiction, day or night role, exact approval label, serviceability and immediate access all have to line up.",
+      key: "visual-distress-signal-photo-hero",
+      alt: "Red marine flares and an electronic visual distress light staged in a dry cockpit kit",
+      caption: "The visible gear is only the start: confirm the exact approval, day or night role, serviceability and access for the boat's operating area.",
     },
     datePublished: "2026-08-23",
     dateModified: "2026-08-23",
@@ -29,6 +29,7 @@ export const publication20260823 = [
     ],
     lede: "A visual distress signal has two jobs that shopping pages often blur together. It may satisfy a carriage requirement, and it may help rescuers find the boat. A device can be useful for one job without satisfying the other. Federal rules cover specified coastal waters and the high seas; New York's equipment rules can require signals on inland waters as well. That is why the right buying sequence starts with the operating area and boat, then separates day from night, and only then compares pyrotechnic and electronic equipment.",
     sections: [
+      { heading: "See the decision before shopping", body: `<p>The framework below separates the questions a product photograph cannot answer: where the boat operates, whether the signal counts by day or night, what the approval label actually says, and whether the crew can reach it when needed. It is a selection aid, not a substitute for the current regulations or the label on the delivered device.</p>`, image: { key: "visual-distress-signal-decision", alt: "Boat visual-distress-signal decision framework separating day and night requirements, approval labels, access and expiration", caption: "Use the framework as a checklist after identifying the boat's jurisdiction and operating hours." } },
       {
         heading: "The sixty-second decision",
         body: `<p>For a family boat that needs both day and night signals, the cleanest non-pyrotechnic framework is an <strong>approved electric distress light</strong> that satisfies the night role plus an <strong>approved orange distress flag</strong> that satisfies the day role. The word approved matters twice: each exact device must meet the standard for its role. A single electronic light does not automatically cover daytime carriage, and a flag is not a night signal.</p><p>Pyrotechnics can cover day, night or both depending on their approval category. Under 33 CFR 175.130, several listed flare and smoke types require three signals, while one qualifying electric distress light meets the night-only federal requirement and one qualifying orange flag meets the day-only requirement. State rules, vessel use and local enforcement still matter. New York currently lists both daytime and nighttime visual distress signals for motorboats from 16 feet to less than 26 feet.</p><div class="decision-table"><table class="comparison"><thead><tr><th>System</th><th>Best fit</th><th>Main advantage</th><th>Main failure mode</th></tr></thead><tbody><tr><td>Approved light + approved flag</td><td>Owners avoiding pyrotechnics</td><td>No flare expiration cycle</td><td>Wrong approval, dead batteries or buried flag</td></tr><tr><td>Approved pyrotechnic set</td><td>Crews trained to use and store it</td><td>Bright, familiar distress indication</td><td>Expiration, heat damage or unsafe handling</td></tr><tr><td>Layered system</td><td>Offshore or higher-consequence use</td><td>Different tools for different conditions</td><td>Complexity without a crew briefing</td></tr></tbody></table></div>`,
@@ -113,9 +114,9 @@ export const publication20260823 = [
     eyebrow: "Central New York family boating",
     dek: "Otisco is close enough to feel easy. The launch capacity, shallow southern basin and lack of public-trip amenities are why the plan should stay deliberately small.",
     hero: {
-      key: "otisco-lake-family-plan",
-      alt: "Illustrated Otisco Lake family boating plan showing alternate road access, a small launch, a short main-basin route and an early return",
-      caption: "A planning sequence, not a navigation chart: solve the road closure and small ramp before committing to the day.",
+      key: "otisco-lake-overlook-hero",
+      alt: "Otisco Lake viewed from New York State Route 174 in Onondaga County",
+      caption: "Otisco Lake from Route 174. The public launch, road closure and small parking area still need a separate pre-trip check.",
     },
     datePublished: "2026-08-23",
     dateModified: "2026-08-23",
@@ -130,6 +131,7 @@ export const publication20260823 = [
     ],
     lede: "Otisco Lake is the most easterly Finger Lake and lies entirely in Onondaga County. It is only 5.4 miles long, but that does not make the public trip frictionless. The DEC launch has published capacity for 13 tow vehicles and trailers. Church Hill Road remains closed on the direct approach. The public access is for launching, retrieval and fishing—not swimming, camping or a picnic-day base. A good family plan treats the ramp as a narrow doorway, brings every meal and restroom contingency, and keeps the boat within an easy return while the crew learns the lake.",
     sections: [
+      { heading: "Keep the planning map in its proper role", body: `<p>The visual sequence below is a logistics reminder, not a navigation chart. Use it to solve the road closure, small launch and early return before towing; use current navigation information, posted markers and observed conditions on the water.</p>`, image: { key: "otisco-lake-family-plan", alt: "Otisco Lake family boating plan showing alternate road access, a small launch, a short main-basin route and an early return", caption: "Planning sequence only: confirm the route to the ramp and keep the water plan deliberately short." } },
       {
         heading: "The day in one decision table",
         body: `<p>This is not a “see the whole lake” itinerary. It is a four-hour proof day that can expand only while the weather, boat and family remain boring. The DEC describes a clear main basin north of the causeway and a much shallower, turbid southern basin. An unfamiliar family crew has no reason to make the causeway or southern water the objective.</p><div class="decision-table"><table class="comparison"><thead><tr><th>Decision</th><th>Green light</th><th>Yellow light</th><th>Stop</th></tr></thead><tbody><tr><td>Arrival</td><td>Early, correct road approach, open trailer space</td><td>Queue forming or crew still packing</td><td>No legal parking or unsafe ramp pressure</td></tr><tr><td>Weather</td><td>Stable forecast and easy return shore</td><td>Building wind or thunder risk later</td><td>Thunder heard, warning active or return becoming difficult</td></tr><tr><td>Route</td><td>Short main-basin leg with known position</td><td>Weeds, depth uncertainty or rising traffic</td><td>Unfamiliar shallow/causeway commitment</td></tr><tr><td>Family</td><td>Fed, warm, shaded and engaged</td><td>One kid fading or adult workload rising</td><td>Two problems at once</td></tr></tbody></table></div>`,

@@ -11,10 +11,9 @@ export const publication20260825 = [
     eyebrow: "Compliance-first safety gear",
     dek: "Do not shop by red cylinder, star rating or a generic 'marine' keyword. Start with the boat, count what the rule accepts, then make the correct extinguisher reachable.",
     hero: {
-      key: "boat-fire-extinguisher-decision",
-      className: "diagram-hero",
-      alt: "Boat fire extinguisher decision diagram moving from vessel requirement to approved rating, accessible placement and monthly inspection",
-      caption: "Compliance and placement framework—not a product photograph or substitute for the label on the exact extinguisher.",
+      key: "boat-fire-extinguisher-photo-hero",
+      alt: "Unbranded red marine fire extinguisher secured in a reachable cockpit bracket",
+      caption: "Reachability matters, but the delivered approval label, required rating, model year and boat configuration determine what counts.",
     },
     datePublished: "2026-08-25",
     dateModified: "2026-08-25",
@@ -30,6 +29,7 @@ export const publication20260825 = [
     ],
     lede: "A portable fire extinguisher is a small object with a surprisingly precise legal identity. The number aboard depends on the vessel's length, model year, fuel installation, vapor-trapping spaces and fixed machinery-space system. The cylinder then has to be approved, within its permitted service life, undamaged and reachable while the emergency is developing. Buying the largest red bottle in a marketplace search does not solve any of those questions.",
     sections: [
+      { heading: "Run the compliance sequence before buying", body: `<p>The framework below keeps the order straight: determine whether the boat is required to carry an extinguisher, identify the accepted rating and count, choose an accessible location, then inspect the delivered unit. It does not replace the current regulation or the exact approval label.</p>`, image: { key: "boat-fire-extinguisher-decision", alt: "Boat fire extinguisher framework moving from vessel requirement to approved rating, accessible placement and inspection", caption: "Work from the boat and rule toward the product—not from a red cylinder toward an assumption." } },
       {
         heading: "First decide whether the boat is required to carry one",
         body: `<p>The Coast Guard's current recreational-boater FAQ says carriage is required for boats with permanently installed fuel tanks or spaces capable of trapping fumes, including certain closed compartments, double bottoms, closed living spaces and storage compartments holding combustible or flammable material. A narrow exemption applies to some boats under 26 feet with an outboard, portable fuel tank and no vapor-trapping spaces. Do not turn that exception into a rule for every small outboard.</p><p>Inspect the actual vessel and its documentation. A deck plate that hides a permanent tank, a closed seat base used for portable fuel or a cabin can change the answer. State requirements and operating rules can be more protective than the federal minimum. When the layout is unclear, use the Coast Guard's <a href="https://www.uscgboating.org/recreational-boaters/fire-extinguisher-faq.php" target="_blank" rel="noopener">current fire-extinguisher FAQ</a> and request a vessel-safety check rather than relying on a retailer's boat-length filter.</p><p>The legal minimum is also not a complete fire plan. Cooking fuel, battery installations, shore power and machinery spaces create different hazards. Boat and equipment manuals, applicable standards and a qualified marine technician control installation and system-specific protection.</p>`,
@@ -92,10 +92,9 @@ export const publication20260825 = [
     eyebrow: "Central New York family boat plan",
     dek: "Owasco is easy to reach and easy to overrun. The better first day treats Emerson Park as both launch and destination, with a short north-lake route and a real shore fallback.",
     hero: {
-      key: "owasco-lake-family-plan",
-      className: "diagram-hero",
-      alt: "Illustrated Owasco Lake family boat sequence showing Emerson Park launch, north-lake loop, early turn, picnic and shore backup",
-      caption: "Planning sequence, not a navigation chart or place photograph: confirm current hazards, weather, water quality and launch operations before departure.",
+      key: "owasco-lake-emerson-park-hero",
+      alt: "Owasco Lake viewed from the shoreline at Emerson Park near Auburn, New York",
+      caption: "Owasco Lake from Emerson Park, the practical launch and shore base for this short family plan.",
     },
     datePublished: "2026-08-25",
     dateModified: "2026-08-25",
@@ -110,6 +109,7 @@ export const publication20260825 = [
     ],
     lede: "Owasco Lake gives Central New York families a useful combination: a real trailer launch at the north end and a county park that can absorb the day if the boat plan collapses. It does not give a first-time crew a reason to run the entire long lake. The reliable version launches early from Emerson Park, stays within a comfortable return, checks the water before anyone swims and comes back for food while the children still like the boat.",
     sections: [
+      { heading: "The short-day sequence", body: `<p>The planning visual below keeps the operating day deliberately small: launch at Emerson Park, stay north, turn early and use the park as the backup. It is not a navigation chart; confirm current hazards, weather, water quality and launch operations separately.</p>`, image: { key: "owasco-lake-family-plan", alt: "Owasco Lake family boat sequence showing Emerson Park launch, north-lake loop, early turn, picnic and shore backup", caption: "Use this as a timing and logistics sequence, then navigate with current information on the actual day." } },
       {
         heading: "Make Emerson Park the whole operating base",
         body: `<p>Cayuga County lists Emerson Park at 6914 East Lake Road, Auburn, on Owasco Lake's north end. The official park pages publish boat launches, beaches, playgrounds, picnic shelters, disc golf, a dog park and other shore facilities. Current county fee information lists an $8 daily boat launch, a $5 daily launch category for seniors, veterans and disabled visitors, and free ordinary daily parking. Event parking and operations can differ, so verify the current page before towing.</p><p>Do not build the day around an assumed second public launch or guaranteed transient dock. Emerson is the dependable public base in this plan. Arrive with the fuel, food, sanitation supplies and return margin needed to finish where you started. The official county contact is 315-253-5611; call when launch hours, construction, events, water level or dock availability could change the decision.</p><p>At the ramp, use the <a href="boat-ramp-launch-checklist.html">launch checklist</a> away from the active lane. Load children, coolers and loose gear before the ramp when safe, install the drain plug during the documented sequence, and stop if the trailer, dock or wind creates a control problem.</p>`,
