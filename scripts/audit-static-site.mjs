@@ -14,6 +14,7 @@ import { publication20260825 } from "../content/publication-2026-08-25.mjs";
 import { publication20260826 } from "../content/publication-2026-08-26.mjs";
 import { publication20260827 } from "../content/publication-2026-08-27.mjs";
 import { publication20260829 } from "../content/publication-2026-08-29.mjs";
+import { publication20260830 } from "../content/publication-2026-08-30.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -65,8 +66,8 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-for (const [date, publication] of [["2026-08-24", publication20260824], ["2026-08-25", publication20260825], ["2026-08-26", publication20260826], ["2026-08-27", publication20260827], ["2026-08-29", publication20260829]]) {
-  if (publication.length !== 2) problems.push(`${date} publication: expected exactly 2 pages; found ${publication.length}`);
+for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3]]) {
+  if (publication.length !== expected) problems.push(`${date} publication: expected exactly ${expected} pages; found ${publication.length}`);
   for (const page of publication) {
     if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);
     if (sourceTitles.has(page.title.toLowerCase())) problems.push(`${date} publication: duplicate existing title ${page.title}`);
@@ -74,7 +75,7 @@ for (const [date, publication] of [["2026-08-24", publication20260824], ["2026-0
     sourceTitles.add(page.title.toLowerCase());
   }
 }
-const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829];
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -326,6 +327,9 @@ for (const htmlFile of htmlFiles) {
       "blenheim-gilboa-family-plan": "assets/editorial/blenheim-gilboa-family-plan.svg",
       "boat-boarding-ladder-decision": "assets/editorial/boat-boarding-ladder-decision.svg",
       "chautauqua-long-point-family-plan": "assets/editorial/chautauqua-long-point-family-plan.svg",
+      "anchor-rode-system": "assets/editorial/anchor-rode-system.svg",
+      "fair-haven-family-plan": "assets/editorial/fair-haven-family-plan.svg",
+      "marine-co-defense": "assets/editorial/marine-co-defense.svg",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
@@ -426,6 +430,19 @@ for (const htmlFile of htmlFiles) {
       }
     }
     if (htmlFile === "chautauqua-lake-long-point-family-boating.html" && /data-affiliate-active="true"/.test(html)) {
+      problems.push(`${htmlFile}: destination guide must not contain active affiliate links`);
+    }
+    if (["boat-anchor-rode-buying-guide.html", "marine-carbon-monoxide-alarm-guide.html"].includes(htmlFile)) {
+      const activeLinks = (html.match(/data-affiliate-active="true"/g) || []).length;
+      if (activeLinks !== 3) problems.push(`${htmlFile}: expected exactly 3 active affiliate links; found ${activeLinks}`);
+      if (!/As an Amazon Associate/i.test(html)) problems.push(`${htmlFile}: missing Amazon Associate disclosure`);
+      if (/<a\b[^>]*data-commercial-link="true"[^>]*>\s*<img/i.test(html)) problems.push(`${htmlFile}: unverified affiliate product image found`);
+      for (const match of html.matchAll(/<a\b([^>]*data-commercial-link="true"[^>]*)>/gi)) {
+        const rel = match[1].match(/\brel="([^"]*)"/i)?.[1] || "";
+        if (!/\bsponsored\b/i.test(rel) || !/\bnofollow\b/i.test(rel) || !/\bnoopener\b/i.test(rel)) problems.push(`${htmlFile}: commercial link missing sponsored/nofollow/noopener`);
+      }
+    }
+    if (htmlFile === "fair-haven-little-sodus-bay-family-boating.html" && /data-affiliate-active="true"/.test(html)) {
       problems.push(`${htmlFile}: destination guide must not contain active affiliate links`);
     }
   }

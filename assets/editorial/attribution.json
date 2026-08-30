@@ -838,5 +838,77 @@
     "query": "Original lower-reservoir wash and short-loop discovery card",
     "width": 1200,
     "height": 900
+  },
+  "anchor-rode-system": {
+    "localPath": "assets/editorial/anchor-rode-system.svg",
+    "title": "Boat anchor rode compatibility system",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original anchor, shackle, chain, nylon line, windlass and strong-point load-path diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "anchor-rode-card": {
+    "localPath": "assets/editorial/anchor-rode-card.svg",
+    "title": "Boat anchor rode discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original rope-chain anchor rode compatibility card",
+    "width": 1200,
+    "height": 900
+  },
+  "fair-haven-family-plan": {
+    "localPath": "assets/editorial/fair-haven-family-plan.svg",
+    "title": "Little Sodus Bay Fair Haven family boating plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Fair Haven launch, inside-bay loop, early-return and Lake Ontario decision diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "fair-haven-family-card": {
+    "localPath": "assets/editorial/fair-haven-family-card.svg",
+    "title": "Little Sodus Bay Fair Haven discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original Little Sodus Bay sheltered family loop card",
+    "width": 1200,
+    "height": 900
+  },
+  "marine-co-defense": {
+    "localPath": "assets/editorial/marine-co-defense.svg",
+    "title": "Marine carbon monoxide defense in depth",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original exhaust control, ventilation, marine alarm and emergency response diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "marine-co-card": {
+    "localPath": "assets/editorial/marine-co-card.svg",
+    "title": "Marine carbon monoxide alarm discovery card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Original marine CO alarm and source-control card",
+    "width": 1200,
+    "height": 900
   }
 }

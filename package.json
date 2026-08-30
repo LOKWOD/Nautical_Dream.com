@@ -13,6 +13,7 @@
     "build:publication:2026-08-26": "node scripts/build-publication-2026-08-26.mjs",
     "build:publication:2026-08-27": "node scripts/build-publication-2026-08-27.mjs",
     "build:publication:2026-08-29": "node scripts/build-publication-2026-08-29.mjs",
+    "build:publication:2026-08-30": "node scripts/build-publication-2026-08-30.mjs",
     "build:affiliate": "node scripts/inject-affiliate-links.mjs",
     "dev": "next dev",
     "build": "next build",

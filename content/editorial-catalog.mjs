@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["fair-haven-little-sodus-bay-family-boating.html", "Little Sodus Bay From Fair Haven"],
     ["chautauqua-lake-long-point-family-boating.html", "Chautauqua Lake From Long Point"],
     ["blenheim-gilboa-lower-reservoir-family-boating.html", "Blenheim-Gilboa Lower Reservoir Family Boat Plan"],
     ["canandaigua-lake-family-boating.html", "Canandaigua Lake Family Boat Plan"],
@@ -19,6 +20,8 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["marine-carbon-monoxide-alarm-guide.html", "Marine Carbon Monoxide Alarm Guide"],
+    ["boat-anchor-rode-buying-guide.html", "Boat Anchor Rode Buying Guide"],
     ["boat-boarding-ladder-buying-guide.html", "Boat Boarding Ladder Buying Guide"],
     ["boat-navigation-lights-buying-guide.html", "Boat Navigation Lights Buying Guide"],
     ["boat-horn-sound-signal-guide.html", "Boat Horn and Sound Signal Guide"],

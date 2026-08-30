@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T16:08:05.768Z",
+  "generatedAt": "2026-08-30T15:53:53.365Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 132,
-    "commercialLinks": 277,
-    "activeAffiliateLinks": 277,
+    "eligiblePages": 134,
+    "commercialLinks": 283,
+    "activeAffiliateLinks": 283,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 277,
+    "amazonAffiliateLinks": 283,
     "fallbackLinks": 0,
-    "changedPages": 1
+    "changedPages": 2
   },
   "links": [
     {
@@ -486,6 +486,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-anchor-rode-buying-guide.html",
+      "key": "boat-anchor-rode-buying-guide.html::marine-grade-nylon-anchor-rode-with-chain-and-professionally-spliced-connection",
+      "product": "marine grade nylon anchor rode with chain and professionally spliced connection",
+      "visibleText": "Compare nylon rope-chain anchor rodes",
+      "originalUrl": "https://fortressanchors.com/selection-guide/",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+grade+nylon+anchor+rode+with+chain+and+professionally+spliced+connection&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-anchor-rode-buying-guide.html",
+      "key": "boat-anchor-rode-buying-guide.html::calibrated-galvanized-marine-anchor-chain-matched-to-windlass-gypsy",
+      "product": "calibrated galvanized marine anchor chain matched to windlass gypsy",
+      "visibleText": "Compare calibrated marine anchor chain",
+      "originalUrl": "https://www.lewmar.com/products/windlasses",
+      "destinationUrl": "https://www.amazon.com/s?k=calibrated+galvanized+marine+anchor+chain+matched+to+windlass+gypsy&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-anchor-rode-buying-guide.html",
+      "key": "boat-anchor-rode-buying-guide.html::rated-galvanized-marine-anchor-shackle-sized-for-anchor-chain",
+      "product": "rated galvanized marine anchor shackle sized for anchor chain",
+      "visibleText": "Compare rated marine anchor shackles",
+      "originalUrl": "https://www.mantusmarine.com/mantus-anchor-knowledgebase/understanding-shackles/",
+      "destinationUrl": "https://www.amazon.com/s?k=rated+galvanized+marine+anchor+shackle+sized+for+anchor+chain&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-battery-bank-sizing.html",
       "key": "boat-battery-bank-sizing.html::noco-gen5x2-2-bank-marine-battery-charger",
       "product": "NOCO GEN5X2 2-Bank Marine Battery Charger",
@@ -588,7 +621,7 @@
       "page": "boat-boarding-ladder-buying-guide.html",
       "key": "boat-boarding-ladder-buying-guide.html::marine-telescoping-transom-boarding-ladder-with-handholds",
       "product": "marine telescoping transom boarding ladder with handholds",
-      "visibleText": "Compare telescoping transom ladders",
+      "visibleText": "Check current price",
       "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-devices.php",
       "destinationUrl": "https://www.amazon.com/s?k=marine+telescoping+transom+boarding+ladder+with+handholds&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -599,7 +632,7 @@
       "page": "boat-boarding-ladder-buying-guide.html",
       "key": "boat-boarding-ladder-buying-guide.html::portable-gunwale-boat-boarding-ladder-with-standoff-supports",
       "product": "portable gunwale boat boarding ladder with standoff supports",
-      "visibleText": "Compare portable gunwale ladders",
+      "visibleText": "Check current price",
       "originalUrl": "https://abycinc.org/standards-list/",
       "destinationUrl": "https://www.amazon.com/s?k=portable+gunwale+boat+boarding+ladder+with+standoff+supports&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -610,7 +643,7 @@
       "page": "boat-boarding-ladder-buying-guide.html",
       "key": "boat-boarding-ladder-buying-guide.html::portable-rigid-step-emergency-boat-boarding-ladder",
       "product": "portable rigid step emergency boat boarding ladder",
-      "visibleText": "Compare portable emergency boarding ladders",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.uscgboating.org/recreational-boaters/",
       "destinationUrl": "https://www.amazon.com/s?k=portable+rigid+step+emergency+boat+boarding+ladder&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -2241,6 +2274,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.fujifilm.com/us/en/consumer/binoculars/mariner/accessories",
       "destinationUrl": "https://www.amazon.com/s?k=floating+binocular+strap+for+marine+binoculars&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-carbon-monoxide-alarm-guide.html",
+      "key": "marine-carbon-monoxide-alarm-guide.html::marine-rated-carbon-monoxide-alarm-for-enclosed-boat-accommodation",
+      "product": "marine rated carbon monoxide alarm for enclosed boat accommodation",
+      "visibleText": "Compare marine-rated carbon monoxide alarms",
+      "originalUrl": "https://abycinc.org/recreational-boaters/carbon-monoxide-safety/",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+rated+carbon+monoxide+alarm+for+enclosed+boat+accommodation&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-carbon-monoxide-alarm-guide.html",
+      "key": "marine-carbon-monoxide-alarm-guide.html::12-volt-marine-carbon-monoxide-alarm-with-battery-backup-and-interconnect-capability",
+      "product": "12 volt marine carbon monoxide alarm with battery backup and interconnect capability",
+      "visibleText": "Compare hardwired marine CO alarm systems",
+      "originalUrl": "https://www.fireboy-xintex.com/marine-",
+      "destinationUrl": "https://www.amazon.com/s?k=12+volt+marine+carbon+monoxide+alarm+with+battery+backup+and+interconnect+capability&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-carbon-monoxide-alarm-guide.html",
+      "key": "marine-carbon-monoxide-alarm-guide.html::marine-carbon-monoxide-alarm-with-end-of-life-warning-and-battery-backup",
+      "product": "marine carbon monoxide alarm with end of life warning and battery backup",
+      "visibleText": "Compare marine CO alarms with end-of-life warning",
+      "originalUrl": "https://www.fireboy-xintex.com/marine-",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+carbon+monoxide+alarm+with+end+of+life+warning+and+battery+backup&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
