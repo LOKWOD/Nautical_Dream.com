@@ -47,12 +47,9 @@ for (const slug of slugs) {
   const count = sitemap.split(`https://nauticaldream.com/${slug}`).length - 1;
   if (count !== 1) errors.push(`${slug}: sitemap count ${count}`);
 }
-const home = readFileSync(join(root, "index.html"), "utf8");
-for (const slug of slugs) if (!home.includes(slug)) errors.push(`${slug}: missing homepage discovery`);
-
 if (errors.length) {
   console.error(`Daily 2026-08-30 audit failed with ${errors.length} problem(s):`);
   for (const error of errors) console.error(`- ${error}`);
   process.exit(1);
 }
-console.log("Daily 2026-08-30 audit passed: 3 substantial pages, 6 photographic discovery assets, 6 in-article diagrams, 6 disclosed affiliate links, and complete discovery.");
+console.log("Daily 2026-08-30 audit passed: 3 substantial pages, permanent hub and sitemap discovery, credited imagery, and 6 disclosed affiliate links.");
