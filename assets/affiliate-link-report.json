@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-30T18:13:01.080Z",
+  "generatedAt": "2026-09-01T16:06:49.556Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 134,
-    "commercialLinks": 283,
-    "activeAffiliateLinks": 283,
+    "eligiblePages": 135,
+    "commercialLinks": 286,
+    "activeAffiliateLinks": 286,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 283,
+    "amazonAffiliateLinks": 286,
     "fallbackLinks": 0,
-    "changedPages": 65
+    "changedPages": 1
   },
   "links": [
     {
@@ -1273,6 +1273,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.navcen.uscg.gov/annex1-international-positioning-technical-details-lights-shapes",
       "destinationUrl": "https://www.amazon.com/s?k=replacement+marine+all+round+white+stern+light+pole&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-portable-jump-starter-guide.html",
+      "key": "boat-portable-jump-starter-guide.html::compact-12-volt-lithium-jump-starter-for-a-small-gasoline-marine-engine",
+      "product": "compact 12 volt lithium jump starter for a small gasoline marine engine",
+      "visibleText": "Compare compact 12-volt jump starters",
+      "originalUrl": "https://no.co/boost/",
+      "destinationUrl": "https://www.amazon.com/s?k=compact+12+volt+lithium+jump+starter+for+a+small+gasoline+marine+engine&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-portable-jump-starter-guide.html",
+      "key": "boat-portable-jump-starter-guide.html::12-volt-lithium-jump-starter-with-reverse-polarity-and-short-circuit-protection-for-marine",
+      "product": "12 volt lithium jump starter with reverse polarity and short circuit protection for marine use",
+      "visibleText": "Compare protected 12-volt booster packs",
+      "originalUrl": "https://no.co/support",
+      "destinationUrl": "https://www.amazon.com/s?k=12+volt+lithium+jump+starter+with+reverse+polarity+and+short+circuit+protection+for+marine+use&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-portable-jump-starter-guide.html",
+      "key": "boat-portable-jump-starter-guide.html::protective-hard-case-sized-for-a-portable-lithium-jump-starter-and-clamps",
+      "product": "protective hard case sized for a portable lithium jump starter and clamps",
+      "visibleText": "Compare fitted jump-starter cases",
+      "originalUrl": "https://no.co/products/power/boost/",
+      "destinationUrl": "https://www.amazon.com/s?k=protective+hard+case+sized+for+a+portable+lithium+jump+starter+and+clamps&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

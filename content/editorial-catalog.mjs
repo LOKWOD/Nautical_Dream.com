@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["honeoye-lake-family-boating.html", "Honeoye Lake Family Boat Plan"],
     ["fair-haven-little-sodus-bay-family-boating.html", "Little Sodus Bay From Fair Haven"],
     ["chautauqua-lake-long-point-family-boating.html", "Chautauqua Lake From Long Point"],
     ["blenheim-gilboa-lower-reservoir-family-boating.html", "Blenheim-Gilboa Lower Reservoir Family Boat Plan"],
@@ -20,6 +21,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-portable-jump-starter-guide.html", "Boat Portable Jump Starter Guide"],
     ["marine-carbon-monoxide-alarm-guide.html", "Marine Carbon Monoxide Alarm Guide"],
     ["boat-anchor-rode-buying-guide.html", "Boat Anchor Rode Buying Guide"],
     ["boat-boarding-ladder-buying-guide.html", "Boat Boarding Ladder Buying Guide"],
@@ -35,6 +37,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-steering-failure-response.html", "Boat Steering Failure Response"],
     ["classic-runabouts.html", "Why Classic Runabouts Still Matter"],
     ["chartplotter-needs.html", "How Much Chartplotter Do You Need?"],
     ["dock-box-essentials.html", "What Belongs in a Dock Box"],
