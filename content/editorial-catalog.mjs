@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["lower-saranac-lake-family-boating.html", "Lower Saranac Lake Family Boat Plan"],
     ["cayuga-lake-state-park-family-boating.html", "Cayuga Lake State Park Family Boat Plan"],
     ["honeoye-lake-family-boating.html", "Honeoye Lake Family Boat Plan"],
     ["fair-haven-little-sodus-bay-family-boating.html", "Little Sodus Bay From Fair Haven"],
@@ -22,6 +23,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-bilge-pump-buying-guide.html", "Boat Bilge-Pump System Guide"],
     ["boat-dry-bag-waterproof-case-guide.html", "Boat Dry Storage Guide"],
     ["boat-portable-jump-starter-guide.html", "Boat Portable Jump Starter Guide"],
     ["marine-carbon-monoxide-alarm-guide.html", "Marine Carbon Monoxide Alarm Guide"],
@@ -39,6 +41,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-submerged-object-strike-response.html", "Submerged-Object Strike Response"],
     ["boating-in-fog-restricted-visibility.html", "Boating in Fog and Restricted Visibility"],
     ["boat-steering-failure-response.html", "Boat Steering Failure Response"],
     ["classic-runabouts.html", "Why Classic Runabouts Still Matter"],

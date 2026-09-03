@@ -35,6 +35,7 @@ jobs:
           node scripts/build-publication-2026-08-30.mjs
           node scripts/build-publication-2026-09-01.mjs
           node scripts/build-publication-2026-09-02.mjs
+          node scripts/build-publication-2026-09-03.mjs
           node scripts/build-image-credits.mjs
           node scripts/inject-affiliate-links.mjs .
       - name: Validate the published static site
@@ -43,6 +44,7 @@ jobs:
           node scripts/audit-daily-2026-08-30.mjs
           node scripts/audit-daily-2026-09-01.mjs
           node scripts/audit-daily-2026-09-02.mjs
+          node scripts/audit-daily-2026-09-03.mjs
           node scripts/audit-static-site.mjs
       - name: Assemble GitHub Pages artifact
         run: |
