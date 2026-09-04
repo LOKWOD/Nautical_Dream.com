@@ -137,6 +137,14 @@ function wordCount(html) {
   return text ? text.split(" ").length : 0;
 }
 
+function authorityWordCount(html, kind) {
+  if (kind !== "article") return wordCount(html);
+  const editorial = html
+    .replace(/<!--\s*Nautical Dream Contextual Products\s*-->[\s\S]*?<!--\s*End Nautical Dream Contextual Products\s*-->/gi, " ")
+    .match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || html;
+  return wordCount(editorial);
+}
+
 function localPath(rawValue) {
   const value = rawValue.trim().replaceAll("&quot;", '"').replaceAll("&#39;", "'").replace(/^['"]|['"]$/g, "");
   if (!value || value === "#") return value === "#" ? "#" : null;
@@ -251,7 +259,7 @@ for (const htmlFile of htmlFiles) {
 
   const authority = authorityPages.get(htmlFile);
   if (authority) {
-    const words = wordCount(html);
+    const words = authorityWordCount(html, authority.kind);
     const minimum = authority.kind === "article" ? 1700 : authority.kind === "hub" ? 900 : 180;
     const maximum = authority.kind === "article" ? 2600 : authority.kind === "hub" ? 1400 : 2500;
     if (words < minimum) problems.push(`${htmlFile}: ${words} words; authority ${authority.kind} requires at least ${minimum}`);

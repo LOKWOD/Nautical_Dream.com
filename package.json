@@ -18,12 +18,15 @@
     "build:publication:2026-09-02": "node scripts/build-publication-2026-09-02.mjs",
     "build:publication:2026-09-03": "node scripts/build-publication-2026-09-03.mjs",
     "build:publication:2026-09-04": "node scripts/build-publication-2026-09-04.mjs",
+    "build:contextual-products": "node scripts/inject-contextual-products.mjs .",
     "build:affiliate": "node scripts/inject-affiliate-links.mjs",
+    "optimize:seo": "node scripts/optimize-seo.mjs .",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "audit:site": "node scripts/audit-static-site.mjs"
+    "audit:site": "node scripts/audit-static-site.mjs",
+    "audit:seo": "node scripts/audit-seo.mjs ."
   },
   "dependencies": {
     "@types/node": "^22.10.0",

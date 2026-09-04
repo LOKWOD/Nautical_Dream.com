@@ -17,9 +17,15 @@ jobs:
           node-version: 20
       - name: Validate the published static site
         run: |
+          node scripts/inject-contextual-products.mjs .
+          node scripts/inject-affiliate-links.mjs .
+          node scripts/optimize-seo.mjs .
+          node scripts/inject-cloudflare-analytics.mjs
+          node scripts/inject-visitor-beacon.mjs . nautical-dream
           node scripts/audit-hub-images.mjs
           node scripts/audit-daily-2026-09-01.mjs
           node scripts/audit-daily-2026-09-02.mjs
           node scripts/audit-daily-2026-09-03.mjs
           node scripts/audit-daily-2026-09-04.mjs
           node scripts/audit-static-site.mjs
+          node scripts/audit-seo.mjs .

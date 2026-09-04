@@ -38,7 +38,11 @@ jobs:
           node scripts/build-publication-2026-09-03.mjs
           node scripts/build-publication-2026-09-04.mjs
           node scripts/build-image-credits.mjs
+          node scripts/inject-contextual-products.mjs .
           node scripts/inject-affiliate-links.mjs .
+          node scripts/optimize-seo.mjs .
+          node scripts/inject-cloudflare-analytics.mjs
+          node scripts/inject-visitor-beacon.mjs . nautical-dream
       - name: Validate the published static site
         run: |
           node scripts/audit-hub-images.mjs
@@ -48,10 +52,11 @@ jobs:
           node scripts/audit-daily-2026-09-03.mjs
           node scripts/audit-daily-2026-09-04.mjs
           node scripts/audit-static-site.mjs
+          node scripts/audit-seo.mjs .
       - name: Assemble GitHub Pages artifact
         run: |
           mkdir _site
-          cp -- *.html styles.css robots.txt sitemap.xml CNAME _site/
+          cp -- *.html *.txt *.xml *.webmanifest styles.css CNAME _site/
           cp -R assets _site/assets
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5

@@ -1,0 +1,10 @@
+{
+  "name": "Nautical Dream",
+  "short_name": "Nautical Dream",
+  "description": "Practical boating destinations, gear guidance and field planning.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafb",
+  "theme_color": "#061722",
+  "lang": "en-US"
+}
