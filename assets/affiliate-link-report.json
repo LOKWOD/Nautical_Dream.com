@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-03T15:52:22.519Z",
+  "generatedAt": "2026-09-04T15:35:25.822Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 137,
-    "commercialLinks": 292,
-    "activeAffiliateLinks": 292,
+    "eligiblePages": 139,
+    "commercialLinks": 295,
+    "activeAffiliateLinks": 295,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 292,
+    "amazonAffiliateLinks": 295,
     "fallbackLinks": 0,
-    "changedPages": 13
+    "changedPages": 14
   },
   "links": [
     {
@@ -1141,6 +1141,39 @@
       "visibleText": "Check supplemental marine signal mirrors",
       "originalUrl": "https://www.uscgboating.org/recreational-boaters/",
       "destinationUrl": "https://www.amazon.com/s?k=marine+emergency+signal+mirror+with+sighting+aid&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-flashlight-spotlight-headlamp-guide.html",
+      "key": "boat-flashlight-spotlight-headlamp-guide.html::water-resistant-handheld-boat-flashlight-with-low-mode",
+      "product": "water resistant handheld boat flashlight with low mode",
+      "visibleText": "Compare water-resistant handheld boat flashlights with a low mode",
+      "originalUrl": "https://www.streamlight.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=water+resistant+handheld+boat+flashlight+with+low+mode&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-flashlight-spotlight-headlamp-guide.html",
+      "key": "boat-flashlight-spotlight-headlamp-guide.html::rechargeable-handheld-marine-spotlight",
+      "product": "rechargeable handheld marine spotlight",
+      "visibleText": "Compare rechargeable handheld marine spotlights",
+      "originalUrl": "https://www.golight.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=rechargeable+handheld+marine+spotlight&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-flashlight-spotlight-headlamp-guide.html",
+      "key": "boat-flashlight-spotlight-headlamp-guide.html::low-mode-red-light-headlamp-for-boating",
+      "product": "low mode red light headlamp for boating",
+      "visibleText": "Compare low-mode headlamps for boating",
+      "originalUrl": "https://www.petzl.com/US/en/Sport/Headlamps",
+      "destinationUrl": "https://www.amazon.com/s?k=low+mode+red+light+headlamp+for+boating&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

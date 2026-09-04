@@ -1,21 +1,21 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
-import { publication20260903 } from "../content/publication-2026-09-03.mjs";
+import { publication20260904 } from "../content/publication-2026-09-04.mjs";
 
 const root = process.cwd();
 const errors = [];
 const expected = {
-  "boat-bilge-pump-buying-guide.html": { affiliate: 3, hub: "gear.html", card: "assets/editorial/boat-bilge-pump-system-photo-card.webp" },
-  "lower-saranac-lake-family-boating.html": { affiliate: 0, hub: "destinations.html", card: "assets/editorial/lower-saranac-lake-photo-card.webp" },
-  "boat-submerged-object-strike-response.html": { affiliate: 0, hub: "journal.html", card: "assets/editorial/boat-impact-response-photo-card.webp" },
+  "boat-flashlight-spotlight-headlamp-guide.html": { affiliate: 3, hub: "gear.html", card: "assets/editorial/boat-night-lighting-photo-card.webp" },
+  "delta-lake-family-boating.html": { affiliate: 0, hub: "destinations.html", card: "assets/editorial/delta-lake-photo-card.webp" },
+  "family-docking-crew-briefing.html": { affiliate: 0, hub: "journal.html", card: "assets/editorial/family-docking-brief-photo-card.webp" },
 };
 
-if (publication20260903.length !== 3) errors.push(`expected exactly 3 source pages, found ${publication20260903.length}`);
+if (publication20260904.length !== 3) errors.push(`expected exactly 3 source pages, found ${publication20260904.length}`);
 const newTitles = new Set();
 const newSlugs = new Set();
 const allHtml = readdirSync(root).filter((file) => file.endsWith(".html"));
 
-for (const page of publication20260903) {
+for (const page of publication20260904) {
   if (newSlugs.has(page.slug)) errors.push(`duplicate source slug ${page.slug}`);
   if (newTitles.has(page.title.toLowerCase())) errors.push(`duplicate source title ${page.title}`);
   newSlugs.add(page.slug);
@@ -33,6 +33,11 @@ for (const page of publication20260903) {
   const active = (html.match(/data-affiliate-active="true"/g) || []).length;
   if (active !== expected[page.slug].affiliate) errors.push(`${page.slug}: expected ${expected[page.slug].affiliate} affiliate links, found ${active}`);
   if (active && !/As an Amazon Associate/i.test(html)) errors.push(`${page.slug}: missing Amazon disclosure`);
+  if (active && /<a\b[^>]*data-commercial-link="true"[^>]*>\s*<img/i.test(html)) errors.push(`${page.slug}: unverified affiliate product image found`);
+  for (const match of html.matchAll(/<a\b([^>]*data-commercial-link="true"[^>]*)>/gi)) {
+    const rel = match[1].match(/\brel="([^"]*)"/i)?.[1] || "";
+    if (!/\bsponsored\b/i.test(rel) || !/\bnofollow\b/i.test(rel) || !/\bnoopener\b/i.test(rel)) errors.push(`${page.slug}: commercial link missing sponsored/nofollow/noopener`);
+  }
   const hub = readFileSync(join(root, expected[page.slug].hub), "utf8");
   if (!hub.includes(page.slug) || !hub.includes(expected[page.slug].card)) errors.push(`${page.slug}: missing hub/card discovery`);
   const escaped = page.title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -43,15 +48,15 @@ for (const page of publication20260903) {
 
 const attribution = JSON.parse(readFileSync(join(root, "assets/editorial/attribution.json"), "utf8"));
 const photoKeys = [
-  "boat-bilge-pump-system-photo-hero", "boat-bilge-pump-system-photo-card",
-  "lower-saranac-lake-photo-hero", "lower-saranac-lake-photo-card",
-  "boat-impact-response-photo-hero", "boat-impact-response-photo-card",
+  "boat-night-lighting-photo-hero", "boat-night-lighting-photo-card",
+  "delta-lake-photo-hero", "delta-lake-photo-card",
+  "family-docking-brief-photo-hero", "family-docking-brief-photo-card",
 ];
 for (const key of photoKeys) {
   const record = attribution[key];
   if (!record || !existsSync(join(root, record.localPath))) errors.push(`missing credited visual ${key}`);
-  if (/lower-saranac/.test(key) && (record?.creator !== "Mwanner" || !record?.license?.startsWith("CC BY-SA 3.0") || !record?.sourceUrl?.includes("Ampersand_Mountain_-_Lower_Saranac_Lake.jpg"))) errors.push(`${key}: incorrect exact-place license record`);
-  if (!/lower-saranac/.test(key) && record?.license !== "Original AI-assisted editorial image") errors.push(`${key}: incorrect editorial-image license record`);
+  if (/delta-lake/.test(key) && (record?.creator !== "Nick Hepler" || !record?.license?.startsWith("CC BY 2.0") || !record?.sourceUrl?.includes("Delta_Lake_State_Park.jpg"))) errors.push(`${key}: incorrect exact-place license record`);
+  if (!/delta-lake/.test(key) && record?.license !== "Original AI-assisted editorial image") errors.push(`${key}: incorrect editorial-image license record`);
   if (record?.width !== (/card/.test(key) ? 1200 : 1600) || record?.height !== 900) errors.push(`${key}: incorrect dimensions in manifest`);
 }
 
@@ -60,9 +65,12 @@ for (const slug of newSlugs) {
   const count = sitemap.split(`https://nauticaldream.com/${slug}`).length - 1;
   if (count !== 1) errors.push(`${slug}: sitemap count ${count}`);
 }
+const home = readFileSync(join(root, "index.html"), "utf8");
+for (const slug of newSlugs) if (!home.includes(slug)) errors.push(`${slug}: missing homepage discovery`);
+
 if (errors.length) {
-  console.error(`Daily 2026-09-03 audit failed with ${errors.length} problem(s):`);
+  console.error(`Daily 2026-09-04 audit failed with ${errors.length} problem(s):`);
   for (const error of errors) console.error(`- ${error}`);
   process.exit(1);
 }
-console.log("Daily 2026-09-03 audit passed: 3 substantial pages, 6 photographic assets, 3 disclosed affiliate links, exact-place licensing and complete discovery.");
+console.log("Daily 2026-09-04 audit passed: 3 substantial pages, 6 photographic assets, 3 disclosed affiliate links, exact-place licensing and complete discovery.");

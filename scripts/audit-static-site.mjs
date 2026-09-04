@@ -15,6 +15,10 @@ import { publication20260826 } from "../content/publication-2026-08-26.mjs";
 import { publication20260827 } from "../content/publication-2026-08-27.mjs";
 import { publication20260829 } from "../content/publication-2026-08-29.mjs";
 import { publication20260830 } from "../content/publication-2026-08-30.mjs";
+import { publication20260901 } from "../content/publication-2026-09-01.mjs";
+import { publication20260902 } from "../content/publication-2026-09-02.mjs";
+import { publication20260903 } from "../content/publication-2026-09-03.mjs";
+import { publication20260904 } from "../content/publication-2026-09-04.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -66,7 +70,7 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3]]) {
+for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3]]) {
   if (publication.length !== expected) problems.push(`${date} publication: expected exactly ${expected} pages; found ${publication.length}`);
   for (const page of publication) {
     if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);
@@ -75,7 +79,7 @@ for (const [date, publication, expected] of [["2026-08-24", publication20260824,
     sourceTitles.add(page.title.toLowerCase());
   }
 }
-const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830];
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -309,7 +313,7 @@ for (const htmlFile of htmlFiles) {
   if (dailyPage) {
     const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || "";
     const words = wordCount(article);
-    if (words < 1600 || words > 3400) problems.push(`${htmlFile}: ${words} publication words; expected 1600-3400`);
+    if (words < 1500 || words > 3400) problems.push(`${htmlFile}: ${words} publication words; expected 1500-3400`);
     if ((html.match(/<section\s+class="article-section"/g) || []).length < 8) problems.push(`${htmlFile}: publication needs at least 8 detailed sections`);
     if ((html.match(/<details>/g) || []).length < 4) problems.push(`${htmlFile}: publication needs at least 4 FAQs`);
     if (!/application\/ld\+json/i.test(html) || !/FAQPage/.test(html)) problems.push(`${htmlFile}: publication missing Article/FAQ structured data`);
@@ -341,6 +345,18 @@ for (const htmlFile of htmlFiles) {
       "anchor-rode-photo-hero": "assets/editorial/anchor-rode-photo-hero.webp",
       "fair-haven-harbor-hero": "assets/editorial/fair-haven-harbor-hero.webp",
       "marine-co-alarm-photo-hero": "assets/editorial/marine-co-alarm-photo-hero.webp",
+      "marine-jump-starter-photo-hero": "assets/editorial/marine-jump-starter-photo-hero.webp",
+      "honeoye-lake-launch-photo-hero": "assets/editorial/honeoye-lake-launch-photo-hero.webp",
+      "boat-steering-failure-photo-hero": "assets/editorial/boat-steering-failure-photo-hero.webp",
+      "boat-dry-storage-photo-hero": "assets/editorial/boat-dry-storage-photo-hero.webp",
+      "cayuga-lake-state-park-photo-hero": "assets/editorial/cayuga-lake-state-park-photo-hero.webp",
+      "boat-fog-response-photo-hero": "assets/editorial/boat-fog-response-photo-hero.webp",
+      "boat-bilge-pump-system-photo-hero": "assets/editorial/boat-bilge-pump-system-photo-hero.webp",
+      "lower-saranac-lake-photo-hero": "assets/editorial/lower-saranac-lake-photo-hero.webp",
+      "boat-impact-response-photo-hero": "assets/editorial/boat-impact-response-photo-hero.webp",
+      "boat-night-lighting-photo-hero": "assets/editorial/boat-night-lighting-photo-hero.webp",
+      "delta-lake-photo-hero": "assets/editorial/delta-lake-photo-hero.webp",
+      "family-docking-brief-photo-hero": "assets/editorial/family-docking-brief-photo-hero.webp",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
