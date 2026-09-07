@@ -5,7 +5,7 @@ import { authorityHubsTwo } from "../content/authority-batch-two.mjs";
 
 const root = resolve(process.argv[2] || ".");
 const origin = "https://nauticaldream.com";
-const today = "2026-09-04";
+const today = "2026-09-07";
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 const articleParent = new Map();
 const hubFiles = new Set();

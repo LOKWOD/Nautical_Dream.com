@@ -19,6 +19,7 @@ import { publication20260901 } from "../content/publication-2026-09-01.mjs";
 import { publication20260902 } from "../content/publication-2026-09-02.mjs";
 import { publication20260903 } from "../content/publication-2026-09-03.mjs";
 import { publication20260904 } from "../content/publication-2026-09-04.mjs";
+import { publication20260907 } from "../content/publication-2026-09-07.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -70,7 +71,7 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3]]) {
+for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3]]) {
   if (publication.length !== expected) problems.push(`${date} publication: expected exactly ${expected} pages; found ${publication.length}`);
   for (const page of publication) {
     if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);
@@ -79,7 +80,7 @@ for (const [date, publication, expected] of [["2026-08-24", publication20260824,
     sourceTitles.add(page.title.toLowerCase());
   }
 }
-const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904];
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904, ...publication20260907];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -365,6 +366,9 @@ for (const htmlFile of htmlFiles) {
       "boat-night-lighting-photo-hero": "assets/editorial/boat-night-lighting-photo-hero.webp",
       "delta-lake-photo-hero": "assets/editorial/delta-lake-photo-hero.webp",
       "family-docking-brief-photo-hero": "assets/editorial/family-docking-brief-photo-hero.webp",
+      "boat-trailer-winch-photo-hero": "assets/editorial/boat-trailer-winch-photo-hero.webp",
+      "sodus-bay-planning-photo-hero": "assets/editorial/sodus-bay-planning-photo-hero.webp",
+      "family-wake-crossing-photo-hero": "assets/editorial/family-wake-crossing-photo-hero.webp",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
