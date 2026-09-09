@@ -210,6 +210,7 @@ function processHtml(path) {
     const product = decodeBasicEntities(
       getAttribute(attributes, "data-affiliate-product") || nearestHeading(working, offset, visibleText),
     );
+    const requestedLabel = decodeBasicEntities(getAttribute(attributes, "data-affiliate-label"));
     const keyBase = `${fileName}::${slugify(product)}`;
     const duplicateCount = (keyCounts.get(keyBase) || 0) + 1;
     keyCounts.set(keyBase, duplicateCount);
@@ -228,14 +229,14 @@ function processHtml(path) {
       active = true;
       destination = overrideUrl;
       retailer = String(override.retailer || new URL(overrideUrl).hostname).trim();
-      label = String(override.label || defaultLabel).trim();
+      label = String(override.label || requestedLabel || defaultLabel).trim();
       source = "direct";
       report.totals.directAffiliateLinks += 1;
     } else if (amazonEnabled && useAmazonFallback) {
       active = true;
       destination = makeAmazonSearchUrl(product);
       retailer = "Amazon";
-      label = defaultLabel;
+      label = requestedLabel || defaultLabel;
       source = "amazon-search";
       report.totals.amazonAffiliateLinks += 1;
     } else {

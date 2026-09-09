@@ -38,6 +38,7 @@ jobs:
           node scripts/build-publication-2026-09-03.mjs
           node scripts/build-publication-2026-09-04.mjs
           node scripts/build-publication-2026-09-07.mjs
+          node scripts/build-publication-2026-09-09.mjs
           node scripts/build-image-credits.mjs
           node scripts/inject-contextual-products.mjs .
           node scripts/inject-affiliate-links.mjs .
@@ -53,6 +54,7 @@ jobs:
           node scripts/audit-daily-2026-09-03.mjs
           node scripts/audit-daily-2026-09-04.mjs
           node scripts/audit-daily-2026-09-07.mjs
+          node scripts/audit-daily-2026-09-09.mjs
           node scripts/audit-static-site.mjs
           node scripts/audit-seo.mjs .
       - name: Assemble GitHub Pages artifact

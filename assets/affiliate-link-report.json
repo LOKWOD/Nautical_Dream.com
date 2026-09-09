@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-07T16:15:15.333Z",
+  "generatedAt": "2026-09-09T16:05:49.337Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 140,
-    "commercialLinks": 298,
-    "activeAffiliateLinks": 298,
+    "eligiblePages": 141,
+    "commercialLinks": 301,
+    "activeAffiliateLinks": 301,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 298,
+    "amazonAffiliateLinks": 301,
     "fallbackLinks": 0,
-    "changedPages": 86
+    "changedPages": 87
   },
   "links": [
     {
@@ -1608,10 +1608,43 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-trailer-tongue-jack-guide.html",
+      "key": "boat-trailer-tongue-jack-guide.html::manual-swivel-boat-trailer-tongue-jack-single-wheel-galvanized",
+      "product": "manual swivel boat trailer tongue jack single wheel galvanized",
+      "visibleText": "Compare manual swivel single-wheel boat-trailer tongue jacks",
+      "originalUrl": "https://www.dutton-lainson.com/products.php?cat=35",
+      "destinationUrl": "https://www.amazon.com/s?k=manual+swivel+boat+trailer+tongue+jack+single+wheel+galvanized&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-tongue-jack-guide.html",
+      "key": "boat-trailer-tongue-jack-guide.html::dual-wheel-boat-trailer-tongue-jack-galvanized",
+      "product": "dual wheel boat trailer tongue jack galvanized",
+      "visibleText": "Compare dual-wheel boat-trailer tongue jacks",
+      "originalUrl": "https://www.dutton-lainson.com/products.php?cat=35",
+      "destinationUrl": "https://www.amazon.com/s?k=dual+wheel+boat+trailer+tongue+jack+galvanized&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-tongue-jack-guide.html",
+      "key": "boat-trailer-tongue-jack-guide.html::fixed-foot-drop-leg-boat-trailer-tongue-jack",
+      "product": "fixed foot drop leg boat trailer tongue jack",
+      "visibleText": "Compare fixed-foot drop-leg boat-trailer jacks",
+      "originalUrl": "https://www.dutton-lainson.com/products.php?cat=35",
+      "destinationUrl": "https://www.amazon.com/s?k=fixed+foot+drop+leg+boat+trailer+tongue+jack&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-trailer-winch-strap-guide.html",
       "key": "boat-trailer-winch-strap-guide.html::two-speed-manual-boat-trailer-winch-with-webbing-strap",
       "product": "two speed manual boat trailer winch with webbing strap",
-      "visibleText": "Compare two-speed manual boat-trailer winches with webbing straps",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.dutton-lainson.com/hand-winch-selection-guide/",
       "destinationUrl": "https://www.amazon.com/s?k=two+speed+manual+boat+trailer+winch+with+webbing+strap&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1622,7 +1655,7 @@
       "page": "boat-trailer-winch-strap-guide.html",
       "key": "boat-trailer-winch-strap-guide.html::replacement-boat-trailer-winch-strap-with-safety-hook",
       "product": "replacement boat trailer winch strap with safety hook",
-      "visibleText": "Compare replacement boat-trailer winch straps with safety hooks",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.dutton-lainson.com/products.php?cat=18",
       "destinationUrl": "https://www.amazon.com/s?k=replacement+boat+trailer+winch+strap+with+safety+hook&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1633,7 +1666,7 @@
       "page": "boat-trailer-winch-strap-guide.html",
       "key": "boat-trailer-winch-strap-guide.html::boat-trailer-bow-safety-chain-with-latching-hook",
       "product": "boat trailer bow safety chain with latching hook",
-      "visibleText": "Compare boat-trailer bow safety chains with latching hooks",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.fultonperformance.com/products/trailer-winches",
       "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+bow+safety+chain+with+latching+hook&tag=nauticaldr087-20",
       "retailer": "Amazon",
