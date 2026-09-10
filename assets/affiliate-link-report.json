@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-09T16:05:49.337Z",
+  "generatedAt": "2026-09-10T16:03:06.854Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 141,
-    "commercialLinks": 301,
-    "activeAffiliateLinks": 301,
+    "eligiblePages": 142,
+    "commercialLinks": 304,
+    "activeAffiliateLinks": 304,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 301,
+    "amazonAffiliateLinks": 304,
     "fallbackLinks": 0,
-    "changedPages": 87
+    "changedPages": 88
   },
   "links": [
     {
@@ -1611,7 +1611,7 @@
       "page": "boat-trailer-tongue-jack-guide.html",
       "key": "boat-trailer-tongue-jack-guide.html::manual-swivel-boat-trailer-tongue-jack-single-wheel-galvanized",
       "product": "manual swivel boat trailer tongue jack single wheel galvanized",
-      "visibleText": "Compare manual swivel single-wheel boat-trailer tongue jacks",
+      "visibleText": "Compare single-wheel trailer jacks on Amazon",
       "originalUrl": "https://www.dutton-lainson.com/products.php?cat=35",
       "destinationUrl": "https://www.amazon.com/s?k=manual+swivel+boat+trailer+tongue+jack+single+wheel+galvanized&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1622,7 +1622,7 @@
       "page": "boat-trailer-tongue-jack-guide.html",
       "key": "boat-trailer-tongue-jack-guide.html::dual-wheel-boat-trailer-tongue-jack-galvanized",
       "product": "dual wheel boat trailer tongue jack galvanized",
-      "visibleText": "Compare dual-wheel boat-trailer tongue jacks",
+      "visibleText": "Compare dual-wheel trailer jacks on Amazon",
       "originalUrl": "https://www.dutton-lainson.com/products.php?cat=35",
       "destinationUrl": "https://www.amazon.com/s?k=dual+wheel+boat+trailer+tongue+jack+galvanized&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1633,9 +1633,42 @@
       "page": "boat-trailer-tongue-jack-guide.html",
       "key": "boat-trailer-tongue-jack-guide.html::fixed-foot-drop-leg-boat-trailer-tongue-jack",
       "product": "fixed foot drop leg boat trailer tongue jack",
-      "visibleText": "Compare fixed-foot drop-leg boat-trailer jacks",
+      "visibleText": "Compare fixed-foot trailer jacks on Amazon",
       "originalUrl": "https://www.dutton-lainson.com/products.php?cat=35",
       "destinationUrl": "https://www.amazon.com/s?k=fixed+foot+drop+leg+boat+trailer+tongue+jack&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-transom-straps-guide.html",
+      "key": "boat-trailer-transom-straps-guide.html::short-marine-transom-ratchet-tie-down-straps-pair",
+      "product": "short marine transom ratchet tie down straps pair",
+      "visibleText": "Compare short marine transom ratchet straps",
+      "originalUrl": "https://www.fultonperformance.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=short+marine+transom+ratchet+tie+down+straps+pair&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-transom-straps-guide.html",
+      "key": "boat-trailer-transom-straps-guide.html::retractable-boat-transom-ratchet-tie-downs-pair",
+      "product": "retractable boat transom ratchet tie downs pair",
+      "visibleText": "Compare retractable boat transom tie-downs",
+      "originalUrl": "https://www.imminet.com/boatbuckle",
+      "destinationUrl": "https://www.amazon.com/s?k=retractable+boat+transom+ratchet+tie+downs+pair&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-transom-straps-guide.html",
+      "key": "boat-trailer-transom-straps-guide.html::marine-cam-buckle-transom-tie-down-straps-pair",
+      "product": "marine cam buckle transom tie down straps pair",
+      "visibleText": "Compare marine cam-buckle transom straps",
+      "originalUrl": "https://www.fultonperformance.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+cam+buckle+transom+tie+down+straps+pair&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

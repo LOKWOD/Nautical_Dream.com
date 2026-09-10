@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["otsego-lake-family-boating.html", "Otsego Lake Family Boat Plan"],
     ["great-sacandaga-lake-family-boating.html", "Great Sacandaga Lake Family Boat Plan"],
     ["sodus-bay-family-boating.html", "Sodus Bay Family Boat Plan"],
     ["delta-lake-family-boating.html", "Delta Lake Family Boat Plan"],
@@ -26,6 +27,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-trailer-transom-straps-guide.html", "Boat Trailer Transom-Strap Guide"],
     ["boat-trailer-tongue-jack-guide.html", "Boat Trailer Tongue-Jack Guide"],
     ["boat-trailer-winch-strap-guide.html", "Boat Trailer Winch and Strap Guide"],
     ["boat-flashlight-spotlight-headlamp-guide.html", "Boat Flashlight and Spotlight Guide"],
@@ -47,6 +49,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-engine-overheat-warning-response.html", "Boat Engine-Overheat Warning Response"],
     ["boat-engine-stall-response.html", "Boat Engine-Stall Response"],
     ["crossing-boat-wakes-family.html", "Crossing Boat Wakes With Family Aboard"],
     ["family-docking-crew-briefing.html", "Family Docking Crew Brief"],
