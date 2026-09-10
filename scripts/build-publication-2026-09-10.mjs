@@ -48,7 +48,7 @@ updateFile("index.html", (html) => {
 });
 
 updateFile("feed.xml", (xml) => {
-  let next = xml.replace(/<lastBuildDate>[^<]+<\/lastBuildDate>/, "<lastBuildDate>Thu, 10 Sep 2026 15:30:00 GMT</lastBuildDate>");
+  let next = xml.replace(/<lastBuildDate>[^<]+<\/lastBuildDate>/, "<lastBuildDate>Thu, 10 Sep 2026 16:00:00 GMT</lastBuildDate>");
   const missing = [];
   for (const page of publication20260910) {
     const description = page.description.replaceAll("&", "&amp;");
