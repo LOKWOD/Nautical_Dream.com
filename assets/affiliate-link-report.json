@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-10T16:03:06.854Z",
+  "generatedAt": "2026-09-12T15:35:23.584Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 142,
-    "commercialLinks": 304,
-    "activeAffiliateLinks": 304,
+    "eligiblePages": 144,
+    "commercialLinks": 307,
+    "activeAffiliateLinks": 307,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 304,
+    "amazonAffiliateLinks": 307,
     "fallbackLinks": 0,
-    "changedPages": 88
+    "changedPages": 89
   },
   "links": [
     {
@@ -1644,7 +1644,7 @@
       "page": "boat-trailer-transom-straps-guide.html",
       "key": "boat-trailer-transom-straps-guide.html::short-marine-transom-ratchet-tie-down-straps-pair",
       "product": "short marine transom ratchet tie down straps pair",
-      "visibleText": "Compare short marine transom ratchet straps",
+      "visibleText": "Compare short marine transom ratchet straps on Amazon",
       "originalUrl": "https://www.fultonperformance.com/",
       "destinationUrl": "https://www.amazon.com/s?k=short+marine+transom+ratchet+tie+down+straps+pair&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1655,7 +1655,7 @@
       "page": "boat-trailer-transom-straps-guide.html",
       "key": "boat-trailer-transom-straps-guide.html::retractable-boat-transom-ratchet-tie-downs-pair",
       "product": "retractable boat transom ratchet tie downs pair",
-      "visibleText": "Compare retractable boat transom tie-downs",
+      "visibleText": "Compare retractable boat transom tie-downs on Amazon",
       "originalUrl": "https://www.imminet.com/boatbuckle",
       "destinationUrl": "https://www.amazon.com/s?k=retractable+boat+transom+ratchet+tie+downs+pair&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1666,7 +1666,7 @@
       "page": "boat-trailer-transom-straps-guide.html",
       "key": "boat-trailer-transom-straps-guide.html::marine-cam-buckle-transom-tie-down-straps-pair",
       "product": "marine cam buckle transom tie down straps pair",
-      "visibleText": "Compare marine cam-buckle transom straps",
+      "visibleText": "Compare marine cam-buckle transom straps on Amazon",
       "originalUrl": "https://www.fultonperformance.com/",
       "destinationUrl": "https://www.amazon.com/s?k=marine+cam+buckle+transom+tie+down+straps+pair&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -2747,6 +2747,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.standardhorizon.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=85",
       "destinationUrl": "https://www.amazon.com/s?k=Standard+Horizon+HX890+Handheld+VHF+Radio&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-engine-flushing-methods-guide.html",
+      "key": "outboard-engine-flushing-methods-guide.html::single-feed-outboard-motor-flusher-muffs",
+      "product": "single feed outboard motor flusher muffs",
+      "visibleText": "Compare single-feed outboard flushing muffs",
+      "originalUrl": "https://yamahaoutboards.com/blog/maintenance/freshwater-flushing-adds-years-to-the-life-of-an-outboard",
+      "destinationUrl": "https://www.amazon.com/s?k=single+feed+outboard+motor+flusher+muffs&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-engine-flushing-methods-guide.html",
+      "key": "outboard-engine-flushing-methods-guide.html::dual-feed-outboard-motor-flusher-muffs",
+      "product": "dual feed outboard motor flusher muffs",
+      "visibleText": "Compare dual-feed outboard flushing muffs",
+      "originalUrl": "https://www.mercurymarine.com/us/en/product/quicksilver-881150q1-dual-water-pickup-flush-seal-kit",
+      "destinationUrl": "https://www.amazon.com/s?k=dual+feed+outboard+motor+flusher+muffs&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-engine-flushing-methods-guide.html",
+      "key": "outboard-engine-flushing-methods-guide.html::outboard-motor-flushing-bag-tank",
+      "product": "outboard motor flushing bag tank",
+      "visibleText": "Compare outboard flushing bags and tanks",
+      "originalUrl": "https://yamahaoutboards.com/blog/maintenance/freshwater-flushing-adds-years-to-the-life-of-an-outboard",
+      "destinationUrl": "https://www.amazon.com/s?k=outboard+motor+flushing+bag+tank&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
