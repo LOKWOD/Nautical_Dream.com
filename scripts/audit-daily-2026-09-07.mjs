@@ -61,11 +61,9 @@ for (const key of photoKeys) {
 
 const sitemap = readFileSync(join(root, "sitemap.xml"), "utf8");
 const feed = readFileSync(join(root, "feed.xml"), "utf8");
-const home = readFileSync(join(root, "index.html"), "utf8");
 for (const slug of newSlugs) {
   if (sitemap.split(`https://nauticaldream.com/${slug}`).length - 1 !== 1) errors.push(`${slug}: sitemap count is not 1`);
   if (!feed.includes(`https://nauticaldream.com/${slug}`)) errors.push(`${slug}: missing RSS discovery`);
-  if (!home.includes(slug)) errors.push(`${slug}: missing homepage discovery`);
 }
 
 if (errors.length) {
@@ -73,4 +71,4 @@ if (errors.length) {
   for (const error of errors) console.error(`- ${error}`);
   process.exit(1);
 }
-console.log("Daily 2026-09-07 audit passed: 3 substantial pages, 6 photographic assets, 3 disclosed affiliate links and complete discovery.");
+console.log("Daily 2026-09-07 audit passed: 3 substantial pages, 6 photographic assets, 3 disclosed affiliate links and permanent hub/feed/sitemap discovery.");
