@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["cranberry-lake-family-boating.html", "Cranberry Lake Family Boat Plan"],
     ["tupper-lake-family-boating.html", "Tupper Lake Family Boat Plan"],
     ["otsego-lake-family-boating.html", "Otsego Lake Family Boat Plan"],
     ["great-sacandaga-lake-family-boating.html", "Great Sacandaga Lake Family Boat Plan"],
@@ -28,6 +29,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-battery-box-tray-hold-down-guide.html", "Boat Battery Securement Guide"],
     ["outboard-engine-flushing-methods-guide.html", "Outboard Engine Flushing Methods"],
     ["boat-trailer-transom-straps-guide.html", "Boat Trailer Transom-Strap Guide"],
     ["boat-trailer-tongue-jack-guide.html", "Boat Trailer Tongue-Jack Guide"],
@@ -51,6 +53,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["gasoline-odor-boat-response.html", "Gasoline-Odor Response"],
     ["towing-tube-with-kids-safety-plan.html", "Family Tubing Safety Plan"],
     ["boat-engine-overheat-warning-response.html", "Boat Engine-Overheat Warning Response"],
     ["boat-engine-stall-response.html", "Boat Engine-Stall Response"],

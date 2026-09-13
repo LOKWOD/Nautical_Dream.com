@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-12T15:35:23.584Z",
+  "generatedAt": "2026-09-13T15:59:40.852Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 144,
-    "commercialLinks": 307,
-    "activeAffiliateLinks": 307,
+    "eligiblePages": 145,
+    "commercialLinks": 310,
+    "activeAffiliateLinks": 310,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 307,
+    "amazonAffiliateLinks": 310,
     "fallbackLinks": 0,
-    "changedPages": 89
+    "changedPages": 90
   },
   "links": [
     {
@@ -547,6 +547,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.ancorproducts.com/en/products/terminals-connectors/heat-shrink",
       "destinationUrl": "https://www.amazon.com/s?k=Ancor+Marine+Heat-Shrink+Connector+Kit&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-box-tray-hold-down-guide.html",
+      "key": "boat-battery-box-tray-hold-down-guide.html::vented-marine-battery-box-with-hold-down-strap",
+      "product": "vented marine battery box with hold down strap",
+      "visibleText": "Compare vented marine battery boxes",
+      "originalUrl": "https://www.ecfr.gov/current/title-33/chapter-I/subchapter-S/part-183/subpart-I/subject-group-ECFR32d60ecf0343cd4/section-183.420",
+      "destinationUrl": "https://www.amazon.com/s?k=vented+marine+battery+box+with+hold+down+strap&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-box-tray-hold-down-guide.html",
+      "key": "boat-battery-box-tray-hold-down-guide.html::marine-battery-tray-crossbar-hold-down-kit",
+      "product": "marine battery tray crossbar hold down kit",
+      "visibleText": "Compare rigid marine battery trays and crossbar kits",
+      "originalUrl": "https://www.uscgboating.org/images/514.PDF",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+battery+tray+crossbar+hold+down+kit&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-box-tray-hold-down-guide.html",
+      "key": "boat-battery-box-tray-hold-down-guide.html::marine-battery-terminal-protective-boots-red-black",
+      "product": "marine battery terminal protective boots red black",
+      "visibleText": "Compare marine terminal boots",
+      "originalUrl": "https://www.ecfr.gov/current/title-33/chapter-I/subchapter-S/part-183/subpart-I",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+battery+terminal+protective+boots+red+black&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
@@ -2755,7 +2788,7 @@
       "page": "outboard-engine-flushing-methods-guide.html",
       "key": "outboard-engine-flushing-methods-guide.html::single-feed-outboard-motor-flusher-muffs",
       "product": "single feed outboard motor flusher muffs",
-      "visibleText": "Compare single-feed outboard flushing muffs",
+      "visibleText": "Compare single-feed outboard motor flushing muffs on Amazon",
       "originalUrl": "https://yamahaoutboards.com/blog/maintenance/freshwater-flushing-adds-years-to-the-life-of-an-outboard",
       "destinationUrl": "https://www.amazon.com/s?k=single+feed+outboard+motor+flusher+muffs&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -2766,7 +2799,7 @@
       "page": "outboard-engine-flushing-methods-guide.html",
       "key": "outboard-engine-flushing-methods-guide.html::dual-feed-outboard-motor-flusher-muffs",
       "product": "dual feed outboard motor flusher muffs",
-      "visibleText": "Compare dual-feed outboard flushing muffs",
+      "visibleText": "Compare dual-feed outboard motor flushing muffs on Amazon",
       "originalUrl": "https://www.mercurymarine.com/us/en/product/quicksilver-881150q1-dual-water-pickup-flush-seal-kit",
       "destinationUrl": "https://www.amazon.com/s?k=dual+feed+outboard+motor+flusher+muffs&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -2777,7 +2810,7 @@
       "page": "outboard-engine-flushing-methods-guide.html",
       "key": "outboard-engine-flushing-methods-guide.html::outboard-motor-flushing-bag-tank",
       "product": "outboard motor flushing bag tank",
-      "visibleText": "Compare outboard flushing bags and tanks",
+      "visibleText": "Compare outboard motor flushing bags and tanks on Amazon",
       "originalUrl": "https://yamahaoutboards.com/blog/maintenance/freshwater-flushing-adds-years-to-the-life-of-an-outboard",
       "destinationUrl": "https://www.amazon.com/s?k=outboard+motor+flushing+bag+tank&tag=nauticaldr087-20",
       "retailer": "Amazon",
