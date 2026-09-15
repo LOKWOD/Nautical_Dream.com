@@ -24,6 +24,7 @@ import { publication20260909 } from "../content/publication-2026-09-09.mjs";
 import { publication20260910 } from "../content/publication-2026-09-10.mjs";
 import { publication20260912 } from "../content/publication-2026-09-12.mjs";
 import { publication20260913 } from "../content/publication-2026-09-13.mjs";
+import { publication20260915 } from "../content/publication-2026-09-15.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -75,7 +76,7 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3], ["2026-09-09", publication20260909, 3], ["2026-09-10", publication20260910, 3], ["2026-09-12", publication20260912, 3], ["2026-09-13", publication20260913, 3]]) {
+for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3], ["2026-09-09", publication20260909, 3], ["2026-09-10", publication20260910, 3], ["2026-09-12", publication20260912, 3], ["2026-09-13", publication20260913, 3], ["2026-09-15", publication20260915, 3]]) {
   if (publication.length !== expected) problems.push(`${date} publication: expected exactly ${expected} pages; found ${publication.length}`);
   for (const page of publication) {
     if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);
@@ -84,7 +85,7 @@ for (const [date, publication, expected] of [["2026-08-24", publication20260824,
     sourceTitles.add(page.title.toLowerCase());
   }
 }
-const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904, ...publication20260907, ...publication20260912, ...publication20260913];
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904, ...publication20260907, ...publication20260912, ...publication20260913, ...publication20260915];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -385,6 +386,9 @@ for (const htmlFile of htmlFiles) {
       "boat-battery-securement-photo-hero": "assets/editorial/boat-battery-securement-photo-hero.webp",
       "cranberry-lake-family-planning-photo-hero": "assets/editorial/cranberry-lake-family-planning-photo-hero.webp",
       "gasoline-odor-response-photo-hero": "assets/editorial/gasoline-odor-response-photo-hero.webp",
+      "boat-trailer-spare-system-photo-hero": "assets/editorial/boat-trailer-spare-system-photo-hero.webp",
+      "black-lake-family-planning-photo-hero": "assets/editorial/black-lake-family-planning-photo-hero.webp",
+      "rope-propeller-response-photo-hero": "assets/editorial/rope-propeller-response-photo-hero.webp",
     };
     const heroPath = heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);

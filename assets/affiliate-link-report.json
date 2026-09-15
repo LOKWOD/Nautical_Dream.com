@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-13T15:59:40.852Z",
+  "generatedAt": "2026-09-15T16:05:17.719Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 145,
-    "commercialLinks": 310,
-    "activeAffiliateLinks": 310,
+    "eligiblePages": 146,
+    "commercialLinks": 313,
+    "activeAffiliateLinks": 313,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 310,
+    "amazonAffiliateLinks": 313,
     "fallbackLinks": 0,
-    "changedPages": 90
+    "changedPages": 91
   },
   "links": [
     {
@@ -555,7 +555,7 @@
       "page": "boat-battery-box-tray-hold-down-guide.html",
       "key": "boat-battery-box-tray-hold-down-guide.html::vented-marine-battery-box-with-hold-down-strap",
       "product": "vented marine battery box with hold down strap",
-      "visibleText": "Compare vented marine battery boxes",
+      "visibleText": "Compare vented marine battery boxes with hold-down straps on Amazon",
       "originalUrl": "https://www.ecfr.gov/current/title-33/chapter-I/subchapter-S/part-183/subpart-I/subject-group-ECFR32d60ecf0343cd4/section-183.420",
       "destinationUrl": "https://www.amazon.com/s?k=vented+marine+battery+box+with+hold+down+strap&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -566,7 +566,7 @@
       "page": "boat-battery-box-tray-hold-down-guide.html",
       "key": "boat-battery-box-tray-hold-down-guide.html::marine-battery-tray-crossbar-hold-down-kit",
       "product": "marine battery tray crossbar hold down kit",
-      "visibleText": "Compare rigid marine battery trays and crossbar kits",
+      "visibleText": "Compare marine battery trays with crossbar hold-downs on Amazon",
       "originalUrl": "https://www.uscgboating.org/images/514.PDF",
       "destinationUrl": "https://www.amazon.com/s?k=marine+battery+tray+crossbar+hold+down+kit&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -577,7 +577,7 @@
       "page": "boat-battery-box-tray-hold-down-guide.html",
       "key": "boat-battery-box-tray-hold-down-guide.html::marine-battery-terminal-protective-boots-red-black",
       "product": "marine battery terminal protective boots red black",
-      "visibleText": "Compare marine terminal boots",
+      "visibleText": "Compare marine battery terminal protective boots on Amazon",
       "originalUrl": "https://www.ecfr.gov/current/title-33/chapter-I/subchapter-S/part-183/subpart-I",
       "destinationUrl": "https://www.amazon.com/s?k=marine+battery+terminal+protective+boots+red+black&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1636,6 +1636,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.crcindustries.com/crc-marine/",
       "destinationUrl": "https://www.amazon.com/s?k=CRC+Marine+Heavy+Duty+Corrosion+Inhibitor&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-spare-tire-system-guide.html",
+      "key": "boat-trailer-spare-tire-system-guide.html::st-boat-trailer-tire-and-wheel-assembly",
+      "product": "ST boat trailer tire and wheel assembly",
+      "visibleText": "Compare ST trailer tire-and-wheel assemblies",
+      "originalUrl": "https://www.nhtsa.gov/vehicle-safety/tires",
+      "destinationUrl": "https://www.amazon.com/s?k=ST+boat+trailer+tire+and+wheel+assembly&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-spare-tire-system-guide.html",
+      "key": "boat-trailer-spare-tire-system-guide.html::galvanized-boat-trailer-spare-tire-carrier",
+      "product": "galvanized boat trailer spare tire carrier",
+      "visibleText": "Compare boat-trailer spare-tire carriers",
+      "originalUrl": "https://www.dextergroup.com/resources/",
+      "destinationUrl": "https://www.amazon.com/s?k=galvanized+boat+trailer+spare+tire+carrier&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-spare-tire-system-guide.html",
+      "key": "boat-trailer-spare-tire-system-guide.html::trailer-lug-wrench-and-socket-set",
+      "product": "trailer lug wrench and socket set",
+      "visibleText": "Compare trailer lug-wrench and socket sets",
+      "originalUrl": "https://www.nhtsa.gov/vehicle-safety/tires",
+      "destinationUrl": "https://www.amazon.com/s?k=trailer+lug+wrench+and+socket+set&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
