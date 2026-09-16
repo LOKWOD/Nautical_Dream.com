@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T16:05:17.719Z",
+  "generatedAt": "2026-09-16T15:22:38.985Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 146,
-    "commercialLinks": 313,
-    "activeAffiliateLinks": 313,
+    "eligiblePages": 148,
+    "commercialLinks": 316,
+    "activeAffiliateLinks": 316,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 313,
+    "amazonAffiliateLinks": 316,
     "fallbackLinks": 0,
-    "changedPages": 91
+    "changedPages": 92
   },
   "links": [
     {
@@ -1641,10 +1641,43 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-trailer-security-coupler-wheel-lock-guide.html",
+      "key": "boat-trailer-security-coupler-wheel-lock-guide.html::boat-trailer-coupler-lock-matched-to-coupler-style-and-ball-size",
+      "product": "boat trailer coupler lock matched to coupler style and ball size",
+      "visibleText": "Compare boat-trailer coupler locks",
+      "originalUrl": "https://www.nhtsa.gov/road-safety/tire-safety",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+coupler+lock+matched+to+coupler+style+and+ball+size&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-security-coupler-wheel-lock-guide.html",
+      "key": "boat-trailer-security-coupler-wheel-lock-guide.html::locking-hitch-receiver-pin-matched-to-receiver-and-pin-diameter",
+      "product": "locking hitch receiver pin matched to receiver and pin diameter",
+      "visibleText": "Compare locking receiver pins",
+      "originalUrl": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811433.pdf",
+      "destinationUrl": "https://www.amazon.com/s?k=locking+hitch+receiver+pin+matched+to+receiver+and+pin+diameter&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-security-coupler-wheel-lock-guide.html",
+      "key": "boat-trailer-security-coupler-wheel-lock-guide.html::trailer-wheel-clamp-sized-for-boat-trailer-tire-and-fender-clearance",
+      "product": "trailer wheel clamp sized for boat trailer tire and fender clearance",
+      "visibleText": "Compare trailer wheel clamps",
+      "originalUrl": "https://www.nicb.org/prevent-fraud-theft",
+      "destinationUrl": "https://www.amazon.com/s?k=trailer+wheel+clamp+sized+for+boat+trailer+tire+and+fender+clearance&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-trailer-spare-tire-system-guide.html",
       "key": "boat-trailer-spare-tire-system-guide.html::st-boat-trailer-tire-and-wheel-assembly",
       "product": "ST boat trailer tire and wheel assembly",
-      "visibleText": "Compare ST trailer tire-and-wheel assemblies",
+      "visibleText": "Compare ST boat-trailer tire-and-wheel assemblies on Amazon",
       "originalUrl": "https://www.nhtsa.gov/vehicle-safety/tires",
       "destinationUrl": "https://www.amazon.com/s?k=ST+boat+trailer+tire+and+wheel+assembly&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1655,7 +1688,7 @@
       "page": "boat-trailer-spare-tire-system-guide.html",
       "key": "boat-trailer-spare-tire-system-guide.html::galvanized-boat-trailer-spare-tire-carrier",
       "product": "galvanized boat trailer spare tire carrier",
-      "visibleText": "Compare boat-trailer spare-tire carriers",
+      "visibleText": "Compare galvanized boat-trailer spare-tire carriers on Amazon",
       "originalUrl": "https://www.dextergroup.com/resources/",
       "destinationUrl": "https://www.amazon.com/s?k=galvanized+boat+trailer+spare+tire+carrier&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1666,7 +1699,7 @@
       "page": "boat-trailer-spare-tire-system-guide.html",
       "key": "boat-trailer-spare-tire-system-guide.html::trailer-lug-wrench-and-socket-set",
       "product": "trailer lug wrench and socket set",
-      "visibleText": "Compare trailer lug-wrench and socket sets",
+      "visibleText": "Compare trailer lug-wrench and socket sets on Amazon",
       "originalUrl": "https://www.nhtsa.gov/vehicle-safety/tires",
       "destinationUrl": "https://www.amazon.com/s?k=trailer+lug+wrench+and+socket+set&tag=nauticaldr087-20",
       "retailer": "Amazon",
