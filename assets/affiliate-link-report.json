@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T15:22:38.985Z",
+  "generatedAt": "2026-09-17T16:13:55.518Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 148,
-    "commercialLinks": 316,
-    "activeAffiliateLinks": 316,
+    "eligiblePages": 149,
+    "commercialLinks": 319,
+    "activeAffiliateLinks": 319,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 316,
+    "amazonAffiliateLinks": 319,
     "fallbackLinks": 0,
-    "changedPages": 92
+    "changedPages": 93
   },
   "links": [
     {
@@ -1058,6 +1058,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
+      "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::replacement-marine-engine-cutoff-switch-lanyard-matched-to-exact-switch-key",
+      "product": "replacement marine engine cutoff switch lanyard matched to exact switch key",
+      "visibleText": "Compare replacement engine-cutoff lanyards",
+      "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-switch-faq.php",
+      "destinationUrl": "https://www.amazon.com/s?k=replacement+marine+engine+cutoff+switch+lanyard+matched+to+exact+switch+key&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
+      "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::wireless-marine-engine-cutoff-switch-system-compatible-with-boat-and-engine",
+      "product": "wireless marine engine cutoff switch system compatible with boat and engine",
+      "visibleText": "Compare wireless engine-cutoff systems",
+      "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-switch-faq.php",
+      "destinationUrl": "https://www.amazon.com/s?k=wireless+marine+engine+cutoff+switch+system+compatible+with+boat+and+engine&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
+      "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::spare-marine-engine-cutoff-switch-lanyard-key-set-matched-to-exact-switch",
+      "product": "spare marine engine cutoff switch lanyard key set matched to exact switch",
+      "visibleText": "Compare spare lanyard and key sets",
+      "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-switch-faq.php",
+      "destinationUrl": "https://www.amazon.com/s?k=spare+marine+engine+cutoff+switch+lanyard+key+set+matched+to+exact+switch&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-fender-buying-guide.html",
       "key": "boat-fender-buying-guide.html::polyform-g-series-boat-fender",
       "product": "Polyform G Series Boat Fender",
@@ -1644,7 +1677,7 @@
       "page": "boat-trailer-security-coupler-wheel-lock-guide.html",
       "key": "boat-trailer-security-coupler-wheel-lock-guide.html::boat-trailer-coupler-lock-matched-to-coupler-style-and-ball-size",
       "product": "boat trailer coupler lock matched to coupler style and ball size",
-      "visibleText": "Compare boat-trailer coupler locks",
+      "visibleText": "Compare boat-trailer coupler locks on Amazon",
       "originalUrl": "https://www.nhtsa.gov/road-safety/tire-safety",
       "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+coupler+lock+matched+to+coupler+style+and+ball+size&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1655,7 +1688,7 @@
       "page": "boat-trailer-security-coupler-wheel-lock-guide.html",
       "key": "boat-trailer-security-coupler-wheel-lock-guide.html::locking-hitch-receiver-pin-matched-to-receiver-and-pin-diameter",
       "product": "locking hitch receiver pin matched to receiver and pin diameter",
-      "visibleText": "Compare locking receiver pins",
+      "visibleText": "Compare locking hitch-receiver pins on Amazon",
       "originalUrl": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811433.pdf",
       "destinationUrl": "https://www.amazon.com/s?k=locking+hitch+receiver+pin+matched+to+receiver+and+pin+diameter&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1666,7 +1699,7 @@
       "page": "boat-trailer-security-coupler-wheel-lock-guide.html",
       "key": "boat-trailer-security-coupler-wheel-lock-guide.html::trailer-wheel-clamp-sized-for-boat-trailer-tire-and-fender-clearance",
       "product": "trailer wheel clamp sized for boat trailer tire and fender clearance",
-      "visibleText": "Compare trailer wheel clamps",
+      "visibleText": "Compare boat-trailer wheel clamps on Amazon",
       "originalUrl": "https://www.nicb.org/prevent-fraud-theft",
       "destinationUrl": "https://www.amazon.com/s?k=trailer+wheel+clamp+sized+for+boat+trailer+tire+and+fender+clearance&tag=nauticaldr087-20",
       "retailer": "Amazon",

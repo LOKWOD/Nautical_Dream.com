@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["schroon-lake-family-boating.html", "Schroon Lake Family Boat Plan"],
     ["saratoga-lake-family-boating.html", "Saratoga Lake Family Boat Plan"],
     ["black-lake-family-boating.html", "Black Lake Family Boat Plan"],
     ["cranberry-lake-family-boating.html", "Cranberry Lake Family Boat Plan"],
@@ -31,6 +32,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-engine-cutoff-switch-lanyard-wireless-guide.html", "Boat Engine Cutoff Switch Guide"],
     ["boat-trailer-security-coupler-wheel-lock-guide.html", "Boat Trailer Security Layers Guide"],
     ["boat-trailer-spare-tire-system-guide.html", "Boat Trailer Spare-Tire System Guide"],
     ["boat-battery-box-tray-hold-down-guide.html", "Boat Battery Securement Guide"],
@@ -57,6 +59,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-runs-aground-response.html", "Boat Grounding Response Matrix"],
     ["used-boat-title-hin-paperwork-guide.html", "Used Boat Title, HIN and Paperwork Guide"],
     ["rope-in-boat-propeller-response.html", "Rope-in-Propeller Response"],
     ["gasoline-odor-boat-response.html", "Gasoline-Odor Response"],

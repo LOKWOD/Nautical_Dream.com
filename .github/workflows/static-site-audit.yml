@@ -34,5 +34,6 @@ jobs:
           node scripts/audit-daily-2026-09-13.mjs
           node scripts/audit-daily-2026-09-15.mjs
           node scripts/audit-daily-2026-09-16.mjs
+          node scripts/audit-daily-2026-09-17.mjs
           node scripts/audit-static-site.mjs
           node scripts/audit-seo.mjs .

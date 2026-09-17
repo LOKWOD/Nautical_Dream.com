@@ -25,6 +25,7 @@
     "build:publication:2026-09-13": "node scripts/build-publication-2026-09-13.mjs",
     "build:publication:2026-09-15": "node scripts/build-publication-2026-09-15.mjs",
     "build:publication:2026-09-16": "node scripts/build-publication-2026-09-16.mjs",
+    "build:publication:2026-09-17": "node scripts/build-publication-2026-09-17.mjs",
     "build:contextual-products": "node scripts/inject-contextual-products.mjs .",
     "build:affiliate": "node scripts/inject-affiliate-links.mjs",
     "optimize:seo": "node scripts/optimize-seo.mjs .",
