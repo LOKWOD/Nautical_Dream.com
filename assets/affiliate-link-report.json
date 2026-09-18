@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-17T16:13:55.518Z",
+  "generatedAt": "2026-09-18T16:00:15.217Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 149,
-    "commercialLinks": 319,
-    "activeAffiliateLinks": 319,
+    "eligiblePages": 151,
+    "commercialLinks": 322,
+    "activeAffiliateLinks": 322,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 319,
+    "amazonAffiliateLinks": 322,
     "fallbackLinks": 0,
-    "changedPages": 93
+    "changedPages": 94
   },
   "links": [
     {
@@ -618,6 +618,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html",
+      "key": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html::marine-dc-battery-voltage-monitor-panel-display",
+      "product": "marine DC battery voltage monitor panel display",
+      "visibleText": "Compare marine DC voltage monitors",
+      "originalUrl": "https://www.bluesea.com/products/category/6/39/Meters/Digital_Meters",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+DC+battery+voltage+monitor+panel+display&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html",
+      "key": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html::marine-smart-battery-shunt-monitor-bluetooth",
+      "product": "marine smart battery shunt monitor Bluetooth",
+      "visibleText": "Compare smart marine shunt monitors",
+      "originalUrl": "https://www.victronenergy.com/battery-monitors/smart-battery-shunt",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+smart+battery+shunt+monitor+Bluetooth&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html",
+      "key": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html::marine-battery-state-of-charge-monitor-with-shunt",
+      "product": "marine battery state of charge monitor with shunt",
+      "visibleText": "Compare marine state-of-charge monitors with shunts",
+      "originalUrl": "https://www.bluesea.com/products/1830/M2_DC_Multimeter_with_SoC",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+battery+state+of+charge+monitor+with+shunt&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-battery-winter-storage.html",
       "key": "boat-battery-winter-storage.html::noco-genius5-smart-battery-charger",
       "product": "NOCO GENIUS5 Smart Battery Charger",
@@ -1061,7 +1094,7 @@
       "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
       "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::replacement-marine-engine-cutoff-switch-lanyard-matched-to-exact-switch-key",
       "product": "replacement marine engine cutoff switch lanyard matched to exact switch key",
-      "visibleText": "Compare replacement engine-cutoff lanyards",
+      "visibleText": "Compare replacement engine-cutoff lanyards on Amazon",
       "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-switch-faq.php",
       "destinationUrl": "https://www.amazon.com/s?k=replacement+marine+engine+cutoff+switch+lanyard+matched+to+exact+switch+key&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1072,7 +1105,7 @@
       "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
       "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::wireless-marine-engine-cutoff-switch-system-compatible-with-boat-and-engine",
       "product": "wireless marine engine cutoff switch system compatible with boat and engine",
-      "visibleText": "Compare wireless engine-cutoff systems",
+      "visibleText": "Compare wireless engine-cutoff systems on Amazon",
       "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-switch-faq.php",
       "destinationUrl": "https://www.amazon.com/s?k=wireless+marine+engine+cutoff+switch+system+compatible+with+boat+and+engine&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1083,7 +1116,7 @@
       "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
       "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::spare-marine-engine-cutoff-switch-lanyard-key-set-matched-to-exact-switch",
       "product": "spare marine engine cutoff switch lanyard key set matched to exact switch",
-      "visibleText": "Compare spare lanyard and key sets",
+      "visibleText": "Compare spare engine-cutoff lanyard and key sets on Amazon",
       "originalUrl": "https://uscgboating.org/recreational-boaters/engine-cut-off-switch-faq.php",
       "destinationUrl": "https://www.amazon.com/s?k=spare+marine+engine+cutoff+switch+lanyard+key+set+matched+to+exact+switch&tag=nauticaldr087-20",
       "retailer": "Amazon",
