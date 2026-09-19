@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-18T16:00:15.217Z",
+  "generatedAt": "2026-09-19T16:08:09.337Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 151,
-    "commercialLinks": 322,
-    "activeAffiliateLinks": 322,
+    "eligiblePages": 153,
+    "commercialLinks": 325,
+    "activeAffiliateLinks": 325,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 322,
+    "amazonAffiliateLinks": 325,
     "fallbackLinks": 0,
-    "changedPages": 94
+    "changedPages": 95
   },
   "links": [
     {
@@ -621,7 +621,7 @@
       "page": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html",
       "key": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html::marine-dc-battery-voltage-monitor-panel-display",
       "product": "marine DC battery voltage monitor panel display",
-      "visibleText": "Compare marine DC voltage monitors",
+      "visibleText": "Compare marine DC voltage monitors on Amazon",
       "originalUrl": "https://www.bluesea.com/products/category/6/39/Meters/Digital_Meters",
       "destinationUrl": "https://www.amazon.com/s?k=marine+DC+battery+voltage+monitor+panel+display&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -632,7 +632,7 @@
       "page": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html",
       "key": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html::marine-smart-battery-shunt-monitor-bluetooth",
       "product": "marine smart battery shunt monitor Bluetooth",
-      "visibleText": "Compare smart marine shunt monitors",
+      "visibleText": "Compare smart marine battery shunt monitors on Amazon",
       "originalUrl": "https://www.victronenergy.com/battery-monitors/smart-battery-shunt",
       "destinationUrl": "https://www.amazon.com/s?k=marine+smart+battery+shunt+monitor+Bluetooth&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -643,7 +643,7 @@
       "page": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html",
       "key": "boat-battery-monitor-shunt-voltage-bluetooth-guide.html::marine-battery-state-of-charge-monitor-with-shunt",
       "product": "marine battery state of charge monitor with shunt",
-      "visibleText": "Compare marine state-of-charge monitors with shunts",
+      "visibleText": "Compare marine state-of-charge monitors with shunts on Amazon",
       "originalUrl": "https://www.bluesea.com/products/1830/M2_DC_Multimeter_with_SoC",
       "destinationUrl": "https://www.amazon.com/s?k=marine+battery+state+of+charge+monitor+with+shunt&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1504,6 +1504,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://no.co/products/power/boost/",
       "destinationUrl": "https://www.amazon.com/s?k=protective+hard+case+sized+for+a+portable+lithium+jump+starter+and+clamps&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-spare-propeller-kit-guide.html",
+      "key": "boat-spare-propeller-kit-guide.html::outboard-replacement-propeller-matched-by-engine-model-diameter-pitch-and-rotation",
+      "product": "outboard replacement propeller matched by engine model diameter pitch and rotation",
+      "visibleText": "Compare model-matched replacement propellers",
+      "originalUrl": "https://www.mercurymarine.com/us/en/propellers/selector",
+      "destinationUrl": "https://www.amazon.com/s?k=outboard+replacement+propeller+matched+by+engine+model+diameter+pitch+and+rotation&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-spare-propeller-kit-guide.html",
+      "key": "boat-spare-propeller-kit-guide.html::replaceable-boat-propeller-hub-kit-matched-to-engine-and-propeller-family",
+      "product": "replaceable boat propeller hub kit matched to engine and propeller family",
+      "visibleText": "Compare model-matched propeller hub kits",
+      "originalUrl": "https://www.mercurymarine.com/us/en/parts-and-service/parts/propellers",
+      "destinationUrl": "https://www.amazon.com/s?k=replaceable+boat+propeller+hub+kit+matched+to+engine+and+propeller+family&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-spare-propeller-kit-guide.html",
+      "key": "boat-spare-propeller-kit-guide.html::marine-propeller-wrench-and-spare-retaining-hardware-kit-matched-to-outboard",
+      "product": "marine propeller wrench and spare retaining hardware kit matched to outboard",
+      "visibleText": "Compare marine propeller wrench and hardware kits",
+      "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+propeller+wrench+and+spare+retaining+hardware+kit+matched+to+outboard&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
