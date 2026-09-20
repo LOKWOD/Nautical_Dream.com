@@ -340,7 +340,10 @@ const priorityFor = (page) => page.file === "index.html" ? "1.0" : ["destination
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${indexable.map((page)=>`  <url><loc>${xml(page.canonical)}</loc><lastmod>${page.modified}</lastmod><changefreq>${page.file === "index.html" ? "weekly" : "monthly"}</changefreq><priority>${priorityFor(page)}</priority></url>`).join("\n")}\n</urlset>\n`;
 writeFileSync(join(root, "sitemap.xml"), sitemap);
 
-const latest = indexable.filter((page) => page.article).sort((a,b)=>b.modified.localeCompare(a.modified) || a.title.localeCompare(b.title)).slice(0, 30);
+// Keep enough publication history for durable RSS discovery and the dated
+// publication audits. A 30-item cap dropped still-current daily batches after
+// only ten publishing days, breaking permanent feed discovery.
+const latest = indexable.filter((page) => page.article).sort((a,b)=>b.modified.localeCompare(a.modified) || a.title.localeCompare(b.title)).slice(0, 90);
 const feed = `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>Nautical Dream</title><link>${origin}/</link><description>Practical boating destinations, gear guidance and field-tested planning.</description><language>en-us</language><lastBuildDate>${new Date(`${today}T16:00:00Z`).toUTCString()}</lastBuildDate>${latest.map((page)=>`<item><title>${xml(page.h1)}</title><link>${xml(page.canonical)}</link><guid isPermaLink="true">${xml(page.canonical)}</guid><pubDate>${new Date(`${page.modified}T12:00:00Z`).toUTCString()}</pubDate><description>${xml(page.description)}</description></item>`).join("")}</channel></rss>\n`;
 writeFileSync(join(root, "feed.xml"), feed);
 
