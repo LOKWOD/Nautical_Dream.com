@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T16:08:09.337Z",
+  "generatedAt": "2026-09-20T16:08:47.007Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 153,
-    "commercialLinks": 325,
-    "activeAffiliateLinks": 325,
+    "eligiblePages": 155,
+    "commercialLinks": 328,
+    "activeAffiliateLinks": 328,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 325,
+    "amazonAffiliateLinks": 328,
     "fallbackLinks": 0,
-    "changedPages": 95
+    "changedPages": 96
   },
   "links": [
     {
@@ -1025,6 +1025,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-drain-plug-transom-garboard-guide.html",
+      "key": "boat-drain-plug-transom-garboard-guide.html::marine-t-handle-expanding-transom-drain-plug-matched-by-tube-diameter",
+      "product": "marine T-handle expanding transom drain plug matched by tube diameter",
+      "visibleText": "view diameter-matched T-handle boat drain plugs",
+      "originalUrl": "https://www.attwoodmarine.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+T-handle+expanding+transom+drain+plug+matched+by+tube+diameter&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-drain-plug-transom-garboard-guide.html",
+      "key": "boat-drain-plug-transom-garboard-guide.html::marine-lever-lock-expanding-drain-plug-matched-by-drain-tube-diameter",
+      "product": "marine lever-lock expanding drain plug matched by drain tube diameter",
+      "visibleText": "View diameter-matched lever-lock drain plugs",
+      "originalUrl": "https://www.attwoodmarine.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+lever-lock+expanding+drain+plug+matched+by+drain+tube+diameter&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-drain-plug-transom-garboard-guide.html",
+      "key": "boat-drain-plug-transom-garboard-guide.html::threaded-marine-garboard-drain-plug-matched-by-fitting-manufacturer-thread-and-material",
+      "product": "threaded marine garboard drain plug matched by fitting manufacturer thread and material",
+      "visibleText": "View model-matched threaded garboard drain plugs",
+      "originalUrl": "https://www.perko.com/",
+      "destinationUrl": "https://www.amazon.com/s?k=threaded+marine+garboard+drain+plug+matched+by+fitting+manufacturer+thread+and+material&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-dry-bag-waterproof-case-guide.html",
       "key": "boat-dry-bag-waterproof-case-guide.html::marine-roll-top-dry-bag-for-family-clothing-and-towels",
       "product": "marine roll top dry bag for family clothing and towels",
@@ -1512,7 +1545,7 @@
       "page": "boat-spare-propeller-kit-guide.html",
       "key": "boat-spare-propeller-kit-guide.html::outboard-replacement-propeller-matched-by-engine-model-diameter-pitch-and-rotation",
       "product": "outboard replacement propeller matched by engine model diameter pitch and rotation",
-      "visibleText": "Compare model-matched replacement propellers",
+      "visibleText": "Compare model-matched replacement boat propellers on Amazon",
       "originalUrl": "https://www.mercurymarine.com/us/en/propellers/selector",
       "destinationUrl": "https://www.amazon.com/s?k=outboard+replacement+propeller+matched+by+engine+model+diameter+pitch+and+rotation&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1523,7 +1556,7 @@
       "page": "boat-spare-propeller-kit-guide.html",
       "key": "boat-spare-propeller-kit-guide.html::replaceable-boat-propeller-hub-kit-matched-to-engine-and-propeller-family",
       "product": "replaceable boat propeller hub kit matched to engine and propeller family",
-      "visibleText": "Compare model-matched propeller hub kits",
+      "visibleText": "Compare model-matched boat propeller hub kits on Amazon",
       "originalUrl": "https://www.mercurymarine.com/us/en/parts-and-service/parts/propellers",
       "destinationUrl": "https://www.amazon.com/s?k=replaceable+boat+propeller+hub+kit+matched+to+engine+and+propeller+family&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1534,7 +1567,7 @@
       "page": "boat-spare-propeller-kit-guide.html",
       "key": "boat-spare-propeller-kit-guide.html::marine-propeller-wrench-and-spare-retaining-hardware-kit-matched-to-outboard",
       "product": "marine propeller wrench and spare retaining hardware kit matched to outboard",
-      "visibleText": "Compare marine propeller wrench and hardware kits",
+      "visibleText": "Compare marine propeller wrench and hardware kits on Amazon",
       "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
       "destinationUrl": "https://www.amazon.com/s?k=marine+propeller+wrench+and+spare+retaining+hardware+kit+matched+to+outboard&tag=nauticaldr087-20",
       "retailer": "Amazon",
