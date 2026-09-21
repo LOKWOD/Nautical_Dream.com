@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-20T16:08:47.007Z",
+  "generatedAt": "2026-09-21T16:14:01.751Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 155,
-    "commercialLinks": 328,
-    "activeAffiliateLinks": 328,
+    "eligiblePages": 157,
+    "commercialLinks": 331,
+    "activeAffiliateLinks": 331,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 328,
+    "amazonAffiliateLinks": 331,
     "fallbackLinks": 0,
-    "changedPages": 96
+    "changedPages": 66
   },
   "links": [
     {
@@ -1028,7 +1028,7 @@
       "page": "boat-drain-plug-transom-garboard-guide.html",
       "key": "boat-drain-plug-transom-garboard-guide.html::marine-t-handle-expanding-transom-drain-plug-matched-by-tube-diameter",
       "product": "marine T-handle expanding transom drain plug matched by tube diameter",
-      "visibleText": "view diameter-matched T-handle boat drain plugs",
+      "visibleText": "View diameter-matched T-handle boat drain plugs on Amazon",
       "originalUrl": "https://www.attwoodmarine.com/",
       "destinationUrl": "https://www.amazon.com/s?k=marine+T-handle+expanding+transom+drain+plug+matched+by+tube+diameter&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1039,7 +1039,7 @@
       "page": "boat-drain-plug-transom-garboard-guide.html",
       "key": "boat-drain-plug-transom-garboard-guide.html::marine-lever-lock-expanding-drain-plug-matched-by-drain-tube-diameter",
       "product": "marine lever-lock expanding drain plug matched by drain tube diameter",
-      "visibleText": "View diameter-matched lever-lock drain plugs",
+      "visibleText": "View diameter-matched lever-lock boat drain plugs on Amazon",
       "originalUrl": "https://www.attwoodmarine.com/",
       "destinationUrl": "https://www.amazon.com/s?k=marine+lever-lock+expanding+drain+plug+matched+by+drain+tube+diameter&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1050,7 +1050,7 @@
       "page": "boat-drain-plug-transom-garboard-guide.html",
       "key": "boat-drain-plug-transom-garboard-guide.html::threaded-marine-garboard-drain-plug-matched-by-fitting-manufacturer-thread-and-material",
       "product": "threaded marine garboard drain plug matched by fitting manufacturer thread and material",
-      "visibleText": "View model-matched threaded garboard drain plugs",
+      "visibleText": "View model-matched threaded garboard drain plugs on Amazon",
       "originalUrl": "https://www.perko.com/",
       "destinationUrl": "https://www.amazon.com/s?k=threaded+marine+garboard+drain+plug+matched+by+fitting+manufacturer+thread+and+material&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1460,6 +1460,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.starbrite.com/salt-off/",
       "destinationUrl": "https://www.amazon.com/s?k=Star+brite+Salt+Off+Concentrate+Kit+with+Applicator&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-moisture-meter-pinless-pin-guide.html",
+      "key": "boat-moisture-meter-pinless-pin-guide.html::marine-pinless-moisture-meter-with-comparative-grp-scale-and-calibration-guidance",
+      "product": "marine pinless moisture meter with comparative GRP scale and calibration guidance",
+      "visibleText": "compare marine pinless moisture meters",
+      "originalUrl": "https://tramexmeters.com/moisture-meters/skipper-moisture-meter-5",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+pinless+moisture+meter+with+comparative+GRP+scale+and+calibration+guidance&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-moisture-meter-pinless-pin-guide.html",
+      "key": "boat-moisture-meter-pinless-pin-guide.html::dual-function-pin-and-non-invasive-moisture-meter-with-manufacturer-manual",
+      "product": "dual function pin and non invasive moisture meter with manufacturer manual",
+      "visibleText": "Compare dual-function pin and pinless meters",
+      "originalUrl": "https://www.protimeter.com/surveymaster-2024-model",
+      "destinationUrl": "https://www.amazon.com/s?k=dual+function+pin+and+non+invasive+moisture+meter+with+manufacturer+manual&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-moisture-meter-pinless-pin-guide.html",
+      "key": "boat-moisture-meter-pinless-pin-guide.html::manufacturer-compatible-moisture-meter-calibration-check-box",
+      "product": "manufacturer compatible moisture meter calibration check box",
+      "visibleText": "View compatible calibration check blocks",
+      "originalUrl": "https://tramexmeters.com/moisture-meters/skipper-moisture-meter-5/skipper-5-support",
+      "destinationUrl": "https://www.amazon.com/s?k=manufacturer+compatible+moisture+meter+calibration+check+box&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

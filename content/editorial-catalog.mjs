@@ -1,5 +1,9 @@
 export const catalog = {
   destinations: [
+    ["canadarago-lake-family-boating.html", "Canadarago Lake Family Boat Plan"],
+    ["butterfield-lake-family-boating.html", "Butterfield Lake Family Boat Plan"],
+    ["oswego-harbor-family-boating.html", "Oswego Harbor Family Boat Plan"],
+    ["little-falls-erie-canal-family-boating.html", "Little Falls Erie Canal Family Boat Plan"],
     ["schroon-lake-family-boating.html", "Schroon Lake Family Boat Plan"],
     ["saratoga-lake-family-boating.html", "Saratoga Lake Family Boat Plan"],
     ["black-lake-family-boating.html", "Black Lake Family Boat Plan"],
@@ -32,6 +36,10 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-moisture-meter-pinless-pin-guide.html", "Boat Moisture Meter Selection Guide"],
+    ["boat-drain-plug-transom-garboard-guide.html", "Boat Drain-Plug Fit Guide"],
+    ["boat-spare-propeller-kit-guide.html", "Boat Spare-Propeller System Guide"],
+    ["boat-battery-monitor-shunt-voltage-bluetooth-guide.html", "Boat Battery Monitor Guide"],
     ["boat-engine-cutoff-switch-lanyard-wireless-guide.html", "Boat Engine Cutoff Switch Guide"],
     ["boat-trailer-security-coupler-wheel-lock-guide.html", "Boat Trailer Security Layers Guide"],
     ["boat-trailer-spare-tire-system-guide.html", "Boat Trailer Spare-Tire System Guide"],
@@ -59,6 +67,10 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-capacity-plate-persons-weight-horsepower-guide.html", "Boat Capacity-Plate Loading Guide"],
+    ["new-york-boat-registration-documents-guide.html", "New York Boat Registration Documents"],
+    ["swimming-from-boat-with-kids-safety-plan.html", "Family Swim-Off-Boat Safety Plan"],
+    ["boat-tow-vs-salvage-assistance-guide.html", "Boat Tow vs Salvage Guide"],
     ["boat-runs-aground-response.html", "Boat Grounding Response Matrix"],
     ["used-boat-title-hin-paperwork-guide.html", "Used Boat Title, HIN and Paperwork Guide"],
     ["rope-in-boat-propeller-response.html", "Rope-in-Propeller Response"],

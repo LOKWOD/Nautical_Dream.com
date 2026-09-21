@@ -59,11 +59,22 @@ function schemaMarkup(page, hero) {
     image: hero?.src ? `https://nauticaldream.com/${hero.src}` : undefined,
     datePublished: page.datePublished || "2026-08-05",
     dateModified: page.dateModified || "2026-08-05",
-    author: { "@type": "Organization", name: "Nautical Dream Editorial Desk" },
-    publisher: { "@type": "Organization", name: "Nautical Dream", url: "https://nauticaldream.com/" },
-    mainEntityOfPage: `https://nauticaldream.com/${page.slug}`,
+    author: { "@type": "Organization", "@id": "https://nauticaldream.com/editorial-team.html#desk", name: "Nautical Dream Editorial Desk", url: "https://nauticaldream.com/editorial-team.html" },
+    publisher: { "@type": "Organization", "@id": "https://nauticaldream.com/#organization", name: "Nautical Dream", url: "https://nauticaldream.com/" },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://nauticaldream.com/${page.slug}` },
+    url: `https://nauticaldream.com/${page.slug}`,
+    inLanguage: "en-US",
   };
-  const schemas = [article];
+  const hubName = page.backLabel?.replace(/^Back to\s+/i, "") || "Journal";
+  const schemas = [article, {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://nauticaldream.com/" },
+      { "@type": "ListItem", position: 2, name: hubName, item: `https://nauticaldream.com/${page.backHref}` },
+      { "@type": "ListItem", position: 3, name: page.title },
+    ],
+  }];
   if (page.faqs?.length) schemas.push({
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -108,6 +119,8 @@ export function renderPage(page) {
   const sources = page.sources?.length
     ? `<aside class="source-box" aria-label="Primary sources"><h2>Plan with current information</h2><p>Schedules, rules, prices and operating seasons change. Confirm the details that affect your trip directly with these primary sources:</p><ul>${page.sources.map(([label, url]) => `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a></li>`).join("")}</ul></aside>`
     : "";
+  const hubName = page.backLabel?.replace(/^Back to\s+/i, "") || "Journal";
+  const breadcrumbs = `<nav class="seo-breadcrumbs shell" aria-label="Breadcrumb"><a href="index.html">Home</a><span aria-hidden="true">/</span><a href="${esc(page.backHref)}">${esc(hubName)}</a><span aria-hidden="true">/</span><span aria-current="page">${esc(page.title)}</span></nav>`;
 
   return `<!doctype html>
 <html lang="en">
@@ -123,10 +136,13 @@ export function renderPage(page) {
   <meta property="og:description" content="${esc(page.ogDescription || page.description)}">
   <meta property="og:url" content="https://nauticaldream.com/${esc(page.slug)}">
   ${hero?.src ? `<meta property="og:image" content="https://nauticaldream.com/${esc(hero.src)}">` : ""}
+  ${hero?.src ? `<meta property="og:image:width" content="1600"><meta property="og:image:height" content="900">` : ""}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="${esc(page.ogTitle || page.title)}">
   <meta name="twitter:description" content="${esc(page.ogDescription || page.description)}">
   ${hero?.src ? `<meta name="twitter:image" content="https://nauticaldream.com/${esc(hero.src)}">` : ""}
+  <link rel="alternate" type="application/rss+xml" title="Nautical Dream RSS" href="feed.xml">
+  <link rel="manifest" href="site.webmanifest">
   <link rel="stylesheet" href="styles.css">
   ${page.hero?.className === "diagram-hero" ? `<style>.article-hero.diagram-hero{background:linear-gradient(90deg,rgba(5,25,39,.9) 0%,rgba(5,25,39,.62) 54%,rgba(5,25,39,.16) 100%),var(--hero) center/cover}</style>` : "<!-- Standard hero rendering -->"}
   ${schemaMarkup(page, hero)}
@@ -134,10 +150,11 @@ export function renderPage(page) {
 <body>
 ${header()}
 <main>
+  ${breadcrumbs}
   <section class="article-hero${page.hero?.className ? ` ${esc(page.hero.className)}` : ""}"${heroStyle}><div class="shell"><div class="eyebrow">${esc(page.eyebrow)}</div><h1>${esc(page.title)}</h1><p>${esc(page.dek)}</p></div></section>
   <section class="section"><article class="shell article">
 ${disclosure}
-    <div class="article-meta"><span>By Nautical Dream Editorial Desk</span><span>Updated ${esc(displayDate)}</span><span>${esc(page.readTime || "12 minute read")}</span></div>
+    <div class="article-meta"><span>By <a href="editorial-team.html" rel="author">Nautical Dream Editorial Desk</a></span><span>Updated ${esc(displayDate)}</span><span>${esc(page.readTime || "12 minute read")}</span></div>
     <p class="lede">${page.lede}</p>
 ${facts}
 ${sectionHtml}

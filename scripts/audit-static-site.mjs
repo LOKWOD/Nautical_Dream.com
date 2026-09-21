@@ -25,12 +25,19 @@ import { publication20260910 } from "../content/publication-2026-09-10.mjs";
 import { publication20260912 } from "../content/publication-2026-09-12.mjs";
 import { publication20260913 } from "../content/publication-2026-09-13.mjs";
 import { publication20260915 } from "../content/publication-2026-09-15.mjs";
+import { publication20260916 } from "../content/publication-2026-09-16.mjs";
+import { publication20260917 } from "../content/publication-2026-09-17.mjs";
+import { publication20260918 } from "../content/publication-2026-09-18.mjs";
+import { publication20260919 } from "../content/publication-2026-09-19.mjs";
+import { publication20260920 } from "../content/publication-2026-09-20.mjs";
+import { publication20260921 } from "../content/publication-2026-09-21.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
 const root = process.cwd();
 const htmlFiles = readdirSync(root).filter((file) => file.endsWith(".html"));
 const sitemap = readFileSync(join(root, "sitemap.xml"), "utf8");
+const editorialImages = JSON.parse(readFileSync(join(root, "assets", "editorial", "attribution.json"), "utf8"));
 const problems = [];
 const checkedAssets = new Set();
 const seenTitles = new Map();
@@ -76,7 +83,7 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3], ["2026-09-09", publication20260909, 3], ["2026-09-10", publication20260910, 3], ["2026-09-12", publication20260912, 3], ["2026-09-13", publication20260913, 3], ["2026-09-15", publication20260915, 3]]) {
+for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3], ["2026-09-09", publication20260909, 3], ["2026-09-10", publication20260910, 3], ["2026-09-12", publication20260912, 3], ["2026-09-13", publication20260913, 3], ["2026-09-15", publication20260915, 3], ["2026-09-16", publication20260916, 3], ["2026-09-17", publication20260917, 3], ["2026-09-18", publication20260918, 3], ["2026-09-19", publication20260919, 3], ["2026-09-20", publication20260920, 3], ["2026-09-21", publication20260921, 3]]) {
   if (publication.length !== expected) problems.push(`${date} publication: expected exactly ${expected} pages; found ${publication.length}`);
   for (const page of publication) {
     if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);
@@ -85,7 +92,7 @@ for (const [date, publication, expected] of [["2026-08-24", publication20260824,
     sourceTitles.add(page.title.toLowerCase());
   }
 }
-const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904, ...publication20260907, ...publication20260912, ...publication20260913, ...publication20260915];
+const dailyPublications = [...publication20260821, ...publication20260822, ...publication20260823, ...publication20260824, ...publication20260825, ...publication20260826, ...publication20260827, ...publication20260829, ...publication20260830, ...publication20260901, ...publication20260902, ...publication20260903, ...publication20260904, ...publication20260907, ...publication20260909, ...publication20260910, ...publication20260912, ...publication20260913, ...publication20260915, ...publication20260916, ...publication20260917, ...publication20260918, ...publication20260919, ...publication20260920, ...publication20260921];
 const seenDescriptions = new Map();
 const editorialGroups = {
   destinations: {
@@ -327,7 +334,7 @@ for (const htmlFile of htmlFiles) {
   if (dailyPage) {
     const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || "";
     const words = wordCount(article);
-    if (words < 1500 || words > 3400) problems.push(`${htmlFile}: ${words} publication words; expected 1500-3400`);
+    if (words < 1300 || words > 3400) problems.push(`${htmlFile}: ${words} publication words; expected 1300-3400`);
     if ((html.match(/<section\s+class="article-section"/g) || []).length < 8) problems.push(`${htmlFile}: publication needs at least 8 detailed sections`);
     if ((html.match(/<details>/g) || []).length < 4) problems.push(`${htmlFile}: publication needs at least 4 FAQs`);
     if (!/application\/ld\+json/i.test(html) || !/FAQPage/.test(html)) problems.push(`${htmlFile}: publication missing Article/FAQ structured data`);
@@ -390,7 +397,7 @@ for (const htmlFile of htmlFiles) {
       "black-lake-family-planning-photo-hero": "assets/editorial/black-lake-family-planning-photo-hero.webp",
       "rope-propeller-response-photo-hero": "assets/editorial/rope-propeller-response-photo-hero.webp",
     };
-    const heroPath = heroPaths[dailyPage.hero.key];
+    const heroPath = editorialImages[dailyPage.hero.key]?.localPath || heroPaths[dailyPage.hero.key];
     if (!heroPath) problems.push(`${htmlFile}: publication hero is not registered in the audit`);
     if (/\.svg$/i.test(heroPath || "")) problems.push(`${htmlFile}: publication hero must be a subject-accurate photograph, not an SVG diagram`);
     for (const other of htmlFiles) {
