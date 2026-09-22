@@ -31,6 +31,7 @@ import { publication20260918 } from "../content/publication-2026-09-18.mjs";
 import { publication20260919 } from "../content/publication-2026-09-19.mjs";
 import { publication20260920 } from "../content/publication-2026-09-20.mjs";
 import { publication20260921 } from "../content/publication-2026-09-21.mjs";
+import { publication20260922 } from "../content/publication-2026-09-22.mjs";
 
 const allAuthorityHubs = [...authorityHubs, ...authorityHubsTwo];
 
@@ -83,7 +84,7 @@ for (const page of publication20260823) {
   sourceSlugs.add(page.slug);
   sourceTitles.add(page.title.toLowerCase());
 }
-for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3], ["2026-09-09", publication20260909, 3], ["2026-09-10", publication20260910, 3], ["2026-09-12", publication20260912, 3], ["2026-09-13", publication20260913, 3], ["2026-09-15", publication20260915, 3], ["2026-09-16", publication20260916, 3], ["2026-09-17", publication20260917, 3], ["2026-09-18", publication20260918, 3], ["2026-09-19", publication20260919, 3], ["2026-09-20", publication20260920, 3], ["2026-09-21", publication20260921, 3]]) {
+for (const [date, publication, expected] of [["2026-08-24", publication20260824, 2], ["2026-08-25", publication20260825, 2], ["2026-08-26", publication20260826, 2], ["2026-08-27", publication20260827, 2], ["2026-08-29", publication20260829, 2], ["2026-08-30", publication20260830, 3], ["2026-09-01", publication20260901, 3], ["2026-09-02", publication20260902, 3], ["2026-09-03", publication20260903, 3], ["2026-09-04", publication20260904, 3], ["2026-09-07", publication20260907, 3], ["2026-09-09", publication20260909, 3], ["2026-09-10", publication20260910, 3], ["2026-09-12", publication20260912, 3], ["2026-09-13", publication20260913, 3], ["2026-09-15", publication20260915, 3], ["2026-09-16", publication20260916, 3], ["2026-09-17", publication20260917, 3], ["2026-09-18", publication20260918, 3], ["2026-09-19", publication20260919, 3], ["2026-09-20", publication20260920, 3], ["2026-09-21", publication20260921, 3], ["2026-09-22", publication20260922, 3]]) {
   if (publication.length !== expected) problems.push(`${date} publication: expected exactly ${expected} pages; found ${publication.length}`);
   for (const page of publication) {
     if (sourceSlugs.has(page.slug)) problems.push(`${date} publication: duplicate existing slug ${page.slug}`);

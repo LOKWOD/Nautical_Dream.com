@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-21T16:14:01.751Z",
+  "generatedAt": "2026-09-22T15:45:15.795Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 157,
-    "commercialLinks": 331,
-    "activeAffiliateLinks": 331,
+    "eligiblePages": 159,
+    "commercialLinks": 334,
+    "activeAffiliateLinks": 334,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 331,
+    "amazonAffiliateLinks": 334,
     "fallbackLinks": 0,
-    "changedPages": 66
+    "changedPages": 98
   },
   "links": [
     {
@@ -1311,6 +1311,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-fuel-filter-water-separator-guide.html",
+      "key": "boat-fuel-filter-water-separator-guide.html::marine-spin-on-fuel-water-separator-assemblies-matched-by-fuel-flow-and-approved-applicati",
+      "product": "marine spin-on fuel water separator assemblies matched by fuel flow and approved application",
+      "visibleText": "compare marine fuel/water separator assemblies",
+      "originalUrl": "https://ph.parker.com/us/en/category/filters-collectors-separators-purifiers/fuel-filter-water-separators",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+spin-on+fuel+water+separator+assemblies+matched+by+fuel+flow+and+approved+application&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fuel-filter-water-separator-guide.html",
+      "key": "boat-fuel-filter-water-separator-guide.html::marine-fuel-filter-replacement-elements-matched-to-exact-filter-head-model",
+      "product": "marine fuel filter replacement elements matched to exact filter head model",
+      "visibleText": "compare exact replacement fuel-filter elements",
+      "originalUrl": "https://ph.parker.com/us/en/category/replacement-filter-elements/fuel-filter-replacement-elements",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+replacement+elements+matched+to+exact+filter+head+model&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fuel-filter-water-separator-guide.html",
+      "key": "boat-fuel-filter-water-separator-guide.html::marine-fuel-filter-service-wrench-and-fuel-compatible-absorbent-supplies",
+      "product": "marine fuel filter service wrench and fuel compatible absorbent supplies",
+      "visibleText": "compare marine fuel-filter service tools",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fuel+filter+wrench+spill+absorbent+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+service+wrench+and+fuel+compatible+absorbent+supplies&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-horn-sound-signal-guide.html",
       "key": "boat-horn-sound-signal-guide.html::pealess-marine-safety-whistle-with-life-jacket-clip",
       "product": "pealess marine safety whistle with life jacket clip",
@@ -1468,7 +1501,7 @@
       "page": "boat-moisture-meter-pinless-pin-guide.html",
       "key": "boat-moisture-meter-pinless-pin-guide.html::marine-pinless-moisture-meter-with-comparative-grp-scale-and-calibration-guidance",
       "product": "marine pinless moisture meter with comparative GRP scale and calibration guidance",
-      "visibleText": "compare marine pinless moisture meters",
+      "visibleText": "View marine pinless moisture meters on Amazon",
       "originalUrl": "https://tramexmeters.com/moisture-meters/skipper-moisture-meter-5",
       "destinationUrl": "https://www.amazon.com/s?k=marine+pinless+moisture+meter+with+comparative+GRP+scale+and+calibration+guidance&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1479,7 +1512,7 @@
       "page": "boat-moisture-meter-pinless-pin-guide.html",
       "key": "boat-moisture-meter-pinless-pin-guide.html::dual-function-pin-and-non-invasive-moisture-meter-with-manufacturer-manual",
       "product": "dual function pin and non invasive moisture meter with manufacturer manual",
-      "visibleText": "Compare dual-function pin and pinless meters",
+      "visibleText": "View dual-function pin and pinless moisture meters on Amazon",
       "originalUrl": "https://www.protimeter.com/surveymaster-2024-model",
       "destinationUrl": "https://www.amazon.com/s?k=dual+function+pin+and+non+invasive+moisture+meter+with+manufacturer+manual&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1490,7 +1523,7 @@
       "page": "boat-moisture-meter-pinless-pin-guide.html",
       "key": "boat-moisture-meter-pinless-pin-guide.html::manufacturer-compatible-moisture-meter-calibration-check-box",
       "product": "manufacturer compatible moisture meter calibration check box",
-      "visibleText": "View compatible calibration check blocks",
+      "visibleText": "View moisture-meter calibration check blocks on Amazon",
       "originalUrl": "https://tramexmeters.com/moisture-meters/skipper-moisture-meter-5/skipper-5-support",
       "destinationUrl": "https://www.amazon.com/s?k=manufacturer+compatible+moisture+meter+calibration+check+box&tag=nauticaldr087-20",
       "retailer": "Amazon",

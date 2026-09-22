@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["long-lake-family-boating.html", "Long Lake Family Boat Plan"],
     ["canadarago-lake-family-boating.html", "Canadarago Lake Family Boat Plan"],
     ["butterfield-lake-family-boating.html", "Butterfield Lake Family Boat Plan"],
     ["oswego-harbor-family-boating.html", "Oswego Harbor Family Boat Plan"],
@@ -36,6 +37,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-fuel-filter-water-separator-guide.html", "Boat Fuel Filter and Water Separator Guide"],
     ["boat-moisture-meter-pinless-pin-guide.html", "Boat Moisture Meter Selection Guide"],
     ["boat-drain-plug-transom-garboard-guide.html", "Boat Drain-Plug Fit Guide"],
     ["boat-spare-propeller-kit-guide.html", "Boat Spare-Propeller System Guide"],
@@ -67,6 +69,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-recall-hin-mic-safety-defect-guide.html", "Boat Recall HIN and MIC Guide"],
     ["boat-capacity-plate-persons-weight-horsepower-guide.html", "Boat Capacity-Plate Loading Guide"],
     ["new-york-boat-registration-documents-guide.html", "New York Boat Registration Documents"],
     ["swimming-from-boat-with-kids-safety-plan.html", "Family Swim-Off-Boat Safety Plan"],
