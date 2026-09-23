@@ -21,7 +21,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body>
         <header className="siteHeader">
           <div className="shell navBar">
-            <Link className="brand" href="/">NAUTICAL <span>DREAM</span></Link>
+            <Link className="brand" href="/" aria-label="Nautical Dream home"><img className="brandLogo brandLogoHeader" src="/nautical-dream-logo.png" alt="Nautical Dream" width="2172" height="724" /></Link>
             <nav aria-label="Main navigation">
               {nav.map(([label, href]) => <Link key={href} href={href}>{label}</Link>)}
             </nav>
@@ -31,7 +31,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         {children}
         <footer>
           <div className="shell footerGrid">
-            <div><div className="brand">NAUTICAL <span>DREAM</span></div><p>Premium guidance for better days on the water.</p></div>
+            <div><div className="brand"><img className="brandLogo brandLogoFooter" src="/nautical-dream-logo.png" alt="Nautical Dream" width="2172" height="724" /></div><p>Premium guidance for better days on the water.</p></div>
             <div><strong>Explore</strong><Link href="/destinations">Destinations</Link><Link href="/gear">Gear</Link><Link href="/journal">Journal</Link></div>
             <div><strong>Plan</strong><Link href="/weather">Weather</Link><Link href="/trip-planner">Trip Planner</Link><Link href="/about">About</Link></div>
           </div>

@@ -88,11 +88,11 @@ function schemaMarkup(page, hero) {
 }
 
 function header() {
-  return `<header class="site-header"><div class="shell nav"><a class="brand" href="index.html">NAUTICAL <span>DREAM</span></a><nav class="links" aria-label="Primary navigation"><a href="destinations.html">Destinations</a><a href="gear.html">Gear</a><a href="weather.html">Weather</a><a href="journal.html">Journal</a><a href="about.html">About</a></nav></div></header>`;
+  return `<header class="site-header"><div class="shell nav"><a class="brand" href="index.html" aria-label="Nautical Dream home"><img class="brand-logo brand-logo--header" src="assets/nautical-dream-logo.png" alt="Nautical Dream" width="2172" height="724"></a><nav class="links" aria-label="Primary navigation"><a href="destinations.html">Destinations</a><a href="gear.html">Gear</a><a href="weather.html">Weather</a><a href="journal.html">Journal</a><a href="about.html">About</a></nav></div></header>`;
 }
 
 function footer() {
-  return `<footer class="footer"><div class="shell footer-row"><div><div class="brand">NAUTICAL <span>DREAM</span></div><p>Premium inspiration, practical planning and trusted recommendations for life on the water.</p></div><div class="legal">© 2026 Nautical Dream · <a href="privacy.html">Privacy &amp; Disclosure</a> · <a href="image-credits.html">Image Credits</a></div></div></footer>`;
+  return `<footer class="footer"><div class="shell footer-row"><div><div class="brand"><img class="brand-logo brand-logo--footer" src="assets/nautical-dream-logo.png" alt="Nautical Dream" width="2172" height="724"></div><p>Premium inspiration, practical planning and trusted recommendations for life on the water.</p></div><div class="legal">© 2026 Nautical Dream · <a href="privacy.html">Privacy &amp; Disclosure</a> · <a href="image-credits.html">Image Credits</a></div></div></footer>`;
 }
 
 export function renderPage(page) {
