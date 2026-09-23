@@ -43,7 +43,16 @@ for (const file of htmlFiles) {
   const counts = new Map();
   for (const ref of refs) counts.set(ref, (counts.get(ref) || 0) + 1);
   uniqueRefs += counts.size;
-  const repeated = [...counts.entries()].filter(([, count]) => count > 1);
+  const repeated = [...counts.entries()].filter(([ref, count]) => {
+    if (count <= 1) return false;
+    // The brand mark is deliberately shown once in the header and once in the footer.
+    if (ref === "assets/nautical-dream-logo.png" && count === 2) {
+      const header = auditableHtml.match(/<header\b[\s\S]*?<\/header>/i)?.[0] || "";
+      const footer = auditableHtml.match(/<footer\b[\s\S]*?<\/footer>/i)?.[0] || "";
+      if (header.includes(ref) && footer.includes(ref)) return false;
+    }
+    return true;
+  });
 
   for (const [ref, count] of repeated) {
     failures.push(`${file}: repeated display image ${ref} appears ${count} times`);
