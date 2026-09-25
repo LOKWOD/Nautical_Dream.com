@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-22T15:45:15.795Z",
+  "generatedAt": "2026-09-25T15:40:06.596Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 159,
-    "commercialLinks": 334,
-    "activeAffiliateLinks": 334,
+    "eligiblePages": 161,
+    "commercialLinks": 337,
+    "activeAffiliateLinks": 337,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 334,
+    "amazonAffiliateLinks": 337,
     "fallbackLinks": 0,
-    "changedPages": 98
+    "changedPages": 99
   },
   "links": [
     {
@@ -1314,7 +1314,7 @@
       "page": "boat-fuel-filter-water-separator-guide.html",
       "key": "boat-fuel-filter-water-separator-guide.html::marine-spin-on-fuel-water-separator-assemblies-matched-by-fuel-flow-and-approved-applicati",
       "product": "marine spin-on fuel water separator assemblies matched by fuel flow and approved application",
-      "visibleText": "compare marine fuel/water separator assemblies",
+      "visibleText": "View marine fuel/water separator assemblies on Amazon",
       "originalUrl": "https://ph.parker.com/us/en/category/filters-collectors-separators-purifiers/fuel-filter-water-separators",
       "destinationUrl": "https://www.amazon.com/s?k=marine+spin-on+fuel+water+separator+assemblies+matched+by+fuel+flow+and+approved+application&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1325,7 +1325,7 @@
       "page": "boat-fuel-filter-water-separator-guide.html",
       "key": "boat-fuel-filter-water-separator-guide.html::marine-fuel-filter-replacement-elements-matched-to-exact-filter-head-model",
       "product": "marine fuel filter replacement elements matched to exact filter head model",
-      "visibleText": "compare exact replacement fuel-filter elements",
+      "visibleText": "View marine replacement fuel-filter elements on Amazon",
       "originalUrl": "https://ph.parker.com/us/en/category/replacement-filter-elements/fuel-filter-replacement-elements",
       "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+replacement+elements+matched+to+exact+filter+head+model&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1336,7 +1336,7 @@
       "page": "boat-fuel-filter-water-separator-guide.html",
       "key": "boat-fuel-filter-water-separator-guide.html::marine-fuel-filter-service-wrench-and-fuel-compatible-absorbent-supplies",
       "product": "marine fuel filter service wrench and fuel compatible absorbent supplies",
-      "visibleText": "compare marine fuel-filter service tools",
+      "visibleText": "View marine fuel-filter service tools on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=marine+fuel+filter+wrench+spill+absorbent+kit",
       "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+service+wrench+and+fuel+compatible+absorbent+supplies&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1801,6 +1801,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.mercurymarine.com/sp/en/parts-and-service/maintenance/maintenance-made-easy/whats-in-it-for-you",
       "destinationUrl": "https://www.amazon.com/s?k=reusable+waterproof+boat+tool+pouch+with+desiccant+storage&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-brakes-surge-electric-hydraulic-guide.html",
+      "key": "boat-trailer-brakes-surge-electric-hydraulic-guide.html::boat-trailer-surge-brake-actuator-assemblies-matched-by-loaded-capacity-and-brake-type",
+      "product": "boat trailer surge brake actuator assemblies matched by loaded capacity and brake type",
+      "visibleText": "compare surge-brake actuator categories",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+surge+brake+actuator",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+surge+brake+actuator+assemblies+matched+by+loaded+capacity+and+brake+type&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-brakes-surge-electric-hydraulic-guide.html",
+      "key": "boat-trailer-brakes-surge-electric-hydraulic-guide.html::electric-over-hydraulic-boat-trailer-brake-actuator-systems-with-published-controller-comp",
+      "product": "electric over hydraulic boat trailer brake actuator systems with published controller compatibility",
+      "visibleText": "Compare electric-over-hydraulic actuator categories",
+      "originalUrl": "https://www.amazon.com/s?k=electric+over+hydraulic+boat+trailer+brake+actuator",
+      "destinationUrl": "https://www.amazon.com/s?k=electric+over+hydraulic+boat+trailer+brake+actuator+systems+with+published+controller+compatibility&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-brakes-surge-electric-hydraulic-guide.html",
+      "key": "boat-trailer-brakes-surge-electric-hydraulic-guide.html::boat-trailer-brake-fresh-water-rinse-kits-matched-to-the-brake-manufacturer-procedure",
+      "product": "boat trailer brake fresh water rinse kits matched to the brake manufacturer procedure",
+      "visibleText": "compare trailer-brake rinse kits",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+brake+flush+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+brake+fresh+water+rinse+kits+matched+to+the+brake+manufacturer+procedure&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
