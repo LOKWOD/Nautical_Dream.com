@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-25T15:40:06.596Z",
+  "generatedAt": "2026-09-26T15:41:06.567Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 161,
-    "commercialLinks": 337,
-    "activeAffiliateLinks": 337,
+    "eligiblePages": 163,
+    "commercialLinks": 340,
+    "activeAffiliateLinks": 340,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 337,
+    "amazonAffiliateLinks": 340,
     "fallbackLinks": 0,
-    "changedPages": 99
+    "changedPages": 100
   },
   "links": [
     {
@@ -1809,7 +1809,7 @@
       "page": "boat-trailer-brakes-surge-electric-hydraulic-guide.html",
       "key": "boat-trailer-brakes-surge-electric-hydraulic-guide.html::boat-trailer-surge-brake-actuator-assemblies-matched-by-loaded-capacity-and-brake-type",
       "product": "boat trailer surge brake actuator assemblies matched by loaded capacity and brake type",
-      "visibleText": "compare surge-brake actuator categories",
+      "visibleText": "View boat-trailer surge brake actuator categories on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=boat+trailer+surge+brake+actuator",
       "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+surge+brake+actuator+assemblies+matched+by+loaded+capacity+and+brake+type&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1820,7 +1820,7 @@
       "page": "boat-trailer-brakes-surge-electric-hydraulic-guide.html",
       "key": "boat-trailer-brakes-surge-electric-hydraulic-guide.html::electric-over-hydraulic-boat-trailer-brake-actuator-systems-with-published-controller-comp",
       "product": "electric over hydraulic boat trailer brake actuator systems with published controller compatibility",
-      "visibleText": "Compare electric-over-hydraulic actuator categories",
+      "visibleText": "View electric-over-hydraulic trailer actuator categories on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=electric+over+hydraulic+boat+trailer+brake+actuator",
       "destinationUrl": "https://www.amazon.com/s?k=electric+over+hydraulic+boat+trailer+brake+actuator+systems+with+published+controller+compatibility&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1831,9 +1831,42 @@
       "page": "boat-trailer-brakes-surge-electric-hydraulic-guide.html",
       "key": "boat-trailer-brakes-surge-electric-hydraulic-guide.html::boat-trailer-brake-fresh-water-rinse-kits-matched-to-the-brake-manufacturer-procedure",
       "product": "boat trailer brake fresh water rinse kits matched to the brake manufacturer procedure",
-      "visibleText": "compare trailer-brake rinse kits",
+      "visibleText": "View boat-trailer brake rinse-kit categories on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=boat+trailer+brake+flush+kit",
       "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+brake+fresh+water+rinse+kits+matched+to+the+brake+manufacturer+procedure&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-lights-submersible-led-wiring-guide.html",
+      "key": "boat-trailer-lights-submersible-led-wiring-guide.html::sealed-led-boat-trailer-lamp-kits-matched-to-required-functions-and-trailer-dimensions",
+      "product": "sealed LED boat trailer lamp kits matched to required functions and trailer dimensions",
+      "visibleText": "compare sealed LED boat-trailer lamp-kit categories",
+      "originalUrl": "https://www.amazon.com/s?k=sealed+LED+boat+trailer+light+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=sealed+LED+boat+trailer+lamp+kits+matched+to+required+functions+and+trailer+dimensions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-lights-submersible-led-wiring-guide.html",
+      "key": "boat-trailer-lights-submersible-led-wiring-guide.html::sealed-trailer-wiring-junction-boxes-matched-to-connector-circuit-count-and-conductor-size",
+      "product": "sealed trailer wiring junction boxes matched to connector circuit count and conductor size",
+      "visibleText": "compare sealed trailer junction-box categories",
+      "originalUrl": "https://www.amazon.com/s?k=sealed+trailer+wiring+junction+box",
+      "destinationUrl": "https://www.amazon.com/s?k=sealed+trailer+wiring+junction+boxes+matched+to+connector+circuit+count+and+conductor+size&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-lights-submersible-led-wiring-guide.html",
+      "key": "boat-trailer-lights-submersible-led-wiring-guide.html::marine-adhesive-lined-heat-shrink-crimp-terminal-kits-matched-to-wire-gauge-and-approved-r",
+      "product": "marine adhesive-lined heat-shrink crimp terminal kits matched to wire gauge and approved repair procedure",
+      "visibleText": "compare marine heat-shrink terminal categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+adhesive+heat+shrink+crimp+terminal+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+adhesive-lined+heat-shrink+crimp+terminal+kits+matched+to+wire+gauge+and+approved+repair+procedure&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
