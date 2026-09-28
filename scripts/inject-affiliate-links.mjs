@@ -9,6 +9,7 @@ import {
 import { basename, dirname, join, relative, resolve } from "node:path";
 
 const root = resolve(process.argv[2] || ".");
+const reportOnly = process.argv.includes("--report-only");
 const configPath = resolve(root, process.env.AFFILIATE_CONFIG || "affiliate-config.json");
 const skipDirectories = new Set([".git", "node_modules", ".wrangler", "_site"]);
 const trackingScript = "assets/js/affiliate-tracking.js";
@@ -327,7 +328,7 @@ function processHtml(path) {
   // Removal/reinsertion must not accumulate blank lines on every daily build.
   working = working.replace(/\n{3,}/g, "\n\n");
 
-  if (working !== original) {
+  if (working !== original && !reportOnly) {
     writeFileSync(path, working);
     report.totals.changedPages += 1;
   }
@@ -356,7 +357,7 @@ if (associateTag && report.totals.activeAffiliateLinks === 0) {
 
 console.log(
   [
-    "Affiliate link injection complete:",
+    reportOnly ? "Affiliate link report refresh complete:" : "Affiliate link injection complete:",
     `${report.totals.eligiblePages} eligible pages,`,
     `${report.totals.commercialLinks} commercial links,`,
     `${report.totals.activeAffiliateLinks} active affiliate links,`,
