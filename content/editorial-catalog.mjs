@@ -1,5 +1,10 @@
 export const catalog = {
   destinations: [
+    ["lake-eaton-family-boating.html", "Lake Eaton Small-Boat Family Plan"],
+    ["whitney-point-reservoir-family-boating.html", "Whitney Point Reservoir Family Boat Plan"],
+    ["fourth-lake-family-boating.html", "Fourth Lake Family Boat Plan"],
+    ["hemlock-lake-family-boating.html", "Hemlock Lake Family Boat Plan"],
+    ["piseco-lake-family-boating.html", "Piseco Lake Family Boat Plan"],
     ["long-lake-family-boating.html", "Long Lake Family Boat Plan"],
     ["canadarago-lake-family-boating.html", "Canadarago Lake Family Boat Plan"],
     ["butterfield-lake-family-boating.html", "Butterfield Lake Family Boat Plan"],
@@ -37,6 +42,11 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-usb-charger-usb-c-pd-guide.html", "Boat USB-A and USB-C Charger Guide"],
+    ["inflatable-life-jacket-rearming-kit-guide.html", "Inflatable Life-Jacket Rearming Kit Guide"],
+    ["boat-trailer-coupler-hitch-ball-fit-guide.html", "Boat Trailer Coupler and Hitch-Ball Guide"],
+    ["boat-trailer-lights-submersible-led-wiring-guide.html", "Boat Trailer Lighting Guide"],
+    ["boat-trailer-brakes-surge-electric-hydraulic-guide.html", "Boat Trailer Brake-System Guide"],
     ["boat-fuel-filter-water-separator-guide.html", "Boat Fuel Filter and Water Separator Guide"],
     ["boat-moisture-meter-pinless-pin-guide.html", "Boat Moisture Meter Selection Guide"],
     ["boat-drain-plug-transom-garboard-guide.html", "Boat Drain-Plug Fit Guide"],
@@ -69,6 +79,11 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["small-boat-fuel-oil-spill-response.html", "Small-Boat Fuel and Oil Spill Response"],
+    ["boat-holding-tank-pumpout-no-discharge-guide.html", "Boat Holding-Tank Pumpout Guide"],
+    ["carbon-monoxide-alarm-boat-response.html", "Boat Carbon-Monoxide Alarm Response"],
+    ["two-boats-collide-response-reporting-guide.html", "Boat Collision Response and Reporting Guide"],
+    ["letting-someone-else-operate-your-boat-handoff-guide.html", "Guest Boat-Operator Handoff Guide"],
     ["boat-recall-hin-mic-safety-defect-guide.html", "Boat Recall HIN and MIC Guide"],
     ["boat-capacity-plate-persons-weight-horsepower-guide.html", "Boat Capacity-Plate Loading Guide"],
     ["new-york-boat-registration-documents-guide.html", "New York Boat Registration Documents"],
