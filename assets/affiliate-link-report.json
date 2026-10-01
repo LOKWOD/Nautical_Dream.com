@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-30T16:13:25.208Z",
+  "generatedAt": "2026-10-01T16:02:50.747Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 168,
-    "commercialLinks": 347,
-    "activeAffiliateLinks": 347,
+    "eligiblePages": 170,
+    "commercialLinks": 348,
+    "activeAffiliateLinks": 348,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 347,
+    "amazonAffiliateLinks": 348,
     "fallbackLinks": 0,
-    "changedPages": 103
+    "changedPages": 104
   },
   "links": [
     {
@@ -2139,7 +2139,7 @@
       "page": "boat-usb-charger-usb-c-pd-guide.html",
       "key": "boat-usb-charger-usb-c-pd-guide.html::12-and-24-volt-marine-usb-panel-chargers-matched-by-input-range-and-circuit-requirements",
       "product": "12 and 24 volt marine USB panel chargers matched by input range and circuit requirements",
-      "visibleText": "compare marine USB panel-charger categories",
+      "visibleText": "Compare 12 and 24 volt marine USB panel chargers on Amazon",
       "originalUrl": "https://www.bluesea.com/products/category/30/USB_Chargers",
       "destinationUrl": "https://www.amazon.com/s?k=12+and+24+volt+marine+USB+panel+chargers+matched+by+input+range+and+circuit+requirements&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -3341,6 +3341,17 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.planooutdoors.com/collections/marine-storage",
       "destinationUrl": "https://www.amazon.com/s?k=Plano+Marine+Storage+Box&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "portable-boat-fuel-tank-connector-vent-guide.html",
+      "key": "portable-boat-fuel-tank-connector-vent-guide.html::portable-marine-fuel-tank-systems-matched-to-the-exact-outboard-manual-connector-hose-vent",
+      "product": "portable marine fuel tank systems matched to the exact outboard manual connector hose vent and capacity requirements",
+      "visibleText": "compare portable marine fuel-tank system categories",
+      "originalUrl": "https://www.moellermarine.com/moeller-marine/fuel-containment/portable-fuel-tanks/",
+      "destinationUrl": "https://www.amazon.com/s?k=portable+marine+fuel+tank+systems+matched+to+the+exact+outboard+manual+connector+hose+vent+and+capacity+requirements&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
