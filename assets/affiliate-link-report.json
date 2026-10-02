@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-01T16:02:50.747Z",
+  "generatedAt": "2026-10-02T15:24:33.398Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 170,
-    "commercialLinks": 348,
-    "activeAffiliateLinks": 348,
+    "eligiblePages": 172,
+    "commercialLinks": 349,
+    "activeAffiliateLinks": 349,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 348,
+    "amazonAffiliateLinks": 349,
     "fallbackLinks": 0,
-    "changedPages": 104
+    "changedPages": 105
   },
   "links": [
     {
@@ -646,6 +646,17 @@
       "visibleText": "Compare marine state-of-charge monitors with shunts on Amazon",
       "originalUrl": "https://www.bluesea.com/products/1830/M2_DC_Multimeter_with_SoC",
       "destinationUrl": "https://www.amazon.com/s?k=marine+battery+state+of+charge+monitor+with+shunt&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-switch-on-off-selector-dual-circuit-guide.html",
+      "key": "boat-battery-switch-on-off-selector-dual-circuit-guide.html::marine-battery-switches-matched-to-the-documented-bank-architecture-voltage-current-rating",
+      "product": "marine battery switches matched to the documented bank architecture voltage current ratings ignition protection and exact manufacturer instructions",
+      "visibleText": "compare marine battery-switch categories",
+      "originalUrl": "https://www.bluesea.com/products/category/11/Manual_Battery_Switches",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+battery+switches+matched+to+the+documented+bank+architecture+voltage+current+ratings+ignition+protection+and+exact+manufacturer+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
@@ -3349,7 +3360,7 @@
       "page": "portable-boat-fuel-tank-connector-vent-guide.html",
       "key": "portable-boat-fuel-tank-connector-vent-guide.html::portable-marine-fuel-tank-systems-matched-to-the-exact-outboard-manual-connector-hose-vent",
       "product": "portable marine fuel tank systems matched to the exact outboard manual connector hose vent and capacity requirements",
-      "visibleText": "compare portable marine fuel-tank system categories",
+      "visibleText": "Compare portable marine fuel tank systems on Amazon",
       "originalUrl": "https://www.moellermarine.com/moeller-marine/fuel-containment/portable-fuel-tanks/",
       "destinationUrl": "https://www.amazon.com/s?k=portable+marine+fuel+tank+systems+matched+to+the+exact+outboard+manual+connector+hose+vent+and+capacity+requirements&tag=nauticaldr087-20",
       "retailer": "Amazon",
