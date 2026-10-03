@@ -41,7 +41,7 @@ for (const page of publication20261003) {
 }
 
 const firstAid = readFileSync(join(root, "boat-first-aid-kit-buying-packing-guide.html"), "utf8");
-for (const term of ["five-layer fit card", "published baseline", "90-second access test", "American Red Cross", "training", "personal medications"]) if (!firstAid.toLowerCase().includes(term.toLowerCase())) errors.push(`first-aid-kit guide missing ${term}`);
+for (const term of ["five-layer fit card", "published baseline", "90-second access test", "American Red Cross", "training", "personal items such as medications"]) if (!firstAid.toLowerCase().includes(term.toLowerCase())) errors.push(`first-aid-kit guide missing ${term}`);
 const conesus = readFileSync(join(root, "conesus-lake-family-boating.html"), "utf8");
 for (const term of ["Conesus launch-day matrix", "5030 East Lake Road", "$6", "dawn to dusk", "no-power-loading", "conceptual Western New York"]) if (!conesus.toLowerCase().includes(term.toLowerCase())) errors.push(`Conesus guide missing ${term}`);
 const food = readFileSync(join(root, "boat-cooler-food-safety-packing-guide.html"), "utf8");
