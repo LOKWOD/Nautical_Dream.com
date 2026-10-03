@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["conesus-lake-family-boating.html", "Conesus Lake Family Boat Plan"],
     ["cross-lake-family-boating.html", "Cross Lake Family Boating Plan"],
     ["lake-eaton-family-boating.html", "Lake Eaton Small-Boat Family Plan"],
     ["whitney-point-reservoir-family-boating.html", "Whitney Point Reservoir Family Boat Plan"],
@@ -43,6 +44,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-first-aid-kit-buying-packing-guide.html", "Boat First-Aid Kit Guide"],
     ["portable-boat-fuel-tank-connector-vent-guide.html", "Portable Boat Fuel Tank System Guide"],
     ["boat-usb-charger-usb-c-pd-guide.html", "Boat USB-A and USB-C Charger Guide"],
     ["inflatable-life-jacket-rearming-kit-guide.html", "Inflatable Life-Jacket Rearming Kit Guide"],
@@ -81,6 +83,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-cooler-food-safety-packing-guide.html", "Boat Cooler Food-Safety Protocol"],
     ["boat-passenger-seating-boarding-movement-guide.html", "Family Boat Passenger Protocol"],
     ["small-boat-fuel-oil-spill-response.html", "Small-Boat Fuel and Oil Spill Response"],
     ["boat-holding-tank-pumpout-no-discharge-guide.html", "Boat Holding-Tank Pumpout Guide"],

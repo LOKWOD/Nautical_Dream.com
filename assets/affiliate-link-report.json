@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-02T15:24:33.398Z",
+  "generatedAt": "2026-10-03T16:05:53.451Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 172,
-    "commercialLinks": 349,
-    "activeAffiliateLinks": 349,
+    "eligiblePages": 174,
+    "commercialLinks": 350,
+    "activeAffiliateLinks": 350,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 349,
+    "amazonAffiliateLinks": 350,
     "fallbackLinks": 0,
-    "changedPages": 105
+    "changedPages": 1
   },
   "links": [
     {
@@ -654,7 +654,7 @@
       "page": "boat-battery-switch-on-off-selector-dual-circuit-guide.html",
       "key": "boat-battery-switch-on-off-selector-dual-circuit-guide.html::marine-battery-switches-matched-to-the-documented-bank-architecture-voltage-current-rating",
       "product": "marine battery switches matched to the documented bank architecture voltage current ratings ignition protection and exact manufacturer instructions",
-      "visibleText": "compare marine battery-switch categories",
+      "visibleText": "Compare marine battery switch categories on Amazon",
       "originalUrl": "https://www.bluesea.com/products/category/11/Manual_Battery_Switches",
       "destinationUrl": "https://www.amazon.com/s?k=marine+battery+switches+matched+to+the+documented+bank+architecture+voltage+current+ratings+ignition+protection+and+exact+manufacturer+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1229,6 +1229,17 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.uscgboating.org/recreational-boaters/fire-extinguisher-faq.php",
       "destinationUrl": "https://www.amazon.com/s?k=manufacturer+compatible+marine+fire+extinguisher+mounting+bracket&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-first-aid-kit-buying-packing-guide.html",
+      "key": "boat-first-aid-kit-buying-packing-guide.html::water-resistant-first-aid-kit-for-a-family-boat-with-clearly-listed-contents-and-room-for-",
+      "product": "water-resistant first aid kit for a family boat with clearly listed contents and room for crew-specific modules",
+      "visibleText": "compare clearly inventoried first-aid-kit categories",
+      "originalUrl": "https://www.redcross.org/store/first-aid-supplies/first-aid-kits",
+      "destinationUrl": "https://www.amazon.com/s?k=water-resistant+first+aid+kit+for+a+family+boat+with+clearly+listed+contents+and+room+for+crew-specific+modules&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
