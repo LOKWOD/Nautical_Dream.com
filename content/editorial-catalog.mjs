@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["raquette-lake-golden-beach-small-boat-family-guide.html", "Raquette Lake Golden Beach Small-Boat Plan"],
     ["conesus-lake-family-boating.html", "Conesus Lake Family Boat Plan"],
     ["cross-lake-family-boating.html", "Cross Lake Family Boating Plan"],
     ["lake-eaton-family-boating.html", "Lake Eaton Small-Boat Family Plan"],
@@ -44,6 +45,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-cleaning-brush-soft-medium-stiff-guide.html", "Boat Cleaning Brush System Guide"],
     ["boat-first-aid-kit-buying-packing-guide.html", "Boat First-Aid Kit Guide"],
     ["portable-boat-fuel-tank-connector-vent-guide.html", "Portable Boat Fuel Tank System Guide"],
     ["boat-usb-charger-usb-c-pd-guide.html", "Boat USB-A and USB-C Charger Guide"],
@@ -83,6 +85,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boatyard-winter-storage-handoff-work-order-guide.html", "Boatyard Winter-Storage Handoff Guide"],
     ["boat-cooler-food-safety-packing-guide.html", "Boat Cooler Food-Safety Protocol"],
     ["boat-passenger-seating-boarding-movement-guide.html", "Family Boat Passenger Protocol"],
     ["small-boat-fuel-oil-spill-response.html", "Small-Boat Fuel and Oil Spill Response"],
