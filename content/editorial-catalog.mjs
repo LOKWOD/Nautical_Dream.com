@@ -45,6 +45,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-trailer-portable-tire-inflator-buying-guide.html", "Boat-Trailer Portable Tire Inflator Guide"],
     ["boat-cleaning-brush-soft-medium-stiff-guide.html", "Boat Cleaning Brush System Guide"],
     ["boat-first-aid-kit-buying-packing-guide.html", "Boat First-Aid Kit Guide"],
     ["portable-boat-fuel-tank-connector-vent-guide.html", "Portable Boat Fuel Tank System Guide"],
@@ -85,6 +86,8 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["kids-marina-dock-safety-arrival-protocol.html", "Kids at the Marina Four-State Protocol"],
+    ["boat-ramp-no-courtesy-dock-launch-guide.html", "No-Courtesy-Dock Launch Plan"],
     ["boatyard-winter-storage-handoff-work-order-guide.html", "Boatyard Winter-Storage Handoff Guide"],
     ["boat-cooler-food-safety-packing-guide.html", "Boat Cooler Food-Safety Protocol"],
     ["boat-passenger-seating-boarding-movement-guide.html", "Family Boat Passenger Protocol"],
