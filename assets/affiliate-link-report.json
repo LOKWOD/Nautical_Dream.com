@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T16:06:06.457Z",
+  "generatedAt": "2026-10-07T15:43:28.696Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 181,
-    "commercialLinks": 359,
-    "activeAffiliateLinks": 359,
+    "eligiblePages": 183,
+    "commercialLinks": 362,
+    "activeAffiliateLinks": 362,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 359,
+    "amazonAffiliateLinks": 362,
     "fallbackLinks": 0,
     "changedPages": 0
   },
@@ -2670,6 +2670,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.ancorproducts.com/en/products/terminals-connectors/heat-shrink",
       "destinationUrl": "https://www.amazon.com/s?k=Ancor+Marine+Heat-Shrink+Connector+Kit&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "floating-waterproof-phone-pouch-boating-guide.html",
+      "key": "floating-waterproof-phone-pouch-boating-guide.html::floating-waterproof-phone-pouch-for-boating",
+      "product": "floating waterproof phone pouch for boating",
+      "visibleText": "Check current price",
+      "originalUrl": "https://www.amazon.com/s?k=floating+waterproof+phone+pouch+boating",
+      "destinationUrl": "https://www.amazon.com/s?k=floating+waterproof+phone+pouch+for+boating&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "floating-waterproof-phone-pouch-boating-guide.html",
+      "key": "floating-waterproof-phone-pouch-boating-guide.html::waterproof-hard-phone-case-for-boating",
+      "product": "waterproof hard phone case for boating",
+      "visibleText": "Check current price",
+      "originalUrl": "https://www.amazon.com/s?k=waterproof+hard+phone+case+boating",
+      "destinationUrl": "https://www.amazon.com/s?k=waterproof+hard+phone+case+for+boating&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "floating-waterproof-phone-pouch-boating-guide.html",
+      "key": "floating-waterproof-phone-pouch-boating-guide.html::small-waterproof-electronics-pouch-for-boating",
+      "product": "small waterproof electronics pouch for boating",
+      "visibleText": "Check current price",
+      "originalUrl": "https://www.amazon.com/s?k=small+waterproof+electronics+pouch+boating",
+      "destinationUrl": "https://www.amazon.com/s?k=small+waterproof+electronics+pouch+for+boating&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
