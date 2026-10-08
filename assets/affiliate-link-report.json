@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-07T15:43:28.696Z",
+  "generatedAt": "2026-10-08T15:40:48.223Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 183,
-    "commercialLinks": 362,
-    "activeAffiliateLinks": 362,
+    "eligiblePages": 185,
+    "commercialLinks": 365,
+    "activeAffiliateLinks": 365,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 362,
+    "amazonAffiliateLinks": 365,
     "fallbackLinks": 0,
-    "changedPages": 0
+    "changedPages": 1
   },
   "links": [
     {
@@ -1658,6 +1658,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.navcen.uscg.gov/annex1-international-positioning-technical-details-lights-shapes",
       "destinationUrl": "https://www.amazon.com/s?k=replacement+marine+all+round+white+stern+light+pole&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-oil-only-absorbent-pad-bilge-sock-guide.html",
+      "key": "boat-oil-only-absorbent-pad-bilge-sock-guide.html::oil-only-absorbent-pads-for-boat",
+      "product": "oil-only absorbent pads for boat",
+      "visibleText": "Compare oil-only absorbent pads for boat work",
+      "originalUrl": "https://www.amazon.com/s?k=oil-only+absorbent+pads+for+boat",
+      "destinationUrl": "https://www.amazon.com/s?k=oil-only+absorbent+pads+for+boat&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-oil-only-absorbent-pad-bilge-sock-guide.html",
+      "key": "boat-oil-only-absorbent-pad-bilge-sock-guide.html::marine-bilge-oil-absorbent-sock",
+      "product": "marine bilge oil absorbent sock",
+      "visibleText": "Compare marine bilge oil-absorbent socks",
+      "originalUrl": "https://www.amazon.com/s?k=marine+bilge+oil+absorbent+sock",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+bilge+oil+absorbent+sock&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-oil-only-absorbent-pad-bilge-sock-guide.html",
+      "key": "boat-oil-only-absorbent-pad-bilge-sock-guide.html::oil-only-absorbent-boom-spill-kit",
+      "product": "oil-only absorbent boom spill kit",
+      "visibleText": "Compare oil-only boom and spill-kit categories",
+      "originalUrl": "https://www.amazon.com/s?k=oil-only+absorbent+boom+spill+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=oil-only+absorbent+boom+spill+kit&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
