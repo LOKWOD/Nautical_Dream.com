@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-08T15:40:48.223Z",
+  "generatedAt": "2026-10-09T15:37:25.058Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 185,
-    "commercialLinks": 365,
-    "activeAffiliateLinks": 365,
+    "eligiblePages": 187,
+    "commercialLinks": 368,
+    "activeAffiliateLinks": 368,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 365,
+    "amazonAffiliateLinks": 368,
     "fallbackLinks": 0,
-    "changedPages": 1
+    "changedPages": 104
   },
   "links": [
     {
@@ -1168,6 +1168,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-emergency-line-cutter-rescue-shears-guide.html",
+      "key": "boat-emergency-line-cutter-rescue-shears-guide.html::marine-emergency-hook-line-cutter",
+      "product": "marine emergency hook line cutter",
+      "visibleText": "Compare marine emergency hook-line cutters",
+      "originalUrl": "https://www.amazon.com/s?k=marine+emergency+hook+line+cutter",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+emergency+hook+line+cutter&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-emergency-line-cutter-rescue-shears-guide.html",
+      "key": "boat-emergency-line-cutter-rescue-shears-guide.html::blunt-tip-rescue-shears-marine",
+      "product": "blunt tip rescue shears marine",
+      "visibleText": "Compare blunt-tip rescue shears",
+      "originalUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+shears+marine",
+      "destinationUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+shears+marine&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-emergency-line-cutter-rescue-shears-guide.html",
+      "key": "boat-emergency-line-cutter-rescue-shears-guide.html::blunt-tip-rescue-knife-boating",
+      "product": "blunt tip rescue knife boating",
+      "visibleText": "Compare blunt-tip rescue knives for boating",
+      "originalUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+knife+boating",
+      "destinationUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+knife+boating&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-engine-cutoff-switch-lanyard-wireless-guide.html",
       "key": "boat-engine-cutoff-switch-lanyard-wireless-guide.html::replacement-marine-engine-cutoff-switch-lanyard-matched-to-exact-switch-key",
       "product": "replacement marine engine cutoff switch lanyard matched to exact switch key",
@@ -1666,7 +1699,7 @@
       "page": "boat-oil-only-absorbent-pad-bilge-sock-guide.html",
       "key": "boat-oil-only-absorbent-pad-bilge-sock-guide.html::oil-only-absorbent-pads-for-boat",
       "product": "oil-only absorbent pads for boat",
-      "visibleText": "Compare oil-only absorbent pads for boat work",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.amazon.com/s?k=oil-only+absorbent+pads+for+boat",
       "destinationUrl": "https://www.amazon.com/s?k=oil-only+absorbent+pads+for+boat&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1677,7 +1710,7 @@
       "page": "boat-oil-only-absorbent-pad-bilge-sock-guide.html",
       "key": "boat-oil-only-absorbent-pad-bilge-sock-guide.html::marine-bilge-oil-absorbent-sock",
       "product": "marine bilge oil absorbent sock",
-      "visibleText": "Compare marine bilge oil-absorbent socks",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.amazon.com/s?k=marine+bilge+oil+absorbent+sock",
       "destinationUrl": "https://www.amazon.com/s?k=marine+bilge+oil+absorbent+sock&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1688,7 +1721,7 @@
       "page": "boat-oil-only-absorbent-pad-bilge-sock-guide.html",
       "key": "boat-oil-only-absorbent-pad-bilge-sock-guide.html::oil-only-absorbent-boom-spill-kit",
       "product": "oil-only absorbent boom spill kit",
-      "visibleText": "Compare oil-only boom and spill-kit categories",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.amazon.com/s?k=oil-only+absorbent+boom+spill+kit",
       "destinationUrl": "https://www.amazon.com/s?k=oil-only+absorbent+boom+spill+kit&tag=nauticaldr087-20",
       "retailer": "Amazon",
