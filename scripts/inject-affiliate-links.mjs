@@ -237,7 +237,9 @@ function processHtml(path) {
       active = true;
       destination = makeAmazonSearchUrl(product);
       retailer = "Amazon";
-      label = requestedLabel || defaultLabel;
+      // Preserve the editor's specific category anchor. A generic default
+      // erases the buying context and can make several links indistinguishable.
+      label = requestedLabel || visibleText || defaultLabel;
       source = "amazon-search";
       report.totals.amazonAffiliateLinks += 1;
     } else {

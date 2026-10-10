@@ -75,6 +75,7 @@ for (const [title, files] of titles) if (files.length > 1) errors.push(`duplicat
 for (const [canonical, files] of canonicals) if (files.length > 1) errors.push(`duplicate canonical ${canonical}`);
 
 for (const term of ["five-gate flooring matrix", "price the removal", "hatch-and-drainage template", "who should skip each option"]) if (!readFileSync(pages[0].slug, "utf8").toLowerCase().includes(term)) errors.push(`flooring missing ${term}`);
+for (const label of ["Compare marine EVA foam decking sheets", "Compare marine woven-vinyl flooring", "Compare snap-in marine carpet categories"]) if (!readFileSync(pages[0].slug, "utf8").includes(`>${label}</a>`)) errors.push(`flooring missing specific commercial anchor: ${label}`);
 for (const term of ["43.890621", "30 cars and trailers", "6,200-acre", "east-west wind machine", "46 primitive"]) if (!readFileSync(pages[1].slug, "utf8").includes(term)) errors.push(`stillwater missing ${term}`);
 for (const term of ["six-motion dockside protocol", "above the chin or ears", "separate flotation from thermal protection", "november 1 through may 1"]) if (!readFileSync(pages[2].slug, "utf8").toLowerCase().includes(term)) errors.push(`cold fit missing ${term}`);
 
