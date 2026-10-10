@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-09T15:37:25.058Z",
+  "generatedAt": "2026-10-10T15:20:38.584Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 187,
-    "commercialLinks": 368,
-    "activeAffiliateLinks": 368,
+    "eligiblePages": 190,
+    "commercialLinks": 371,
+    "activeAffiliateLinks": 371,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 368,
+    "amazonAffiliateLinks": 371,
     "fallbackLinks": 0,
-    "changedPages": 104
+    "changedPages": 107
   },
   "links": [
     {
@@ -1036,6 +1036,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-deck-flooring-eva-woven-vinyl-carpet-guide.html",
+      "key": "boat-deck-flooring-eva-woven-vinyl-carpet-guide.html::marine-eva-foam-boat-decking-sheet",
+      "product": "marine EVA foam boat decking sheet",
+      "visibleText": "Compare marine EVA foam decking sheets",
+      "originalUrl": "https://www.amazon.com/s?k=marine+EVA+foam+boat+decking+sheet",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+EVA+foam+boat+decking+sheet&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-deck-flooring-eva-woven-vinyl-carpet-guide.html",
+      "key": "boat-deck-flooring-eva-woven-vinyl-carpet-guide.html::marine-woven-vinyl-boat-flooring",
+      "product": "marine woven vinyl boat flooring",
+      "visibleText": "Compare marine woven-vinyl flooring",
+      "originalUrl": "https://www.amazon.com/s?k=marine+woven+vinyl+boat+flooring",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+woven+vinyl+boat+flooring&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-deck-flooring-eva-woven-vinyl-carpet-guide.html",
+      "key": "boat-deck-flooring-eva-woven-vinyl-carpet-guide.html::snap-in-marine-boat-carpet",
+      "product": "snap in marine boat carpet",
+      "visibleText": "Compare snap-in marine carpet categories",
+      "originalUrl": "https://www.amazon.com/s?k=snap+in+marine+boat+carpet",
+      "destinationUrl": "https://www.amazon.com/s?k=snap+in+marine+boat+carpet&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-docking-equipment.html",
       "key": "boat-docking-equipment.html::polyform-g-series-boat-fender",
       "product": "Polyform G Series Boat Fender",
@@ -1171,7 +1204,7 @@
       "page": "boat-emergency-line-cutter-rescue-shears-guide.html",
       "key": "boat-emergency-line-cutter-rescue-shears-guide.html::marine-emergency-hook-line-cutter",
       "product": "marine emergency hook line cutter",
-      "visibleText": "Compare marine emergency hook-line cutters",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.amazon.com/s?k=marine+emergency+hook+line+cutter",
       "destinationUrl": "https://www.amazon.com/s?k=marine+emergency+hook+line+cutter&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1182,7 +1215,7 @@
       "page": "boat-emergency-line-cutter-rescue-shears-guide.html",
       "key": "boat-emergency-line-cutter-rescue-shears-guide.html::blunt-tip-rescue-shears-marine",
       "product": "blunt tip rescue shears marine",
-      "visibleText": "Compare blunt-tip rescue shears",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+shears+marine",
       "destinationUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+shears+marine&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1193,7 +1226,7 @@
       "page": "boat-emergency-line-cutter-rescue-shears-guide.html",
       "key": "boat-emergency-line-cutter-rescue-shears-guide.html::blunt-tip-rescue-knife-boating",
       "product": "blunt tip rescue knife boating",
-      "visibleText": "Compare blunt-tip rescue knives for boating",
+      "visibleText": "Check current price",
       "originalUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+knife+boating",
       "destinationUrl": "https://www.amazon.com/s?k=blunt+tip+rescue+knife+boating&tag=nauticaldr087-20",
       "retailer": "Amazon",
