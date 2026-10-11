@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T15:20:38.584Z",
+  "generatedAt": "2026-10-11T15:51:06.970Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 190,
-    "commercialLinks": 371,
-    "activeAffiliateLinks": 371,
+    "eligiblePages": 193,
+    "commercialLinks": 374,
+    "activeAffiliateLinks": 374,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 371,
+    "amazonAffiliateLinks": 374,
     "fallbackLinks": 0,
     "changedPages": 107
   },
@@ -2285,6 +2285,39 @@
       "visibleText": "Compare marine cam-buckle transom straps on Amazon",
       "originalUrl": "https://www.fultonperformance.com/",
       "destinationUrl": "https://www.amazon.com/s?k=marine+cam+buckle+transom+tie+down+straps+pair&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-wheel-bearing-hub-inspection-guide.html",
+      "key": "boat-trailer-wheel-bearing-hub-inspection-guide.html::infrared-thermometer-with-adjustable-emissivity",
+      "product": "infrared thermometer with adjustable emissivity",
+      "visibleText": "Compare infrared thermometers with adjustable emissivity",
+      "originalUrl": "https://www.amazon.com/s?k=infrared+thermometer+adjustable+emissivity",
+      "destinationUrl": "https://www.amazon.com/s?k=infrared+thermometer+with+adjustable+emissivity&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-wheel-bearing-hub-inspection-guide.html",
+      "key": "boat-trailer-wheel-bearing-hub-inspection-guide.html::exact-fit-boat-trailer-pre-greased-hub-kit",
+      "product": "exact-fit boat trailer pre-greased hub kit",
+      "visibleText": "Compare exact-fit boat-trailer spare hub kit categories",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+pre+greased+hub+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=exact-fit+boat+trailer+pre-greased+hub+kit&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-wheel-bearing-hub-inspection-guide.html",
+      "key": "boat-trailer-wheel-bearing-hub-inspection-guide.html::heavy-duty-trailer-wheel-chocks",
+      "product": "heavy duty trailer wheel chocks",
+      "visibleText": "Compare heavy-duty trailer wheel chocks",
+      "originalUrl": "https://www.amazon.com/s?k=heavy+duty+wheel+chocks+trailer",
+      "destinationUrl": "https://www.amazon.com/s?k=heavy+duty+trailer+wheel+chocks&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
