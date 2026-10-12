@@ -37,7 +37,7 @@ for (const page of pages) {
 const attr = JSON.parse(readFileSync("assets/editorial/attribution.json", "utf8"));
 const keys = [
   "boat-winterizing-antifreeze-photo-hero", "boat-winterizing-antifreeze-photo-card",
-  "green-lakes-rental-only-concept-photo-hero", "green-lakes-rental-only-concept-photo-card",
+  "green-lakes-rental-only-checkin-photo-hero", "green-lakes-rental-only-concept-photo-card",
   "responsible-boat-wildlife-viewing-photo-hero", "responsible-boat-wildlife-viewing-photo-card"
 ];
 const hashes = new Map();
