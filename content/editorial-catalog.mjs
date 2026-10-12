@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["green-lakes-state-park-boat-rental-guide.html", "Green Lakes Rental-Only Boat Plan"],
     ["raquette-lake-golden-beach-small-boat-family-guide.html", "Raquette Lake Golden Beach Small-Boat Plan"],
     ["conesus-lake-family-boating.html", "Conesus Lake Family Boat Plan"],
     ["cross-lake-family-boating.html", "Cross Lake Family Boating Plan"],
@@ -45,6 +46,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-winterizing-antifreeze-propylene-glycol-guide.html", "Boat Winterizing Antifreeze Decision Guide"],
     ["boat-trailer-portable-tire-inflator-buying-guide.html", "Boat-Trailer Portable Tire Inflator Guide"],
     ["boat-cleaning-brush-soft-medium-stiff-guide.html", "Boat Cleaning Brush System Guide"],
     ["boat-first-aid-kit-buying-packing-guide.html", "Boat First-Aid Kit Guide"],
@@ -86,6 +88,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["responsible-wildlife-viewing-from-boat-guide.html", "Responsible Wildlife Viewing From a Boat"],
     ["kids-marina-dock-safety-arrival-protocol.html", "Kids at the Marina Four-State Protocol"],
     ["boat-ramp-no-courtesy-dock-launch-guide.html", "No-Courtesy-Dock Launch Plan"],
     ["boatyard-winter-storage-handoff-work-order-guide.html", "Boatyard Winter-Storage Handoff Guide"],

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-11T15:51:06.970Z",
+  "generatedAt": "2026-10-12T16:18:38.463Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 193,
-    "commercialLinks": 374,
-    "activeAffiliateLinks": 374,
+    "eligiblePages": 196,
+    "commercialLinks": 377,
+    "activeAffiliateLinks": 377,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 374,
+    "amazonAffiliateLinks": 377,
     "fallbackLinks": 0,
-    "changedPages": 107
+    "changedPages": 115
   },
   "links": [
     {
@@ -2472,6 +2472,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://mityvacstore.com/mityvac-7201/",
       "destinationUrl": "https://www.amazon.com/s?k=Mityvac+7201+Fluid+Evacuator+Plus&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-winterizing-antifreeze-propylene-glycol-guide.html",
+      "key": "boat-winterizing-antifreeze-propylene-glycol-guide.html::non-toxic-marine-and-rv-propylene-glycol-antifreeze",
+      "product": "non-toxic marine and RV propylene-glycol antifreeze",
+      "visibleText": "Compare labeled non-toxic marine/RV propylene-glycol antifreeze",
+      "originalUrl": "https://www.amazon.com/s?k=non-toxic+marine+rv+propylene+glycol+antifreeze",
+      "destinationUrl": "https://www.amazon.com/s?k=non-toxic+marine+and+RV+propylene-glycol+antifreeze&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-winterizing-antifreeze-propylene-glycol-guide.html",
+      "key": "boat-winterizing-antifreeze-propylene-glycol-guide.html::propylene-glycol-refractometer-with-the-correct-marine-antifreeze-scale",
+      "product": "propylene-glycol refractometer with the correct marine antifreeze scale",
+      "visibleText": "Compare propylene-glycol refractometers with the correct scale",
+      "originalUrl": "https://www.amazon.com/s?k=propylene+glycol+refractometer+marine+antifreeze",
+      "destinationUrl": "https://www.amazon.com/s?k=propylene-glycol+refractometer+with+the+correct+marine+antifreeze+scale&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-winterizing-antifreeze-propylene-glycol-guide.html",
+      "key": "boat-winterizing-antifreeze-propylene-glycol-guide.html::marine-potable-water-system-winterizing-pump-kit",
+      "product": "marine potable-water system winterizing pump kit",
+      "visibleText": "Compare marine potable-water winterizing pump-kit categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+water+system+winterizing+pump+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+potable-water+system+winterizing+pump+kit&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
