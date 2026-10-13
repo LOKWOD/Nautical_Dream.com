@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["fish-creek-pond-family-boating-launch-guide.html", "Fish Creek Pond Family Boating Launch Guide"],
     ["green-lakes-state-park-boat-rental-guide.html", "Green Lakes Rental-Only Boat Plan"],
     ["raquette-lake-golden-beach-small-boat-family-guide.html", "Raquette Lake Golden Beach Small-Boat Plan"],
     ["conesus-lake-family-boating.html", "Conesus Lake Family Boat Plan"],
@@ -46,6 +47,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["marina-cart-folding-wagon-dock-cart-buying-guide.html", "Marina Cart Route-Test Buying Guide"],
     ["boat-winterizing-antifreeze-propylene-glycol-guide.html", "Boat Winterizing Antifreeze Decision Guide"],
     ["boat-trailer-portable-tire-inflator-buying-guide.html", "Boat-Trailer Portable Tire Inflator Guide"],
     ["boat-cleaning-brush-soft-medium-stiff-guide.html", "Boat Cleaning Brush System Guide"],
@@ -88,6 +90,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["teach-kids-three-boat-knots-20-minute-practice.html", "Teach Kids Three Boat Knots"],
     ["responsible-wildlife-viewing-from-boat-guide.html", "Responsible Wildlife Viewing From a Boat"],
     ["kids-marina-dock-safety-arrival-protocol.html", "Kids at the Marina Four-State Protocol"],
     ["boat-ramp-no-courtesy-dock-launch-guide.html", "No-Courtesy-Dock Launch Plan"],
