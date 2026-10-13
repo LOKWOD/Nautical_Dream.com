@@ -60,15 +60,17 @@ for (const key of photoKeys) {
 }
 
 const sitemap = readFileSync(join(root, "sitemap.xml"), "utf8");
-const feed = readFileSync(join(root, "feed.xml"), "utf8");
 for (const slug of newSlugs) {
   if (sitemap.split(`https://nauticaldream.com/${slug}`).length - 1 !== 1) errors.push(`${slug}: sitemap count is not 1`);
-  if (!feed.includes(`https://nauticaldream.com/${slug}`)) errors.push(`${slug}: missing RSS discovery`);
 }
+
+// feed.xml is intentionally a rolling 90-item publication surface. Older daily
+// batches must remain discoverable through the durable sitemap and hubs, but
+// they should not fail every future build after aging out of the RSS window.
 
 if (errors.length) {
   console.error(`Daily 2026-09-07 audit failed with ${errors.length} problem(s):`);
   for (const error of errors) console.error(`- ${error}`);
   process.exit(1);
 }
-console.log("Daily 2026-09-07 audit passed: 3 substantial pages, 6 photographic assets, 3 disclosed affiliate links and permanent hub/feed/sitemap discovery.");
+console.log("Daily 2026-09-07 audit passed: 3 substantial pages, 6 photographic assets, 3 disclosed affiliate links and permanent hub/sitemap discovery.");
