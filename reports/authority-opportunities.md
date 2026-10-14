@@ -1,5 +1,12 @@
 # Authority opportunities
 
+## 2026-10-14
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Adirondack Explorer | https://www.adirondackexplorer.org/contact-us | Indian Lake public-launch family guide | A source-checked shoulder-season explainer separating DEC access, the private-marina restriction, first-snow closure and invasive-species reset | Qualified; not contacted |
+| NYS DEC Indian Lake Islands Campground | https://dec.ny.gov/places/indian-lake-islands-campground-and-day-use-area | Indian Lake public-launch family guide | Corrections-only contact for launch, parking, marina restriction or seasonal-access changes; no backlink request | Qualified trust-source contact; not contacted |
+
 ## 2026-10-13
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

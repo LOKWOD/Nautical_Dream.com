@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-13T15:22:19.542Z",
+  "generatedAt": "2026-10-14T16:35:40.435Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 198,
-    "commercialLinks": 380,
-    "activeAffiliateLinks": 380,
+    "eligiblePages": 201,
+    "commercialLinks": 383,
+    "activeAffiliateLinks": 383,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 380,
+    "amazonAffiliateLinks": 383,
     "fallbackLinks": 0,
-    "changedPages": 110
+    "changedPages": 111
   },
   "links": [
     {
@@ -3506,6 +3506,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://mityvacstore.com/mityvac-7201/",
       "destinationUrl": "https://www.amazon.com/s?k=Mityvac+7201+Fluid+Evacuator+Plus&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-grease-gun-hose-coupler-buying-guide.html",
+      "key": "marine-grease-gun-hose-coupler-buying-guide.html::manual-lever-grease-gun-with-flexible-hose",
+      "product": "manual lever grease gun with flexible hose",
+      "visibleText": "Compare manual lever grease guns with hose specifications",
+      "originalUrl": "https://www.amazon.com/s?k=manual+lever+grease+gun+flexible+hose",
+      "destinationUrl": "https://www.amazon.com/s?k=manual+lever+grease+gun+with+flexible+hose&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-grease-gun-hose-coupler-buying-guide.html",
+      "key": "marine-grease-gun-hose-coupler-buying-guide.html::compact-pistol-grip-grease-gun",
+      "product": "compact pistol-grip grease gun",
+      "visibleText": "Compare compact pistol-grip grease guns",
+      "originalUrl": "https://www.amazon.com/s?k=mini+pistol+grip+grease+gun",
+      "destinationUrl": "https://www.amazon.com/s?k=compact+pistol-grip+grease+gun&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-grease-gun-hose-coupler-buying-guide.html",
+      "key": "marine-grease-gun-hose-coupler-buying-guide.html::grease-gun-coupler-and-flexible-hose-kit",
+      "product": "grease gun coupler and flexible hose kit",
+      "visibleText": "Compare grease-gun coupler and hose kits",
+      "originalUrl": "https://www.amazon.com/s?k=grease+gun+coupler+flexible+hose+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=grease+gun+coupler+and+flexible+hose+kit&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
