@@ -1,5 +1,11 @@
 # Authority opportunities
 
+## 2026-10-15
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Onoville Marina Park / Cattaraugus County | https://www.onoville.com/contact | Onoville Marina and Allegheny Reservoir family guide | Corrections-first review of launch, seasonal service, fee, parking, pet and accessibility details; offer the eight-gate card as a practical family pre-trip resource without requesting a link | Qualified trust-source opportunity; not contacted |
+
 ## 2026-10-14
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

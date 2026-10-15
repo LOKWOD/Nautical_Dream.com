@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["onoville-marina-allegheny-reservoir-family-guide.html", "Onoville and Allegheny Reservoir Family Guide"],
     ["fish-creek-pond-family-boating-launch-guide.html", "Fish Creek Pond Family Boating Launch Guide"],
     ["green-lakes-state-park-boat-rental-guide.html", "Green Lakes Rental-Only Boat Plan"],
     ["raquette-lake-golden-beach-small-boat-family-guide.html", "Raquette Lake Golden Beach Small-Boat Plan"],
@@ -47,6 +48,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["dock-line-chafe-guard-sleeve-buying-guide.html", "Dock-Line Chafe Guard Buying Guide"],
     ["marina-cart-folding-wagon-dock-cart-buying-guide.html", "Marina Cart Route-Test Buying Guide"],
     ["boat-winterizing-antifreeze-propylene-glycol-guide.html", "Boat Winterizing Antifreeze Decision Guide"],
     ["boat-trailer-portable-tire-inflator-buying-guide.html", "Boat-Trailer Portable Tire Inflator Guide"],
@@ -90,6 +92,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["teach-kids-read-marine-forecast-20-minute-drill.html", "Teach Kids to Read a Marine Forecast"],
     ["teach-kids-three-boat-knots-20-minute-practice.html", "Teach Kids Three Boat Knots"],
     ["responsible-wildlife-viewing-from-boat-guide.html", "Responsible Wildlife Viewing From a Boat"],
     ["kids-marina-dock-safety-arrival-protocol.html", "Kids at the Marina Four-State Protocol"],

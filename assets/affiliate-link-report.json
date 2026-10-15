@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-14T16:35:40.435Z",
+  "generatedAt": "2026-10-15T15:35:43.918Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 201,
-    "commercialLinks": 383,
-    "activeAffiliateLinks": 383,
+    "eligiblePages": 203,
+    "commercialLinks": 386,
+    "activeAffiliateLinks": 386,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 383,
+    "amazonAffiliateLinks": 386,
     "fallbackLinks": 0,
-    "changedPages": 111
+    "changedPages": 118
   },
   "links": [
     {
@@ -2769,6 +2769,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.taylormadeproducts.com/fenders-buoys/",
       "destinationUrl": "https://www.amazon.com/s?k=Taylor+Made+Super+Gard+Boat+Fender&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "dock-line-chafe-guard-sleeve-buying-guide.html",
+      "key": "dock-line-chafe-guard-sleeve-buying-guide.html::woven-tubular-dock-line-chafe-sleeve",
+      "product": "woven tubular dock-line chafe sleeve",
+      "visibleText": "Compare woven tubular dock-line chafe sleeves",
+      "originalUrl": "https://www.amazon.com/s?k=dock+line+tubular+chafe+sleeve",
+      "destinationUrl": "https://www.amazon.com/s?k=woven+tubular+dock-line+chafe+sleeve&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "dock-line-chafe-guard-sleeve-buying-guide.html",
+      "key": "dock-line-chafe-guard-sleeve-buying-guide.html::wraparound-dock-line-chafe-guard",
+      "product": "wraparound dock-line chafe guard",
+      "visibleText": "Compare wraparound dock-line chafe guards",
+      "originalUrl": "https://www.amazon.com/s?k=wraparound+dock+line+chafe+guard",
+      "destinationUrl": "https://www.amazon.com/s?k=wraparound+dock-line+chafe+guard&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "dock-line-chafe-guard-sleeve-buying-guide.html",
+      "key": "dock-line-chafe-guard-sleeve-buying-guide.html::flexible-dock-line-chafe-tubing",
+      "product": "flexible dock-line chafe tubing",
+      "visibleText": "Compare flexible dock-line chafe tubing",
+      "originalUrl": "https://www.amazon.com/s?k=marine+dock+line+chafe+tubing",
+      "destinationUrl": "https://www.amazon.com/s?k=flexible+dock-line+chafe+tubing&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
