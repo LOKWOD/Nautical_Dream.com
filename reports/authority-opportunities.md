@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-16
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| NYSDEC Region 8 Fisheries | https://dec.ny.gov/about/contact-us/statewide-office-information | Waneta and Lamoka two-ramp/channel decision card | Corrections-first review of launch parking, hand-launch access and the shallow-channel wording; no link request | Qualified trust-source opportunity; not contacted |
+| Lamoka Waneta Lakes' Association | https://www.lamokawaneta.com/ | Waneta and Lamoka family launch guide | Ask only for corrections to current local depth/access context and offer the official-source decision card as a member resource if accurate | Qualified community-resource opportunity; not contacted |
+| Life Jacket Association | https://www.lifejacketassociation.org/about-us | Foam-versus-inflatable winter storage protocol | Request technical review of the construction split and spring-release gate; offer the citation-ready card for education if useful | Qualified safety-resource opportunity; not contacted |
+
 ## 2026-10-15
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

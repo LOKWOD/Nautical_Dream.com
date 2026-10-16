@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15T15:35:43.918Z",
+  "generatedAt": "2026-10-16T15:42:15.370Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 203,
-    "commercialLinks": 386,
-    "activeAffiliateLinks": 386,
+    "eligiblePages": 206,
+    "commercialLinks": 389,
+    "activeAffiliateLinks": 389,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 386,
+    "amazonAffiliateLinks": 389,
     "fallbackLinks": 0,
-    "changedPages": 118
+    "changedPages": 119
   },
   "links": [
     {
@@ -2054,6 +2054,39 @@
       "visibleText": "Compare replacement trailer-coupler categories on Amazon",
       "originalUrl": "https://www.fultonperformance.com/trailer-couplers",
       "destinationUrl": "https://www.amazon.com/s?k=replacement+boat+trailer+couplers+matched+by+tongue+profile+ball+size+brake+system+and+loaded+rating&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html",
+      "key": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html::boat-trailer-post-guide-ons",
+      "product": "boat trailer post guide-ons",
+      "visibleText": "Compare boat-trailer post guide-ons",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+post+guide+ons",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+post+guide-ons&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html",
+      "key": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html::boat-trailer-bunk-board-guide-ons",
+      "product": "boat trailer bunk-board guide-ons",
+      "visibleText": "Compare boat-trailer bunk-board guide-ons",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+bunk+board+guide+ons",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+bunk-board+guide-ons&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html",
+      "key": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html::boat-trailer-roller-guide-ons",
+      "product": "boat trailer roller guide-ons",
+      "visibleText": "Compare boat-trailer roller guide-ons",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+roller+guide+ons",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+roller+guide-ons&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

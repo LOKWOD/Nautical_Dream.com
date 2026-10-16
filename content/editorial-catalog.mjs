@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["waneta-lamoka-lakes-family-boating-launch-guide.html", "Waneta and Lamoka Lakes Family Boating Launch Guide"],
     ["onoville-marina-allegheny-reservoir-family-guide.html", "Onoville and Allegheny Reservoir Family Guide"],
     ["fish-creek-pond-family-boating-launch-guide.html", "Fish Creek Pond Family Boating Launch Guide"],
     ["green-lakes-state-park-boat-rental-guide.html", "Green Lakes Rental-Only Boat Plan"],
@@ -48,6 +49,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-trailer-guide-ons-post-bunk-roller-buying-guide.html", "Boat-Trailer Guide-Ons Buying Guide"],
     ["dock-line-chafe-guard-sleeve-buying-guide.html", "Dock-Line Chafe Guard Buying Guide"],
     ["marina-cart-folding-wagon-dock-cart-buying-guide.html", "Marina Cart Route-Test Buying Guide"],
     ["boat-winterizing-antifreeze-propylene-glycol-guide.html", "Boat Winterizing Antifreeze Decision Guide"],
@@ -92,6 +94,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["life-jacket-winter-storage-inspection-guide.html", "Life-Jacket Winter Storage and Inspection Guide"],
     ["teach-kids-read-marine-forecast-20-minute-drill.html", "Teach Kids to Read a Marine Forecast"],
     ["teach-kids-three-boat-knots-20-minute-practice.html", "Teach Kids Three Boat Knots"],
     ["responsible-wildlife-viewing-from-boat-guide.html", "Responsible Wildlife Viewing From a Boat"],
