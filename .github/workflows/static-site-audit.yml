@@ -17,7 +17,6 @@ jobs:
           node-version: 20
       - name: Validate the published static site
         run: |
-          node scripts/build-publication-2026-10-15.mjs
           node scripts/build-publication-2026-10-16.mjs
           node scripts/build-image-credits.mjs
           node scripts/inject-contextual-products.mjs .
