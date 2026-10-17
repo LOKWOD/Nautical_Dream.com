@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["brant-lake-public-boat-launch-family-guide.html", "Brant Lake Public Boat Launch Family Guide"],
     ["waneta-lamoka-lakes-family-boating-launch-guide.html", "Waneta and Lamoka Lakes Family Boating Launch Guide"],
     ["onoville-marina-allegheny-reservoir-family-guide.html", "Onoville and Allegheny Reservoir Family Guide"],
     ["fish-creek-pond-family-boating-launch-guide.html", "Fish Creek Pond Family Boating Launch Guide"],
@@ -49,6 +50,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html", "Boat Swim Platform and Floating Mat Guide"],
     ["boat-trailer-guide-ons-post-bunk-roller-buying-guide.html", "Boat-Trailer Guide-Ons Buying Guide"],
     ["dock-line-chafe-guard-sleeve-buying-guide.html", "Dock-Line Chafe Guard Buying Guide"],
     ["marina-cart-folding-wagon-dock-cart-buying-guide.html", "Marina Cart Route-Test Buying Guide"],
@@ -94,6 +96,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["selling-boat-electronics-mmsi-personal-data-handoff-guide.html", "Selling a Boat Electronics and MMSI Handoff Guide"],
     ["life-jacket-winter-storage-inspection-guide.html", "Life-Jacket Winter Storage and Inspection Guide"],
     ["teach-kids-read-marine-forecast-20-minute-drill.html", "Teach Kids to Read a Marine Forecast"],
     ["teach-kids-three-boat-knots-20-minute-practice.html", "Teach Kids Three Boat Knots"],

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-16T15:42:15.370Z",
+  "generatedAt": "2026-10-17T15:58:08.445Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 206,
-    "commercialLinks": 389,
-    "activeAffiliateLinks": 389,
+    "eligiblePages": 209,
+    "commercialLinks": 392,
+    "activeAffiliateLinks": 392,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 389,
+    "amazonAffiliateLinks": 392,
     "fallbackLinks": 0,
-    "changedPages": 119
+    "changedPages": 120
   },
   "links": [
     {
@@ -1889,6 +1889,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.goldeagle.com/product/303-marine-recreation-aerospace-protectant/",
       "destinationUrl": "https://www.amazon.com/s?k=303+Marine+Aerospace+Protectant&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html",
+      "key": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html::boat-floating-foam-water-mats",
+      "product": "boat floating foam water mats",
+      "visibleText": "Compare boat floating foam water mats",
+      "originalUrl": "https://www.amazon.com/s?k=boat+floating+foam+water+mat",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+floating+foam+water+mats&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html",
+      "key": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html::inflatable-dock-platforms-for-boats",
+      "product": "inflatable dock platforms for boats",
+      "visibleText": "Compare inflatable dock platforms for boats",
+      "originalUrl": "https://www.amazon.com/s?k=inflatable+dock+platform+for+boats",
+      "destinationUrl": "https://www.amazon.com/s?k=inflatable+dock+platforms+for+boats&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html",
+      "key": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html::compact-floating-water-pads-for-boats",
+      "product": "compact floating water pads for boats",
+      "visibleText": "Compare compact floating water pads for boats",
+      "originalUrl": "https://www.amazon.com/s?k=compact+floating+water+pad+boat",
+      "destinationUrl": "https://www.amazon.com/s?k=compact+floating+water+pads+for+boats&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

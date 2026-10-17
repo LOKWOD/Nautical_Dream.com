@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-17
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| NYSDEC Region 5 | https://dec.ny.gov/about/contact-us/statewide-office-information | Brant Lake verified launch/proof-loop card | Corrections-first review of the hard-surface launch, 11-space parking statement and accessibility wording; no link request | Qualified trust-source opportunity; not contacted |
+| Adirondack Explorer | https://www.adirondackexplorer.org/contact-us | Brant Lake small-lot family launch guide | Offer a primary-source-backed, no-assumptions family planning card if useful after editorial review | Qualified local-resource opportunity; not contacted |
+| BoatUS MMSI team | https://www.boatus.com/products-and-services/membership/mmsi | Seller's retain-transfer-remove electronics matrix | Request corrections to the domestic-use MMSI seller path and offer the matrix as a practical owner handoff resource | Qualified safety-resource opportunity; not contacted |
+
 ## 2026-10-16
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

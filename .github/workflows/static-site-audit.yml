@@ -18,6 +18,7 @@ jobs:
       - name: Validate the published static site
         run: |
           node scripts/build-publication-2026-10-16.mjs
+          node scripts/build-publication-2026-10-17.mjs
           node scripts/build-image-credits.mjs
           node scripts/inject-contextual-products.mjs .
           node scripts/inject-affiliate-links.mjs .
@@ -63,5 +64,6 @@ jobs:
           node scripts/audit-daily-2026-10-14.mjs
           node scripts/audit-daily-2026-10-15.mjs
           node scripts/audit-daily-2026-10-16.mjs
+          node scripts/audit-daily-2026-10-17.mjs
           node scripts/audit-static-site.mjs
           node scripts/audit-seo.mjs .
