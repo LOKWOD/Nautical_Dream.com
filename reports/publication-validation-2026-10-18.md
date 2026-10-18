@@ -19,4 +19,12 @@ All three Amazon category destinations returned HTTP 503 to direct checks. Their
 
 ## Deployment and rendered verification
 
-Production deployment and live-page/image checks must be completed after this commit. The completion notification records the actual workflow, HTTP and rendered results; this pre-publication report does not pre-claim them.
+Publication commit 327d84d34ead27e1c85630ef793a4585a8afe824 reached main. All four triggered workflows succeeded: Static site audit, Deploy Nautical Dream static publication, Keep Visitor Light beacon in published HTML, and pages build and deployment. The production build regenerated the source and passed all publication checks before deployment.
+
+All three custom-domain article URLs returned HTTP 200 with October 18 metadata. The homepage root and index.html show the new dated lead after a normal browser refresh. The three category hubs, sitemap and new image-credit titles were verified live. Commercial-link DOM checks confirm three category-specific Amazon links, approved tagging and all four paid-link rel values, with visible disclosures.
+
+The 35 unique internal destinations linked by the three live pages were requested from the custom domain; all returned HTTP 200. Live canonicals, Article/TravelGuide, BreadcrumbList and FAQPage data were parsed successfully. New article lengths are approximately 1,557, 1,682 and 1,812 rendered article words.
+
+Post-deployment image QA completed: six unique page/editorial images and zero affiliate/product images, in addition to the pre-commit pass. Each live article hero was visually opened and matched to its final title/copy. All three homepage card images and their corresponding gear, destination and journal hub crops were visually checked. All six deployed WebP files returned HTTP 200 and exactly matched the locally inspected assets by SHA-256. No incorrect fallback, broken source or substituted image was found.
+
+Amazon remains a verification limitation: the browser returned an Amazon page saying it does not support this session/client, after the earlier direct HTTP 503 results. No attempt was made to evade that restriction. Successful retail loading, stock or checkout is not claimed. Independent manufacturer references returned HTTP 200. The main publication is live; the limitation concerns the external retailer's response to this verification environment, not missing tracking or disclosure markup.
