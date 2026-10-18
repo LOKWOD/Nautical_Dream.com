@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-18
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Scotty Fishing product support | https://scotty.com/contact/ | Eight-field rod-holder fit card and mount comparison | Corrections-first review of the example part-number chain; offer a category-neutral measurement checklist if useful, with no endorsement or link implied | Qualified technical-source opportunity; not contacted |
+| NYSDEC Region 5 Ray Brook office | https://dec.ny.gov/places/saranac-lakes-wild-forest | Lake Colby eligibility and hand-launch access card | Ask for corrections to the distinction between power eligibility, physical carry-in access and accessible facilities; no request for an exception or backlink | Qualified trust-source opportunity; not contacted |
+| BoatUS Foundation | https://boatus.org/contact/ | Photograph-demonstrate-agree family rental acceptance record | Offer the renter-facing record for safety review as a complement to a vessel-specific briefing, not as certification or legal advice | Qualified safety-resource opportunity; not contacted |
+
 ## 2026-10-17
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

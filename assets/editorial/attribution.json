@@ -1,4 +1,78 @@
 {
+
+  "rod-holder-fit-hero": {
+    "localPath": "assets/editorial/rod-holder-fit-hero.webp",
+    "title": "rod holder fit hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Conceptual unbranded fishing rod and mount compatibility planning; not a tested product or installation.",
+    "width": 1600,
+    "height": 900
+  },
+  "rod-holder-fit-card": {
+    "localPath": "assets/editorial/rod-holder-fit-card.webp",
+    "title": "rod holder fit card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Conceptual unbranded fishing rod and mount compatibility planning; not a tested product or installation.",
+    "width": 1200,
+    "height": 900
+  },
+  "lake-colby-access-hero": {
+    "localPath": "assets/editorial/lake-colby-access-hero.webp",
+    "title": "lake colby access hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Conceptual small-boat access planning equipment; not a Lake Colby destination photograph or proof of motor eligibility.",
+    "width": 1600,
+    "height": 900
+  },
+  "lake-colby-access-card": {
+    "localPath": "assets/editorial/lake-colby-access-card.webp",
+    "title": "lake colby access card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Conceptual small-boat access planning equipment; not a Lake Colby destination photograph or proof of motor eligibility.",
+    "width": 1200,
+    "height": 900
+  },
+  "rental-boat-handover-hero": {
+    "localPath": "assets/editorial/rental-boat-handover-hero.webp",
+    "title": "rental boat handover hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Conceptual rental boat acceptance evidence kit; no real operator, customer or contract.",
+    "width": 1600,
+    "height": 900
+  },
+  "rental-boat-handover-card": {
+    "localPath": "assets/editorial/rental-boat-handover-card.webp",
+    "title": "rental boat handover card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Conceptual rental boat acceptance evidence kit; no real operator, customer or contract.",
+    "width": 1200,
+    "height": 900
+  }
+,
   "thousand-islands-boldt": {
     "localPath": "assets/editorial/thousand-islands-boldt.jpg",
     "title": "Boldt Castle on Heart Island - Thousand Islands.JPG",

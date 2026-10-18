@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-17T15:58:08.445Z",
+  "generatedAt": "2026-10-18T15:24:59.075Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 209,
-    "commercialLinks": 392,
-    "activeAffiliateLinks": 392,
+    "eligiblePages": 212,
+    "commercialLinks": 395,
+    "activeAffiliateLinks": 395,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 392,
+    "amazonAffiliateLinks": 395,
     "fallbackLinks": 0,
-    "changedPages": 120
+    "changedPages": 113
   },
   "links": [
     {
@@ -1795,6 +1795,39 @@
       "source": "amazon-search"
     },
     {
+      "page": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html",
+      "key": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html::boat-clamp-on-fishing-rod-holders",
+      "product": "boat clamp-on fishing rod holders",
+      "visibleText": "Compare boat clamp-on fishing rod holders",
+      "originalUrl": "https://www.amazon.com/s?k=boat+clamp+on+fishing+rod+holder",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+clamp-on+fishing+rod+holders&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html",
+      "key": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html::boat-rail-mount-fishing-rod-holders",
+      "product": "boat rail-mount fishing rod holders",
+      "visibleText": "Compare boat rail-mount fishing rod holders",
+      "originalUrl": "https://www.amazon.com/s?k=boat+rail+mount+fishing+rod+holder",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+rail-mount+fishing+rod+holders&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html",
+      "key": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html::boat-flush-mount-fishing-rod-holders",
+      "product": "boat flush-mount fishing rod holders",
+      "visibleText": "Compare boat flush-mount fishing rod holders",
+      "originalUrl": "https://www.amazon.com/s?k=boat+flush+mount+fishing+rod+holder",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+flush-mount+fishing+rod+holders&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
       "page": "boat-spare-propeller-kit-guide.html",
       "key": "boat-spare-propeller-kit-guide.html::outboard-replacement-propeller-matched-by-engine-model-diameter-pitch-and-rotation",
       "product": "outboard replacement propeller matched by engine model diameter pitch and rotation",
@@ -1985,7 +2018,7 @@
       "page": "boat-tool-kit-guide.html",
       "key": "boat-tool-kit-guide.html::compact-water-resistant-marine-tool-bag-with-zippered-compartments",
       "product": "compact water resistant marine tool bag with zippered compartments",
-      "visibleText": "Check current price",
+      "visibleText": "Compare compact marine tool bags",
       "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
       "destinationUrl": "https://www.amazon.com/s?k=compact+water+resistant+marine+tool+bag+with+zippered+compartments&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -1996,7 +2029,7 @@
       "page": "boat-tool-kit-guide.html",
       "key": "boat-tool-kit-guide.html::compact-corrosion-resistant-socket-and-wrench-set-for-boat-tool-kit",
       "product": "compact corrosion resistant socket and wrench set for boat tool kit",
-      "visibleText": "Check current price",
+      "visibleText": "Compare compact socket sets",
       "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
       "destinationUrl": "https://www.amazon.com/s?k=compact+corrosion+resistant+socket+and+wrench+set+for+boat+tool+kit&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -2007,7 +2040,7 @@
       "page": "boat-tool-kit-guide.html",
       "key": "boat-tool-kit-guide.html::corrosion-resistant-marine-pliers-and-line-cutters",
       "product": "corrosion resistant marine pliers and line cutters",
-      "visibleText": "Check current price",
+      "visibleText": "Compare marine pliers and cutters",
       "originalUrl": "https://www.uscgboating.org/recreational-boaters/",
       "destinationUrl": "https://www.amazon.com/s?k=corrosion+resistant+marine+pliers+and+line+cutters&tag=nauticaldr087-20",
       "retailer": "Amazon",
@@ -2018,7 +2051,7 @@
       "page": "boat-tool-kit-guide.html",
       "key": "boat-tool-kit-guide.html::reusable-waterproof-boat-tool-pouch-with-desiccant-storage",
       "product": "reusable waterproof boat tool pouch with desiccant storage",
-      "visibleText": "Check current price",
+      "visibleText": "Compare dry tool-storage pouches",
       "originalUrl": "https://www.mercurymarine.com/sp/en/parts-and-service/maintenance/maintenance-made-easy/whats-in-it-for-you",
       "destinationUrl": "https://www.amazon.com/s?k=reusable+waterproof+boat+tool+pouch+with+desiccant+storage&tag=nauticaldr087-20",
       "retailer": "Amazon",
