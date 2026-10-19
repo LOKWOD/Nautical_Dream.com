@@ -1,5 +1,12 @@
 # Authority opportunities
 
+## 2026-10-19
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Ritchie Navigation technical support | https://www.ritchienavigation.com/care-maintenance/frequently-asked-questions/ — published phone 1-781-826-5131 and linked contact/service routes | https://nauticaldream.com/marine-magnetic-steering-compass-buying-guide.html — seven-field purchase record | Corrections-first review of dial visibility, location and model-manual distinctions; offer a category-neutral pre-purchase checklist without an endorsement or citation promise | Qualified technical-resource opportunity; not contacted |
+| H. Lee White Maritime Museum visitor team | https://hlwmm.org/pages/contact-us — published phone 315-342-0480 | https://nauticaldream.com/h-lee-white-maritime-museum-family-shore-day-guide.html — indoor-first family itinerary and experience-split table | Invite correction of current access and seasonal distinctions and offer a practical shore-day resource if useful; no claim of a visit, partnership or guaranteed share | Qualified local-resource opportunity; not contacted |
+
 ## 2026-10-18
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

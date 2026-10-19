@@ -3,6 +3,8 @@
   "version": "2.0.0",
   "private": true,
   "scripts": {
+    "build:publication:2026-10-19": "node scripts/build-publication-2026-10-19.mjs",
+    "audit:daily:2026-10-19": "node scripts/audit-daily-2026-10-19.mjs",
     "build:authority": "node scripts/build-authority.mjs",
     "build:editorial": "node scripts/build-editorial.mjs && node scripts/build-image-credits.mjs",
     "build:publication:2026-08-21": "node scripts/build-publication-2026-08-21.mjs",

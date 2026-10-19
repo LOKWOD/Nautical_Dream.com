@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["h-lee-white-maritime-museum-family-shore-day-guide.html", "H. Lee White Maritime Museum Family Shore Day"],
     ["lake-colby-small-boat-ten-horsepower-guide.html", "Lake Colby Power and Hand-Launch Access"],
     ["brant-lake-public-boat-launch-family-guide.html", "Brant Lake Public Boat Launch Family Guide"],
     ["waneta-lamoka-lakes-family-boating-launch-guide.html", "Waneta and Lamoka Lakes Family Boating Launch Guide"],
@@ -51,6 +52,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["marine-magnetic-steering-compass-buying-guide.html", "Marine Magnetic Steering Compass Buying Guide"],
     ["boat-rod-holder-clamp-rail-flush-mount-buying-guide.html", "Boat Rod Holder Mount and Fit Guide"],
     ["boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html", "Boat Swim Platform and Floating Mat Guide"],
     ["boat-trailer-guide-ons-post-bunk-roller-buying-guide.html", "Boat-Trailer Guide-Ons Buying Guide"],
@@ -98,6 +100,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["harmful-algal-bloom-family-boating-go-no-go-guide.html", "Family Boating Algal-Bloom Decision Guide"],
     ["family-rental-boat-check-in-handover-guide.html", "Family Rental Boat Acceptance Record"],
     ["selling-boat-electronics-mmsi-personal-data-handoff-guide.html", "Selling a Boat Electronics and MMSI Handoff Guide"],
     ["life-jacket-winter-storage-inspection-guide.html", "Life-Jacket Winter Storage and Inspection Guide"],

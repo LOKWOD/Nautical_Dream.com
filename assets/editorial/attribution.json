@@ -1,4 +1,76 @@
 {
+  "marine-compass-fit-hero": {
+    "localPath": "assets/editorial/marine-compass-fit-hero.webp",
+    "title": "marine compass fit hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset: 16:9 premium boating editorial hero, 1600 by 900. A close still-life of a generic unbranded marine bowl magnetic steering compass on its black U-shaped bracket, on a teak workshop table beside a blank fit worksheet and wooden ruler. The compass dome and nautical card are recognizable but dial numbers and letters are not legible; no directional information is being taught. Soft daylight, quiet navy/teak palette. Keep the main objects in the right half and leave left negative space for headline overlay. No people, boat installation, wires, phone, magnets, logos or readable text. This is a conceptual selection scene, not a product photo or calibrated instrument.",
+    "width": 1600,
+    "height": 900
+  },
+  "marine-compass-fit-card": {
+    "localPath": "assets/editorial/marine-compass-fit-card.webp",
+    "title": "marine compass fit card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset: premium boating editorial discovery card, 4:3 horizontal, 1200 by 900. A generic unbranded round marine compass sitting upright on a compact low pedestal base, beside a folded blank white paper fit card and pencil on a dark wood desktop. Recognizable domed marine compass, markings too small to read. Off-center overhead view, natural light, no workshop clamp or bracket, no installed helm. No people, logos, model marks, legible numbers, wires or phone. Conceptual illustration of selecting a compass, not a tested item.",
+    "width": 1200,
+    "height": 900
+  },
+  "algal-bloom-boat-plan-hero": {
+    "localPath": "assets/editorial/algal-bloom-boat-plan-hero.webp",
+    "title": "algal bloom boat plan hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset: 16:9 premium boating editorial hero, 1600 by 900. A dry boating trip-planning table indoors: folded navy life jacket, capped reusable fresh-water bottle, plain smartphone with fully dark screen, blank notepad and pencil. A packed plain gray day bag remains closed. A rain-blurred window beyond with no identifiable place. Main objects on the right, calm left negative space for headline. Theme is choosing to postpone a lake trip when water quality is uncertain. No algae, water samples, test kits, diagnosis, maps, readable text, people, products or location claims.",
+    "width": 1600,
+    "height": 900
+  },
+  "algal-bloom-boat-plan-card": {
+    "localPath": "assets/editorial/algal-bloom-boat-plan-card.webp",
+    "title": "algal bloom boat plan card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset: 4:3 editorial card, 1200 by 900. Top-down still-life of a closed blank route notebook with a wooden pencil resting across it, a capped clear fresh-water bottle and a plain dry bag on a clean pale tabletop. A small folded life jacket at edge provides boating context. Quiet restrained warm light. A conceptual decision to keep a family outing on land, NOT a photograph of an algal bloom, treatment setup, official warning or named lake. No people, badges, brands, maps or readable text.",
+    "width": 1200,
+    "height": 900
+  },
+  "oswego-maritime-shore-day-hero": {
+    "localPath": "assets/editorial/oswego-maritime-shore-day-hero.webp",
+    "title": "oswego maritime shore day hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset: 16:9 premium boating lifestyle editorial hero, 1600 by 900. Family shore-day planning still-life indoors: two closed waterproof jackets folded neatly, a small blank sketchbook open to empty pages with a pencil, and a compact daypack on a wooden bench near a rain-streaked window. A small unbranded wooden toy sailboat adds a maritime-history cue. Main subjects to the right, generous left negative space. No recognizable exterior, museum, lighthouse, artifact, exhibition, tickets, children, people, brand or readable text. Clearly conceptual preparation for a maritime museum day, not documentary evidence of Oswego or the museum.",
+    "width": 1600,
+    "height": 900
+  },
+  "oswego-maritime-shore-day-card": {
+    "localPath": "assets/editorial/oswego-maritime-shore-day-card.webp",
+    "title": "oswego maritime shore day card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset: 4:3 horizontal boating editorial card, 1200 by 900. A blank pocket sketchbook and two pencils beside a folded navy rain shell and an unbranded wooden toy boat on a pale wooden table, a small zipped daypack behind. Daylight and premium quiet maritime colors. Distinct composition from an indoor bench scene. No real museum display, artifact, building, lighthouse, place, people, tickets, labels, logo or readable text. This is a conceptual family museum-visit packing scene only.",
+    "width": 1200,
+    "height": 900
+  },
 
   "rod-holder-fit-hero": {
     "localPath": "assets/editorial/rod-holder-fit-hero.webp",
