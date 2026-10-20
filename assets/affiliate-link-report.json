@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-19T16:08:28.461Z",
+  "generatedAt": "2026-10-20T16:05:48.352Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 215,
-    "commercialLinks": 398,
-    "activeAffiliateLinks": 398,
+    "eligiblePages": 218,
+    "commercialLinks": 400,
+    "activeAffiliateLinks": 400,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 398,
+    "amazonAffiliateLinks": 400,
     "fallbackLinks": 0,
-    "changedPages": 122
+    "changedPages": 123
   },
   "links": [
     {
@@ -514,6 +514,28 @@
       "visibleText": "Compare rated marine anchor shackles",
       "originalUrl": "https://www.mantusmarine.com/mantus-anchor-knowledgebase/understanding-shackles/",
       "destinationUrl": "https://www.amazon.com/s?k=rated+galvanized+marine+anchor+shackle+sized+for+anchor+chain&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-backup-paddle-oar-buying-guide.html",
+      "key": "boat-backup-paddle-oar-buying-guide.html::fixed-length-boat-paddle",
+      "product": "fixed-length-boat-paddle",
+      "visibleText": "Compare fixed-length boat paddles",
+      "originalUrl": "https://www.amazon.com/s?k=fixed+length+boat+paddle",
+      "destinationUrl": "https://www.amazon.com/s?k=fixed-length-boat-paddle&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-backup-paddle-oar-buying-guide.html",
+      "key": "boat-backup-paddle-oar-buying-guide.html::telescoping-backup-boat-paddle",
+      "product": "telescoping-backup-boat-paddle",
+      "visibleText": "Compare telescoping backup boat paddles",
+      "originalUrl": "https://www.amazon.com/s?k=telescoping+emergency+boat+paddle",
+      "destinationUrl": "https://www.amazon.com/s?k=telescoping-backup-boat-paddle&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

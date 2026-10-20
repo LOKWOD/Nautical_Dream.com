@@ -1,5 +1,12 @@
 # Authority opportunities
 
+## 2026-10-20
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| U.S. Coast Guard Auxiliary local vessel-examination/public-education team | https://home.cgaux.org/wp/ — official Get a Vessel Safety Check and Find a Flotilla routes | https://nauticaldream.com/vessel-safety-check-appointment-preparation-guide.html — appointment and action–owner–evidence record | Corrections-first review of a category-neutral owner preparation sheet; offer it as a companion to, never a replacement for, official forms. No endorsement or decal promise. | Qualified public-education resource opportunity; not contacted |
+| RNID information/accessibility team | https://rnid.org.uk/contact-us/ — published enquiry route | https://nauticaldream.com/boating-with-hearing-loss-passenger-communication-guide.html — preference–message–acknowledgement–fallback card | Request corrections to the separation of general communication principles and boat-specific editorial application; offer the blank planning card if useful without claiming medical or marine approval. | Qualified accessibility-resource opportunity; not contacted |
+
 ## 2026-10-19
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

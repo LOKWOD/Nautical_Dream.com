@@ -52,6 +52,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-backup-paddle-oar-buying-guide.html", "Backup Boat Paddle and Oar Selection"],
     ["marine-magnetic-steering-compass-buying-guide.html", "Marine Magnetic Steering Compass Buying Guide"],
     ["boat-rod-holder-clamp-rail-flush-mount-buying-guide.html", "Boat Rod Holder Mount and Fit Guide"],
     ["boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html", "Boat Swim Platform and Floating Mat Guide"],
@@ -100,6 +101,8 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["vessel-safety-check-appointment-preparation-guide.html", "Free Vessel Safety Check Appointment Preparation"],
+    ["boating-with-hearing-loss-passenger-communication-guide.html", "Accessible Passenger Communication Brief"],
     ["harmful-algal-bloom-family-boating-go-no-go-guide.html", "Family Boating Algal-Bloom Decision Guide"],
     ["family-rental-boat-check-in-handover-guide.html", "Family Rental Boat Acceptance Record"],
     ["selling-boat-electronics-mmsi-personal-data-handoff-guide.html", "Selling a Boat Electronics and MMSI Handoff Guide"],

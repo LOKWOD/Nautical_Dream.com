@@ -1,4 +1,76 @@
 {
+  "backup-paddle-selection-hero": {
+    "localPath": "assets/editorial/backup-paddle-selection-hero.webp",
+    "title": "Conceptual paddle preparation hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset type: wide 16:9 editorial website hero with quiet left side for text. Conceptual preparation scene on a dry wooden boathouse workbench: one unbranded single-bladed fixed-length wooden paddle with a simple T grip, a separate unbranded compact single-bladed telescoping paddle, a plain blank measurement worksheet and a closed measuring tape on the right. Natural side light, realistic wood and metal texture, restrained premium boating editorial photography. No people, no actual brand/model representation, no claims of testing, no readable scales or writing, no charts or diagrams, no logos, no watermark. Both paddles intact plausible geometry. Not an emergency action or installation scene.",
+    "width": 1600,
+    "height": 900
+  },
+  "backup-paddle-selection-card": {
+    "localPath": "assets/editorial/backup-paddle-selection-card.webp",
+    "title": "Conceptual paddle preparation card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset type: 4:3 boating editorial discovery card. A single unbranded compact telescoping single-blade backup paddle lies fully visible diagonally on a dry dark blue cockpit bench beside a completely blank cream fit card and capped pencil. Plausible T grip, simple aluminum extension shaft and flat dark blade, no extra handles, no invented brand/model, no readable measurements. Close high-angle natural photo, realistic materials and soft daylight. No people, no installation, no action or get-home guarantee, no text/logo/watermark. Conceptual equipment selection scene, not tested or linked exact product.",
+    "width": 1200,
+    "height": 900
+  },
+  "vessel-check-record-hero": {
+    "localPath": "assets/editorial/vessel-check-record-hero.webp",
+    "title": "Conceptual check preparation hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset type: wide 16:9 editorial website hero, quiet dark left side for heading. Conceptual boat-owner preparation scene: blank clipboard and pencil, closed plain document folder, compact unbranded handheld marine radio powered off and neatly folded orange foam life jacket laid separately on a dry cockpit bench of a stationary small recreational boat. Daylight, realistic worn fabric and paper, calm orderly composition. No people, no uniform, no official decal, no agency insignia, no checkmarks, no writing, no passing inspection or approval implication, no brand, no watermark. Generic boat and equipment, not tested products or a certified equipment set.",
+    "width": 1600,
+    "height": 900
+  },
+  "vessel-check-record-card": {
+    "localPath": "assets/editorial/vessel-check-record-card.webp",
+    "title": "Conceptual check preparation card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset type: 4:3 boating editorial discovery card. On a dry marina-side wooden table: an open plain navy document folder with blank papers, a separate blank equipment-location note card, pencil and a pair of ordinary boat keys on a simple key ring. Blurred stationary recreational boat in the background. Natural light and realistic paper/wood. No people, official forms, badges, decals, agency logos, checkmarks or readable text. No certification or passing inspection implication. Original conceptual appointment-preparation scene, not an actual Coast Guard visit. No watermark.",
+    "width": 1200,
+    "height": 900
+  },
+  "accessible-boat-brief-hero": {
+    "localPath": "assets/editorial/accessible-boat-brief-hero.webp",
+    "title": "Conceptual hearing preparation hero",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset type: wide 16:9 editorial website hero with quiet left side for heading. Conceptual accessible passenger-brief preparation scene aboard a stationary recreational boat at a quiet dock: an open blank large-print-style communication notebook with completely blank cream pages, thick dark felt-tip pen, separate small blank whiteboard and capped dry-erase marker, and a powered-off smartphone in a protective case on a dry cream cockpit table on the right. Soft daylight, slightly blurred empty boat seats in background, realistic paper/plastic textures and premium natural boating editorial photograph. No people, no hearing aids or medical devices, no text, no symbols or signaling diagram, no logos, no watermark. Does not depict or diagnose a person or demonstrate a safety system.",
+    "width": 1600,
+    "height": 900
+  },
+  "accessible-boat-brief-card": {
+    "localPath": "assets/editorial/accessible-boat-brief-card.webp",
+    "title": "Conceptual hearing preparation card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceUrl": "",
+    "originalUrl": "",
+    "query": "Use case: photorealistic-natural. Asset type: 4:3 boating editorial discovery card. An empty quiet shore-side picnic table with two facing chairs, a small completely blank whiteboard, capped dry-erase marker and an open blank cream notebook. Soft blurred marina in background, warm natural daylight, realistic ordinary materials. Clear conversational preparation context without any people, no ear/hearing aid/medical equipment, no stereotype, no readable text, no hand signals or diagram, no logos or watermark. Conceptual private accessible passenger briefing preparation; no claim of medical testing or a real named place.",
+    "width": 1200,
+    "height": 900
+  },
   "marine-compass-fit-hero": {
     "localPath": "assets/editorial/marine-compass-fit-hero.webp",
     "title": "marine compass fit hero",
