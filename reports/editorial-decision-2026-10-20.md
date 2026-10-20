@@ -44,4 +44,13 @@ All **103** current Pages generation, affiliate/contextual-product injection, an
 
 ## Publication status
 
-Production push and post-deployment verification pending at this source-validation checkpoint. Do not report the three URLs as published until the custom domain and rendered-image pass have been checked.
+Production content commit: `28f177d9a32b24595fae7d287617e4d6a3287fa0`, pushed directly to `main` with a non-forced expected-head check. All 39 uploaded file blobs and the complete tree were SHA-verified against the local index. Unrelated generated formatting drift was removed; final scoped files passed all 46 audit commands and strict nesting/unique-ID checks on the new pages.
+
+All four workflows concluded success: custom publication deployment **39455472232**, static audit **39455472118**, visitor beacon **39455472175**, GitHub Pages build/deployment **39455471706**. The three live custom-domain pages were opened and their titles, source images and published content verified. Six editorial images were visually inspected across all nine live hero/home/hub placements, completing both passes; zero affiliate/product images. Live paddle anchors name the actual categories, include the approved tag without exposing it, record active tracking and carry sponsored/nofollow/noopener/noreferrer protection. The visible Associate disclosure is present. Amazon's HTTP 503 limitation remains; manufacturer fallbacks load independently. No purchase or earning result is claimed.
+
+Final live URLs:
+- https://nauticaldream.com/boat-backup-paddle-oar-buying-guide.html
+- https://nauticaldream.com/vessel-safety-check-appointment-preparation-guide.html
+- https://nauticaldream.com/boating-with-hearing-loss-passenger-communication-guide.html
+
+Exactly three new pages were added. A repeated request found this same batch; no extra batch was created. This verification record supersedes the prepublication checkpoint.
