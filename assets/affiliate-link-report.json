@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-20T16:05:48.352Z",
+  "generatedAt": "2026-10-21T15:45:32.715Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 218,
-    "commercialLinks": 400,
-    "activeAffiliateLinks": 400,
+    "eligiblePages": 221,
+    "commercialLinks": 403,
+    "activeAffiliateLinks": 403,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 400,
+    "amazonAffiliateLinks": 403,
     "fallbackLinks": 0,
-    "changedPages": 123
+    "changedPages": 124
   },
   "links": [
     {
@@ -2549,6 +2549,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.3m.com/3M/en_US/p/d/b40070784/",
       "destinationUrl": "https://www.amazon.com/s?k=3M+Perfect-It+Boat+Wash&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html",
+      "key": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html::marine-coiled-washdown-hoses-with-spray-nozzles",
+      "product": "marine coiled washdown hoses with spray nozzles",
+      "visibleText": "Compare marine coiled washdown-hose categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+coiled+washdown+hose+spray+nozzle",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+coiled+washdown+hoses+with+spray+nozzles&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html",
+      "key": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html::flat-boat-washdown-hoses",
+      "product": "flat boat washdown hoses",
+      "visibleText": "Compare flat boat washdown-hose categories",
+      "originalUrl": "https://www.amazon.com/s?k=flat+boat+washdown+hose",
+      "destinationUrl": "https://www.amazon.com/s?k=flat+boat+washdown+hoses&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html",
+      "key": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html::reinforced-marine-washdown-hoses-and-nozzles",
+      "product": "reinforced marine washdown hoses and nozzles",
+      "visibleText": "Compare reinforced marine washdown-hose categories",
+      "originalUrl": "https://www.amazon.com/s?k=reinforced+marine+washdown+hose+nozzle",
+      "destinationUrl": "https://www.amazon.com/s?k=reinforced+marine+washdown+hoses+and+nozzles&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

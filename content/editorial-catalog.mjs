@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["lake-bonaparte-family-boating-launch-guide.html", "Lake Bonaparte Family Launch Plan"],
     ["h-lee-white-maritime-museum-family-shore-day-guide.html", "H. Lee White Maritime Museum Family Shore Day"],
     ["lake-colby-small-boat-ten-horsepower-guide.html", "Lake Colby Power and Hand-Launch Access"],
     ["brant-lake-public-boat-launch-family-guide.html", "Brant Lake Public Boat Launch Family Guide"],
@@ -52,6 +53,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html", "Boat Washdown Hose and Nozzle Fit Guide"],
     ["boat-backup-paddle-oar-buying-guide.html", "Backup Boat Paddle and Oar Selection"],
     ["marine-magnetic-steering-compass-buying-guide.html", "Marine Magnetic Steering Compass Buying Guide"],
     ["boat-rod-holder-clamp-rail-flush-mount-buying-guide.html", "Boat Rod Holder Mount and Fit Guide"],
@@ -101,6 +103,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["new-york-boating-safety-certificate-family-guide.html", "New York Boating Safety Certificate Family Guide"],
     ["vessel-safety-check-appointment-preparation-guide.html", "Free Vessel Safety Check Appointment Preparation"],
     ["boating-with-hearing-loss-passenger-communication-guide.html", "Accessible Passenger Communication Brief"],
     ["harmful-algal-bloom-family-boating-go-no-go-guide.html", "Family Boating Algal-Bloom Decision Guide"],

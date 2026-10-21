@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-21
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| NYSDEC Region 6 / Watertown office | https://dec.ny.gov/about/contact-us/statewide-office-information | https://nauticaldream.com/lake-bonaparte-family-boating-launch-guide.html — official-fact/access-gap card and close-in proof-loop framework | Corrections-first review of the Sand Bay State Forest launch, 14-space listing and deliberately unclaimed facilities; offer the access card as a family planning resource if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| New York State Parks Marine Services Bureau | https://parks.ny.gov/activities/boating/boating-education | https://nauticaldream.com/new-york-boating-safety-certificate-family-guide.html — family operator-proof roster | Request corrections to the course, original-proof, visitor and rental-exception distinctions; offer the blank roster as a companion to official guidance, never as a certificate or legal interpretation. | Qualified public-education opportunity; not contacted |
+| Trident Marine technical support | https://tridentmarine.com/contact-us/ | https://nauticaldream.com/boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html — source–pressure–route–storage fit card | Corrections-first review of hose-format and documentation fields; offer the brand-neutral card for buyer education without implying product testing or endorsement. | Qualified technical-resource opportunity; not contacted |
+
 ## 2026-10-20
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |
