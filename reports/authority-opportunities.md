@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-22
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State Parks — Moreau Lake State Park | https://parks.ny.gov/visit/state-parks/moreau-lake-state-park — published park phone and official contact route | https://nauticaldream.com/moreau-lake-state-park-family-kayak-guide.html — bring-own versus guided-program decision table | Corrections-first review of program fee, adult-renter gate, access hours and deliberately unclaimed launch details; offer the decision table only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary vessel-examination/public-education team | https://home.cgaux.org/wp/ — official VSC and flotilla routes | https://nauticaldream.com/recreational-boat-law-enforcement-boarding-preparation-guide.html — one-operator/document/equipment readiness protocol | Request corrections to the separation between voluntary VSCs and law-enforcement boardings; offer the calm family drill as a companion to official guidance, never as legal advice. | Qualified public-education opportunity; not contacted |
+| Minder Research / TireMinder technical support | https://support.tireminder.com/ | https://nauticaldream.com/boat-trailer-tpms-buying-setup-guide.html — seven-field purchase card and three-layer departure check | Corrections-first review of model-specific baseline, transmitter-position and signal-booster distinctions; offer the brand-neutral fit card without implying testing or endorsement. | Qualified technical-resource opportunity; not contacted |
+
 ## 2026-10-21
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |
