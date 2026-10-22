@@ -13,4 +13,9 @@
 
 ## Deployment result
 
-Pending commit, GitHub Pages workflow and live custom-domain verification.
+- Publication commit: `ee59cac544198101848731af212dba8b4dc6ab7c` on `main`.
+- GitHub Actions: custom Pages deployment, GitHub Pages build/deployment, static-site audit, and visitor-beacon normalization all completed successfully.
+- Live custom-domain verification passed for all three canonical article URLs, the homepage module, and the Gear, Destinations and Journal hubs.
+- Live metadata checks confirmed the expected canonical URL and Article/Guide/HowTo, BreadcrumbList and FAQPage schema on the new pages.
+- Live monetization check confirmed all three descriptive Amazon category anchors on the TPMS guide retain the approved affiliate destination and `sponsored nofollow noopener noreferrer` protection. No affiliate link was clicked during QA.
+- Live image pass confirmed six unique editorial assets across nine rendered article/homepage/hub placements, with correct crop and association and zero affiliate/product images.
