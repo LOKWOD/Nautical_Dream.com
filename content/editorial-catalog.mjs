@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["lake-durant-small-boat-family-guide.html", "Lake Durant Small-Boat Family Plan"],
     ["moreau-lake-state-park-family-kayak-guide.html", "Moreau Lake State Park Family Kayak Plan"],
     ["lake-bonaparte-family-boating-launch-guide.html", "Lake Bonaparte Family Launch Plan"],
     ["h-lee-white-maritime-museum-family-shore-day-guide.html", "H. Lee White Maritime Museum Family Shore Day"],
@@ -54,6 +55,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-battery-tester-multimeter-conductance-load-guide.html", "Boat Battery Test-Tool Guide"],
     ["boat-trailer-tpms-buying-setup-guide.html", "Boat-Trailer TPMS Buying and Setup Guide"],
     ["boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html", "Boat Washdown Hose and Nozzle Fit Guide"],
     ["boat-backup-paddle-oar-buying-guide.html", "Backup Boat Paddle and Oar Selection"],
@@ -105,6 +107,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-air-draft-bridge-clearance-planning-guide.html", "Boat Air-Draft and Bridge-Clearance Plan"],
     ["recreational-boat-law-enforcement-boarding-preparation-guide.html", "Recreational-Boat Boarding Preparation Guide"],
     ["new-york-boating-safety-certificate-family-guide.html", "New York Boating Safety Certificate Family Guide"],
     ["vessel-safety-check-appointment-preparation-guide.html", "Free Vessel Safety Check Appointment Preparation"],

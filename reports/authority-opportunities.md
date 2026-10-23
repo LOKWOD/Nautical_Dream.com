@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-23
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State DEC — Lake Durant / Region 5 | https://dec.ny.gov/places/lake-durant-campground-and-day-use-area — official facility and regional contact routes | https://nauticaldream.com/lake-durant-small-boat-family-guide.html — access gate, official-facts boundary and shallow-water proof loop | Corrections-first review of the 2026 season, ten-space ramp, small-boat wording and deliberately unclaimed off-season access; offer the decision card only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary navigation/public-education team | https://home.cgaux.org/wp/ — official flotilla and public-education routes | https://nauticaldream.com/boat-air-draft-bridge-clearance-planning-guide.html — five-number bridge card and go/hold/reroute worksheet | Request corrections to the separation of boat air draft, published datum and current opening; offer the blank worksheet as a companion to official charts and bridge rules, never as clearance advice. | Qualified public-education opportunity; not contacted |
+| United States Power Squadrons / America’s Boating Club education team | https://www.americasboatingclub.org/contact-us — published organization contact route | https://nauticaldream.com/boat-air-draft-bridge-clearance-planning-guide.html — bridge-source and holding-point planning asset | Corrections-first technical review and possible member-resource fit for the source card; state plainly that it is not a chart, course or guaranteed margin. | Qualified seamanship-resource opportunity; not contacted |
+
 ## 2026-10-22
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

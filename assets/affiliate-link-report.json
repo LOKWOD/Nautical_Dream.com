@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-22T15:55:38.917Z",
+  "generatedAt": "2026-10-23T15:33:04.122Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 224,
-    "commercialLinks": 406,
-    "activeAffiliateLinks": 406,
+    "eligiblePages": 227,
+    "commercialLinks": 409,
+    "activeAffiliateLinks": 409,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 406,
+    "amazonAffiliateLinks": 409,
     "fallbackLinks": 0,
-    "changedPages": 125
+    "changedPages": 1
   },
   "links": [
     {
@@ -679,6 +679,39 @@
       "visibleText": "Compare marine battery switch categories on Amazon",
       "originalUrl": "https://www.bluesea.com/products/category/11/Manual_Battery_Switches",
       "destinationUrl": "https://www.amazon.com/s?k=marine+battery+switches+matched+to+the+documented+bank+architecture+voltage+current+ratings+ignition+protection+and+exact+manufacturer+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-tester-multimeter-conductance-load-guide.html",
+      "key": "boat-battery-tester-multimeter-conductance-load-guide.html::digital-multimeters-with-insulated-leads-and-a-documented-dc-range-for-marine-battery-chec",
+      "product": "digital multimeters with insulated leads and a documented DC range for marine battery checks",
+      "visibleText": "Compare digital multimeter categories for boat-battery voltage checks",
+      "originalUrl": "https://www.amazon.com/s?k=marine+digital+multimeter+dc+battery",
+      "destinationUrl": "https://www.amazon.com/s?k=digital+multimeters+with+insulated+leads+and+a+documented+DC+range+for+marine+battery+checks&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-tester-multimeter-conductance-load-guide.html",
+      "key": "boat-battery-tester-multimeter-conductance-load-guide.html::12-volt-battery-conductance-testers-with-documented-chemistry-and-cca-mca-rating-support",
+      "product": "12 volt battery conductance testers with documented chemistry and CCA MCA rating support",
+      "visibleText": "Compare 12-volt conductance-tester categories",
+      "originalUrl": "https://www.amazon.com/s?k=12v+battery+conductance+tester+cca+mca",
+      "destinationUrl": "https://www.amazon.com/s?k=12+volt+battery+conductance+testers+with+documented+chemistry+and+CCA+MCA+rating+support&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-battery-tester-multimeter-conductance-load-guide.html",
+      "key": "boat-battery-tester-multimeter-conductance-load-guide.html::carbon-pile-battery-load-testers-matched-to-battery-voltage-current-rating-and-manufacture",
+      "product": "carbon-pile battery load testers matched to battery voltage current rating and manufacturer procedure",
+      "visibleText": "Compare controlled battery load-tester categories",
+      "originalUrl": "https://www.amazon.com/s?k=carbon+pile+battery+load+tester",
+      "destinationUrl": "https://www.amazon.com/s?k=carbon-pile+battery+load+testers+matched+to+battery+voltage+current+rating+and+manufacturer+procedure&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
