@@ -4,4 +4,4 @@ Pre-deployment checks passed: source syntax, generation, image-credit build, aff
 
 Monetization: six text-only Amazon category links are active—three on the outboard-support guide and three on the high-water-alarm guide. All carry the configured Associate tag, sponsored/nofollow/noopener, tracking attributes and visible disclosure. Eighth Lake has no paid links. Sitewide report: 415 active affiliate links and zero fallbacks.
 
-Deployment and live custom-domain verification are pending.
+Production source commit `765945e04308404bb4f238e5e28f1c935a6e2ac0` is on `main`. Workflow completion and live custom-domain verification are pending.
