@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-24
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State DEC — Eighth Lake Campground / Region 5 | https://dec.ny.gov/places/eighth-lake-campground-and-day-use-area — official facility phone and regional contact routes | https://nauticaldream.com/eighth-lake-family-boating-access-guide.html — single-access fact card and 2027 closure gate | Corrections-first review of the ten-space, only-public-access and Jan. 1–June 28, 2027 closure statements; offer the family decision card only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| Mercury Marine owner support | https://www.mercurymarine.com/us/en/contact-us — official owner-support route | https://nauticaldream.com/outboard-trailering-support-device-transom-saver-guide.html — engine–trailer–clearance fit card | Request corrections to the category-neutral separation of vertical support, steering restraint and storage/maintenance levers; offer the checklist for owner education without implying Mercury approval or product testing. | Qualified technical-resource opportunity; not contacted |
+| BoatUS Foundation | https://boatus.org/contact/ — published safety-education route | https://nauticaldream.com/boat-high-water-bilge-alarm-buying-installation-guide.html — sensor-to-responder architecture and fault matrix | Ask for corrections to the separation of high-water detection, pump activity and response planning; offer the non-brand fault matrix as a safety-education resource, not an installation standard. | Qualified safety-resource opportunity; not contacted |
+
 ## 2026-10-23
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

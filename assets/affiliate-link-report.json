@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-23T15:33:04.122Z",
+  "generatedAt": "2026-10-24T15:24:01.162Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 227,
-    "commercialLinks": 409,
-    "activeAffiliateLinks": 409,
+    "eligiblePages": 230,
+    "commercialLinks": 415,
+    "activeAffiliateLinks": 415,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 409,
+    "amazonAffiliateLinks": 415,
     "fallbackLinks": 0,
-    "changedPages": 1
+    "changedPages": 128
   },
   "links": [
     {
@@ -1548,6 +1548,39 @@
       "visibleText": "View marine fuel-filter service tools on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=marine+fuel+filter+wrench+spill+absorbent+kit",
       "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+service+wrench+and+fuel+compatible+absorbent+supplies&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-high-water-bilge-alarm-buying-installation-guide.html",
+      "key": "boat-high-water-bilge-alarm-buying-installation-guide.html::marine-high-water-bilge-alarm-kits-with-documented-float-switch-mounting-audible-output-vi",
+      "product": "marine high-water bilge alarm kits with documented float-switch mounting audible output visual indication and test method",
+      "visibleText": "Compare float-switch high-water alarm categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+high+water+bilge+alarm+float+switch",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+high-water+bilge+alarm+kits+with+documented+float-switch+mounting+audible+output+visual+indication+and+test+method&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-high-water-bilge-alarm-buying-installation-guide.html",
+      "key": "boat-high-water-bilge-alarm-buying-installation-guide.html::marine-electronic-bilge-water-level-alarms-with-documented-sensor-mounting-contamination-l",
+      "product": "marine electronic bilge water-level alarms with documented sensor mounting contamination limits and fault behavior",
+      "visibleText": "Compare electronic water-level alarm categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+electronic+bilge+water+level+alarm",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+electronic+bilge+water-level+alarms+with+documented+sensor+mounting+contamination+limits+and+fault+behavior&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-high-water-bilge-alarm-buying-installation-guide.html",
+      "key": "boat-high-water-bilge-alarm-buying-installation-guide.html::marine-bilge-pump-cycle-and-run-time-monitors-with-adjustable-alarm-thresholds-and-documen",
+      "product": "marine bilge pump cycle and run-time monitors with adjustable alarm thresholds and documented multi-zone inputs",
+      "visibleText": "Compare bilge run-time and cycle-monitor categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+bilge+pump+cycle+monitor+alarm",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+bilge+pump+cycle+and+run-time+monitors+with+adjustable+alarm+thresholds+and+documented+multi-zone+inputs&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
@@ -3935,6 +3968,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://mityvacstore.com/mityvac-7201/",
       "destinationUrl": "https://www.amazon.com/s?k=Mityvac+7201+Fluid+Evacuator+Plus&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-trailering-support-device-transom-saver-guide.html",
+      "key": "outboard-trailering-support-device-transom-saver-guide.html::outboard-motor-trailering-support-bars-matched-to-engine-approval-trailer-geometry-and-low",
+      "product": "outboard motor trailering support bars matched to engine approval trailer geometry and lower-unit contact",
+      "visibleText": "Compare trailer-to-outboard support-bar categories",
+      "originalUrl": "https://www.amazon.com/s?k=outboard+motor+support+bar+boat+trailer",
+      "destinationUrl": "https://www.amazon.com/s?k=outboard+motor+trailering+support+bars+matched+to+engine+approval+trailer+geometry+and+lower-unit+contact&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-trailering-support-device-transom-saver-guide.html",
+      "key": "outboard-trailering-support-device-transom-saver-guide.html::outboard-bracket-support-wedges-matched-to-exact-engine-model-and-manufacturer-trailering-",
+      "product": "outboard bracket support wedges matched to exact engine model and manufacturer trailering instructions",
+      "visibleText": "Compare engine-bracket support categories",
+      "originalUrl": "https://www.amazon.com/s?k=outboard+motor+support+wedge+trailering",
+      "destinationUrl": "https://www.amazon.com/s?k=outboard+bracket+support+wedges+matched+to+exact+engine+model+and+manufacturer+trailering+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-trailering-support-device-transom-saver-guide.html",
+      "key": "outboard-trailering-support-device-transom-saver-guide.html::outboard-steering-stabilizer-clips-matched-to-steering-cylinder-rod-dimensions-and-maker-i",
+      "product": "outboard steering stabilizer clips matched to steering cylinder rod dimensions and maker instructions",
+      "visibleText": "Compare outboard steering-restraint categories",
+      "originalUrl": "https://www.amazon.com/s?k=outboard+steering+stabilizer+clips",
+      "destinationUrl": "https://www.amazon.com/s?k=outboard+steering+stabilizer+clips+matched+to+steering+cylinder+rod+dimensions+and+maker+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

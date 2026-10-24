@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["eighth-lake-family-boating-access-guide.html", "Eighth Lake by Small Boat: Ten Spaces, the Only Public Access and the 2027 Closure Gate"],
     ["lake-durant-small-boat-family-guide.html", "Lake Durant Small-Boat Family Plan"],
     ["moreau-lake-state-park-family-kayak-guide.html", "Moreau Lake State Park Family Kayak Plan"],
     ["lake-bonaparte-family-boating-launch-guide.html", "Lake Bonaparte Family Launch Plan"],
@@ -55,6 +56,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["outboard-trailering-support-device-transom-saver-guide.html", "Outboard Trailering Supports: Match the Engine, Trailer and Clearance Before Choosing a “Transom Saver”"],
     ["boat-battery-tester-multimeter-conductance-load-guide.html", "Boat Battery Test-Tool Guide"],
     ["boat-trailer-tpms-buying-setup-guide.html", "Boat-Trailer TPMS Buying and Setup Guide"],
     ["boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html", "Boat Washdown Hose and Nozzle Fit Guide"],
@@ -107,6 +109,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-high-water-bilge-alarm-buying-installation-guide.html", "Boat High-Water Bilge Alarms: Choose the Sensor, Alert Path and Power Failure You Can Actually Test"],
     ["boat-air-draft-bridge-clearance-planning-guide.html", "Boat Air-Draft and Bridge-Clearance Plan"],
     ["recreational-boat-law-enforcement-boarding-preparation-guide.html", "Recreational-Boat Boarding Preparation Guide"],
     ["new-york-boating-safety-certificate-family-guide.html", "New York Boating Safety Certificate Family Guide"],
