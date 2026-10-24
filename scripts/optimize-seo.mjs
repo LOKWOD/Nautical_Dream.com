@@ -343,7 +343,11 @@ writeFileSync(join(root, "sitemap.xml"), sitemap);
 // Keep enough publication history for durable RSS discovery and the dated
 // publication audits. A 30-item cap dropped still-current daily batches after
 // only ten publishing days, breaking permanent feed discovery.
-const latest = indexable.filter((page) => page.article).sort((a,b)=>b.modified.localeCompare(a.modified) || a.title.localeCompare(b.title)).slice(0, 120);
+// Keep every indexable article in the publication feed. Daily validation treats
+// feed discovery as durable, so a fixed rolling cap eventually drops older
+// guides as new batches are published and breaks their permanent discovery
+// contract.
+const latest = indexable.filter((page) => page.article).sort((a,b)=>b.modified.localeCompare(a.modified) || a.title.localeCompare(b.title));
 const feed = `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>Nautical Dream</title><link>${origin}/</link><description>Practical boating destinations, gear guidance and field-tested planning.</description><language>en-us</language><lastBuildDate>${new Date(`${today}T16:00:00Z`).toUTCString()}</lastBuildDate>${latest.map((page)=>`<item><title>${xml(page.h1)}</title><link>${xml(page.canonical)}</link><guid isPermaLink="true">${xml(page.canonical)}</guid><pubDate>${new Date(`${page.modified}T12:00:00Z`).toUTCString()}</pubDate><description>${xml(page.description)}</description></item>`).join("")}</channel></rss>\n`;
 writeFileSync(join(root, "feed.xml"), feed);
 
