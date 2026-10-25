@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["little-tupper-lake-family-paddling-guide.html", "Little Tupper Lake With a Family: Hand Launch, Stay Near Shore and Keep the Return Small"],
     ["eighth-lake-family-boating-access-guide.html", "Eighth Lake by Small Boat: Ten Spaces, the Only Public Access and the 2027 Closure Gate"],
     ["lake-durant-small-boat-family-guide.html", "Lake Durant Small-Boat Family Plan"],
     ["moreau-lake-state-park-family-kayak-guide.html", "Moreau Lake State Park Family Kayak Plan"],
@@ -56,6 +57,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-seat-pedestal-replacement-buying-guide.html", "Boat Seat Pedestals: Match the Seat Position, Base, Post and Lock Before Buying"],
     ["outboard-trailering-support-device-transom-saver-guide.html", "Outboard Trailering Supports: Match the Engine, Trailer and Clearance Before Choosing a “Transom Saver”"],
     ["boat-battery-tester-multimeter-conductance-load-guide.html", "Boat Battery Test-Tool Guide"],
     ["boat-trailer-tpms-buying-setup-guide.html", "Boat-Trailer TPMS Buying and Setup Guide"],
@@ -109,6 +111,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["reservoir-water-level-boat-ramp-launch-recovery-guide.html", "Reservoir Water Levels and Boat Ramps: Build a Launch-and-Recovery Gate Before Towing"],
     ["boat-high-water-bilge-alarm-buying-installation-guide.html", "Boat High-Water Bilge Alarms: Choose the Sensor, Alert Path and Power Failure You Can Actually Test"],
     ["boat-air-draft-bridge-clearance-planning-guide.html", "Boat Air-Draft and Bridge-Clearance Plan"],
     ["recreational-boat-law-enforcement-boarding-preparation-guide.html", "Recreational-Boat Boarding Preparation Guide"],

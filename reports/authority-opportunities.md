@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-25
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Springfield Marine technical support | https://www.springfieldgrp.com/contact-us/ — published technical/customer-support route | https://nauticaldream.com/boat-seat-pedestal-replacement-buying-guide.html — four-interface compatibility table and nine-field fit card | Request corrections to the category-neutral separation of seat duty, locking, base/post family and deck structure; offer the blank fit card for owner education without implying testing, certification or endorsement. | Qualified technical-resource opportunity; not contacted |
+| New York State DEC — William C. Whitney Wilderness / Region 5 | https://dec.ny.gov/places/william-c-whitney-wilderness-and-round-lake-wilderness — official facility, regional office and ranger routes | https://nauticaldream.com/little-tupper-lake-family-paddling-guide.html — hand-launch, wind and shoreline decision plan | Corrections-first review of the carry-only access, non-motorized public plan and prevailing-wind/large-wave language; offer the family decision gate only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| U.S. Geological Survey Water Data support | https://help.waterdata.usgs.gov/ — official feedback/support route | https://nauticaldream.com/reservoir-water-level-boat-ramp-launch-recovery-guide.html — gauge-to-ramp seven-field record and go/hold/leave matrix | Request corrections to the distinction among gauge height, reservoir elevation, provisional data and facility-specific ramp depth; offer the matrix as a public-literacy resource, never as a launch threshold or engineering tool. | Qualified public-data opportunity; not contacted |
+
 ## 2026-10-24
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

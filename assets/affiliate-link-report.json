@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-24T15:24:01.162Z",
+  "generatedAt": "2026-10-25T15:41:07.146Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 230,
-    "commercialLinks": 415,
-    "activeAffiliateLinks": 415,
+    "eligiblePages": 233,
+    "commercialLinks": 418,
+    "activeAffiliateLinks": 418,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 415,
+    "amazonAffiliateLinks": 418,
     "fallbackLinks": 0,
-    "changedPages": 128
+    "changedPages": 115
   },
   "links": [
     {
@@ -1911,6 +1911,39 @@
       "visibleText": "Compare boat flush-mount fishing rod holders",
       "originalUrl": "https://www.amazon.com/s?k=boat+flush+mount+fishing+rod+holder",
       "destinationUrl": "https://www.amazon.com/s?k=boat+flush-mount+fishing+rod+holders&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-seat-pedestal-replacement-buying-guide.html",
+      "key": "boat-seat-pedestal-replacement-buying-guide.html::marine-fixed-boat-seat-pedestal-systems-matched-by-base-post-seat-mount-and-manufacturer-d",
+      "product": "marine fixed boat seat pedestal systems matched by base post seat mount and manufacturer duty",
+      "visibleText": "Compare fixed marine pedestal-system categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fixed+boat+seat+pedestal+matched+base+post+seat+mount",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+fixed+boat+seat+pedestal+systems+matched+by+base+post+seat+mount+and+manufacturer+duty&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-seat-pedestal-replacement-buying-guide.html",
+      "key": "boat-seat-pedestal-replacement-buying-guide.html::marine-adjustable-locking-boat-seat-pedestal-systems-matched-to-helm-duty-height-range-and",
+      "product": "marine adjustable locking boat seat pedestal systems matched to helm duty height range and exact base family",
+      "visibleText": "Compare adjustable locking pedestal categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+adjustable+boat+seat+pedestal+locking+helm",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+adjustable+locking+boat+seat+pedestal+systems+matched+to+helm+duty+height+range+and+exact+base+family&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-seat-pedestal-replacement-buying-guide.html",
+      "key": "boat-seat-pedestal-replacement-buying-guide.html::marine-locking-seat-slide-and-swivel-mounts-matched-to-exact-pedestal-family-seat-duty-and",
+      "product": "marine locking seat slide and swivel mounts matched to exact pedestal family seat duty and bolt pattern",
+      "visibleText": "Compare locking slide-and-swivel categories",
+      "originalUrl": "https://www.amazon.com/s?k=marine+boat+seat+slide+swivel+locking+mount",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+locking+seat+slide+and+swivel+mounts+matched+to+exact+pedestal+family+seat+duty+and+bolt+pattern&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
