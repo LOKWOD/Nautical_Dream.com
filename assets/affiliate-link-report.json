@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-25T15:41:07.146Z",
+  "generatedAt": "2026-10-26T16:07:42.043Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 233,
-    "commercialLinks": 418,
-    "activeAffiliateLinks": 418,
+    "eligiblePages": 235,
+    "commercialLinks": 421,
+    "activeAffiliateLinks": 421,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 418,
+    "amazonAffiliateLinks": 421,
     "fallbackLinks": 0,
-    "changedPages": 115
+    "changedPages": 130
   },
   "links": [
     {
@@ -2340,6 +2340,39 @@
       "visibleText": "Compare cordless portable tire inflator categories on Amazon",
       "originalUrl": "https://www.dewalt.com/product/dcc020ib/20v-max-cordedcordless-air-inflator",
       "destinationUrl": "https://www.amazon.com/s?k=cordless+portable+tire+inflator+with+digital+gauge+for+trailer+tires&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-safety-chains-breakaway-cable-guide.html",
+      "key": "boat-trailer-safety-chains-breakaway-cable-guide.html::rated-boat-trailer-safety-chain-assemblies-matched-to-trailer-gvwr-and-manufacturer-attach",
+      "product": "rated boat trailer safety chain assemblies matched to trailer GVWR and manufacturer attachment requirements",
+      "visibleText": "Compare rated boat-trailer safety-chain categories",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+safety+chain+assemblies+rated",
+      "destinationUrl": "https://www.amazon.com/s?k=rated+boat+trailer+safety+chain+assemblies+matched+to+trailer+GVWR+and+manufacturer+attachment+requirements&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-safety-chains-breakaway-cable-guide.html",
+      "key": "boat-trailer-safety-chains-breakaway-cable-guide.html::trailer-breakaway-switch-and-cable-kits-matched-to-the-existing-brake-system-manufacturer-",
+      "product": "trailer breakaway switch and cable kits matched to the existing brake system manufacturer and instructions",
+      "visibleText": "Compare trailer breakaway switch-and-cable categories",
+      "originalUrl": "https://www.amazon.com/s?k=trailer+breakaway+switch+cable+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=trailer+breakaway+switch+and+cable+kits+matched+to+the+existing+brake+system+manufacturer+and+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-safety-chains-breakaway-cable-guide.html",
+      "key": "boat-trailer-safety-chains-breakaway-cable-guide.html::trailer-breakaway-battery-tester-and-charger-systems-matched-to-the-installed-breakaway-br",
+      "product": "trailer breakaway battery tester and charger systems matched to the installed breakaway brake equipment",
+      "visibleText": "Compare breakaway battery and test-system categories",
+      "originalUrl": "https://www.amazon.com/s?k=trailer+breakaway+battery+tester+charger",
+      "destinationUrl": "https://www.amazon.com/s?k=trailer+breakaway+battery+tester+and+charger+systems+matched+to+the+installed+breakaway+brake+equipment&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

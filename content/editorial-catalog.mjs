@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["lake-moraine-drawdown-boat-launch-guide.html", "Lake Moraine During Drawdown: Verify the Temporary Ramp, Keep the Boat Small, Prove Recovery First"],
     ["little-tupper-lake-family-paddling-guide.html", "Little Tupper Lake With a Family: Hand Launch, Stay Near Shore and Keep the Return Small"],
     ["eighth-lake-family-boating-access-guide.html", "Eighth Lake by Small Boat: Ten Spaces, the Only Public Access and the 2027 Closure Gate"],
     ["lake-durant-small-boat-family-guide.html", "Lake Durant Small-Boat Family Plan"],
@@ -57,6 +58,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-trailer-safety-chains-breakaway-cable-guide.html", "Boat Trailer Safety Chains and Breakaway Cables: Match the Rating, Cross the Chains, Test the Separation System"],
     ["boat-seat-pedestal-replacement-buying-guide.html", "Boat Seat Pedestals: Match the Seat Position, Base, Post and Lock Before Buying"],
     ["outboard-trailering-support-device-transom-saver-guide.html", "Outboard Trailering Supports: Match the Engine, Trailer and Clearance Before Choosing a “Transom Saver”"],
     ["boat-battery-tester-multimeter-conductance-load-guide.html", "Boat Battery Test-Tool Guide"],
@@ -111,6 +113,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boating-with-non-swimmer-passenger-plan.html", "Boating With a Non-Swimmer: Build the Life-Jacket, Seating and Reboarding Plan Ashore"],
     ["reservoir-water-level-boat-ramp-launch-recovery-guide.html", "Reservoir Water Levels and Boat Ramps: Build a Launch-and-Recovery Gate Before Towing"],
     ["boat-high-water-bilge-alarm-buying-installation-guide.html", "Boat High-Water Bilge Alarms: Choose the Sensor, Alert Path and Power Failure You Can Actually Test"],
     ["boat-air-draft-bridge-clearance-planning-guide.html", "Boat Air-Draft and Bridge-Clearance Plan"],

@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-26
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Dexter Group technical support | https://www.dextergroup.com/contact/ — published manufacturer contact route | https://nauticaldream.com/boat-trailer-safety-chains-breakaway-cable-guide.html — three-layer connection record and independent breakaway-routing checklist | Request corrections to the separation of primary hitch, safety-chain and breakaway functions; offer the category-neutral record for owner education without implying Dexter approval, testing or universal fit. | Qualified technical-resource opportunity; not contacted |
+| New York State Canal Corporation — Madison Reservoir project team | https://www.canals.ny.gov/Operations-and-Public-Projects/Project-Work/Madison-Reservoir-Dam-Rehab — official project page and project contact route | https://nauticaldream.com/lake-moraine-drawdown-boat-launch-guide.html — same-day source chain, temporary-ramp caveat and retrieval gate | Corrections-first review of the 2026–2027 drawdown, temporary launch extension and deliberately unclaimed rig limits; offer the decision gate only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| National Safe Boating Council | https://www.safeboatingcouncil.org/about/ — published outreach contact route | https://nauticaldream.com/boating-with-non-swimmer-passenger-plan.html — inherently buoyant life-jacket gate and ninety-minute first-trip script | Request safety-language corrections and offer the respectful planning card as a companion to official education; state plainly that it is not certification, medical advice or a substitute for instruction. | Qualified public-education opportunity; not contacted |
+
 ## 2026-10-25
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |
