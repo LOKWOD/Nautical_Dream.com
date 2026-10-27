@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-27
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State DEC — Meacham Lake Campground / Region 5 | https://dec.ny.gov/places/meacham-lake-campground-and-day-use-area — official facility and regional contact routes | https://nauticaldream.com/meacham-lake-two-launch-family-boating-guide.html — two-access decision card separating the eastern-shore concrete ramp from the Meacham Road cartop launch | Request corrections to the launch-purpose, parking and seasonal-access distinctions; offer the family decision card only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| National Weather Service Weather-Ready Nation | https://www.weather.gov/wrn/ — published weather-safety outreach route | https://nauticaldream.com/family-boat-rain-gear-shell-bib-poncho-guide.html — exposure/category table and life-jacket-over-layers fit gate | Ask for corrections to the boundary between ordinary rainwear and cold-water protection; offer the no-brand fit card as a companion to official weather guidance, never as immersion equipment advice. | Qualified public-education opportunity; not contacted |
+| U.S. Coast Guard Auxiliary vessel-safety/public-education team | https://home.cgaux.org/wp/ — official flotilla and public-education routes | https://nauticaldream.com/three-generation-family-boat-day-older-adult-plan.html — transfer, seat, temperature and return-gate card | Request corrections to the life-jacket, seating and passenger-brief boundaries; offer the respectful planning card for family education without implying medical review, inspection or certification. | Qualified safety-resource opportunity; not contacted |
+
 ## 2026-10-26
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |
