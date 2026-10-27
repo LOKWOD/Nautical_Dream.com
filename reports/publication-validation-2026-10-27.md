@@ -18,7 +18,11 @@ The `LOKWOD/site-analytics` report generated October 21, 2026 covers September 2
 - SEO/schema audit: passed for 435 indexable URLs, 382 complete article schemas, 435 breadcrumb schemas and 1,171 dimensioned image references.
 - Affiliate report: 424 active links, zero configured fallbacks; the new rain-gear page contains three protected category links and a visible disclosure.
 - Image QA pass 1: six page/editorial images visually checked; zero affiliate/product images used.
-- Live deployment and image QA pass 2: pending production deployment.
+- Production commit: `83577249cabc99f99c98b1694e2db300c5d8850d` on `main`.
+- All four production workflows passed: publication build/deploy, static-site audit, GitHub Pages build/deployment and visitor-beacon enforcement.
+- Live image QA pass 2: passed for all three article heroes and all three homepage card placements; zero affiliate/product images are used.
+- Live monetization: exactly three active Amazon category links on the rainwear guide, with sponsored/nofollow/noopener/noreferrer protection and the visible Associate disclosure.
+- Live discovery: homepage, Gear, Destinations and Journal hubs, sitemap, RSS, `llms.txt`, editorial catalog and reciprocal cluster links include the batch.
 
 ## Authority action
 
