@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-28
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State Parks — Bowman Lake State Park | https://parks.ny.gov/parks/bowman/getting-there.aspx — published park phone and agency contact route | https://nauticaldream.com/bowman-lake-state-park-cartop-paddle-family-guide.html — cartop-launch boundary and seven-box current-information trip card | Corrections-first review of the mapped cartop launch and the page's deliberately unclaimed 2026 seasonal facilities; offer the planning card only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary navigation/public-education team | https://home.cgaux.org/wp/ — official flotilla and public-education routes | https://nauticaldream.com/navigation-app-failure-offline-backup-boat-drill.html — sixty-second response card and five-layer backup stack | Request corrections to the lookout, safe-speed, position-evidence and distress boundaries; offer the drill as a companion to formal navigation education, never as certification or a chart. | Qualified public-education opportunity; not contacted |
+| Taylor Made product support | https://www.taylormadeproducts.com/customer-support/ — published manufacturer support route | https://nauticaldream.com/boat-mooring-whips-weight-dock-exposure-buying-guide.html — brand-neutral loaded-weight, dock-structure and exposure fit record | Corrections-first technical review of the distinction between weight tables, site ruggedness and complete mooring-line geometry; offer the unbranded record without implying product testing or endorsement. | Qualified technical-resource opportunity; not contacted |
+
 ## 2026-10-27
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

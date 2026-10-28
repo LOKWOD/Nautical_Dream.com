@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-27T15:35:31.108Z",
+  "generatedAt": "2026-10-28T15:25:19.860Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 237,
-    "commercialLinks": 424,
-    "activeAffiliateLinks": 424,
+    "eligiblePages": 239,
+    "commercialLinks": 427,
+    "activeAffiliateLinks": 427,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 424,
+    "amazonAffiliateLinks": 427,
     "fallbackLinks": 0,
-    "changedPages": 131
+    "changedPages": 132
   },
   "links": [
     {
@@ -1768,6 +1768,39 @@
       "visibleText": "View moisture-meter calibration check blocks on Amazon",
       "originalUrl": "https://tramexmeters.com/moisture-meters/skipper-moisture-meter-5/skipper-5-support",
       "destinationUrl": "https://www.amazon.com/s?k=manufacturer+compatible+moisture+meter+calibration+check+box&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mooring-whips-weight-dock-exposure-buying-guide.html",
+      "key": "boat-mooring-whips-weight-dock-exposure-buying-guide.html::fixed-base-boat-mooring-whip-kit-categories-with-documented-boat-weight-and-exposure-limit",
+      "product": "fixed-base boat mooring-whip kit categories with documented boat-weight and exposure limits",
+      "visibleText": "Compare fixed-base mooring-whip kit categories",
+      "originalUrl": "https://www.amazon.com/s?k=fixed+base+boat+mooring+whip+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=fixed-base+boat+mooring-whip+kit+categories+with+documented+boat-weight+and+exposure+limits&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mooring-whips-weight-dock-exposure-buying-guide.html",
+      "key": "boat-mooring-whips-weight-dock-exposure-buying-guide.html::rocker-base-and-heavier-duty-boat-mooring-whip-categories-with-manufacturer-fit-tables",
+      "product": "rocker-base and heavier-duty boat mooring-whip categories with manufacturer fit tables",
+      "visibleText": "Compare rocker-base and heavier-duty whip categories",
+      "originalUrl": "https://www.amazon.com/s?k=rocker+base+heavy+duty+boat+mooring+whips",
+      "destinationUrl": "https://www.amazon.com/s?k=rocker-base+and+heavier-duty+boat+mooring-whip+categories+with+manufacturer+fit+tables&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mooring-whips-weight-dock-exposure-buying-guide.html",
+      "key": "boat-mooring-whips-weight-dock-exposure-buying-guide.html::manufacturer-matched-boat-mooring-whip-replacement-line-and-tip-hardware-categories",
+      "product": "manufacturer-matched boat mooring-whip replacement-line and tip-hardware categories",
+      "visibleText": "Compare manufacturer-matched replacement line and tip hardware",
+      "originalUrl": "https://www.amazon.com/s?k=boat+mooring+whip+replacement+line+tip+hardware",
+      "destinationUrl": "https://www.amazon.com/s?k=manufacturer-matched+boat+mooring-whip+replacement-line+and+tip-hardware+categories&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
