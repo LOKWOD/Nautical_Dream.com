@@ -1,5 +1,13 @@
 # Authority opportunities
 
+## 2026-10-29
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State DEC — Lewey Lake Campground / Region 5 | https://dec.ny.gov/places/lewey-lake-campground-and-day-use-area — official campground phone, regional office and agency contact routes | https://nauticaldream.com/lewey-lake-shallow-launch-small-boat-family-guide.html — seasonal-access, shallow-ramp and 15-rig decision card | Corrections-first review of the operating-window, no-listed-dock, shallow-launch and small-boat language; offer the family proof-loop card only if accurate. No endorsement or backlink request. | Qualified local-resource opportunity; not contacted |
+| Load Rite owner support | https://www.loadrite.com/contact-us/ — published manufacturer support route | https://nauticaldream.com/boat-trailer-wheel-chocks-size-material-placement-guide.html — tire/surface/job fit record and four-step placement card | Request corrections to the category-neutral separation of routine restraint, bearing-service procedure and rated support; offer the blank fit record without implying Load Rite approval or product testing. | Qualified technical-resource opportunity; not contacted |
+| Mercury Marine owner-support editorial team | https://www.mercurymarine.com/us/en/contact-us — official owner-support route | https://nauticaldream.com/boat-maintenance-records-evidence-file-resale-guide.html — seven-field maintenance evidence row | Request corrections to the distinction among manual interval, work order, receipt, photo and current condition; offer the blank evidence row as an owner-education companion, never as warranty proof or a survey. | Qualified owner-education opportunity; not contacted |
+
 ## 2026-10-28
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |

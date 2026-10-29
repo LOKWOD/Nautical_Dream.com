@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["lewey-lake-shallow-launch-small-boat-family-guide.html", "Lewey Lake by Small Boat: A Shallow Seasonal Launch With a Fifteen-Rig Limit"],
     ["bowman-lake-state-park-cartop-paddle-family-guide.html", "Bowman Lake State Park by Canoe or Kayak: A Cartop-Launch Family Plan"],
     ["meacham-lake-two-launch-family-boating-guide.html", "Meacham Lake by Boat: Choose the 21-Space Ramp or the Free Cartop Launch"],
     ["lake-moraine-drawdown-boat-launch-guide.html", "Lake Moraine During Drawdown: Verify the Temporary Ramp, Keep the Boat Small, Prove Recovery First"],
@@ -60,6 +61,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-trailer-wheel-chocks-size-material-placement-guide.html", "Boat-Trailer Wheel Chocks: Match Tire, Surface and Grade Before Trusting the Wedge"],
     ["boat-mooring-whips-weight-dock-exposure-buying-guide.html", "Boat Mooring Whips: Match Boat Weight, Dock Structure and Exposure Before Buying"],
     ["family-boat-rain-gear-shell-bib-poncho-guide.html", "Family Boat Rain Gear: Shell, Bibs or Poncho—and the Life-Jacket Fit Gate"],
     ["boat-trailer-safety-chains-breakaway-cable-guide.html", "Boat Trailer Safety Chains and Breakaway Cables: Match the Rating, Cross the Chains, Test the Separation System"],
@@ -117,6 +119,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-maintenance-records-evidence-file-resale-guide.html", "Boat Maintenance Records: Build the Evidence File Before You Need It"],
     ["navigation-app-failure-offline-backup-boat-drill.html", "When the Navigation App Dies: Slow Down, Look Out and Switch to a Proved Backup"],
     ["three-generation-family-boat-day-older-adult-plan.html", "A Three-Generation Boat Day: Use the Transfer, Seat, Heat and Return Gates"],
     ["boating-with-non-swimmer-passenger-plan.html", "Boating With a Non-Swimmer: Build the Life-Jacket, Seating and Reboarding Plan Ashore"],

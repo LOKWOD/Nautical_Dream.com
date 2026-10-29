@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-28T15:25:19.860Z",
+  "generatedAt": "2026-10-29T15:56:36.393Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 239,
-    "commercialLinks": 427,
-    "activeAffiliateLinks": 427,
+    "eligiblePages": 242,
+    "commercialLinks": 430,
+    "activeAffiliateLinks": 430,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 427,
+    "amazonAffiliateLinks": 430,
     "fallbackLinks": 0,
-    "changedPages": 132
+    "changedPages": 1
   },
   "links": [
     {
@@ -2637,6 +2637,39 @@
       "visibleText": "Compare heavy-duty trailer wheel chocks",
       "originalUrl": "https://www.amazon.com/s?k=heavy+duty+wheel+chocks+trailer",
       "destinationUrl": "https://www.amazon.com/s?k=heavy+duty+trailer+wheel+chocks&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-wheel-chocks-size-material-placement-guide.html",
+      "key": "boat-trailer-wheel-chocks-size-material-placement-guide.html::dense-rubber-trailer-wheel-chock-pairs-with-published-dimensions-and-capacity-guidance",
+      "product": "dense rubber trailer wheel-chock pairs with published dimensions and capacity guidance",
+      "visibleText": "Compare dense rubber trailer wheel-chock pairs",
+      "originalUrl": "https://www.amazon.com/s?k=heavy+rubber+trailer+wheel+chock+pair",
+      "destinationUrl": "https://www.amazon.com/s?k=dense+rubber+trailer+wheel-chock+pairs+with+published+dimensions+and+capacity+guidance&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-wheel-chocks-size-material-placement-guide.html",
+      "key": "boat-trailer-wheel-chocks-size-material-placement-guide.html::molded-composite-trailer-wheel-chock-pairs-with-published-tire-fit-and-surface-guidance",
+      "product": "molded composite trailer wheel-chock pairs with published tire-fit and surface guidance",
+      "visibleText": "Compare molded composite trailer wheel-chock pairs",
+      "originalUrl": "https://www.amazon.com/s?k=composite+trailer+wheel+chock+pair",
+      "destinationUrl": "https://www.amazon.com/s?k=molded+composite+trailer+wheel-chock+pairs+with+published+tire-fit+and+surface+guidance&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-wheel-chocks-size-material-placement-guide.html",
+      "key": "boat-trailer-wheel-chocks-size-material-placement-guide.html::tandem-axle-expanding-wheel-chock-categories-with-documented-spacing-ranges",
+      "product": "tandem-axle expanding wheel-chock categories with documented spacing ranges",
+      "visibleText": "Compare tandem-axle expanding chock categories",
+      "originalUrl": "https://www.amazon.com/s?k=tandem+axle+wheel+chock+expanding",
+      "destinationUrl": "https://www.amazon.com/s?k=tandem-axle+expanding+wheel-chock+categories+with+documented+spacing+ranges&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
