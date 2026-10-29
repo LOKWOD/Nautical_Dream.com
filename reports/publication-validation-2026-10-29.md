@@ -16,9 +16,13 @@ The report generated October 28, 2026 covers September 28 through October 25. Na
 - Static-site audit: passed for 442 HTML pages and 428 unique image assets.
 - SEO/schema audit: passed for 441 indexable URLs, 388 complete article schemas, 441 breadcrumb schemas and 1,189 dimensioned image references.
 - Affiliate report: 430 active links and zero configured fallbacks; the new wheel-chock page contains three protected category links and the visible disclosure.
-- Image QA pass 1: six page/editorial images visually checked; zero affiliate/product images used.
+- Image QA: both passes passed for six unique page/editorial images across nine live placements; zero affiliate/product images used.
 - Hub image audit: passed for 1,624 display references and no same-page local image reuse.
-- Production commit, workflows, custom-domain URLs, earning links, discovery surfaces and live image-QA pass 2 remain pending.
+- Production commit `e0f82f432f464edc8773db662e3283eac3ab9fe4` is live on `main`.
+- GitHub Pages build/deploy, the repository deployment workflow, the static-site audit and the visitor-beacon workflow all passed on the final publication commit.
+- All three canonical custom-domain URLs returned the intended pages. The wheel-chock guide exposes exactly three Amazon category links with the configured tag, `sponsored nofollow noopener noreferrer` attributes and the visible Associate disclosure; the other two guides expose no affiliate links.
+- Homepage, Gear, Destinations and Journal discovery surfaces render the correct new cards. Sitemap, RSS, `llms.txt`, publication catalog and image-credit records contain the batch.
+- Live image-QA pass 2 passed for all three heroes and six card placements; no wrong fallback, crop, source, or association was found.
 
 ## Authority action
 
