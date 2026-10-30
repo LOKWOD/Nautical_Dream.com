@@ -22,4 +22,9 @@ The publication adds three reusable, citation-ready decision assets: a five-line
 
 ## Production gate
 
-Pending commit, GitHub Pages workflow and live custom-domain verification.
+- Production content commit `74c18b1500090fc34669d4a24ad0f521d68d832d` is on `main`.
+- Static Site Audit, Deploy Nautical Dream static publication, GitHub Pages build/deployment and Keep Visitor Light beacon all completed successfully for that commit.
+- All three canonical `https://nauticaldream.com/` article URLs returned the intended titles, copy, metadata and internal links after deployment.
+- The wiper guide exposed exactly three active configured commercial links with the required `sponsored`, `nofollow`, `noopener` and `noreferrer` relationship values; the other two pages intentionally contain no affiliate links.
+- Live image pass 2 passed for six unique editorial assets across nine rendered article/homepage/hub placements; zero affiliate/product images were used.
+- The homepage, Gear, Destinations and Journal surfaces rendered the intended cards, and the homepage retained the October 26–29 crawl paths required by the publication audit.
