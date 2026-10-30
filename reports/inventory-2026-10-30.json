@@ -1,0 +1,544 @@
+{
+  "date": "2026-10-30",
+  "stage": "pre-and-post-publication",
+  "pageCount": 445,
+  "imageCount": 452,
+  "checkedFields": [
+    "title",
+    "slug",
+    "h1 subject",
+    "description/search intent",
+    "datePublished",
+    "section angles",
+    "image src/alt associations",
+    "commercial categories"
+  ],
+  "completeInventoryHashes": {
+    "pages": "93accd80a3e51555e45034c485d50f002f38c8356213d52a6edf1b9aaa992752",
+    "titleSlugSubjectIntent": "fef65a2da79f48aae85bdf4d305f296f44ef40d32c7ea39f755e4885355921f6",
+    "imageAssociations": "8369eeb069223ed54b4c3bfd6cdea756c387d81f992318ed1e1c3e251e8bfe7b",
+    "commercialCategories": "72a32da36c217864b90d511526a4f7fce21939819403b04121c38d9948101747",
+    "creditedAssets": "49630ddaa4322a4bedda973c0694c529c668ba6b77abcf3929e6f0feac89cc76"
+  },
+  "previousFourteenDays": [
+    {
+      "slug": "boat-air-draft-bridge-clearance-planning-guide.html",
+      "title": "Boat Air Draft and Bridge Clearance Planning Guide",
+      "heading": "Boat Air Draft and Bridge Clearance: Measure the Highest Fixed Point, Then Verify the Water",
+      "datePublished": "2026-10-23",
+      "description": "Build a boat air-draft record, read bridge-clearance datum correctly, check current water and opening rules, and keep a safe hold-and-turn option.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-backup-paddle-oar-buying-guide.html",
+      "title": "Backup Boat Paddles and Oars: Reach, Storage and Real Limits",
+      "heading": "Backup Boat Paddles: Buy for Reach and Control, Not the Word Emergency",
+      "datePublished": "2026-10-20",
+      "description": "Compare fixed and telescoping backup paddles with a properly equipped rowing system. Check seated reach, storage, deployment and limits before buying.",
+      "commercialCategories": [
+        "fixed-length-boat-paddle",
+        "telescoping-backup-boat-paddle"
+      ]
+    },
+    {
+      "slug": "boat-battery-tester-multimeter-conductance-load-guide.html",
+      "title": "Boat Battery Testers: Multimeter vs Conductance vs Load",
+      "heading": "Boat Battery Testers: Multimeter, Conductance or Load—and the Chemistry Gate",
+      "datePublished": "2026-10-23",
+      "description": "Choose a boat-battery test tool by chemistry, voltage, rating, starting-versus-house-bank job and the exact manufacturer procedure—not one pass/fail screen.",
+      "commercialCategories": [
+        "digital multimeters with insulated leads and a documented DC range for marine battery checks",
+        "12 volt battery conductance testers with documented chemistry and CCA MCA rating support",
+        "carbon-pile battery load testers matched to battery voltage current rating and manufacturer procedure"
+      ]
+    },
+    {
+      "slug": "boat-high-water-bilge-alarm-buying-installation-guide.html",
+      "title": "Boat High-Water Bilge Alarms: Sensor, Alert and Power",
+      "heading": "Boat High-Water Bilge Alarms: Choose the Sensor, Alert Path and Power Failure You Can Actually Test",
+      "datePublished": "2026-10-24",
+      "description": "Choose a boat high-water bilge alarm by sensor location, audible and visual alert, independent power, test method, environment and technician-reviewed installation.",
+      "commercialCategories": [
+        "marine high-water bilge alarm kits with documented float-switch mounting audible output visual indication and test method",
+        "marine electronic bilge water-level alarms with documented sensor mounting contamination limits and fault behavior",
+        "marine bilge pump cycle and run-time monitors with adjustable alarm thresholds and documented multi-zone inputs"
+      ]
+    },
+    {
+      "slug": "boat-maintenance-records-evidence-file-resale-guide.html",
+      "title": "Boat Maintenance Records: Build an Evidence File",
+      "heading": "Boat Maintenance Records: Build the Evidence File Before You Need It",
+      "datePublished": "2026-10-29",
+      "description": "Create a boat maintenance evidence file that connects identity, exact manual interval, work performed, parts and proof—without pretending receipts prove condition.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-mooring-whips-weight-dock-exposure-buying-guide.html",
+      "title": "Boat Mooring Whips: Weight, Dock and Exposure Fit",
+      "heading": "Boat Mooring Whips: Match Boat Weight, Dock Structure and Exposure Before Buying",
+      "datePublished": "2026-10-28",
+      "description": "Choose boat mooring whips by loaded weight, dock structure, required stand-off, wake exposure and manufacturer limits—not length alone.",
+      "commercialCategories": [
+        "fixed-base boat mooring-whip kit categories with documented boat-weight and exposure limits",
+        "rocker-base and heavier-duty boat mooring-whip categories with manufacturer fit tables",
+        "manufacturer-matched boat mooring-whip replacement-line and tip-hardware categories"
+      ]
+    },
+    {
+      "slug": "boat-rod-holder-clamp-rail-flush-mount-buying-guide.html",
+      "title": "Boat Rod Holders: Clamp, Rail or Flush Mount?",
+      "heading": "Boat Rod Holders: Choose the Mount Before the Holder",
+      "datePublished": "2026-10-18",
+      "description": "Compare clamp-on, rail-mount and flush-mount rod holders with a measured fit card, rod-and-reel clearance checks and clear installation stop points.",
+      "commercialCategories": [
+        "boat clamp-on fishing rod holders",
+        "boat rail-mount fishing rod holders",
+        "boat flush-mount fishing rod holders"
+      ]
+    },
+    {
+      "slug": "boat-seat-pedestal-replacement-buying-guide.html",
+      "title": "Boat Seat Pedestals: Match Position, Base and Locking",
+      "heading": "Boat Seat Pedestals: Match the Seat Position, Base, Post and Lock Before Buying",
+      "datePublished": "2026-10-25",
+      "description": "Choose a boat seat pedestal by seat duty, locking requirements, base and post family, height, deck structure, corrosion exposure and manufacturer instructions.",
+      "commercialCategories": [
+        "marine fixed boat seat pedestal systems matched by base post seat mount and manufacturer duty",
+        "marine adjustable locking boat seat pedestal systems matched to helm duty height range and exact base family",
+        "marine locking seat slide and swivel mounts matched to exact pedestal family seat duty and bolt pattern"
+      ]
+    },
+    {
+      "slug": "boat-swim-platform-floating-mat-inflatable-dock-buying-guide.html",
+      "title": "Boat Swim Platforms: Foam Mat or Inflatable Dock?",
+      "heading": "Boat Swim Platforms: Foam Mat, Inflatable Dock or Floating Pad—and the Reboarding Gate",
+      "datePublished": "2026-10-17",
+      "description": "Choose a boat swim mat or inflatable dock by recovery, capacity, inflation, attachment, stowage and reboarding—not by lifestyle photos.",
+      "commercialCategories": [
+        "boat floating foam water mats",
+        "inflatable dock platforms for boats",
+        "compact floating water pads for boats"
+      ]
+    },
+    {
+      "slug": "boat-trailer-guide-ons-post-bunk-roller-buying-guide.html",
+      "title": "Boat Trailer Guide-Ons: Posts, Bunks or Rollers?",
+      "heading": "Boat Trailer Guide-Ons: Posts, Bunks or Rollers—and the Empty-Ramp Test",
+      "datePublished": "2026-10-16",
+      "description": "Choose boat-trailer guide-ons by hull contact, ramp depth, frame fit and retrieval conditions, then prove the setup without using the guides as hull supports.",
+      "commercialCategories": [
+        "boat trailer post guide-ons",
+        "boat trailer bunk-board guide-ons",
+        "boat trailer roller guide-ons"
+      ]
+    },
+    {
+      "slug": "boat-trailer-safety-chains-breakaway-cable-guide.html",
+      "title": "Boat Trailer Safety Chains and Breakaway Cables",
+      "heading": "Boat Trailer Safety Chains and Breakaway Cables: Match the Rating, Cross the Chains, Test the Separation System",
+      "datePublished": "2026-10-26",
+      "description": "Choose, route and inspect boat-trailer safety chains and breakaway equipment by the exact trailer, coupler, brake and tow-vehicle instructions.",
+      "commercialCategories": [
+        "rated boat trailer safety chain assemblies matched to trailer GVWR and manufacturer attachment requirements",
+        "trailer breakaway switch and cable kits matched to the existing brake system manufacturer and instructions",
+        "trailer breakaway battery tester and charger systems matched to the installed breakaway brake equipment"
+      ]
+    },
+    {
+      "slug": "boat-trailer-tpms-buying-setup-guide.html",
+      "title": "Boat-Trailer TPMS: Buy and Set It Up Correctly",
+      "heading": "Boat-Trailer TPMS: Match the Sensors, Set the Cold Baseline and Keep the Gauge",
+      "datePublished": "2026-10-22",
+      "description": "Choose an aftermarket boat-trailer tire-pressure monitoring system by pressure range, valve stem, distance, wheel count and setup—not a universal alarm promise.",
+      "commercialCategories": [
+        "boat-trailer tire-pressure monitoring systems",
+        "trailer TPMS-compatible metal valve stems",
+        "accurate trailer tire-pressure gauges"
+      ]
+    },
+    {
+      "slug": "boat-trailer-wheel-chocks-size-material-placement-guide.html",
+      "title": "Boat-Trailer Wheel Chocks: Size, Surface and Placement",
+      "heading": "Boat-Trailer Wheel Chocks: Match Tire, Surface and Grade Before Trusting the Wedge",
+      "datePublished": "2026-10-29",
+      "description": "Choose boat-trailer wheel chocks by tire fit, surface grip, documented capacity and the exact parking or service job—then place and retrieve them deliberately.",
+      "commercialCategories": [
+        "dense rubber trailer wheel-chock pairs with published dimensions and capacity guidance",
+        "molded composite trailer wheel-chock pairs with published tire-fit and surface guidance",
+        "tandem-axle expanding wheel-chock categories with documented spacing ranges"
+      ]
+    },
+    {
+      "slug": "boat-washdown-hose-nozzle-coil-flat-standard-buying-guide.html",
+      "title": "Boat Washdown Hoses: Coil, Flat or Standard?",
+      "heading": "Boat Washdown Hoses and Nozzles: Coil, Flat or Standard—and the Source-Pressure Gate",
+      "datePublished": "2026-10-21",
+      "description": "Choose a boat washdown hose and nozzle by water source, pressure, fitting, real reach, storage, kinking and drainage—not a tiny packed-size promise.",
+      "commercialCategories": [
+        "marine coiled washdown hoses with spray nozzles",
+        "flat boat washdown hoses",
+        "reinforced marine washdown hoses and nozzles"
+      ]
+    },
+    {
+      "slug": "boat-windshield-wiper-motor-arm-blade-fit-guide.html",
+      "title": "Boat Windshield Wipers: Motor, Arm and Blade Fit",
+      "heading": "Boat Windshield Wipers: Match the Motor, Shaft, Sweep, Arm and Blade Before Buying",
+      "datePublished": "2026-10-30",
+      "description": "Build a traceable marine windshield-wiper fit record covering voltage, shaft geometry, park side, sweep, arm, blade and glass clearance before buying parts.",
+      "commercialCategories": [
+        "marine windshield wiper motor kits with documented voltage shaft length sweep range and park direction",
+        "adjustable marine windshield wiper arms matched to motor shaft and blade attachment",
+        "marine windshield wiper blades matched to arm connection windshield curvature and approved length"
+      ]
+    },
+    {
+      "slug": "boating-with-hearing-loss-passenger-communication-guide.html",
+      "title": "Boating With Hearing Loss: An Accessible Passenger Brief",
+      "heading": "Boating With a Passenger Who Has Hearing Loss: Agree the Communication Plan Ashore",
+      "datePublished": "2026-10-20",
+      "description": "Build an accessible passenger brief around the person’s preferences, a written plan, visible acknowledgement and an honest no-go decision—not louder shouting.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boating-with-non-swimmer-passenger-plan.html",
+      "title": "Boating With a Non-Swimmer: Passenger Safety Plan",
+      "heading": "Boating With a Non-Swimmer: Build the Life-Jacket, Seating and Reboarding Plan Ashore",
+      "datePublished": "2026-10-26",
+      "description": "Plan a boat trip with a non-swimmer using an inherently buoyant life jacket, calm-water limits, stable seating, explicit communication and a rehearsed.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "bowman-lake-state-park-cartop-paddle-family-guide.html",
+      "title": "Bowman Lake State Park: Cartop Paddle Plan",
+      "heading": "Bowman Lake State Park by Canoe or Kayak: A Cartop-Launch Family Plan",
+      "datePublished": "2026-10-28",
+      "description": "Plan a conservative Bowman Lake State Park paddle around the mapped cartop launch, an easy proof loop, current park confirmation and a shore fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "brant-lake-public-boat-launch-family-guide.html",
+      "title": "Brant Lake Boat Launch: Family Proof-Loop Plan",
+      "heading": "Brant Lake by Boat: An 11-Space Ramp, a Short Proof Loop and an Early Wind Gate",
+      "datePublished": "2026-10-17",
+      "description": "Plan a family trailer-boat day from New York's Brant Lake public launch with an 11-space parking constraint, proof loop, weather gate and no-assumptions shore plan.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "buffalo-harbor-state-park-family-boat-launch-guide.html",
+      "title": "Buffalo Harbor State Park Family Boat Launch Guide",
+      "heading": "Buffalo Harbor State Park With a Family Boat: Launch, Prove the Harbor, Then Use the Playground",
+      "datePublished": "2026-10-30",
+      "description": "Plan a conservative family boat launch at Buffalo Harbor State Park using current official access, fee, restroom, pet, swimming and weather gates plus a short.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "eighth-lake-family-boating-access-guide.html",
+      "title": "Eighth Lake Family Boating: 10 Spaces and 2027 Closure",
+      "heading": "Eighth Lake by Small Boat: Ten Spaces, the Only Public Access and the 2027 Closure Gate",
+      "datePublished": "2026-10-24",
+      "description": "Plan an Eighth Lake family boat day around its 10-space hard-surface ramp, only-public-access status, seasonal services and Jan. 1–June 28, 2027 closure.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "family-boat-rain-gear-shell-bib-poncho-guide.html",
+      "title": "Family Boat Rain Gear: Shell, Bibs or Poncho?",
+      "heading": "Family Boat Rain Gear: Shell, Bibs or Poncho—and the Life-Jacket Fit Gate",
+      "datePublished": "2026-10-27",
+      "description": "Choose family boat rain gear by exposure, mobility, life-jacket fit and drying plan—not by a generic waterproof claim.",
+      "commercialCategories": [
+        "family waterproof breathable rain-shell categories sized over planned layers and under life jackets",
+        "waterproof rain-bib and rain-pant categories for seated spray protection and safe movement",
+        "packable family rain-poncho categories for stationary shore and emergency backup use"
+      ]
+    },
+    {
+      "slug": "family-rental-boat-check-in-handover-guide.html",
+      "title": "Rental Boat Check-In: A Family Handover Checklist",
+      "heading": "Accepting a Family Rental Boat: Photograph, Demonstrate, Agree",
+      "datePublished": "2026-10-18",
+      "description": "Use a three-part rental-boat acceptance record: document condition, demonstrate controls and safety equipment, and agree on limits, fees and return evidence.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "h-lee-white-maritime-museum-family-shore-day-guide.html",
+      "title": "H. Lee White Maritime Museum With Kids: An Oswego Shore Day",
+      "heading": "H. Lee White Maritime Museum With Kids: Plan the Indoor Visit, Not an Assumed Boat Tour",
+      "datePublished": "2026-10-19",
+      "description": "Build a two-hour Oswego maritime-history shore day with current admission, separate vessel and lighthouse seasons, access questions and a virtual fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "harmful-algal-bloom-family-boating-go-no-go-guide.html",
+      "title": "Algal Blooms and Boating: A New York Family Go/No-Go Plan",
+      "heading": "An Algae Bloom Changes the Boat Day: Check the Report, Avoid Contact, Keep a Land Plan",
+      "datePublished": "2026-10-19",
+      "description": "Use New York's HAB reports without mistaking an empty map for clearance. Build a water-quality decision record and a real no-contact family fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lake-bonaparte-family-boating-launch-guide.html",
+      "title": "Lake Bonaparte Family Boating: Ramp and Proof-Loop Plan",
+      "heading": "Lake Bonaparte by Boat: The 14-Space Ramp, a Short Proof Loop and an Access Check",
+      "datePublished": "2026-10-21",
+      "description": "Plan a conservative family boat day at Lake Bonaparte from the Sand Bay State Forest hard-surface launch, with a 14-space parking gate and close-in proof loop.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lake-colby-small-boat-ten-horsepower-guide.html",
+      "title": "Lake Colby Boating: 10 HP Limit and Hand Launch",
+      "heading": "Lake Colby by Small Boat: Check Horsepower and Carry-In Access First",
+      "datePublished": "2026-10-18",
+      "description": "Plan Lake Colby around its verified 10 hp restriction, hand launch, 20-car parking listing and accessible privy—not assumptions about a trailer ramp.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lake-durant-small-boat-family-guide.html",
+      "title": "Lake Durant Small-Boat Guide: Ramp, Depth and Season Gate",
+      "heading": "Lake Durant by Small Boat: Ten Trailer Spaces, Shallow Water and the Closed-Campground Gate",
+      "datePublished": "2026-10-23",
+      "description": "Plan a Lake Durant family boat day around the 10-space DEC ramp, small-boat recommendation, shallow water, seasonal services and a call-before-towing gate.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lake-moraine-drawdown-boat-launch-guide.html",
+      "title": "Lake Moraine Drawdown Boat Launch Guide",
+      "heading": "Lake Moraine During Drawdown: Verify the Temporary Ramp, Keep the Boat Small, Prove Recovery First",
+      "datePublished": "2026-10-26",
+      "description": "Plan Lake Moraine boat access during the 2026–2027 dam-rehabilitation drawdown using current Canals, DEC, ramp, weather and recovery checks.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lewey-lake-shallow-launch-small-boat-family-guide.html",
+      "title": "Lewey Lake Small-Boat Guide: Shallow Seasonal Launch",
+      "heading": "Lewey Lake by Small Boat: A Shallow Seasonal Launch With a Fifteen-Rig Limit",
+      "datePublished": "2026-10-29",
+      "description": "Plan a conservative Lewey Lake family boat day around the shallow small-boat launch, seasonal campground access, 15-rig parking and a short proof loop.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "life-jacket-winter-storage-inspection-guide.html",
+      "title": "How to Store Life Jackets for Winter",
+      "heading": "Store Life Jackets for Winter: Dry, Inspect, Separate Foam From Inflatable",
+      "datePublished": "2026-10-16",
+      "description": "Use a documented off-season life-jacket storage protocol that keeps foam uncompressed and follows the exact manual for inflatable inspection, rearming and repacking.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "little-tupper-lake-family-paddling-guide.html",
+      "title": "Little Tupper Lake Family Paddling: Hand Launch Plan",
+      "heading": "Little Tupper Lake With a Family: Hand Launch, Stay Near Shore and Keep the Return Small",
+      "datePublished": "2026-10-25",
+      "description": "Plan a family paddle on Little Tupper Lake around the Whitney Headquarters hand launch, remote conditions, prevailing wind, shallow water and a short proof loop.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "marine-magnetic-steering-compass-buying-guide.html",
+      "title": "Marine Steering Compass: Dial, Mount and Interference Fit",
+      "heading": "Marine Steering Compasses: Buy the Readable Dial, Then Prove the Location",
+      "datePublished": "2026-10-19",
+      "description": "Choose a magnetic steering compass by seated visibility, mounting geometry, zone balance and magnetic interference—not a universal fit or a GPS comparison.",
+      "commercialCategories": [
+        "marine bracket-mount magnetic steering compasses",
+        "marine surface-mount magnetic steering compasses",
+        "marine flush-mount magnetic steering compasses"
+      ]
+    },
+    {
+      "slug": "meacham-lake-two-launch-family-boating-guide.html",
+      "title": "Meacham Lake by Boat: Pick the Right Launch",
+      "heading": "Meacham Lake by Boat: Choose the 21-Space Ramp or the Free Cartop Launch",
+      "datePublished": "2026-10-27",
+      "description": "Plan a Meacham Lake family boat day by separating the campground trailer ramp from the free Meacham Road cartop launch.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "moreau-lake-state-park-family-kayak-guide.html",
+      "title": "Moreau Lake State Park Family Kayak Plan",
+      "heading": "Moreau Lake State Park by Kayak: Bring Your Own or Use the Guided Program?",
+      "datePublished": "2026-10-22",
+      "description": "Plan a family paddle at Moreau Lake State Park by separating independent access from the scheduled guided kayak program, current fees and weather gates.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "navigation-app-failure-offline-backup-boat-drill.html",
+      "title": "Navigation App Failure: Offline Backup Boat Drill",
+      "heading": "When the Navigation App Dies: Slow Down, Look Out and Switch to a Proved Backup",
+      "datePublished": "2026-10-28",
+      "description": "Build and rehearse a boat navigation-app failure response using safe speed, lookout, position evidence, current chart data and independent backups.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "new-york-boating-safety-certificate-family-guide.html",
+      "title": "New York Boating Safety Certificate: Family Guide",
+      "heading": "New York Boating Safety Certificates: Who Needs One, What to Carry, and the Family Plan",
+      "datePublished": "2026-10-21",
+      "description": "Build a New York family operator roster around the current certificate rule, approved course, original proof, rental exception and boat-specific handoff.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "outboard-trailering-support-device-transom-saver-guide.html",
+      "title": "Outboard Trailering Supports: Transom Saver or Bracket Support?",
+      "heading": "Outboard Trailering Supports: Match the Engine, Trailer and Clearance Before Choosing a “Transom Saver”",
+      "datePublished": "2026-10-24",
+      "description": "Choose an outboard trailering support by the engine manual, trailer geometry, ground clearance, steering control and attachment points—not a universal.",
+      "commercialCategories": [
+        "outboard motor trailering support bars matched to engine approval trailer geometry and lower-unit contact",
+        "outboard bracket support wedges matched to exact engine model and manufacturer trailering instructions",
+        "outboard steering stabilizer clips matched to steering cylinder rod dimensions and maker instructions"
+      ]
+    },
+    {
+      "slug": "recreational-boat-law-enforcement-boarding-preparation-guide.html",
+      "title": "Recreational-Boat Boarding: A Calm Preparation Guide",
+      "heading": "When Law Enforcement Boards Your Boat: Stop Safely, Name One Operator and Open the Right Pouch",
+      "datePublished": "2026-10-22",
+      "description": "Prepare for a recreational-boat law-enforcement boarding with a safe stop, one operator, organized documents and equipment access—without invented legal scripts.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "reservoir-water-level-boat-ramp-launch-recovery-guide.html",
+      "title": "Reservoir Water Levels and Boat Ramps: A Launch Gate",
+      "heading": "Reservoir Water Levels and Boat Ramps: Build a Launch-and-Recovery Gate Before Towing",
+      "datePublished": "2026-10-25",
+      "description": "Use official water-level data, facility notices, ramp geometry and a recovery margin to decide whether a reservoir boat ramp fits today’s rig.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "selling-boat-electronics-mmsi-personal-data-handoff-guide.html",
+      "title": "Selling a Boat: Electronics and MMSI Handoff",
+      "heading": "Selling a Boat With Electronics: Clear Personal Data Without Erasing the Safety Handoff",
+      "datePublished": "2026-10-17",
+      "description": "Use a retain-transfer-remove matrix for chartplotters, radios, MMSI records, apps, subscriptions, keys, manuals and maintenance files when selling a boat.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "sensory-aware-family-boat-day-predictable-plan.html",
+      "title": "Sensory-Aware Family Boat Day: A Predictable Plan",
+      "heading": "A Sensory-Aware Family Boat Day: Preview the Sequence, Protect Hearing and Keep the Return Short",
+      "datePublished": "2026-10-30",
+      "description": "Build a sensory-aware family boat day with an individualized preview, communication cues, hearing-protection checks, a short proof loop and a no-argument stop plan.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "three-generation-family-boat-day-older-adult-plan.html",
+      "title": "Three-Generation Boat Day: Older-Adult Plan",
+      "heading": "A Three-Generation Boat Day: Use the Transfer, Seat, Heat and Return Gates",
+      "datePublished": "2026-10-27",
+      "description": "Plan a boat day with grandparents or older adults around consent, stable boarding, approved seating, temperature, medication and an early return.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "vessel-safety-check-appointment-preparation-guide.html",
+      "title": "Free Vessel Safety Check: Appointment and Correction Record",
+      "heading": "A Free Vessel Safety Check: Arrive Prepared, Leave With a Correction Record",
+      "datePublished": "2026-10-20",
+      "description": "Prepare for a Coast Guard Auxiliary Vessel Safety Check with an appointment brief, equipment-location sheet and correction record—without confusing a decal with.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "waneta-lamoka-lakes-family-boating-launch-guide.html",
+      "title": "Waneta &amp; Lamoka Lakes Family Boating Launch Guide",
+      "heading": "Waneta and Lamoka Lakes by Boat: Choose the Ramp—and Treat the Channel as Conditional",
+      "datePublished": "2026-10-16",
+      "description": "Plan a family boat day on Waneta or Lamoka Lake using official ramp facts, a shallow-channel decision, clean-drain-dry steps and a short proof-loop itinerary.",
+      "commercialCategories": []
+    }
+  ],
+  "newPages": [
+    {
+      "slug": "boat-windshield-wiper-motor-arm-blade-fit-guide.html",
+      "title": "Boat Windshield Wipers: Motor, Arm and Blade Fit",
+      "heading": "Boat Windshield Wipers: Match the Motor, Shaft, Sweep, Arm and Blade Before Buying",
+      "description": "Build a traceable marine windshield-wiper fit record covering voltage, shaft geometry, park side, sweep, arm, blade and glass clearance before buying parts.",
+      "angles": [
+        "Freeze the existing system before removing anything",
+        "Write the five-line fit record",
+        "Treat shaft geometry as a structural interface",
+        "Prove the sweep with a paper arc",
+        "Match park side and helm sight line",
+        "Match the arm and blade as a pair",
+        "Shop by documented interface, not bundle language",
+        "Commission the system in controlled steps",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": [
+        "marine windshield wiper motor kits with documented voltage shaft length sweep range and park direction",
+        "adjustable marine windshield wiper arms matched to motor shaft and blade attachment",
+        "marine windshield wiper blades matched to arm connection windshield curvature and approved length"
+      ]
+    },
+    {
+      "slug": "buffalo-harbor-state-park-family-boat-launch-guide.html",
+      "title": "Buffalo Harbor State Park Family Boat Launch Guide",
+      "heading": "Buffalo Harbor State Park With a Family Boat: Launch, Prove the Harbor, Then Use the Playground",
+      "description": "Plan a conservative family boat launch at Buffalo Harbor State Park using current official access, fee, restroom, pet, swimming and weather gates plus a short.",
+      "angles": [
+        "Pass the facility gate before leaving home",
+        "Use the four-gate harbor card",
+        "Stage away from the ramp",
+        "Launch, settle and make a twenty-minute proof loop",
+        "Make the land half intentional",
+        "Keep Great Lakes weather in charge",
+        "Use the no-launch fallback without calling it failure",
+        "Know who should choose another day",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": []
+    },
+    {
+      "slug": "sensory-aware-family-boat-day-predictable-plan.html",
+      "title": "Sensory-Aware Family Boat Day: A Predictable Plan",
+      "heading": "A Sensory-Aware Family Boat Day: Preview the Sequence, Protect Hearing and Keep the Return Short",
+      "description": "Build a sensory-aware family boat day with an individualized preview, communication cues, hearing-protection checks, a short proof loop and a no-argument stop plan.",
+      "angles": [
+        "Ask what helps; do not design from a label",
+        "Preview one honest sequence",
+        "Build the cue matrix before adding hearing protection",
+        "Use hearing protection without hiding warnings",
+        "Make the dock a decision point",
+        "Run a short proof loop, not a milestone trip",
+        "Pack categories, not a mountain of novelty",
+        "Write the no-argument stop plan",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": []
+    }
+  ]
+}

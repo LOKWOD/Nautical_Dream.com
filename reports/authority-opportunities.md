@@ -129,3 +129,11 @@
 |---|---|---|---|---|
 | Adirondack Explorer | https://www.adirondackexplorer.org/contact-us | Fish Creek Pond family launch guide | A primary-source-backed explainer separating year-round boat-launch access from seasonal campground services and the delayed 2027 campground opening | Qualified; not contacted |
 | NYS DEC Fish Creek Pond Campground | https://dec.ny.gov/places/fish-creek-pond-campground-and-day-use-area | Fish Creek Pond family launch guide | Corrections-only contact for ramp, parking or 2027 trail-work access changes; no backlink request | Qualified trust-source contact; not contacted |
+## 2026-10-30
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Buffalo Harbor State Park | https://parks.ny.gov/parks/buffaloharbor/amenities.aspx | Four-gate family harbor decision card | Corrections-first review of current launch, restroom, seasonal-service, pet and swimming details; offer the card as a practical family pre-trip resource if accurate | Qualified trust-source opportunity; not contacted |
+| VETUS service and support | https://vetus.com/usa/service-support/ | Five-line marine wiper fit record | Ask for corrections to the voltage, shaft, park, sweep and arm/blade interface framework; no product endorsement or backlink request | Qualified manufacturer-resource opportunity; not contacted |
+| NIDCD Information Clearinghouse | https://www.nidcd.nih.gov/about/contact-us | Sensory-aware boat-day communication matrix | Corrections-first review of the hearing-protection and warning-sound boundary; offer the nonmedical cue matrix for public education if useful | Qualified public-health resource opportunity; not contacted |
+

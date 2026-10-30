@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-29T15:56:36.393Z",
+  "generatedAt": "2026-10-30T15:21:26.398Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 242,
-    "commercialLinks": 430,
-    "activeAffiliateLinks": 430,
+    "eligiblePages": 244,
+    "commercialLinks": 433,
+    "activeAffiliateLinks": 433,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 430,
+    "amazonAffiliateLinks": 433,
     "fallbackLinks": 0,
-    "changedPages": 1
+    "changedPages": 134
   },
   "links": [
     {
@@ -2813,6 +2813,39 @@
       "visibleText": "Compare reinforced marine washdown-hose categories",
       "originalUrl": "https://www.amazon.com/s?k=reinforced+marine+washdown+hose+nozzle",
       "destinationUrl": "https://www.amazon.com/s?k=reinforced+marine+washdown+hoses+and+nozzles&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-windshield-wiper-motor-arm-blade-fit-guide.html",
+      "key": "boat-windshield-wiper-motor-arm-blade-fit-guide.html::marine-windshield-wiper-motor-kits-with-documented-voltage-shaft-length-sweep-range-and-pa",
+      "product": "marine windshield wiper motor kits with documented voltage shaft length sweep range and park direction",
+      "visibleText": "Compare documented marine wiper-motor kits",
+      "originalUrl": "https://www.amazon.com/s?k=marine+windshield+wiper+motor+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+windshield+wiper+motor+kits+with+documented+voltage+shaft+length+sweep+range+and+park+direction&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-windshield-wiper-motor-arm-blade-fit-guide.html",
+      "key": "boat-windshield-wiper-motor-arm-blade-fit-guide.html::adjustable-marine-windshield-wiper-arms-matched-to-motor-shaft-and-blade-attachment",
+      "product": "adjustable marine windshield wiper arms matched to motor shaft and blade attachment",
+      "visibleText": "Compare adjustable marine wiper arms",
+      "originalUrl": "https://www.amazon.com/s?k=adjustable+marine+windshield+wiper+arm",
+      "destinationUrl": "https://www.amazon.com/s?k=adjustable+marine+windshield+wiper+arms+matched+to+motor+shaft+and+blade+attachment&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-windshield-wiper-motor-arm-blade-fit-guide.html",
+      "key": "boat-windshield-wiper-motor-arm-blade-fit-guide.html::marine-windshield-wiper-blades-matched-to-arm-connection-windshield-curvature-and-approved",
+      "product": "marine windshield wiper blades matched to arm connection windshield curvature and approved length",
+      "visibleText": "Compare marine wiper blades by connector and length",
+      "originalUrl": "https://www.amazon.com/s?k=marine+windshield+wiper+blade",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+windshield+wiper+blades+matched+to+arm+connection+windshield+curvature+and+approved+length&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
