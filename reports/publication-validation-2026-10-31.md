@@ -22,5 +22,8 @@ The 20-minute photo inventory is a citation-ready owner checklist, while the sho
 
 ## Production gate
 
-- Pending production commit, workflow completion and live custom-domain verification.
-- Live image pass 2 remains pending; publication will not be reported complete until all three article heroes and all three card assets are visually rechecked on the custom domain.
+- Publication content commit: `273eb1b2017e551bb236b408a8ce2b8c955154ad` on `main`.
+- All four production workflows passed for that commit: Static site audit (`41217000899`), Deploy Nautical Dream static publication (`41217000925`), Keep Visitor Light beacon (`41217000949`) and GitHub Pages build/deployment (`41217000701`).
+- All three canonical custom-domain URLs returned the correct live titles, article copy, source links, related links and discovery paths. The shore-power guide exposed three working approved Amazon category links with the expected affiliate query and visible disclosure; the two noncommercial guides contain no paid links.
+- Live image pass 2 passed for six unique editorial assets across nine rendered placements: three article heroes, three homepage cards and one matching card on each of the Gear, Destinations and Journal hubs. No broken source, fallback substitution, misleading crop or card mismatch was observed. Zero affiliate/product images were used.
+- The live homepage lead, Gear, Destinations and Journal hubs expose the correct new cards; sitemap, RSS, `llms.txt`, image credits and the editorial catalog were published with the batch.
