@@ -137,3 +137,11 @@
 | VETUS service and support | https://vetus.com/usa/service-support/ | Five-line marine wiper fit record | Ask for corrections to the voltage, shaft, park, sweep and arm/blade interface framework; no product endorsement or backlink request | Qualified manufacturer-resource opportunity; not contacted |
 | NIDCD Information Clearinghouse | https://www.nidcd.nih.gov/about/contact-us | Sensory-aware boat-day communication matrix | Corrections-first review of the hearing-protection and warning-sound boundary; offer the nonmedical cue matrix for public education if useful | Qualified public-health resource opportunity; not contacted |
 
+## 2026-10-31
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State Parks — Verona Beach State Park | https://parks.ny.gov/parks/102/getting-there.aspx | https://nauticaldream.com/verona-beach-state-park-family-paddling-hand-launch-guide.html — six-gate hand-launch card and explicit stale-season-date warning | Corrections-first review of the non-motorized/no-trailer distinction, current fee collection, seasonal facilities and exact hand-launch access; offer the card only if accurate. | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ | https://nauticaldream.com/boat-shore-power-cord-30a-50a-fit-inspection-guide.html — five-line shore-power interface and retirement record | Ask for corrections to the marine-cord, connection-order and heat-damage boundary; offer the category-neutral fit record as a companion to official shore-power safety guidance. | Qualified safety-resource opportunity; not contacted |
+| BoatUS Foundation | https://boatus.org/contact/ | https://nauticaldream.com/boat-insurance-photo-inventory-20-minute-checklist.html — 20-minute identity, condition, systems, gear and trailer walkthrough | Request corrections to the separation between pre-loss evidence, safety, policy-specific coverage and claim instructions; offer the blank sequence as owner education, not insurance advice. | Qualified ownership-resource opportunity; not contacted |
+

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-30T15:21:26.398Z",
+  "generatedAt": "2026-10-31T15:46:37.758Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 244,
-    "commercialLinks": 433,
-    "activeAffiliateLinks": 433,
+    "eligiblePages": 246,
+    "commercialLinks": 436,
+    "activeAffiliateLinks": 436,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 433,
+    "amazonAffiliateLinks": 436,
     "fallbackLinks": 0,
-    "changedPages": 134
+    "changedPages": 0
   },
   "links": [
     {
@@ -1977,6 +1977,39 @@
       "visibleText": "Compare locking slide-and-swivel categories",
       "originalUrl": "https://www.amazon.com/s?k=marine+boat+seat+slide+swivel+locking+mount",
       "destinationUrl": "https://www.amazon.com/s?k=marine+locking+seat+slide+and+swivel+mounts+matched+to+exact+pedestal+family+seat+duty+and+bolt+pattern&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html",
+      "key": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html::30-amp-125-volt-marine-shore-power-cordsets-with-documented-marine-listing-locking-ring-an",
+      "product": "30 amp 125 volt marine shore-power cordsets with documented marine listing locking ring and molded ratings",
+      "visibleText": "Compare documented 30A/125V marine cordsets",
+      "originalUrl": "https://www.amazon.com/s?k=30+amp+125v+marine+shore+power+cordset",
+      "destinationUrl": "https://www.amazon.com/s?k=30+amp+125+volt+marine+shore-power+cordsets+with+documented+marine+listing+locking+ring+and+molded+ratings&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html",
+      "key": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html::50-amp-125-250-volt-marine-shore-power-cordsets-matched-to-exact-inlet-outlet-and-connecti",
+      "product": "50 amp 125 250 volt marine shore-power cordsets matched to exact inlet outlet and connection system",
+      "visibleText": "Compare documented 50A/125/250V marine cordsets",
+      "originalUrl": "https://www.amazon.com/s?k=50+amp+125+250v+marine+shore+power+cordset",
+      "destinationUrl": "https://www.amazon.com/s?k=50+amp+125+250+volt+marine+shore-power+cordsets+matched+to+exact+inlet+outlet+and+connection+system&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html",
+      "key": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html::non-contact-infrared-thermometers-for-repeatable-visible-surface-temperature-trend-checks",
+      "product": "non-contact infrared thermometers for repeatable visible surface temperature trend checks",
+      "visibleText": "Compare non-contact infrared thermometers",
+      "originalUrl": "https://www.amazon.com/s?k=infrared+thermometer+electrical+inspection",
+      "destinationUrl": "https://www.amazon.com/s?k=non-contact+infrared+thermometers+for+repeatable+visible+surface+temperature+trend+checks&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

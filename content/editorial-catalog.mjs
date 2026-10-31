@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["verona-beach-state-park-family-paddling-hand-launch-guide.html", "Verona Beach State Park by Canoe or Kayak: A Family Hand-Launch Plan for Oneida Lake"],
     ["buffalo-harbor-state-park-family-boat-launch-guide.html", "Buffalo Harbor State Park With a Family Boat: Launch, Prove the Harbor, Then Use the Playground"],
     ["lewey-lake-shallow-launch-small-boat-family-guide.html", "Lewey Lake by Small Boat: A Shallow Seasonal Launch With a Fifteen-Rig Limit"],
     ["bowman-lake-state-park-cartop-paddle-family-guide.html", "Bowman Lake State Park by Canoe or Kayak: A Cartop-Launch Family Plan"],
@@ -62,6 +63,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-shore-power-cord-30a-50a-fit-inspection-guide.html", "Boat Shore-Power Cords: Match 30A or 50A, Inspect Every Interface and Retire Heat Damage"],
     ["boat-windshield-wiper-motor-arm-blade-fit-guide.html", "Boat Windshield Wipers: Match the Motor, Shaft, Sweep, Arm and Blade Before Buying"],
     ["boat-trailer-wheel-chocks-size-material-placement-guide.html", "Boat-Trailer Wheel Chocks: Match Tire, Surface and Grade Before Trusting the Wedge"],
     ["boat-mooring-whips-weight-dock-exposure-buying-guide.html", "Boat Mooring Whips: Match Boat Weight, Dock Structure and Exposure Before Buying"],
@@ -121,6 +123,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-insurance-photo-inventory-20-minute-checklist.html", "Build a Boat Insurance Photo Inventory in 20 Minutes: Hull, HIN, Systems, Gear and Trailer"],
     ["sensory-aware-family-boat-day-predictable-plan.html", "A Sensory-Aware Family Boat Day: Preview the Sequence, Protect Hearing and Keep the Return Short"],
     ["boat-maintenance-records-evidence-file-resale-guide.html", "Boat Maintenance Records: Build the Evidence File Before You Need It"],
     ["navigation-app-failure-offline-backup-boat-drill.html", "When the Navigation App Dies: Slow Down, Look Out and Switch to a Proved Backup"],
