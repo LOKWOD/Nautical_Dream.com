@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-31T15:46:37.758Z",
+  "generatedAt": "2026-11-01T16:13:15.359Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 246,
-    "commercialLinks": 436,
-    "activeAffiliateLinks": 436,
+    "eligiblePages": 248,
+    "commercialLinks": 439,
+    "activeAffiliateLinks": 439,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 436,
+    "amazonAffiliateLinks": 439,
     "fallbackLinks": 0,
-    "changedPages": 0
+    "changedPages": 136
   },
   "links": [
     {
@@ -778,6 +778,39 @@
       "visibleText": "Compare marine high-water bilge alarms",
       "originalUrl": "https://www.xylem.com/en-us/brands/rule/",
       "destinationUrl": "https://www.amazon.com/s?k=marine+high+water+bilge+alarm&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-bimini-top-replacement-width-height-length-fit-guide.html",
+      "key": "boat-bimini-top-replacement-width-height-length-fit-guide.html::complete-three-bow-boat-bimini-top-kits-with-documented-mounting-width-height-length-hardw",
+      "product": "complete three-bow boat bimini-top kits with documented mounting-width height length hardware and storage instructions",
+      "visibleText": "Compare documented three-bow complete bimini kits",
+      "originalUrl": "https://www.amazon.com/s?k=3+bow+boat+bimini+top+complete+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=complete+three-bow+boat+bimini-top+kits+with+documented+mounting-width+height+length+hardware+and+storage+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-bimini-top-replacement-width-height-length-fit-guide.html",
+      "key": "boat-bimini-top-replacement-width-height-length-fit-guide.html::complete-four-bow-pontoon-bimini-top-kits-with-documented-tube-size-mounting-range-coverag",
+      "product": "complete four-bow pontoon bimini-top kits with documented tube size mounting range coverage and storage boot",
+      "visibleText": "Compare documented four-bow pontoon bimini kits",
+      "originalUrl": "https://www.amazon.com/s?k=4+bow+pontoon+bimini+top+complete+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=complete+four-bow+pontoon+bimini-top+kits+with+documented+tube+size+mounting+range+coverage+and+storage+boot&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-bimini-top-replacement-width-height-length-fit-guide.html",
+      "key": "boat-bimini-top-replacement-width-height-length-fit-guide.html::replacement-boat-bimini-canvases-matched-by-exact-frame-width-bow-count-tube-geometry-and-",
+      "product": "replacement boat bimini canvases matched by exact frame width bow count tube geometry and manufacturer model",
+      "visibleText": "Compare manufacturer-matched replacement canvases",
+      "originalUrl": "https://www.amazon.com/s?k=boat+bimini+top+replacement+canvas+matched+frame",
+      "destinationUrl": "https://www.amazon.com/s?k=replacement+boat+bimini+canvases+matched+by+exact+frame+width+bow+count+tube+geometry+and+manufacturer+model&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

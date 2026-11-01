@@ -145,3 +145,20 @@
 | U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ | https://nauticaldream.com/boat-shore-power-cord-30a-50a-fit-inspection-guide.html — five-line shore-power interface and retirement record | Ask for corrections to the marine-cord, connection-order and heat-damage boundary; offer the category-neutral fit record as a companion to official shore-power safety guidance. | Qualified safety-resource opportunity; not contacted |
 | BoatUS Foundation | https://boatus.org/contact/ | https://nauticaldream.com/boat-insurance-photo-inventory-20-minute-checklist.html — 20-minute identity, condition, systems, gear and trailer walkthrough | Request corrections to the separation between pre-loss evidence, safety, policy-specific coverage and claim instructions; offer the blank sequence as owner education, not insurance advice. | Qualified ownership-resource opportunity; not contacted |
 
+
+## 2026-11-01 — Bimini fit, Grafton pond choice and small-boat sanitation
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+1. **Taylor Made Products support** — <https://www.taylormadeproducts.com/contact-us/>  
+   **Asset match:** `boat-bimini-top-replacement-width-height-length-fit-guide.html`  
+   **Honest angle:** the guide teaches readers to measure between intended mounting points rather than use beam and directs model-specific questions back to manufacturer fit tables. Invite correction of terminology or missing compatibility gates.
+
+2. **Grafton Lakes State Park / New York State Parks** — <https://parks.ny.gov/parks/graftonlakes/getting-there.aspx>  
+   **Asset match:** `grafton-lakes-state-park-family-paddling-guide.html`  
+   **Honest angle:** the pond-by-pond launch card translates the official park and DEC listings into a conservative family plan while prominently marking rental and facility details as volatile. Ask staff to flag any current access or seasonal nuance.
+
+3. **U.S. EPA Vessel Sewage program** — <https://www.epa.gov/vessels-marinas-and-ports/vessel-sewage-frequently-asked-questions>  
+   **Asset match:** `small-boat-family-bathroom-portable-toilet-plan.html`  
+   **Honest angle:** the guide clearly separates portable toilets from installed MSDs and repeats the no-overboard-disposal rule. Offer it as a plain-language family-boating resource and invite technical correction.
+
