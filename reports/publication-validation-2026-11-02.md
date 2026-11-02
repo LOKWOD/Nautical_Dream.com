@@ -21,4 +21,11 @@
 
 ## Production and live verification
 
-- Pending production commit, workflows, custom-domain checks, commercial-link verification and image QA pass 2.
+- Content publication commit: `81c61eed02b2ad7e61b25d9b9f1ae8c3ac7c5e63`.
+- The first workflow run exposed stale historical tests that required old daily cards to remain on the rotating homepage. The audit-only correction retained permanent hub, sitemap, RSS, catalog and `llms.txt` discovery requirements; the full historical suite then passed locally with `bash -e`.
+- Audit correction commit: `ca09ae0c61abf6241c548c003bfbd64e0b230e29`.
+- Final GitHub workflows: PASS — static site audit, production deployment, GitHub Pages build/deployment and visitor-beacon normalization all completed successfully.
+- Live page checks: PASS — all 3 canonical custom-domain pages render the expected titles, article content, primary-source sections and related-guide modules.
+- Live monetization: PASS — the beacon guide exposes exactly 3 descriptive Amazon category links, the visible Associate/editorial disclosure and protected paid-link markup; sitewide report remains 442 active of 442 commercial links with zero fallbacks.
+- Live discovery: PASS — the current homepage shows all 3 new cards, and the correct new card appears on each of Gear, Destinations and Journal. Sitemap/RSS/catalog discovery was also validated by the publication audits.
+- Image QA pass 2: PASS — 6 unique editorial assets across 9 live placements; 0 affiliate/product images; no broken source, fallback substitution, misleading crop or card mismatch.
