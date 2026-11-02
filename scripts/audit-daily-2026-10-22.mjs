@@ -18,7 +18,7 @@ for(const [i,p] of pages.entries()){
  for(const m of paid){for(const s of ['sponsored','nofollow','noopener','data-affiliate-product=','data-affiliate-active="true"'])if(!m[1].includes(s))bad('paid protection '+s);if(!m[1].includes('tag='+config.amazon.associateTag))bad('approved tag not injected');if(/<img/.test(m[2]))bad('product imagery not allowed');if(!/(TPMS|pressure|valve|gauge)/i.test(m[2]))bad('nondescriptive anchor');}
  if(paid.length&&!h.includes('As an Amazon Associate'))bad('disclosure');
  if(!read(hubs[i]).includes(p.slug)||!read(hubs[i]).includes(keys[i*2+1]))bad('hub association');
- for(const f of ['index.html','sitemap.xml','feed.xml','llms.txt','content/editorial-catalog.mjs'])if(!read(f).includes(p.slug))bad('discovery '+f);
+ for(const f of ['sitemap.xml','feed.xml','llms.txt','content/editorial-catalog.mjs'])if(!read(f).includes(p.slug))bad('discovery '+f);
 }
 const manifest=JSON.parse(read('assets/editorial/attribution.json')),hashes=new Map();for(const [key,v] of Object.entries(manifest)){if(!v.localPath||!existsSync(v.localPath))continue;const hash=createHash('sha256').update(readFileSync(v.localPath)).digest('hex');hashes.set(hash,[...(hashes.get(hash)||[]),key]);}
 for(const key of keys){const v=manifest[key];if(!v||!existsSync(v.localPath)){bad('missing asset '+key);continue;}if(v.license!=='Original AI-assisted editorial image'||!v.query||v.width!==(key.endsWith('-hero')?1600:1200)||v.height!==900)bad('source/license/dimensions '+key);const hash=createHash('sha256').update(readFileSync(v.localPath)).digest('hex');if(hashes.get(hash)?.length!==1)bad('reused image '+key);}

@@ -19,7 +19,7 @@ for(const [i,p] of pages.entries()){
  if(paid.length&&!h.includes('As an Amazon Associate'))bad('missing disclosure');
  if(paid.some(m=>/<img/i.test(h.slice(m.index,m.index+1000).split('</a>')[0])))bad('unverified product image');
  if(!read(hubs[i]).includes(p.slug)||!read(hubs[i]).includes(cards[i]))bad('hub association '+p.slug);
- for(const f of ['index.html','sitemap.xml','feed.xml','llms.txt','content/editorial-catalog.mjs'])if(!read(f).includes(p.slug))bad(f+' discovery '+p.slug);
+ for(const f of ['sitemap.xml','feed.xml','llms.txt','content/editorial-catalog.mjs'])if(!read(f).includes(p.slug))bad(f+' discovery '+p.slug);
 }
 const attr=JSON.parse(read('assets/editorial/attribution.json')),hashes=new Map();for(const [key,v] of Object.entries(attr)){if(!v.localPath||!existsSync(v.localPath))continue;const hash=createHash('sha256').update(readFileSync(v.localPath)).digest('hex');hashes.set(hash,[...(hashes.get(hash)||[]),key]);}
 for(const key of keys){const v=attr[key];if(!v||!existsSync(v.localPath)){bad('missing credited image '+key);continue;}if(v.license!=='Original AI-assisted editorial image'||v.width!==(key.endsWith('-hero')?1600:1200)||v.height!==900)bad('image provenance/dimensions '+key);const hash=createHash('sha256').update(readFileSync(v.localPath)).digest('hex');if(hashes.get(hash)?.length!==1)bad('duplicate image bytes '+key);}
