@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-01T16:13:15.359Z",
+  "generatedAt": "2026-11-02T16:50:18.635Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 248,
-    "commercialLinks": 439,
-    "activeAffiliateLinks": 439,
+    "eligiblePages": 251,
+    "commercialLinks": 442,
+    "activeAffiliateLinks": 442,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 439,
+    "amazonAffiliateLinks": 442,
     "fallbackLinks": 0,
-    "changedPages": 136
+    "changedPages": 137
   },
   "links": [
     {
@@ -4342,6 +4342,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.planooutdoors.com/collections/marine-storage",
       "destinationUrl": "https://www.amazon.com/s?k=Plano+Marine+Storage+Box&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "plb-epirb-satellite-messenger-boat-buying-guide.html",
+      "key": "plb-epirb-satellite-messenger-boat-buying-guide.html::406-mhz-gnss-personal-locator-beacons-with-u-s-coding-current-manual-noaa-registration-and",
+      "product": "406 MHz GNSS personal locator beacons with U.S. coding current manual NOAA registration and documented battery service",
+      "visibleText": "Compare documented 406 MHz GNSS PLBs",
+      "originalUrl": "https://www.amazon.com/s?k=406+MHz+GNSS+personal+locator+beacon+NOAA+registration",
+      "destinationUrl": "https://www.amazon.com/s?k=406+MHz+GNSS+personal+locator+beacons+with+U.S.+coding+current+manual+NOAA+registration+and+documented+battery+service&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "plb-epirb-satellite-messenger-boat-buying-guide.html",
+      "key": "plb-epirb-satellite-messenger-boat-buying-guide.html::406-mhz-gnss-marine-epirbs-with-documented-category-bracket-release-mounting-registration-",
+      "product": "406 MHz GNSS marine EPIRBs with documented category bracket release mounting registration and battery service",
+      "visibleText": "Compare documented 406 MHz GNSS EPIRBs",
+      "originalUrl": "https://www.amazon.com/s?k=406+MHz+GPS+EPIRB+marine",
+      "destinationUrl": "https://www.amazon.com/s?k=406+MHz+GNSS+marine+EPIRBs+with+documented+category+bracket+release+mounting+registration+and+battery+service&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "plb-epirb-satellite-messenger-boat-buying-guide.html",
+      "key": "plb-epirb-satellite-messenger-boat-buying-guide.html::two-way-satellite-messengers-with-documented-sos-provider-coverage-subscription-charging-a",
+      "product": "two-way satellite messengers with documented SOS provider coverage subscription charging and account transfer terms",
+      "visibleText": "Compare documented two-way satellite messengers",
+      "originalUrl": "https://www.amazon.com/s?k=two-way+satellite+messenger+SOS",
+      "destinationUrl": "https://www.amazon.com/s?k=two-way+satellite+messengers+with+documented+SOS+provider+coverage+subscription+charging+and+account+transfer+terms&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

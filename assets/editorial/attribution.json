@@ -5572,5 +5572,83 @@
     "query": "Clean closed portable toilet, privacy screen, gloves, sanitizer, paper, sealed pouch and blank decision card",
     "width": 1200,
     "height": 900
+  },
+  "boat-distress-beacon-fit-hero": {
+    "localPath": "assets/editorial/boat-distress-beacon-fit-hero.webp",
+    "title": "Conceptual boating distress-beacon comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic PLB, EPIRB and satellite messenger forms with life jacket, blank registration card and map; no exact product or activation claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-distress-beacon-fit-card": {
+    "localPath": "assets/editorial/boat-distress-beacon-fit-card.webp",
+    "title": "Emergency-communications category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic PLB, EPIRB and messenger forms with blank card and life jacket; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "sampson-state-park-family-boat-hero": {
+    "localPath": "assets/editorial/sampson-state-park-family-boat-hero.webp",
+    "title": "Conceptual Finger Lakes family launch plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adult and child in life jackets reviewing a blank plan beside a trailered runabout at a generic Finger Lakes launch; not documentary Sampson photography",
+    "width": 1600,
+    "height": 900
+  },
+  "sampson-state-park-family-boat-card": {
+    "localPath": "assets/editorial/sampson-state-park-family-boat-card.webp",
+    "title": "Finger Lakes family-launch category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Life jackets, blank route card, food, water, line and binoculars at a generic Finger Lakes launch; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-insurance-renewal-audit-hero": {
+    "localPath": "assets/editorial/boat-insurance-renewal-audit-hero.webp",
+    "title": "Conceptual boat-insurance renewal audit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Blank policy folder, comparison cards, calculator, calendar, keys and a generic trailered runabout; no carrier or coverage claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-insurance-renewal-audit-card": {
+    "localPath": "assets/editorial/boat-insurance-renewal-audit-card.webp",
+    "title": "Boat-insurance audit category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Blank policy folder and five conceptual coverage cards with calculator, calendar, key and generic boat photo",
+    "width": 1200,
+    "height": 900
   }
 }

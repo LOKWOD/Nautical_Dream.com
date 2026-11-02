@@ -1,5 +1,21 @@
 # Authority opportunities
 
+## 2026-11-02 — distress beacons, Sampson launch planning and insurance renewal
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+1. **NOAA U.S. SARSAT Program** — <https://www.sarsat.noaa.gov/faqs/>
+   **Asset match:** `plb-epirb-satellite-messenger-boat-buying-guide.html`
+   **Honest angle:** the nine-line fit record separates registered 406 MHz PLBs and EPIRBs from provider-dependent satellite messengers, and treats NOAA registration and manufacturer self-test instructions as commissioning steps. Invite correction of terminology or registration/test boundaries.
+
+2. **Sampson State Park / New York State Parks** — <https://parks.ny.gov/visit/state-parks/sampson-state-park>
+   **Asset match:** `sampson-state-park-family-boat-launch-guide.html`
+   **Honest angle:** the eight-gate trip card separates park hours from concession-operated marina services and marks fees, docks, fuel, restrooms and seasonal access as same-day checks. Ask staff to flag any access or trailer-parking nuance.
+
+3. **National Association of Insurance Commissioners consumer team** — <https://content.naic.org/contact>
+   **Asset match:** `boat-insurance-renewal-policy-audit-guide.html`
+   **Honest angle:** the twelve-question audit translates regulator-published distinctions among actual cash value, agreed amount, replacement cost and lay-up into a carrier-neutral comparison sheet. Request corrections without implying that the checklist is coverage or legal advice.
+
 ## 2026-10-29
 
 | Target | Contact route | Asset match | Honest pitch angle | Status |
