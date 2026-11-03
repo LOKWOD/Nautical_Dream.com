@@ -21,4 +21,10 @@
 
 ## Production and live verification
 
-Pending commit, GitHub Actions, GitHub Pages deployment and custom-domain image QA pass 2.
+- Publication commit: `4bae029b831f6267aef539c362febef87f06494b` on `main`.
+- GitHub Pages deployment: PASS — Pages build/deployment run `41681558369` completed successfully.
+- Repository workflows: PASS — static publication deploy `41681560222`, static-site audit `41681560271` and visitor-beacon preservation `41681560254` all completed successfully.
+- Custom-domain pages: PASS — all three canonical URLs returned their final titles, headings, schema and internal links on `https://nauticaldream.com/`.
+- Monetization: PASS — the steering guide exposes three descriptive category-level Amazon links with the configured Associate tag, visible disclosure, `_blank` target and `sponsored nofollow noopener noreferrer`; the other two pages contain no commercial links.
+- Discovery: PASS — the November 3 homepage module and the Gear, Destinations and Journal cards render the correct linked titles and images; the sitemap, RSS, catalog, `llms.txt` and image-credit records are live.
+- Image QA pass 2: PASS — 6 unique editorial assets across 9 live placements; 0 affiliate/product images. No broken source, fallback substitution, misleading crop or card association was found.
