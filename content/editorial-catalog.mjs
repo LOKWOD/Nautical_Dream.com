@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["irondequoit-bay-state-marine-park-family-boat-launch-guide.html", "Irondequoit Bay State Marine Park With a Family Boat: Launch Year-Round, Respect the 300-Foot Rule and Treat the Outlet as Closed"],
     ["sampson-state-park-family-boat-launch-guide.html", "Sampson State Park With a Family Boat: Launch, Prove Seneca Lake, Then Use the Shore Backup"],
     ["grafton-lakes-state-park-family-paddling-guide.html", "Grafton Lakes State Park With a Family Paddle: Pick One Pond, Prove the Launch and Keep the Loop Short"],
     ["verona-beach-state-park-family-paddling-hand-launch-guide.html", "Verona Beach State Park by Canoe or Kayak: A Family Hand-Launch Plan for Oneida Lake"],
@@ -65,6 +66,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-mechanical-steering-cable-replacement-fit-guide.html", "Boat Mechanical Steering Cables: Match the Helm, Cable Family, Length and Engine Connection Before Buying"],
     ["plb-epirb-satellite-messenger-boat-buying-guide.html", "PLB vs EPIRB vs Satellite Messenger: Buy the Rescue Path, Then Register and Carry It"],
     ["boat-bimini-top-replacement-width-height-length-fit-guide.html", "Boat Bimini Tops: Measure the Mounting Width, Standing Height and Coverage Before Buying"],
     ["boat-shore-power-cord-30a-50a-fit-inspection-guide.html", "Boat Shore-Power Cords: Match 30A or 50A, Inspect Every Interface and Retire Heat Damage"],
@@ -127,6 +129,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["motorboat-passing-kayaks-canoes-slow-pass-guide.html", "Passing Kayaks and Canoes From a Motorboat: Spot Early, Slow Early and Check the Wake Behind You"],
     ["boat-insurance-renewal-policy-audit-guide.html", "Boat Insurance Renewal Audit: Prove the Value, Waters, Operators, Trailer and Lay-Up Before You Pay"],
     ["small-boat-family-bathroom-portable-toilet-plan.html", "No Toilet on the Small Boat: Build the Family Bathroom Plan Before Launch"],
     ["boat-insurance-photo-inventory-20-minute-checklist.html", "Build a Boat Insurance Photo Inventory in 20 Minutes: Hull, HIN, Systems, Gear and Trailer"],

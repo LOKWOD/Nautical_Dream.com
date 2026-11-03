@@ -178,3 +178,13 @@ No outreach was sent. These are corrections-first opportunities only; any future
    **Asset match:** `small-boat-family-bathroom-portable-toilet-plan.html`  
    **Honest angle:** the guide clearly separates portable toilets from installed MSDs and repeats the no-overboard-disposal rule. Offer it as a plain-language family-boating resource and invite technical correction.
 
+## 2026-11-03 — steering compatibility, Irondequoit Bay and mixed-use water
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Dometic Marine / SeaStar support | https://www.dometic.com/en-us/support | `boat-mechanical-steering-cable-replacement-fit-guide.html` — six-field helm, cable, route, length, engine and installation record | Ask for corrections to the family-versus-interface boundary and offer the compatibility worksheet as category-neutral owner education; no product endorsement or link request | Qualified manufacturer-resource opportunity; not contacted |
+| Monroe County DOT — Irondequoit Bay Outlet Bridge | https://www.monroecounty.gov/dot-bridgeibob | `irondequoit-bay-state-marine-park-family-boat-launch-guide.html` — four-source shoulder-season trip gate | Request corrections to the seasonal bridge interpretation and offer the explicit bay-only trip card as a practical public-information companion if accurate | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary public education | https://home.cgaux.org/wp/ | `motorboat-passing-kayaks-canoes-slow-pass-guide.html` — five-step lookout, early slowdown, wide path and aft-wake check | Invite navigation-rule and seamanship corrections and offer the no-invented-distance decision card for public education | Qualified safety-resource opportunity; not contacted |
+

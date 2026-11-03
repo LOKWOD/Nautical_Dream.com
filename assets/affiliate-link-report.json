@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-02T16:50:18.635Z",
+  "generatedAt": "2026-11-03T17:07:16.305Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 251,
-    "commercialLinks": 442,
-    "activeAffiliateLinks": 442,
+    "eligiblePages": 254,
+    "commercialLinks": 445,
+    "activeAffiliateLinks": 445,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 442,
+    "amazonAffiliateLinks": 445,
     "fallbackLinks": 0,
-    "changedPages": 137
+    "changedPages": 0
   },
   "links": [
     {
@@ -1768,6 +1768,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.starbrite.com/salt-off/",
       "destinationUrl": "https://www.amazon.com/s?k=Star+brite+Salt+Off+Concentrate+Kit+with+Applicator&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mechanical-steering-cable-replacement-fit-guide.html",
+      "key": "boat-mechanical-steering-cable-replacement-fit-guide.html::complete-rotary-mechanical-boat-steering-kits-with-documented-helm-cable-engine-compatibil",
+      "product": "complete rotary mechanical boat steering kits with documented helm cable engine compatibility and current installation manual",
+      "visibleText": "Compare documented rotary mechanical steering kits",
+      "originalUrl": "https://www.amazon.com/s?k=rotary+mechanical+boat+steering+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=complete+rotary+mechanical+boat+steering+kits+with+documented+helm+cable+engine+compatibility+and+current+installation+manual&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mechanical-steering-cable-replacement-fit-guide.html",
+      "key": "boat-mechanical-steering-cable-replacement-fit-guide.html::complete-rack-and-pinion-boat-steering-kits-with-documented-helm-cable-engine-compatibilit",
+      "product": "complete rack and pinion boat steering kits with documented helm cable engine compatibility and current installation manual",
+      "visibleText": "Compare documented rack-and-pinion steering kits",
+      "originalUrl": "https://www.amazon.com/s?k=rack+and+pinion+boat+steering+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=complete+rack+and+pinion+boat+steering+kits+with+documented+helm+cable+engine+compatibility+and+current+installation+manual&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mechanical-steering-cable-replacement-fit-guide.html",
+      "key": "boat-mechanical-steering-cable-replacement-fit-guide.html::manufacturer-matched-mechanical-boat-steering-replacement-cables-by-exact-family-part-numb",
+      "product": "manufacturer matched mechanical boat steering replacement cables by exact family part number length and engine connection",
+      "visibleText": "Find manufacturer-matched replacement steering cables",
+      "originalUrl": "https://www.amazon.com/s?k=mechanical+boat+steering+replacement+cable",
+      "destinationUrl": "https://www.amazon.com/s?k=manufacturer+matched+mechanical+boat+steering+replacement+cables+by+exact+family+part+number+length+and+engine+connection&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

@@ -5650,5 +5650,83 @@
     "query": "Blank policy folder and five conceptual coverage cards with calculator, calendar, key and generic boat photo",
     "width": 1200,
     "height": 900
+  },
+  "boat-mechanical-steering-cable-fit-hero": {
+    "localPath": "assets/editorial/boat-mechanical-steering-cable-fit-hero.webp",
+    "title": "Conceptual mechanical steering cable fit record",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Marine technician measures an unbranded mechanical steering cable beside a steering wheel and blank record; no exact product or repair claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-mechanical-steering-cable-fit-card": {
+    "localPath": "assets/editorial/boat-mechanical-steering-cable-fit-card.webp",
+    "title": "Mechanical steering compatibility category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down unbranded steering cable, tape and blank fit cards; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "irondequoit-bay-state-marine-park-family-hero": {
+    "localPath": "assets/editorial/irondequoit-bay-state-marine-park-family-hero.webp",
+    "title": "Conceptual shoulder-season family launch plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adult and child in life jackets review a blank route at a generic autumn launch; not documentary Irondequoit Bay photography",
+    "width": 1600,
+    "height": 900
+  },
+  "irondequoit-bay-state-marine-park-family-card": {
+    "localPath": "assets/editorial/irondequoit-bay-state-marine-park-family-card.webp",
+    "title": "Western New York family launch category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic family launch kit with map, life jackets, line and boat token; no exact place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "motorboat-paddlecraft-slow-pass-hero": {
+    "localPath": "assets/editorial/motorboat-paddlecraft-slow-pass-hero.webp",
+    "title": "Conceptual low-wake motorboat pass around kayaks",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded runabout at slow speed and low wake with lookout pointing toward kayaks at wide separation; no fixed-distance diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "motorboat-paddlecraft-slow-pass-card": {
+    "localPath": "assets/editorial/motorboat-paddlecraft-slow-pass-card.webp",
+    "title": "Mixed-use water slow-pass category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down boat and kayak tokens with lookout, throttle and wake-check symbols; no legal-distance claim",
+    "width": 1200,
+    "height": 900
   }
 }
