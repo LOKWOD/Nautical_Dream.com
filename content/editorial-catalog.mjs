@@ -66,6 +66,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["marine-canvas-snap-fastener-repair-tool-fit-guide.html", "Marine Canvas Snap Fasteners: Match the Four Parts, Material and Setting Tool Before Repairing a Cover"],
     ["boat-mechanical-steering-cable-replacement-fit-guide.html", "Boat Mechanical Steering Cables: Match the Helm, Cable Family, Length and Engine Connection Before Buying"],
     ["plb-epirb-satellite-messenger-boat-buying-guide.html", "PLB vs EPIRB vs Satellite Messenger: Buy the Rescue Path, Then Register and Carry It"],
     ["boat-bimini-top-replacement-width-height-length-fit-guide.html", "Boat Bimini Tops: Measure the Mounting Width, Standing Height and Coverage Before Buying"],
@@ -129,6 +130,8 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["family-food-allergy-boat-day-plan.html", "Family Food-Allergy Boat Day Plan: Control the Food, Medication, Crew Brief and Fastest Exit"],
+    ["boat-repair-work-order-estimate-change-order-guide.html", "Boat Repair Work Orders: Control the Estimate, Diagnostic Limit, Change Orders and Final Invoice"],
     ["motorboat-passing-kayaks-canoes-slow-pass-guide.html", "Passing Kayaks and Canoes From a Motorboat: Spot Early, Slow Early and Check the Wake Behind You"],
     ["boat-insurance-renewal-policy-audit-guide.html", "Boat Insurance Renewal Audit: Prove the Value, Waters, Operators, Trailer and Lay-Up Before You Pay"],
     ["small-boat-family-bathroom-portable-toilet-plan.html", "No Toilet on the Small Boat: Build the Family Bathroom Plan Before Launch"],

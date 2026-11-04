@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T17:07:16.305Z",
+  "generatedAt": "2026-11-04T17:07:58.199Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 254,
-    "commercialLinks": 445,
-    "activeAffiliateLinks": 445,
+    "eligiblePages": 256,
+    "commercialLinks": 448,
+    "activeAffiliateLinks": 448,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 445,
+    "amazonAffiliateLinks": 448,
     "fallbackLinks": 0,
-    "changedPages": 0
+    "changedPages": 1
   },
   "links": [
     {
@@ -3880,6 +3880,39 @@
       "visibleText": "Check floating binocular straps",
       "originalUrl": "https://www.fujifilm.com/us/en/consumer/binoculars/mariner/accessories",
       "destinationUrl": "https://www.amazon.com/s?k=floating+binocular+strap+for+marine+binoculars&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-canvas-snap-fastener-repair-tool-fit-guide.html",
+      "key": "marine-canvas-snap-fastener-repair-tool-fit-guide.html::marine-canvas-normal-action-snap-fastener-component-kits-with-documented-family-material-p",
+      "product": "marine canvas normal-action snap fastener component kits with documented family material post length and mating-part specifications",
+      "visibleText": "Compare documented marine canvas snap component kits",
+      "originalUrl": "https://www.amazon.com/s?k=marine+canvas+snap+fastener+kit+brass",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+canvas+normal-action+snap+fastener+component+kits+with+documented+family+material+post+length+and+mating-part+specifications&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-canvas-snap-fastener-repair-tool-fit-guide.html",
+      "key": "marine-canvas-snap-fastener-repair-tool-fit-guide.html::marine-canvas-snap-hand-setting-tools-explicitly-matched-to-the-selected-fastener-family-c",
+      "product": "marine canvas snap hand-setting tools explicitly matched to the selected fastener family component and base material",
+      "visibleText": "Compare matched hand-setting tools",
+      "originalUrl": "https://www.amazon.com/s?k=marine+canvas+snap+fastener+hand+setting+tool",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+canvas+snap+hand-setting+tools+explicitly+matched+to+the+selected+fastener+family+component+and+base+material&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-canvas-snap-fastener-repair-tool-fit-guide.html",
+      "key": "marine-canvas-snap-fastener-repair-tool-fit-guide.html::marine-canvas-snap-fastener-presses-and-dies-documented-for-the-selected-fastener-family-c",
+      "product": "marine canvas snap fastener presses and dies documented for the selected fastener family component material and installation method",
+      "visibleText": "Compare compatible presses and dies",
+      "originalUrl": "https://www.amazon.com/s?k=marine+canvas+snap+fastener+press+die",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+canvas+snap+fastener+presses+and+dies+documented+for+the+selected+fastener+family+component+material+and+installation+method&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

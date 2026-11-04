@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-04 — canvas hardware, service authorization and inclusive family boating
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Morito Scovill Americas technical support | https://www.scovill.com/contact/ | `marine-canvas-snap-fastener-repair-tool-fit-guide.html` — four-part identity, material, post-length and tool/die fit record | Ask for corrections to the normal-action component and material boundaries; offer the unbranded worksheet as owner education without implying product testing or endorsement | Qualified manufacturer-resource opportunity; not contacted |
+| American Boat & Yacht Council recreational-boater education team | https://abycinc.org/recreational-boaters/ | `boat-repair-work-order-estimate-change-order-guide.html` — ten-field diagnosis, authorization, change-order and completion worksheet | Invite correction of the certification/specialty language and offer the vendor-neutral work-order framework as a companion to technician-selection education | Qualified owner-education opportunity; not contacted |
+| Food Allergy Research & Education community resources | https://www.foodallergy.org/contact-us | `family-food-allergy-boat-day-plan.html` — conservative food, medication, crew-role and exit card | Invite corrections to the household-food and emergency-plan boundaries; offer the boating-specific planning card without presenting it as medical advice or an allergen-free guarantee | Qualified inclusive-family resource opportunity; not contacted |
+
 ## 2026-11-02 — distress beacons, Sampson launch planning and insurance renewal
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.

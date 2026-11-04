@@ -5728,5 +5728,83 @@
     "query": "Top-down boat and kayak tokens with lookout, throttle and wake-check symbols; no legal-distance claim",
     "width": 1200,
     "height": 900
+  },
+  "marine-canvas-snap-fastener-fit-hero": {
+    "localPath": "assets/editorial/marine-canvas-snap-fastener-fit-hero.webp",
+    "title": "Conceptual marine canvas snap compatibility record",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded marine canvas, four generic snap components, caliper and matched hand tool on a clean workbench; no exact product or repair instruction claim",
+    "width": 1600,
+    "height": 900
+  },
+  "marine-canvas-snap-fastener-fit-card": {
+    "localPath": "assets/editorial/marine-canvas-snap-fastener-fit-card.webp",
+    "title": "Marine canvas snap compatibility category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic snap parts, canvas swatches, caliper and blank fit card; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-service-work-order-control-hero": {
+    "localPath": "assets/editorial/boat-service-work-order-control-hero.webp",
+    "title": "Conceptual boat-service work-order control desk",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Blank work orders, calculator, phone and keys with an unbranded runabout in a service bay; no contract price or completed repair claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-service-work-order-control-card": {
+    "localPath": "assets/editorial/boat-service-work-order-control-card.webp",
+    "title": "Boat-service authorization category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down blank estimate and change-order cards, calculator, phone, keys and generic boat token; no price or endorsement claim",
+    "width": 1200,
+    "height": 900
+  },
+  "family-food-allergy-boat-day-plan-hero": {
+    "localPath": "assets/editorial/family-food-allergy-boat-day-plan-hero.webp",
+    "title": "Conceptual family food-allergy boat-day plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adult and school-age child in life jackets with closed cooler, sealed containers, thermometer, blank plan and plain medication pouch; no medical guarantee",
+    "width": 1600,
+    "height": 900
+  },
+  "family-food-allergy-boat-day-plan-card": {
+    "localPath": "assets/editorial/family-food-allergy-boat-day-plan-card.webp",
+    "title": "Family food-allergy boat-day category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down closed cooler, four sealed food boxes, thermometer, blank-screen phone, life jackets and plain pouch; no exposed food or medication claim",
+    "width": 1200,
+    "height": 900
   }
 }
