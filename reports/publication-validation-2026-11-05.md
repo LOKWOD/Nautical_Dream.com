@@ -1,6 +1,6 @@
 # Publication validation — November 5, 2026
 
-Status: predeployment validation passed; live deployment checks pending.
+Status: production validation, deployment and live custom-domain checks passed.
 
 - Source of record: exactly three new pages.
 - Full production-order dry run: daily source generation, image-credit generation, contextual-product injector, affiliate injector, SEO optimizer, Cloudflare analytics injector and visitor-beacon injector completed successfully on the complete site.
@@ -12,4 +12,7 @@ Status: predeployment validation passed; live deployment checks pending.
 - SEO audit: passed — 462 indexable URLs, 409 complete article schemas, 462 breadcrumb schemas and 1,252 dimensioned images.
 - `git diff --check`: passed.
 
-Live custom-domain, earning-link and second-pass rendered-image verification remain pending until GitHub Pages deploys the production commit.
+- GitHub Pages: workflow 42070956028 completed successfully for production commit `bd438e6dd2fa9708907d43288bad48b4013db539`; build and deploy jobs both passed.
+- Live URLs: all three custom-domain pages rendered the expected title, H1, canonical and Article schema.
+- Monetization: the propeller guide exposes three relevant Amazon category links with the configured tag and `sponsored nofollow noopener noreferrer`; the other two pages contain no paid links. The publication audit reports 451 active affiliate links sitewide.
+- Image QA: six unique editorial assets were visually checked before commit and again across nine live placements (three heroes, three homepage cards and three hub cards); zero affiliate/product images. All six live image-credit records were present and correct.
