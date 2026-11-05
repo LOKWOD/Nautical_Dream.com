@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-05 — propeller fit, Thompson's Lake and warranty evidence
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Yamaha Outboards owner support | https://yamahaoutboards.com/owner-center/contact-us | `boat-propeller-replacement-diameter-pitch-hub-fit-guide.html` — eight-field propeller fit record | Ask for corrections to the engine/gearcase, prop-series, hub, rotation and WOT-RPM boundaries; offer the worksheet as category-neutral owner education, not an endorsement | Qualified manufacturer-resource opportunity; not contacted |
+| New York State Parks — Thompson's Lake | https://parks.ny.gov/visit/state-parks/thompsons-lake-campground-thacher-state-park | `thompsons-lake-state-park-carry-in-family-paddling-guide.html` — six-gate carry-in proof-loop card | Corrections-first review of carry-in-only access, seasonal rentals, swimming, pets and the separate DEC launch; offer the card only if staff confirms it is accurate | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Office of Auxiliary and Boating Safety | https://www.uscgboating.org/about/contact-us.php | `boat-warranty-claim-evidence-file-guide.html` — six-folder evidence index and warranty/defect split | Invite correction of the recall and safety-defect reporting boundary; offer the factual evidence index as owner education, not legal advice or a claim strategy | Qualified safety-resource opportunity; not contacted |
+
 ## 2026-11-04 — canvas hardware, service authorization and inclusive family boating
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.

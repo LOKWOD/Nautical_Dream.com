@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["thompsons-lake-state-park-carry-in-family-paddling-guide.html", "Thompson's Lake State Park Carry-In Family Paddling Guide: Launch, Rentals and a Short Proof Loop"],
     ["irondequoit-bay-state-marine-park-family-boat-launch-guide.html", "Irondequoit Bay State Marine Park With a Family Boat: Launch Year-Round, Respect the 300-Foot Rule and Treat the Outlet as Closed"],
     ["sampson-state-park-family-boat-launch-guide.html", "Sampson State Park With a Family Boat: Launch, Prove Seneca Lake, Then Use the Shore Backup"],
     ["grafton-lakes-state-park-family-paddling-guide.html", "Grafton Lakes State Park With a Family Paddle: Pick One Pond, Prove the Launch and Keep the Loop Short"],
@@ -66,6 +67,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-propeller-replacement-diameter-pitch-hub-fit-guide.html", "Boat Propeller Replacement Buying Guide: Prove Diameter, Pitch, Hub, Rotation and WOT Fit"],
     ["marine-canvas-snap-fastener-repair-tool-fit-guide.html", "Marine Canvas Snap Fasteners: Match the Four Parts, Material and Setting Tool Before Repairing a Cover"],
     ["boat-mechanical-steering-cable-replacement-fit-guide.html", "Boat Mechanical Steering Cables: Match the Helm, Cable Family, Length and Engine Connection Before Buying"],
     ["plb-epirb-satellite-messenger-boat-buying-guide.html", "PLB vs EPIRB vs Satellite Messenger: Buy the Rescue Path, Then Register and Carry It"],
@@ -130,6 +132,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-warranty-claim-evidence-file-guide.html", "Boat Warranty Claim Evidence File: Build the Coverage, Maintenance, Symptom and Authorization Record"],
     ["family-food-allergy-boat-day-plan.html", "Family Food-Allergy Boat Day Plan: Control the Food, Medication, Crew Brief and Fastest Exit"],
     ["boat-repair-work-order-estimate-change-order-guide.html", "Boat Repair Work Orders: Control the Estimate, Diagnostic Limit, Change Orders and Final Invoice"],
     ["motorboat-passing-kayaks-canoes-slow-pass-guide.html", "Passing Kayaks and Canoes From a Motorboat: Spot Early, Slow Early and Check the Wake Behind You"],

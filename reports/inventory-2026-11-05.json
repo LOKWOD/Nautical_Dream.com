@@ -1,0 +1,549 @@
+{
+  "date": "2026-11-05",
+  "stage": "pre-and-post-publication",
+  "pageCount": 463,
+  "imageCount": 488,
+  "checkedFields": [
+    "title",
+    "slug",
+    "h1 subject",
+    "description/search intent",
+    "datePublished",
+    "section angles",
+    "image src/alt associations",
+    "commercial categories"
+  ],
+  "completeInventoryHashes": {
+    "pages": "a4f3d52ce42b1e8f8460feffb6e5ab2cc659304c0def399148ba4fceb6bf9d9f",
+    "titleSlugSubjectIntent": "a448918efda5e4ef20222a6f129a905c5d3a46ef8d34c77ac32b1fbfe6d96876",
+    "imageAssociations": "2b517980eb33c9575ee4cb8b36711fdbed7daaf5d4fa7b2286bba5ba3105aa2c",
+    "commercialCategories": "127d2599da15bacbf45ad8c86087426451d6882a8730e9fe22f3a052333b037f",
+    "creditedAssets": "3c838f2231774946f7594ce551520f18ec4a100fe59a05664e28681c4c6a151a"
+  },
+  "previousFourteenDays": [
+    {
+      "slug": "boat-air-draft-bridge-clearance-planning-guide.html",
+      "title": "Boat Air Draft and Bridge Clearance Planning Guide",
+      "heading": "Boat Air Draft and Bridge Clearance: Measure the Highest Fixed Point, Then Verify the Water",
+      "datePublished": "2026-10-23",
+      "description": "Build a boat air-draft record, read bridge-clearance datum correctly, check current water and opening rules, and keep a safe hold-and-turn option.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-battery-tester-multimeter-conductance-load-guide.html",
+      "title": "Boat Battery Testers: Multimeter vs Conductance vs Load",
+      "heading": "Boat Battery Testers: Multimeter, Conductance or Load—and the Chemistry Gate",
+      "datePublished": "2026-10-23",
+      "description": "Choose a boat-battery test tool by chemistry, voltage, rating, starting-versus-house-bank job and the exact manufacturer procedure—not one pass/fail screen.",
+      "commercialCategories": [
+        "digital multimeters with insulated leads and a documented DC range for marine battery checks",
+        "12 volt battery conductance testers with documented chemistry and CCA MCA rating support",
+        "carbon-pile battery load testers matched to battery voltage current rating and manufacturer procedure"
+      ]
+    },
+    {
+      "slug": "boat-bimini-top-replacement-width-height-length-fit-guide.html",
+      "title": "Boat Bimini Tops: Width, Height and Length Fit Guide",
+      "heading": "Boat Bimini Tops: Measure the Mounting Width, Standing Height and Coverage Before Buying",
+      "datePublished": "2026-11-01",
+      "description": "Choose a replacement boat bimini top by mounting-point width, height, coverage length, frame family, hardware, stowage and exact manufacturer instructions.",
+      "commercialCategories": [
+        "complete three-bow boat bimini-top kits with documented mounting-width height length hardware and storage instructions",
+        "complete four-bow pontoon bimini-top kits with documented tube size mounting range coverage and storage boot",
+        "replacement boat bimini canvases matched by exact frame width bow count tube geometry and manufacturer model"
+      ]
+    },
+    {
+      "slug": "boat-high-water-bilge-alarm-buying-installation-guide.html",
+      "title": "Boat High-Water Bilge Alarms: Sensor, Alert and Power",
+      "heading": "Boat High-Water Bilge Alarms: Choose the Sensor, Alert Path and Power Failure You Can Actually Test",
+      "datePublished": "2026-10-24",
+      "description": "Choose a boat high-water bilge alarm by sensor location, audible and visual alert, independent power, test method, environment and technician-reviewed installation.",
+      "commercialCategories": [
+        "marine high-water bilge alarm kits with documented float-switch mounting audible output visual indication and test method",
+        "marine electronic bilge water-level alarms with documented sensor mounting contamination limits and fault behavior",
+        "marine bilge pump cycle and run-time monitors with adjustable alarm thresholds and documented multi-zone inputs"
+      ]
+    },
+    {
+      "slug": "boat-insurance-photo-inventory-20-minute-checklist.html",
+      "title": "Boat Insurance Photo Inventory: 20-Minute Checklist",
+      "heading": "Build a Boat Insurance Photo Inventory in 20 Minutes: Hull, HIN, Systems, Gear and Trailer",
+      "datePublished": "2026-10-31",
+      "description": "Create a private boat photo inventory covering identity, condition, installed systems, safety gear, personal effects and trailer without exposing records.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-insurance-renewal-policy-audit-guide.html",
+      "title": "Boat Insurance Renewal Audit: 12 Questions Before You Pay",
+      "heading": "Boat Insurance Renewal Audit: Prove the Value, Waters, Operators, Trailer and Lay-Up Before You Pay",
+      "datePublished": "2026-11-02",
+      "description": "Audit a boat insurance renewal by loss settlement, limits, deductibles, navigation, lay-up, operators, use, trailer, gear, towing and evidence.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-maintenance-records-evidence-file-resale-guide.html",
+      "title": "Boat Maintenance Records: Build an Evidence File",
+      "heading": "Boat Maintenance Records: Build the Evidence File Before You Need It",
+      "datePublished": "2026-10-29",
+      "description": "Create a boat maintenance evidence file that connects identity, exact manual interval, work performed, parts and proof—without pretending receipts prove condition.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-mechanical-steering-cable-replacement-fit-guide.html",
+      "title": "Boat Mechanical Steering Cable Replacement Fit Guide",
+      "heading": "Boat Mechanical Steering Cables: Match the Helm, Cable Family, Length and Engine Connection Before Buying",
+      "datePublished": "2026-11-03",
+      "description": "Replace a boat mechanical steering cable by proving helm family, route, measured length, engine connection and installation limits before ordering.",
+      "commercialCategories": [
+        "complete rotary mechanical boat steering kits with documented helm cable engine compatibility and current installation manual",
+        "complete rack and pinion boat steering kits with documented helm cable engine compatibility and current installation manual",
+        "manufacturer matched mechanical boat steering replacement cables by exact family part number length and engine connection"
+      ]
+    },
+    {
+      "slug": "boat-mooring-whips-weight-dock-exposure-buying-guide.html",
+      "title": "Boat Mooring Whips: Weight, Dock and Exposure Fit",
+      "heading": "Boat Mooring Whips: Match Boat Weight, Dock Structure and Exposure Before Buying",
+      "datePublished": "2026-10-28",
+      "description": "Choose boat mooring whips by loaded weight, dock structure, required stand-off, wake exposure and manufacturer limits—not length alone.",
+      "commercialCategories": [
+        "fixed-base boat mooring-whip kit categories with documented boat-weight and exposure limits",
+        "rocker-base and heavier-duty boat mooring-whip categories with manufacturer fit tables",
+        "manufacturer-matched boat mooring-whip replacement-line and tip-hardware categories"
+      ]
+    },
+    {
+      "slug": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html",
+      "title": "Boat Propeller Replacement: Diameter, Pitch and Hub Fit",
+      "heading": "Boat Propeller Replacement Buying Guide: Prove Diameter, Pitch, Hub, Rotation and WOT Fit",
+      "datePublished": "2026-11-05",
+      "description": "Build a boat-propeller fit record for engine and drive family, shaft or hub, diameter, pitch, blade count, rotation, clearance and wide-open-throttle RPM.",
+      "commercialCategories": [
+        "boat replacement propellers matched by engine or drive model gearcase propeller series diameter pitch blade count rotation and material",
+        "marine propeller hub kits matched to the selected propeller hub system engine or drive model shaft spline and required thrust hardware",
+        "boat propeller installation hardware kits matched to the exact engine or drive propeller shaft thrust washer spacer nut keeper and manual"
+      ]
+    },
+    {
+      "slug": "boat-repair-work-order-estimate-change-order-guide.html",
+      "title": "Boat Repair Work Orders: Estimate and Change-Order Guide",
+      "heading": "Boat Repair Work Orders: Control the Estimate, Diagnostic Limit, Change Orders and Final Invoice",
+      "datePublished": "2026-11-04",
+      "description": "Use a ten-field boat-service work order to separate diagnosis, authorization, parts, labor, storage, change orders, sea trials and final documentation.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-seat-pedestal-replacement-buying-guide.html",
+      "title": "Boat Seat Pedestals: Match Position, Base and Locking",
+      "heading": "Boat Seat Pedestals: Match the Seat Position, Base, Post and Lock Before Buying",
+      "datePublished": "2026-10-25",
+      "description": "Choose a boat seat pedestal by seat duty, locking requirements, base and post family, height, deck structure, corrosion exposure and manufacturer instructions.",
+      "commercialCategories": [
+        "marine fixed boat seat pedestal systems matched by base post seat mount and manufacturer duty",
+        "marine adjustable locking boat seat pedestal systems matched to helm duty height range and exact base family",
+        "marine locking seat slide and swivel mounts matched to exact pedestal family seat duty and bolt pattern"
+      ]
+    },
+    {
+      "slug": "boat-shore-power-cord-30a-50a-fit-inspection-guide.html",
+      "title": "Boat Shore-Power Cords: 30A vs 50A Fit and Inspection",
+      "heading": "Boat Shore-Power Cords: Match 30A or 50A, Inspect Every Interface and Retire Heat Damage",
+      "datePublished": "2026-10-31",
+      "description": "Choose a marine shore-power cordset by inlet, dock outlet, voltage, amperage and connection system, then use a strict inspection and retirement gate.",
+      "commercialCategories": [
+        "30 amp 125 volt marine shore-power cordsets with documented marine listing locking ring and molded ratings",
+        "50 amp 125 250 volt marine shore-power cordsets matched to exact inlet outlet and connection system",
+        "non-contact infrared thermometers for repeatable visible surface temperature trend checks"
+      ]
+    },
+    {
+      "slug": "boat-trailer-safety-chains-breakaway-cable-guide.html",
+      "title": "Boat Trailer Safety Chains and Breakaway Cables",
+      "heading": "Boat Trailer Safety Chains and Breakaway Cables: Match the Rating, Cross the Chains, Test the Separation System",
+      "datePublished": "2026-10-26",
+      "description": "Choose, route and inspect boat-trailer safety chains and breakaway equipment by the exact trailer, coupler, brake and tow-vehicle instructions.",
+      "commercialCategories": [
+        "rated boat trailer safety chain assemblies matched to trailer GVWR and manufacturer attachment requirements",
+        "trailer breakaway switch and cable kits matched to the existing brake system manufacturer and instructions",
+        "trailer breakaway battery tester and charger systems matched to the installed breakaway brake equipment"
+      ]
+    },
+    {
+      "slug": "boat-trailer-tpms-buying-setup-guide.html",
+      "title": "Boat-Trailer TPMS: Buy and Set It Up Correctly",
+      "heading": "Boat-Trailer TPMS: Match the Sensors, Set the Cold Baseline and Keep the Gauge",
+      "datePublished": "2026-10-22",
+      "description": "Choose an aftermarket boat-trailer tire-pressure monitoring system by pressure range, valve stem, distance, wheel count and setup—not a universal alarm promise.",
+      "commercialCategories": [
+        "boat-trailer tire-pressure monitoring systems",
+        "trailer TPMS-compatible metal valve stems",
+        "accurate trailer tire-pressure gauges"
+      ]
+    },
+    {
+      "slug": "boat-trailer-wheel-chocks-size-material-placement-guide.html",
+      "title": "Boat-Trailer Wheel Chocks: Size, Surface and Placement",
+      "heading": "Boat-Trailer Wheel Chocks: Match Tire, Surface and Grade Before Trusting the Wedge",
+      "datePublished": "2026-10-29",
+      "description": "Choose boat-trailer wheel chocks by tire fit, surface grip, documented capacity and the exact parking or service job—then place and retrieve them deliberately.",
+      "commercialCategories": [
+        "dense rubber trailer wheel-chock pairs with published dimensions and capacity guidance",
+        "molded composite trailer wheel-chock pairs with published tire-fit and surface guidance",
+        "tandem-axle expanding wheel-chock categories with documented spacing ranges"
+      ]
+    },
+    {
+      "slug": "boat-warranty-claim-evidence-file-guide.html",
+      "title": "Boat Warranty Claim Evidence File: Owner Checklist",
+      "heading": "Boat Warranty Claim Evidence File: Build the Coverage, Maintenance, Symptom and Authorization Record",
+      "datePublished": "2026-11-05",
+      "description": "Build a boat warranty claim file with written coverage, identity, maintenance proof, symptom timeline, authorization, repair findings and safety-defect routes.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-windshield-wiper-motor-arm-blade-fit-guide.html",
+      "title": "Boat Windshield Wipers: Motor, Arm and Blade Fit",
+      "heading": "Boat Windshield Wipers: Match the Motor, Shaft, Sweep, Arm and Blade Before Buying",
+      "datePublished": "2026-10-30",
+      "description": "Build a traceable marine windshield-wiper fit record covering voltage, shaft geometry, park side, sweep, arm, blade and glass clearance before buying parts.",
+      "commercialCategories": [
+        "marine windshield wiper motor kits with documented voltage shaft length sweep range and park direction",
+        "adjustable marine windshield wiper arms matched to motor shaft and blade attachment",
+        "marine windshield wiper blades matched to arm connection windshield curvature and approved length"
+      ]
+    },
+    {
+      "slug": "boating-with-non-swimmer-passenger-plan.html",
+      "title": "Boating With a Non-Swimmer: Passenger Safety Plan",
+      "heading": "Boating With a Non-Swimmer: Build the Life-Jacket, Seating and Reboarding Plan Ashore",
+      "datePublished": "2026-10-26",
+      "description": "Plan a boat trip with a non-swimmer using an inherently buoyant life jacket, calm-water limits, stable seating, explicit communication and a rehearsed.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "bowman-lake-state-park-cartop-paddle-family-guide.html",
+      "title": "Bowman Lake State Park: Cartop Paddle Plan",
+      "heading": "Bowman Lake State Park by Canoe or Kayak: A Cartop-Launch Family Plan",
+      "datePublished": "2026-10-28",
+      "description": "Plan a conservative Bowman Lake State Park paddle around the mapped cartop launch, an easy proof loop, current park confirmation and a shore fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "buffalo-harbor-state-park-family-boat-launch-guide.html",
+      "title": "Buffalo Harbor State Park Family Boat Launch Guide",
+      "heading": "Buffalo Harbor State Park With a Family Boat: Launch, Prove the Harbor, Then Use the Playground",
+      "datePublished": "2026-10-30",
+      "description": "Plan a conservative family boat launch at Buffalo Harbor State Park using current official access, fee, restroom, pet, swimming and weather gates plus a short.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "eighth-lake-family-boating-access-guide.html",
+      "title": "Eighth Lake Family Boating: 10 Spaces and 2027 Closure",
+      "heading": "Eighth Lake by Small Boat: Ten Spaces, the Only Public Access and the 2027 Closure Gate",
+      "datePublished": "2026-10-24",
+      "description": "Plan an Eighth Lake family boat day around its 10-space hard-surface ramp, only-public-access status, seasonal services and Jan. 1–June 28, 2027 closure.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "family-boat-rain-gear-shell-bib-poncho-guide.html",
+      "title": "Family Boat Rain Gear: Shell, Bibs or Poncho?",
+      "heading": "Family Boat Rain Gear: Shell, Bibs or Poncho—and the Life-Jacket Fit Gate",
+      "datePublished": "2026-10-27",
+      "description": "Choose family boat rain gear by exposure, mobility, life-jacket fit and drying plan—not by a generic waterproof claim.",
+      "commercialCategories": [
+        "family waterproof breathable rain-shell categories sized over planned layers and under life jackets",
+        "waterproof rain-bib and rain-pant categories for seated spray protection and safe movement",
+        "packable family rain-poncho categories for stationary shore and emergency backup use"
+      ]
+    },
+    {
+      "slug": "family-food-allergy-boat-day-plan.html",
+      "title": "Family Food-Allergy Boat Day Plan: Cooler, Medication and Exit",
+      "heading": "Family Food-Allergy Boat Day Plan: Control the Food, Medication, Crew Brief and Fastest Exit",
+      "datePublished": "2026-11-04",
+      "description": "Plan a family food-allergy boat day with known food, cooler zones, medication instructions, crew roles, a float plan and an early-exit gate.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "grafton-lakes-state-park-family-paddling-guide.html",
+      "title": "Grafton Lakes State Park Family Paddling Guide",
+      "heading": "Grafton Lakes State Park With a Family Paddle: Pick One Pond, Prove the Launch and Keep the Loop Short",
+      "datePublished": "2026-11-01",
+      "description": "Plan a conservative family paddle at Grafton Lakes State Park using the current pond-by-pond launch, motor, rental, fee, restroom, pet and weather gates.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "irondequoit-bay-state-marine-park-family-boat-launch-guide.html",
+      "title": "Irondequoit Bay State Marine Park Family Boat Launch Guide",
+      "heading": "Irondequoit Bay State Marine Park With a Family Boat: Launch Year-Round, Respect the 300-Foot Rule and Treat the Outlet as Closed",
+      "datePublished": "2026-11-03",
+      "description": "Plan an Irondequoit Bay family boat day with current launch, seasonal dock and restroom, trailer-space, speed-zone, outlet-bridge and shore-backup checks.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lake-durant-small-boat-family-guide.html",
+      "title": "Lake Durant Small-Boat Guide: Ramp, Depth and Season Gate",
+      "heading": "Lake Durant by Small Boat: Ten Trailer Spaces, Shallow Water and the Closed-Campground Gate",
+      "datePublished": "2026-10-23",
+      "description": "Plan a Lake Durant family boat day around the 10-space DEC ramp, small-boat recommendation, shallow water, seasonal services and a call-before-towing gate.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lake-moraine-drawdown-boat-launch-guide.html",
+      "title": "Lake Moraine Drawdown Boat Launch Guide",
+      "heading": "Lake Moraine During Drawdown: Verify the Temporary Ramp, Keep the Boat Small, Prove Recovery First",
+      "datePublished": "2026-10-26",
+      "description": "Plan Lake Moraine boat access during the 2026–2027 dam-rehabilitation drawdown using current Canals, DEC, ramp, weather and recovery checks.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "lewey-lake-shallow-launch-small-boat-family-guide.html",
+      "title": "Lewey Lake Small-Boat Guide: Shallow Seasonal Launch",
+      "heading": "Lewey Lake by Small Boat: A Shallow Seasonal Launch With a Fifteen-Rig Limit",
+      "datePublished": "2026-10-29",
+      "description": "Plan a conservative Lewey Lake family boat day around the shallow small-boat launch, seasonal campground access, 15-rig parking and a short proof loop.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "little-tupper-lake-family-paddling-guide.html",
+      "title": "Little Tupper Lake Family Paddling: Hand Launch Plan",
+      "heading": "Little Tupper Lake With a Family: Hand Launch, Stay Near Shore and Keep the Return Small",
+      "datePublished": "2026-10-25",
+      "description": "Plan a family paddle on Little Tupper Lake around the Whitney Headquarters hand launch, remote conditions, prevailing wind, shallow water and a short proof loop.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "marine-canvas-snap-fastener-repair-tool-fit-guide.html",
+      "title": "Marine Canvas Snap Fasteners: Parts, Material and Tool Fit",
+      "heading": "Marine Canvas Snap Fasteners: Match the Four Parts, Material and Setting Tool Before Repairing a Cover",
+      "datePublished": "2026-11-04",
+      "description": "Repair a boat-cover snap by identifying the fastener family, cap, socket, stud, eyelet, post length, base material and compatible setting tool before buying.",
+      "commercialCategories": [
+        "marine canvas normal-action snap fastener component kits with documented family material post length and mating-part specifications",
+        "marine canvas snap hand-setting tools explicitly matched to the selected fastener family component and base material",
+        "marine canvas snap fastener presses and dies documented for the selected fastener family component material and installation method"
+      ]
+    },
+    {
+      "slug": "meacham-lake-two-launch-family-boating-guide.html",
+      "title": "Meacham Lake by Boat: Pick the Right Launch",
+      "heading": "Meacham Lake by Boat: Choose the 21-Space Ramp or the Free Cartop Launch",
+      "datePublished": "2026-10-27",
+      "description": "Plan a Meacham Lake family boat day by separating the campground trailer ramp from the free Meacham Road cartop launch.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "moreau-lake-state-park-family-kayak-guide.html",
+      "title": "Moreau Lake State Park Family Kayak Plan",
+      "heading": "Moreau Lake State Park by Kayak: Bring Your Own or Use the Guided Program?",
+      "datePublished": "2026-10-22",
+      "description": "Plan a family paddle at Moreau Lake State Park by separating independent access from the scheduled guided kayak program, current fees and weather gates.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "motorboat-passing-kayaks-canoes-slow-pass-guide.html",
+      "title": "How to Pass Kayaks and Canoes From a Motorboat",
+      "heading": "Passing Kayaks and Canoes From a Motorboat: Spot Early, Slow Early and Check the Wake Behind You",
+      "datePublished": "2026-11-03",
+      "description": "Use a five-step motorboat passing plan around kayaks and canoes: maintain lookout, slow early, choose an obvious wide path, control wake and look aft.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "navigation-app-failure-offline-backup-boat-drill.html",
+      "title": "Navigation App Failure: Offline Backup Boat Drill",
+      "heading": "When the Navigation App Dies: Slow Down, Look Out and Switch to a Proved Backup",
+      "datePublished": "2026-10-28",
+      "description": "Build and rehearse a boat navigation-app failure response using safe speed, lookout, position evidence, current chart data and independent backups.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "outboard-trailering-support-device-transom-saver-guide.html",
+      "title": "Outboard Trailering Supports: Transom Saver or Bracket Support?",
+      "heading": "Outboard Trailering Supports: Match the Engine, Trailer and Clearance Before Choosing a “Transom Saver”",
+      "datePublished": "2026-10-24",
+      "description": "Choose an outboard trailering support by the engine manual, trailer geometry, ground clearance, steering control and attachment points—not a universal.",
+      "commercialCategories": [
+        "outboard motor trailering support bars matched to engine approval trailer geometry and lower-unit contact",
+        "outboard bracket support wedges matched to exact engine model and manufacturer trailering instructions",
+        "outboard steering stabilizer clips matched to steering cylinder rod dimensions and maker instructions"
+      ]
+    },
+    {
+      "slug": "plb-epirb-satellite-messenger-boat-buying-guide.html",
+      "title": "PLB vs EPIRB vs Satellite Messenger for Boating",
+      "heading": "PLB vs EPIRB vs Satellite Messenger: Buy the Rescue Path, Then Register and Carry It",
+      "datePublished": "2026-11-02",
+      "description": "Choose a boating PLB, EPIRB or satellite messenger by rescue path, activation, mounting, registration, battery, subscription and the person who can reach it.",
+      "commercialCategories": [
+        "406 MHz GNSS personal locator beacons with U.S. coding current manual NOAA registration and documented battery service",
+        "406 MHz GNSS marine EPIRBs with documented category bracket release mounting registration and battery service",
+        "two-way satellite messengers with documented SOS provider coverage subscription charging and account transfer terms"
+      ]
+    },
+    {
+      "slug": "recreational-boat-law-enforcement-boarding-preparation-guide.html",
+      "title": "Recreational-Boat Boarding: A Calm Preparation Guide",
+      "heading": "When Law Enforcement Boards Your Boat: Stop Safely, Name One Operator and Open the Right Pouch",
+      "datePublished": "2026-10-22",
+      "description": "Prepare for a recreational-boat law-enforcement boarding with a safe stop, one operator, organized documents and equipment access—without invented legal scripts.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "reservoir-water-level-boat-ramp-launch-recovery-guide.html",
+      "title": "Reservoir Water Levels and Boat Ramps: A Launch Gate",
+      "heading": "Reservoir Water Levels and Boat Ramps: Build a Launch-and-Recovery Gate Before Towing",
+      "datePublished": "2026-10-25",
+      "description": "Use official water-level data, facility notices, ramp geometry and a recovery margin to decide whether a reservoir boat ramp fits today’s rig.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "sampson-state-park-family-boat-launch-guide.html",
+      "title": "Sampson State Park Family Boat Launch Guide",
+      "heading": "Sampson State Park With a Family Boat: Launch, Prove Seneca Lake, Then Use the Shore Backup",
+      "datePublished": "2026-11-02",
+      "description": "Plan a conservative Sampson State Park family boat day using current launch, marina, facility, trailer, pet, weather and shore-backup gates.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "sensory-aware-family-boat-day-predictable-plan.html",
+      "title": "Sensory-Aware Family Boat Day: A Predictable Plan",
+      "heading": "A Sensory-Aware Family Boat Day: Preview the Sequence, Protect Hearing and Keep the Return Short",
+      "datePublished": "2026-10-30",
+      "description": "Build a sensory-aware family boat day with an individualized preview, communication cues, hearing-protection checks, a short proof loop and a no-argument stop plan.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "small-boat-family-bathroom-portable-toilet-plan.html",
+      "title": "Small-Boat Family Bathroom and Portable-Toilet Plan",
+      "heading": "No Toilet on the Small Boat: Build the Family Bathroom Plan Before Launch",
+      "datePublished": "2026-11-01",
+      "description": "Choose among a short trip, shore stop, clean portable toilet or different boat using privacy, stability, sanitation, disposal and no-overboard-discharge gates.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "thompsons-lake-state-park-carry-in-family-paddling-guide.html",
+      "title": "Thompson's Lake State Park Family Paddling Guide",
+      "heading": "Thompson's Lake State Park Carry-In Family Paddling Guide: Launch, Rentals and a Short Proof Loop",
+      "datePublished": "2026-11-05",
+      "description": "Plan a family paddle at Thompson's Lake State Park with its carry-in-only park access, seasonal rentals and swimming, PFD rules, pets, parking and land backup.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "three-generation-family-boat-day-older-adult-plan.html",
+      "title": "Three-Generation Boat Day: Older-Adult Plan",
+      "heading": "A Three-Generation Boat Day: Use the Transfer, Seat, Heat and Return Gates",
+      "datePublished": "2026-10-27",
+      "description": "Plan a boat day with grandparents or older adults around consent, stable boarding, approved seating, temperature, medication and an early return.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "verona-beach-state-park-family-paddling-hand-launch-guide.html",
+      "title": "Verona Beach State Park Family Paddling Guide",
+      "heading": "Verona Beach State Park by Canoe or Kayak: A Family Hand-Launch Plan for Oneida Lake",
+      "datePublished": "2026-10-31",
+      "description": "Plan a family paddle from Verona Beach State Park’s hand launch with current access, fee, pet, cold-water, weather and shore-fallback gates.",
+      "commercialCategories": []
+    }
+  ],
+  "newPages": [
+    {
+      "slug": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html",
+      "title": "Boat Propeller Replacement: Diameter, Pitch and Hub Fit",
+      "heading": "Boat Propeller Replacement Buying Guide: Prove Diameter, Pitch, Hub, Rotation and WOT Fit",
+      "description": "Build a boat-propeller fit record for engine and drive family, shaft or hub, diameter, pitch, blade count, rotation, clearance and wide-open-throttle RPM.",
+      "angles": [
+        "Start with the engine and drive identity—not the boat description",
+        "Preserve the current propeller as evidence",
+        "Build the eight-field fit record",
+        "Understand diameter and pitch without turning them into promises",
+        "Match hub architecture and every thrust interface",
+        "Choose by the loaded use case and the maker RPM range",
+        "Compare only categories that expose compatibility evidence",
+        "What not to buy—and when to stop",
+        "Accept the replacement with a controlled record",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": [
+        "boat replacement propellers matched by engine or drive model gearcase propeller series diameter pitch blade count rotation and material",
+        "marine propeller hub kits matched to the selected propeller hub system engine or drive model shaft spline and required thrust hardware",
+        "boat propeller installation hardware kits matched to the exact engine or drive propeller shaft thrust washer spacer nut keeper and manual"
+      ]
+    },
+    {
+      "slug": "boat-warranty-claim-evidence-file-guide.html",
+      "title": "Boat Warranty Claim Evidence File: Owner Checklist",
+      "heading": "Boat Warranty Claim Evidence File: Build the Coverage, Maintenance, Symptom and Authorization Record",
+      "description": "Build a boat warranty claim file with written coverage, identity, maintenance proof, symptom timeline, authorization, repair findings and safety-defect routes.",
+      "angles": [
+        "Freeze the controlling warranty before interpreting it",
+        "Build the six-part evidence index",
+        "Prove identity across the whole affected system",
+        "Turn maintenance into a traceable timeline",
+        "Describe the symptom without manufacturing a diagnosis",
+        "Notify the right party through a reproducible channel",
+        "Control diagnosis, disassembly and change orders",
+        "Separate warranty, recall and safety-defect routes",
+        "Close the file with a reasoned outcome",
+        "Use privacy, backups and a calm escalation ladder",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": []
+    },
+    {
+      "slug": "thompsons-lake-state-park-carry-in-family-paddling-guide.html",
+      "title": "Thompson's Lake State Park Family Paddling Guide",
+      "heading": "Thompson's Lake State Park Carry-In Family Paddling Guide: Launch, Rentals and a Short Proof Loop",
+      "description": "Plan a family paddle at Thompson's Lake State Park with its carry-in-only park access, seasonal rentals and swimming, PFD rules, pets, parking and land backup.",
+      "angles": [
+        "Confirm the exact facility before the car leaves",
+        "Treat hours, fees and rentals as volatile",
+        "Choose a craft the family can actually carry",
+        "Use the New York equipment baseline",
+        "Run a thirty-minute shore-hugging proof loop",
+        "Build the go, hold and turn-back card",
+        "Plan food, restrooms, pets and accessibility before launch",
+        "Keep clean, drain and dry in the plan",
+        "Use a land backup that still earns the drive",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": []
+    }
+  ]
+}

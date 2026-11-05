@@ -1,5 +1,13 @@
 # Search Console editorial decisions
 
+## 2026-11-05
+
+- Report checked: `LOKWOD/site-analytics` generated 2026-11-04, covering 2026-10-05 through 2026-11-01.
+- Site signal: 39 impressions, 2 clicks, 5.1% CTR and average position 11.7; the HTTPS homepage carried 36 impressions and both clicks.
+- Query signal used: only the branded variants “nautical dreams” (9 impressions, one click, position 7.1) and “nautical dream” (3 impressions, one click, position 11.3) repeated. This supported stronger homepage and hub discovery, not a competing branded article.
+- Weak signal deliberately ignored: one- and two-impression fragments, unrelated wording and the three-impression HTTP homepage row were too weak, malformed or irrelevant to redirect the slate.
+- Editorial effect: no page is Data-led. The batch adds propeller compatibility, a distinct carry-in family destination and a warranty evidence system while reinforcing the homepage, three hubs, six established pages, sitemap, feed, catalog and `llms.txt`.
+
 ## 2026-11-03
 
 - Report checked: `LOKWOD/site-analytics` generated 2026-10-28, covering 2026-09-28 through 2026-10-25.

@@ -5806,5 +5806,83 @@
     "query": "Top-down closed cooler, four sealed food boxes, thermometer, blank-screen phone, life jackets and plain pouch; no exposed food or medication claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-propeller-replacement-fit-hero": {
+    "localPath": "assets/editorial/boat-propeller-replacement-fit-hero.webp",
+    "title": "Conceptual replacement-propeller compatibility record",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded removed aluminum propeller, generic hub components, caliper and blank fit card with a blurred generic lower unit; no model, installation or product claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-propeller-replacement-fit-card": {
+    "localPath": "assets/editorial/boat-propeller-replacement-fit-card.webp",
+    "title": "Replacement-propeller compatibility category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down three generic propeller forms, blank checklist, caliper and pitch gauge; no exact compatibility or product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "thompsons-lake-carry-in-paddle-hero": {
+    "localPath": "assets/editorial/thompsons-lake-carry-in-paddle-hero.webp",
+    "title": "Conceptual Thompson's Lake carry-in family paddle",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual family in fitted life jackets carrying a canoe and kayak toward a calm wooded New York lake; no named-landmark or documentary claim",
+    "width": 1600,
+    "height": 900
+  },
+  "thompsons-lake-carry-in-paddle-card": {
+    "localPath": "assets/editorial/thompsons-lake-carry-in-paddle-card.webp",
+    "title": "Thompson's Lake carry-in paddling category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual kayak, three life jackets, paddle, whistle and dry bag beside a generic wooded lake; no named-location claim",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-warranty-claim-evidence-hero": {
+    "localPath": "assets/editorial/boat-warranty-claim-evidence-hero.webp",
+    "title": "Conceptual boat-warranty claim evidence file",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Blank warranty file, receipt, maintenance log, generic photo contact sheet, phone and key with unbranded boat in service bay; no real personal data or claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-warranty-claim-evidence-card": {
+    "localPath": "assets/editorial/boat-warranty-claim-evidence-card.webp",
+    "title": "Boat-warranty evidence-file category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down blank warranty folder, receipt, checklist, phone, key tag and generic model boat; no real claim or personal data",
+    "width": 1200,
+    "height": 900
   }
 }

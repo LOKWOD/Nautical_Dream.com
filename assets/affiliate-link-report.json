@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-04T17:07:58.199Z",
+  "generatedAt": "2026-11-05T16:57:42.100Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 256,
-    "commercialLinks": 448,
-    "activeAffiliateLinks": 448,
+    "eligiblePages": 259,
+    "commercialLinks": 451,
+    "activeAffiliateLinks": 451,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 448,
+    "amazonAffiliateLinks": 451,
     "fallbackLinks": 0,
-    "changedPages": 1
+    "changedPages": 140
   },
   "links": [
     {
@@ -1977,6 +1977,39 @@
       "visibleText": "Compare fitted jump-starter cases",
       "originalUrl": "https://no.co/products/power/boost/",
       "destinationUrl": "https://www.amazon.com/s?k=protective+hard+case+sized+for+a+portable+lithium+jump+starter+and+clamps&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html",
+      "key": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html::boat-replacement-propellers-matched-by-engine-or-drive-model-gearcase-propeller-series-dia",
+      "product": "boat replacement propellers matched by engine or drive model gearcase propeller series diameter pitch blade count rotation and material",
+      "visibleText": "Compare documented replacement propeller categories",
+      "originalUrl": "https://www.amazon.com/s?k=boat+replacement+propeller",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+replacement+propellers+matched+by+engine+or+drive+model+gearcase+propeller+series+diameter+pitch+blade+count+rotation+and+material&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html",
+      "key": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html::marine-propeller-hub-kits-matched-to-the-selected-propeller-hub-system-engine-or-drive-mod",
+      "product": "marine propeller hub kits matched to the selected propeller hub system engine or drive model shaft spline and required thrust hardware",
+      "visibleText": "Compare model-matched propeller hub kits",
+      "originalUrl": "https://www.amazon.com/s?k=marine+propeller+hub+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+propeller+hub+kits+matched+to+the+selected+propeller+hub+system+engine+or+drive+model+shaft+spline+and+required+thrust+hardware&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html",
+      "key": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html::boat-propeller-installation-hardware-kits-matched-to-the-exact-engine-or-drive-propeller-s",
+      "product": "boat propeller installation hardware kits matched to the exact engine or drive propeller shaft thrust washer spacer nut keeper and manual",
+      "visibleText": "Compare exact propeller installation hardware kits",
+      "originalUrl": "https://www.amazon.com/s?k=boat+propeller+installation+kit",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+propeller+installation+hardware+kits+matched+to+the+exact+engine+or+drive+propeller+shaft+thrust+washer+spacer+nut+keeper+and+manual&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
