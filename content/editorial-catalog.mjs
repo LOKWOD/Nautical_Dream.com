@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["higley-flow-state-park-family-boat-launch-guide.html", "Higley Flow State Park With a Family Boat: Ten Trailer Spaces, a Hard Ramp and a Short Proof Loop"],
     ["thompsons-lake-state-park-carry-in-family-paddling-guide.html", "Thompson's Lake State Park Carry-In Family Paddling Guide: Launch, Rentals and a Short Proof Loop"],
     ["irondequoit-bay-state-marine-park-family-boat-launch-guide.html", "Irondequoit Bay State Marine Park With a Family Boat: Launch Year-Round, Respect the 300-Foot Rule and Treat the Outlet as Closed"],
     ["sampson-state-park-family-boat-launch-guide.html", "Sampson State Park With a Family Boat: Launch, Prove Seneca Lake, Then Use the Shore Backup"],
@@ -67,6 +68,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["dock-swim-ladder-depth-freeboard-mounting-guide.html", "Dock Swim Ladder Buying Guide: Match Water Depth, Freeboard, Exit Geometry and Mounting Structure"],
     ["boat-propeller-replacement-diameter-pitch-hub-fit-guide.html", "Boat Propeller Replacement Buying Guide: Prove Diameter, Pitch, Hub, Rotation and WOT Fit"],
     ["marine-canvas-snap-fastener-repair-tool-fit-guide.html", "Marine Canvas Snap Fasteners: Match the Four Parts, Material and Setting Tool Before Repairing a Cover"],
     ["boat-mechanical-steering-cable-replacement-fit-guide.html", "Boat Mechanical Steering Cables: Match the Helm, Cable Family, Length and Engine Connection Before Buying"],
@@ -132,6 +134,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["operator-incapacitated-passenger-emergency-card.html", "If the Boat Operator Can’t Continue: Build a Passenger “Stop, Call, Position, Float” Card"],
     ["boat-warranty-claim-evidence-file-guide.html", "Boat Warranty Claim Evidence File: Build the Coverage, Maintenance, Symptom and Authorization Record"],
     ["family-food-allergy-boat-day-plan.html", "Family Food-Allergy Boat Day Plan: Control the Food, Medication, Crew Brief and Fastest Exit"],
     ["boat-repair-work-order-estimate-change-order-guide.html", "Boat Repair Work Orders: Control the Estimate, Diagnostic Limit, Change Orders and Final Invoice"],

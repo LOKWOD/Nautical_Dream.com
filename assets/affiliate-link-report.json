@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-05T16:57:42.100Z",
+  "generatedAt": "2026-11-06T17:15:34.804Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 259,
-    "commercialLinks": 451,
-    "activeAffiliateLinks": 451,
+    "eligiblePages": 261,
+    "commercialLinks": 454,
+    "activeAffiliateLinks": 454,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 451,
+    "amazonAffiliateLinks": 454,
     "fallbackLinks": 0,
-    "changedPages": 140
+    "changedPages": 1
   },
   "links": [
     {
@@ -3385,6 +3385,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.taylormadeproducts.com/fenders-buoys/",
       "destinationUrl": "https://www.amazon.com/s?k=Taylor+Made+Super+Gard+Boat+Fender&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "dock-swim-ladder-depth-freeboard-mounting-guide.html",
+      "key": "dock-swim-ladder-depth-freeboard-mounting-guide.html::fixed-dock-swim-ladders-with-documented-deck-to-lowest-rung-reach-rail-spacing-mounting-di",
+      "product": "fixed dock swim ladders with documented deck-to-lowest-rung reach rail spacing mounting dimensions load limit and installation manual",
+      "visibleText": "Compare documented fixed dock swim-ladder categories",
+      "originalUrl": "https://www.amazon.com/s?k=fixed+dock+swim+ladder",
+      "destinationUrl": "https://www.amazon.com/s?k=fixed+dock+swim+ladders+with+documented+deck-to-lowest-rung+reach+rail+spacing+mounting+dimensions+load+limit+and+installation+manual&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "dock-swim-ladder-depth-freeboard-mounting-guide.html",
+      "key": "dock-swim-ladder-depth-freeboard-mounting-guide.html::flip-up-or-slide-up-dock-swim-ladders-with-documented-deployment-reach-mounting-envelope-l",
+      "product": "flip-up or slide-up dock swim ladders with documented deployment reach mounting envelope load limit and in-water access instructions",
+      "visibleText": "Compare documented flip-up and slide-up categories",
+      "originalUrl": "https://www.amazon.com/s?k=flip+up+dock+ladder",
+      "destinationUrl": "https://www.amazon.com/s?k=flip-up+or+slide-up+dock+swim+ladders+with+documented+deployment+reach+mounting+envelope+load+limit+and+in-water+access+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "dock-swim-ladder-depth-freeboard-mounting-guide.html",
+      "key": "dock-swim-ladder-depth-freeboard-mounting-guide.html::removable-quick-release-dock-ladder-systems-with-documented-receiver-structure-locking-met",
+      "product": "removable quick-release dock ladder systems with documented receiver structure locking method load limit and storage instructions",
+      "visibleText": "Compare documented removable dock-ladder systems",
+      "originalUrl": "https://www.amazon.com/s?k=removable+dock+ladder+quick+release",
+      "destinationUrl": "https://www.amazon.com/s?k=removable+quick-release+dock+ladder+systems+with+documented+receiver+structure+locking+method+load+limit+and+storage+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

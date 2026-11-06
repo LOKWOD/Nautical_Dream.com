@@ -5884,5 +5884,83 @@
     "query": "Top-down blank warranty folder, receipt, checklist, phone, key tag and generic model boat; no real claim or personal data",
     "width": 1200,
     "height": 900
+  },
+  "dock-swim-ladder-fit-hero": {
+    "localPath": "assets/editorial/dock-swim-ladder-fit-hero.webp",
+    "title": "Conceptual dock swim-ladder fit record",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic four-step aluminum dock ladder beside freshwater dock, blank fit worksheet, tape measure and mounting-structure inset; no product or installation claim",
+    "width": 1600,
+    "height": 900
+  },
+  "dock-swim-ladder-fit-card": {
+    "localPath": "assets/editorial/dock-swim-ladder-fit-card.webp",
+    "title": "Dock swim-ladder selection category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic fixed and flip-up dock-ladder forms, blank fit checklist, tape measure and mounting plates; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "higley-flow-family-boat-hero": {
+    "localPath": "assets/editorial/higley-flow-family-boat-hero.webp",
+    "title": "Conceptual Higley Flow family launch plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual small aluminum boat and canoe at generic wooded northern New York reservoir launch with fitted PFDs and dry bags; no named-location claim",
+    "width": 1600,
+    "height": 900
+  },
+  "higley-flow-family-boat-card": {
+    "localPath": "assets/editorial/higley-flow-family-boat-card.webp",
+    "title": "Higley Flow family boating category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual canoe, fitted PFDs, paddle, dry bag and blank launch checklist beside generic northern New York reservoir; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "operator-incapacitated-passenger-card-hero": {
+    "localPath": "assets/editorial/operator-incapacitated-passenger-card-hero.webp",
+    "title": "Conceptual passenger operator-down briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adults at stationary generic small-boat helm reviewing blank four-step card beside unbranded radio and PFD; no universal control instruction",
+    "width": 1600,
+    "height": 900
+  },
+  "operator-incapacitated-passenger-card-card": {
+    "localPath": "assets/editorial/operator-incapacitated-passenger-card-card.webp",
+    "title": "Passenger emergency-card category visual",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down blank four-quadrant passenger emergency card, unbranded handheld VHF, fitted foam PFD, whistle and boat key; no product claim",
+    "width": 1200,
+    "height": 900
   }
 }

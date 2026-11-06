@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-06 — dock exits, Higley Flow and operator-down readiness
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State Parks — Higley Flow State Park | https://parks.ny.gov/parks/higleyflow — official park phone and contact route | `higley-flow-state-park-family-boat-launch-guide.html` — ten-space launch and six-gate family decision card | Ask staff to correct any current season, fee, ramp, pet, accessibility or shore-backup detail; offer the card only as a practical companion to official information. No visit, endorsement or backlink claim. | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ — official flotilla and public-education routes | `operator-incapacitated-passenger-emergency-card.html` — boat-specific Stop, Call, Position, Float card | Request corrections to the separation between immediate hazard control, Channel 16/911, position reporting and flotation; offer the blank card as a pre-departure briefing aid, never as operator certification. | Qualified safety-resource opportunity; not contacted |
+| Nelco Marine technical support | https://nelcomarine.com/ — published phone/email in the linked installation instructions | `dock-swim-ladder-depth-freeboard-mounting-guide.html` — seven-field water, freeboard, transition, structure and stow card | Ask for corrections to the generic siting and mounting-screen framework; offer the category-neutral fit card without implying product testing, structural approval or endorsement. | Qualified technical-resource opportunity; not contacted |
+
 ## 2026-11-05 — propeller fit, Thompson's Lake and warranty evidence
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
