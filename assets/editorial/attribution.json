@@ -5962,5 +5962,83 @@
     "query": "Top-down blank four-quadrant passenger emergency card, unbranded handheld VHF, fitted foam PFD, whistle and boat key; no product claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-cabin-fan-fit-hero": {
+    "localPath": "assets/editorial/boat-cabin-fan-fit-hero.webp",
+    "title": "Conceptual cabin-fan fit and power worksheet",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic guarded cabin-comfort fan mounted in a dry accommodation space beside blank fit and power worksheets; no bilge, fuel-space, product or installation claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-cabin-fan-fit-card": {
+    "localPath": "assets/editorial/boat-cabin-fan-fit-card.webp",
+    "title": "Cabin-fan category comparison card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Three generic guarded cabin fan categories with blank comparison card, mounting template and tape measure; no brand or exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "canopus-lake-family-plan-hero": {
+    "localPath": "assets/editorial/canopus-lake-family-plan-hero.webp",
+    "title": "Conceptual Canopus Lake family small-craft plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual family in fitted life jackets planning beside generic kayak and rowboat at a wooded Hudson Highlands lake; no named-location claim",
+    "width": 1600,
+    "height": 900
+  },
+  "canopus-lake-family-plan-card": {
+    "localPath": "assets/editorial/canopus-lake-family-plan-card.webp",
+    "title": "Canopus Lake family paddling category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic kayak, fitted life jackets, paddle, dry bag, blank permit card and timeline at a wooded Hudson Highlands lake; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-fishing-line-trash-plan-hero": {
+    "localPath": "assets/editorial/boat-fishing-line-trash-plan-hero.webp",
+    "title": "Conceptual family fishing-line carry-back system",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family in fitted PFDs sorting clipped line into rigid container and ordinary trash into bag on stationary docked boat; no recycling or rescue claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-fishing-line-trash-plan-card": {
+    "localPath": "assets/editorial/boat-fishing-line-trash-plan-card.webp",
+    "title": "Fishing-line and tackle cleanup category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Controlled coiled line, secured hooks and lures, carry-back bag, gloves, clippers and blank checklist on a boat deck; no product or recycling claim",
+    "width": 1200,
+    "height": 900
   }
 }

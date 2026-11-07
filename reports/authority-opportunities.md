@@ -218,3 +218,13 @@ No outreach was sent. These are corrections-first opportunities only; any future
 | Monroe County DOT — Irondequoit Bay Outlet Bridge | https://www.monroecounty.gov/dot-bridgeibob | `irondequoit-bay-state-marine-park-family-boat-launch-guide.html` — four-source shoulder-season trip gate | Request corrections to the seasonal bridge interpretation and offer the explicit bay-only trip card as a practical public-information companion if accurate | Qualified local-resource opportunity; not contacted |
 | U.S. Coast Guard Auxiliary public education | https://home.cgaux.org/wp/ | `motorboat-passing-kayaks-canoes-slow-pass-guide.html` — five-step lookout, early slowdown, wide path and aft-wake check | Invite navigation-rule and seamanship corrections and offer the no-invented-distance decision card for public education | Qualified safety-resource opportunity; not contacted |
 
+## 2026-11-07 — cabin airflow, Canopus access and fishing-line containment
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ | `boat-cabin-fan-voltage-airflow-mounting-buying-guide.html` — nine-field cabin-fan fit card and explicit cabin-versus-fuel-space boundary | Invite corrections to the separation between comfort airflow, required gasoline-compartment ventilation and carbon-monoxide controls; offer the category-neutral worksheet as companion education, not certification | Qualified safety-resource opportunity; not contacted |
+| Clarence Fahnestock Memorial State Park | https://parks.ny.gov/parks/133 | `canopus-lake-fahnestock-family-paddling-guide.html` — six-gate permit, hand-launch, rental and cold-water decision card | Ask staff to correct any current permit, launch, electric-motor, seasonal rental, parking or beach distinction; offer the card only if operationally accurate | Qualified local-resource opportunity; not contacted |
+| NOAA Marine Debris Program — Mid-Atlantic Regional Coordinator | https://marinedebris.noaa.gov/contact | `boat-fishing-line-hooks-trash-carry-back-plan.html` — four-zone line, sharps, trash and special-waste station | Request corrections to line-containment and disposal wording and offer the family-ready card as a prevention resource without claiming NOAA endorsement or universal recyclability | Qualified stewardship-resource opportunity; not contacted |
+
