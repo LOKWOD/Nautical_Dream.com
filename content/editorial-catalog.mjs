@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["nicks-lake-old-forge-family-paddling-guide.html", "Nicks Lake Near Old Forge With Kids: No-Motor Water, Seasonal Launch and a Two-Hour Proof Loop"],
     ["canopus-lake-fahnestock-family-paddling-guide.html", "Canopus Lake at Fahnestock With Kids: Permit Gate, Hand Launch and a Three-Hour Small-Craft Plan"],
     ["higley-flow-state-park-family-boat-launch-guide.html", "Higley Flow State Park With a Family Boat: Ten Trailer Spaces, a Hard Ramp and a Short Proof Loop"],
     ["thompsons-lake-state-park-carry-in-family-paddling-guide.html", "Thompson's Lake State Park Carry-In Family Paddling Guide: Launch, Rentals and a Short Proof Loop"],
@@ -69,6 +70,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["dock-edge-bumper-profile-fit-buying-guide.html", "Dock Edge Bumpers: Match the D, P or Flat Profile to the Boat Contact Zone Before Buying"],
     ["boat-cabin-fan-voltage-airflow-mounting-buying-guide.html", "Boat Cabin Fan Buying Guide: Match Voltage, Airflow, Guarding, Mounting and the Ignition-Protected Boundary"],
     ["dock-swim-ladder-depth-freeboard-mounting-guide.html", "Dock Swim Ladder Buying Guide: Match Water Depth, Freeboard, Exit Geometry and Mounting Structure"],
     ["boat-propeller-replacement-diameter-pitch-hub-fit-guide.html", "Boat Propeller Replacement Buying Guide: Prove Diameter, Pitch, Hub, Rotation and WOT Fit"],
@@ -136,6 +138,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-shrink-wrap-recycling-clean-dry-contaminant-plan.html", "Boat Shrink-Wrap Recycling: Confirm the Receiver, Remove Contaminants and Keep the Film Clean and Dry"],
     ["boat-fishing-line-hooks-trash-carry-back-plan.html", "Boat Fishing-Line, Hook and Trash Carry-Back Plan: Contain It Before It Reaches Water, Wildlife or the Prop"],
     ["operator-incapacitated-passenger-emergency-card.html", "If the Boat Operator Can’t Continue: Build a Passenger “Stop, Call, Position, Float” Card"],
     ["boat-warranty-claim-evidence-file-guide.html", "Boat Warranty Claim Evidence File: Build the Coverage, Maintenance, Symptom and Authorization Record"],

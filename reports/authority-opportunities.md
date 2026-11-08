@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-08 — dock contact fit, Nicks Lake access and clean boat-wrap recovery
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Dock Edge+ product support | https://dockedge.com/contact-us/ | `dock-edge-bumper-profile-fit-buying-guide.html` — eight-field contact-band, profile, structure and fastening record | Ask for corrections to the category-neutral D/P/flat-profile distinctions and the explicit rule that one model's fastener schedule is not universal; offer the worksheet without implying product testing or endorsement. | Qualified manufacturer-resource opportunity; not contacted |
+| NYSDEC — Nicks Lake Campground / Region 6 | https://dec.ny.gov/places/nicks-lake-campground-and-day-use-area | `nicks-lake-old-forge-family-paddling-guide.html` — six-gate seasonal-access, no-motor and two-hour proof-loop card | Corrections-first review of the operating window, unimproved launch, 20-car listing, fee, no-motor rule, beach and facility boundaries; offer the card only if accurate. | Qualified local-resource opportunity; not contacted |
+| WHOI Sea Grant boat shrink-wrap program | https://seagrant.whoi.edu/community-engagement/shrinkwraprecycling/ | `boat-shrink-wrap-recycling-clean-dry-contaminant-plan.html` — receiver-first eight-gate recovery card | Invite correction of the clean/dry, contaminant-removal and bundle wording; offer the generic card as a preparation resource while clearly separating Cape Cod's closed 2026 collection from other local programs. | Qualified stewardship-resource opportunity; not contacted |
+
 ## 2026-11-06 — dock exits, Higley Flow and operator-down readiness
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

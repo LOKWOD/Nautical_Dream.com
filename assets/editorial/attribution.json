@@ -6040,5 +6040,83 @@
     "query": "Controlled coiled line, secured hooks and lures, carry-back bag, gloves, clippers and blank checklist on a boat deck; no product or recycling claim",
     "width": 1200,
     "height": 900
+  },
+  "dock-edge-profile-fit-hero": {
+    "localPath": "assets/editorial/dock-edge-profile-fit-hero.webp",
+    "title": "Conceptual dock-edge profile fit worksheet",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic D, P and flat dock-edge profiles beside wooden dock face, blank fit sheet, tape and generic fasteners; no product or installation claim",
+    "width": 1600,
+    "height": 900
+  },
+  "dock-edge-profile-fit-card": {
+    "localPath": "assets/editorial/dock-edge-profile-fit-card.webp",
+    "title": "Dock-edge profile comparison card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Three generic dock-edge protection profiles on a wooden dock with blank checklist, tape and pencil; no identified product",
+    "width": 1200,
+    "height": 900
+  },
+  "nicks-lake-family-paddle-hero": {
+    "localPath": "assets/editorial/nicks-lake-family-paddle-hero.webp",
+    "title": "Conceptual Nicks Lake family paddle plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic Adirondack lake-shore family paddle plan with two kayaks, fitted PFDs, paddles, dry bags and blank route card; no named-location claim",
+    "width": 1600,
+    "height": 900
+  },
+  "nicks-lake-family-paddle-card": {
+    "localPath": "assets/editorial/nicks-lake-family-paddle-card.webp",
+    "title": "Nicks Lake family paddling category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Two kayaks, adult and youth PFDs, paddles, dry bag and blank route checklist on generic wooded lake shore; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-shrink-wrap-recycling-hero": {
+    "localPath": "assets/editorial/boat-shrink-wrap-recycling-hero.webp",
+    "title": "Conceptual boat shrink-wrap sorting plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Clean dry boat shrink wrap folded separately from straps, zipper door, vent cap and rope on paved yard beside blank sorting card; no program claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-shrink-wrap-recycling-card": {
+    "localPath": "assets/editorial/boat-shrink-wrap-recycling-card.webp",
+    "title": "Boat shrink-wrap contamination-separation card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Rolled clean dry boat shrink wrap separated from straps, zipper door, vent cap and rope beside blank checklist; no program claim",
+    "width": 1200,
+    "height": 900
   }
 }
