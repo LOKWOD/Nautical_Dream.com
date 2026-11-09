@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-08T16:54:53.715Z",
+  "generatedAt": "2026-11-09T16:47:53.935Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 265,
-    "commercialLinks": 460,
-    "activeAffiliateLinks": 460,
+    "eligiblePages": 267,
+    "commercialLinks": 463,
+    "activeAffiliateLinks": 463,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 460,
+    "amazonAffiliateLinks": 463,
     "fallbackLinks": 0,
     "changedPages": 1
   },
@@ -1086,6 +1086,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.taylormadeproducts.com/boat-covers/",
       "destinationUrl": "https://www.amazon.com/s?k=Taylor+Made+Trailerite+Semi-Custom+Boat+Cover&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cover-support-pole-bow-frame-fit-buying-guide.html",
+      "key": "boat-cover-support-pole-bow-frame-fit-buying-guide.html::adjustable-boat-cover-support-pole-with-documented-length-range-cover-interfaces-and-manuf",
+      "product": "adjustable boat-cover support pole with documented length range cover interfaces and manufacturer instructions",
+      "visibleText": "Compare documented adjustable cover-support poles",
+      "originalUrl": "https://www.amazon.com/s?k=adjustable+boat+cover+support+pole+snap+grommet+cap",
+      "destinationUrl": "https://www.amazon.com/s?k=adjustable+boat-cover+support+pole+with+documented+length+range+cover+interfaces+and+manufacturer+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cover-support-pole-bow-frame-fit-buying-guide.html",
+      "key": "boat-cover-support-pole-bow-frame-fit-buying-guide.html::boat-cover-webbing-support-system-with-documented-attachment-points-adjustment-method-and-",
+      "product": "boat-cover webbing support system with documented attachment points adjustment method and installation instructions",
+      "visibleText": "Compare documented webbing support systems",
+      "originalUrl": "https://www.amazon.com/s?k=boat+cover+support+system+webbing+pole+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=boat-cover+webbing+support+system+with+documented+attachment+points+adjustment+method+and+installation+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cover-support-pole-bow-frame-fit-buying-guide.html",
+      "key": "boat-cover-support-pole-bow-frame-fit-buying-guide.html::boat-cover-bow-support-system-with-documented-span-end-fittings-sockets-and-manufacturer-i",
+      "product": "boat-cover bow support system with documented span end fittings sockets and manufacturer instructions",
+      "visibleText": "Compare documented boat-cover bow systems",
+      "originalUrl": "https://www.amazon.com/s?k=boat+cover+support+bow+system+fiberglass+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=boat-cover+bow+support+system+with+documented+span+end+fittings+sockets+and+manufacturer+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

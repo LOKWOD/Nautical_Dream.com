@@ -6118,5 +6118,83 @@
     "query": "Rolled clean dry boat shrink wrap separated from straps, zipper door, vent cap and rope beside blank checklist; no program claim",
     "width": 1200,
     "height": 900
+  },
+  "cover-support-fit-hero": {
+    "localPath": "assets/editorial/cover-support-fit-hero.webp",
+    "title": "Conceptual boat-cover support category comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Uninstalled generic adjustable poles, loose webbing harness, loose flexible bows, end fittings, blank worksheet and tape on workbench; no product or rating claim",
+    "width": 1600,
+    "height": 900
+  },
+  "cover-support-fit-card": {
+    "localPath": "assets/editorial/cover-support-fit-card.webp",
+    "title": "Boat-cover support comparison card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Editorial crop of loose generic cover-support components and blank comparison sheet; no brand or installation claim",
+    "width": 1200,
+    "height": 900
+  },
+  "gilbert-lake-family-paddle-hero": {
+    "localPath": "assets/editorial/gilbert-lake-family-paddle-hero.webp",
+    "title": "Conceptual Gilbert Lake family paddle plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic wooded Catskills lake shore with two cartop kayaks, adult and youth foam PFDs, paddles, dry bag, whistle and blank route card; no named-location claim",
+    "width": 1600,
+    "height": 900
+  },
+  "gilbert-lake-family-paddle-card": {
+    "localPath": "assets/editorial/gilbert-lake-family-paddle-card.webp",
+    "title": "Gilbert Lake family paddling category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Editorial crop of generic wooded-lake paddling equipment and two kayaks; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "buoy-tabletop-drill-hero": {
+    "localPath": "assets/editorial/buoy-tabletop-drill-hero.webp",
+    "title": "Conceptual kids navigation-buoy tabletop drill",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Tabletop lesson with simplified red nun, green can, white-orange diamond and circle markers, toy boat, rope channel and blank route card; no official-aid or chart claim",
+    "width": 1600,
+    "height": 900
+  },
+  "buoy-tabletop-drill-card": {
+    "localPath": "assets/editorial/buoy-tabletop-drill-card.webp",
+    "title": "Navigation-buoy tabletop drill category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Editorial crop of simplified red, green and white-orange tabletop marker models with toy boat and rope channel; no official-aid claim",
+    "width": 1200,
+    "height": 900
   }
 }

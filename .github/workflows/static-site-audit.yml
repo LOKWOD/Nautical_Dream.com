@@ -41,7 +41,8 @@ jobs:
           node scripts/build-publication-2026-11-06.mjs
           node scripts/build-publication-2026-11-07.mjs
           node scripts/build-publication-2026-11-08.mjs
-          node scripts/inventory-2026-11-08.mjs
+          node scripts/build-publication-2026-11-09.mjs
+          node scripts/inventory-2026-11-09.mjs
           node scripts/build-image-credits.mjs
           node scripts/inject-contextual-products.mjs .
           node scripts/inject-affiliate-links.mjs .
@@ -110,6 +111,7 @@ jobs:
           node scripts/audit-daily-2026-11-06.mjs
           node scripts/audit-daily-2026-11-07.mjs
           node scripts/audit-daily-2026-11-08.mjs
+          node scripts/audit-daily-2026-11-09.mjs
           node scripts/audit-static-site.mjs
           node scripts/audit-seo.mjs .
 

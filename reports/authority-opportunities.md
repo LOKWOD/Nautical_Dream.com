@@ -238,3 +238,13 @@ No outreach was sent. These are corrections-first opportunities only; any future
 | Clarence Fahnestock Memorial State Park | https://parks.ny.gov/parks/133 | `canopus-lake-fahnestock-family-paddling-guide.html` — six-gate permit, hand-launch, rental and cold-water decision card | Ask staff to correct any current permit, launch, electric-motor, seasonal rental, parking or beach distinction; offer the card only if operationally accurate | Qualified local-resource opportunity; not contacted |
 | NOAA Marine Debris Program — Mid-Atlantic Regional Coordinator | https://marinedebris.noaa.gov/contact | `boat-fishing-line-hooks-trash-carry-back-plan.html` — four-zone line, sharps, trash and special-waste station | Request corrections to line-containment and disposal wording and offer the family-ready card as a prevention resource without claiming NOAA endorsement or universal recyclability | Qualified stewardship-resource opportunity; not contacted |
 
+# 2026-11-09 — cover support, Gilbert Lake and family buoy education
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Taylor Made Products support | https://www.taylormadeproducts.com/contact-us/ | `boat-cover-support-pole-bow-frame-fit-buying-guide.html` — nine-field interface, span, drainage and weather-limit record | Ask for corrections to the separation among single poles, webbing systems and bows; offer the brand-neutral fit record as buyer education without implying testing, approval or a snow rating | Qualified manufacturer-resource opportunity; not contacted |
+| Gilbert Lake State Park | https://parks.ny.gov/parks/19/details.aspx | `gilbert-lake-state-park-family-paddling-guide.html` — seven-gate cartop/rental/motor/weather decision card | Request corrections to the carry route, rental/lifeguard dependency, motor distinction and seasonal facilities; offer the conservative family card only if operationally accurate | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ | `teach-kids-navigation-buoys-20-minute-tabletop-drill.html` — two-direction teach-back card and six-piece marker drill | Invite corrections to the conventional-direction, regulatory-symbol and missing-aid wording; offer the no-spend lesson as companion education, never navigation authority or course certification | Qualified safety-resource opportunity; not contacted |
+
