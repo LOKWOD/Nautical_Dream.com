@@ -248,3 +248,13 @@ No outreach was sent. These are corrections-first opportunities only; any future
 | Gilbert Lake State Park | https://parks.ny.gov/parks/19/details.aspx | `gilbert-lake-state-park-family-paddling-guide.html` — seven-gate cartop/rental/motor/weather decision card | Request corrections to the carry route, rental/lifeguard dependency, motor distinction and seasonal facilities; offer the conservative family card only if operationally accurate | Qualified local-resource opportunity; not contacted |
 | U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ | `teach-kids-navigation-buoys-20-minute-tabletop-drill.html` — two-direction teach-back card and six-piece marker drill | Invite corrections to the conventional-direction, regulatory-symbol and missing-aid wording; offer the no-spend lesson as companion education, never navigation authority or course certification | Qualified safety-resource opportunity; not contacted |
 
+# 2026-11-10 — paddlecraft transport, Lake Taghkanic and dropped property
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream’s commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| RAILBLAZA product support | https://www.railblaza.com/contact-us/ | `kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html` — ten-field hull, load, contact, route and maintenance record | Ask for corrections to the category boundaries and safe-use wording; offer the brand-neutral fit record as buyer education without claiming testing, approval or universal fit | Qualified manufacturer-resource opportunity; not contacted |
+| Lake Taghkanic State Park / New York State Parks | https://parks.ny.gov/visit/state-parks/lake-taghkanic-state-park | `lake-taghkanic-state-park-family-paddling-guide.html` — eight-gate launch, permit, weather and return card | Request corrections to the west hand-launch/east unimproved-launch distinction, permit path, motor rule and seasonal service wording; offer the family card only if operationally accurate | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Auxiliary public-education team | https://home.cgaux.org/wp/ | `dropped-gear-overboard-small-boat-recovery-decision-guide.html` — six-step people-first property decision card | Invite corrections to the lookout, safe-speed, engine-cutoff and property-versus-person-overboard boundaries; offer the no-jump card as companion education, never a maneuver or certification | Qualified safety-resource opportunity; not contacted |
+

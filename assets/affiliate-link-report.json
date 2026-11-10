@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T16:47:53.935Z",
+  "generatedAt": "2026-11-10T17:09:16.746Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 267,
-    "commercialLinks": 463,
-    "activeAffiliateLinks": 463,
+    "eligiblePages": 270,
+    "commercialLinks": 466,
+    "activeAffiliateLinks": 466,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 463,
+    "amazonAffiliateLinks": 466,
     "fallbackLinks": 0,
     "changedPages": 1
   },
@@ -3825,6 +3825,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.kleintools.com/catalog/multimeters/digital-multimeter-manual-ranging-600v",
       "destinationUrl": "https://www.amazon.com/s?k=Klein+Tools+MM325+Digital+Multimeter&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html",
+      "key": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html::padded-center-cradle-kayak-or-canoe-cart-with-published-capacity-contact-width-strap-route",
+      "product": "padded center-cradle kayak or canoe cart with published capacity contact width strap route and instructions",
+      "visibleText": "Compare documented padded center-cradle carts",
+      "originalUrl": "https://www.amazon.com/s?k=padded+center+cradle+kayak+canoe+cart+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=padded+center-cradle+kayak+or+canoe+cart+with+published+capacity+contact+width+strap+route+and+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html",
+      "key": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html::adjustable-bunk-style-kayak-or-canoe-cart-with-published-capacity-bunk-spacing-hull-guidan",
+      "product": "adjustable bunk-style kayak or canoe cart with published capacity bunk spacing hull guidance and instructions",
+      "visibleText": "Compare documented adjustable bunk carts",
+      "originalUrl": "https://www.amazon.com/s?k=adjustable+bunk+kayak+canoe+cart+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=adjustable+bunk-style+kayak+or+canoe+cart+with+published+capacity+bunk+spacing+hull+guidance+and+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html",
+      "key": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html::wide-soft-terrain-wheel-kayak-or-canoe-cart-with-published-capacity-axle-details-hull-cont",
+      "product": "wide soft-terrain wheel kayak or canoe cart with published capacity axle details hull contact and instructions",
+      "visibleText": "Compare documented wide-wheel soft-terrain carts",
+      "originalUrl": "https://www.amazon.com/s?k=wide+sand+wheel+kayak+canoe+cart+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=wide+soft-terrain+wheel+kayak+or+canoe+cart+with+published+capacity+axle+details+hull+contact+and+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["lake-taghkanic-state-park-family-paddling-guide.html", "Lake Taghkanic State Park With Kids: Choose the Launch, Prove the Permit and Keep the First Loop Reversible"],
     ["gilbert-lake-state-park-family-paddling-guide.html", "Gilbert Lake State Park With Kids: Cartop Launch, Rental Window and a Reversible First Paddle"],
     ["nicks-lake-old-forge-family-paddling-guide.html", "Nicks Lake Near Old Forge With Kids: No-Motor Water, Seasonal Launch and a Two-Hour Proof Loop"],
     ["canopus-lake-fahnestock-family-paddling-guide.html", "Canopus Lake at Fahnestock With Kids: Permit Gate, Hand Launch and a Three-Hour Small-Craft Plan"],
@@ -71,6 +72,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html", "Kayak and Canoe Carts: Match the Hull, Loaded Weight and Carry Surface Before You Buy"],
     ["boat-cover-support-pole-bow-frame-fit-buying-guide.html", "Boat Cover Supports: Choose a Pole, Webbing System or Bow Frame Without Creating a New Failure Point"],
     ["dock-edge-bumper-profile-fit-buying-guide.html", "Dock Edge Bumpers: Match the D, P or Flat Profile to the Boat Contact Zone Before Buying"],
     ["boat-cabin-fan-voltage-airflow-mounting-buying-guide.html", "Boat Cabin Fan Buying Guide: Match Voltage, Airflow, Guarding, Mounting and the Ignition-Protected Boundary"],
@@ -140,6 +142,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["dropped-gear-overboard-small-boat-recovery-decision-guide.html", "Dropped Gear Overboard: Nobody Jumps—Stop, Mark, Decide and Recover Only When the Boat Is Safe"],
     ["teach-kids-navigation-buoys-20-minute-tabletop-drill.html", "Teach Kids Navigation Buoys in 20 Minutes: A Red, Green and Orange Tabletop Drill"],
     ["boat-shrink-wrap-recycling-clean-dry-contaminant-plan.html", "Boat Shrink-Wrap Recycling: Confirm the Receiver, Remove Contaminants and Keep the Film Clean and Dry"],
     ["boat-fishing-line-hooks-trash-carry-back-plan.html", "Boat Fishing-Line, Hook and Trash Carry-Back Plan: Contain It Before It Reaches Water, Wildlife or the Prop"],

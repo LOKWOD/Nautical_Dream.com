@@ -6196,5 +6196,83 @@
     "query": "Editorial crop of simplified red, green and white-orange tabletop marker models with toy boat and rope channel; no official-aid claim",
     "width": 1200,
     "height": 900
+  },
+  "paddle-cart-fit-hero": {
+    "localPath": "assets/editorial/paddle-cart-fit-hero.webp",
+    "title": "Conceptual kayak and canoe cart category comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic padded center-cradle, adjustable bunk and wide soft-terrain wheel cart categories beside a generic kayak, tape and blank checklist; no brand, exact fit or rating claim",
+    "width": 1600,
+    "height": 900
+  },
+  "paddle-cart-fit-card": {
+    "localPath": "assets/editorial/paddle-cart-fit-card.webp",
+    "title": "Kayak cart hull-contact and wheel comparison card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Close category comparison of padded hull contact, adjustable bunks and several generic wheel types; no product or capacity claim",
+    "width": 1200,
+    "height": 900
+  },
+  "taghkanic-family-paddle-hero": {
+    "localPath": "assets/editorial/taghkanic-family-paddle-hero.webp",
+    "title": "Conceptual Lake Taghkanic family paddle plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic wooded New York inland-lake hand launch with adult and school-age child in fitted PFDs, kayak, dry bag and roof-rack craft; no named-place claim",
+    "width": 1600,
+    "height": 900
+  },
+  "taghkanic-family-paddle-card": {
+    "localPath": "assets/editorial/taghkanic-family-paddle-card.webp",
+    "title": "Lake Taghkanic family paddling conceptual card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic Northeast wooded-lake shore with adult and child in fitted PFDs carrying a recreational kayak; no named-location claim",
+    "width": 1200,
+    "height": 900
+  },
+  "dropped-gear-decision-hero": {
+    "localPath": "assets/editorial/dropped-gear-decision-hero.webp",
+    "title": "Conceptual dropped-gear people-first decision",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family in fitted life jackets remains seated inside a controlled small boat while an adult identifies a floating hat; no maneuver or distance claim",
+    "width": 1600,
+    "height": 900
+  },
+  "dropped-gear-decision-card": {
+    "localPath": "assets/editorial/dropped-gear-decision-card.webp",
+    "title": "Dropped-gear small-boat decision card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adults in life jackets remain inside a small boat with operator at helm while a floating cap is identified; no retrieval maneuver claim",
+    "width": 1200,
+    "height": 900
   }
 }
