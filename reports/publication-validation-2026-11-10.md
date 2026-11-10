@@ -21,4 +21,9 @@
 
 ## Production validation
 
-Pending commit, Pages workflow and live custom-domain review.
+- Production source and generated output committed to `main` at `1cd39a562e28cf9ed3233cddeb9981381df69312`.
+- GitHub Pages propagation confirmed on the custom domain; all three canonical article URLs returned the new publication and correct metadata.
+- All three live hero images and all six live homepage/hub card placements were visually reviewed after deployment.
+- The three new Amazon category links resolve from the kayak-cart guide with `sponsored`, `nofollow`, `noopener` and `noreferrer` protection and a visible Associate disclosure. The two noncommercial pages add no paid links.
+- Live homepage, gear, destinations and journal discovery surfaces point to the correct pages and images; the deployed sitemap contains all three canonical URLs.
+- No batch-caused deployment, rendering, link, disclosure or image failure was found.
