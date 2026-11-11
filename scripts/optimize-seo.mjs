@@ -324,7 +324,7 @@ for (const file of files) {
 
   html = html.replaceAll("#667781", "#596b75").replaceAll("#77858c", "#5c6e78").replaceAll("#74838b", "#5c6e78");
   writeFileSync(path, html);
-  pageRecords.push({ file, canonical, title, h1, description, imageUrl, modified, noindex: /<meta\b[^>]*name=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html), article: /"@type"\s*:\s*(?:"(?:Article|NewsArticle|BlogPosting|TechArticle)"|\[[^\]]*"Article")/.test(html) });
+  pageRecords.push({ file, canonical, title, h1, description, imageUrl, modified, noindex: /<meta\b[^>]*name=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html), article: /"@type"\s*:\s*(?:"(?:Article|NewsArticle|BlogPosting|TechArticle)"|\[[^\]]*"Article")/.test(html) || /<article\b[^>]*class=["'][^"']*\barticle\b/i.test(html) });
 }
 
 let css = readFileSync(join(root, "styles.css"), "utf8");
