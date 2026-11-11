@@ -6274,5 +6274,83 @@
     "query": "Adults in life jackets remain inside a small boat with operator at helm while a floating cap is identified; no retrieval maneuver claim",
     "width": 1200,
     "height": 900
+  },
+  "deck-hatch-fit-hero": {
+    "localPath": "assets/editorial/deck-hatch-fit-hero.webp",
+    "title": "Conceptual marine deck hatch and access plate fit comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded rectangular utility hatch, round inspection plate and framed opening hatch beside a cutout template and measuring tools; no product, model or fit claim",
+    "width": 1600,
+    "height": 900
+  },
+  "deck-hatch-fit-card": {
+    "localPath": "assets/editorial/deck-hatch-fit-card.webp",
+    "title": "Marine deck hatch category comparison card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded close comparison of rectangular, round and framed opening marine access categories beside measuring tools; no product or model claim",
+    "width": 1200,
+    "height": 900
+  },
+  "delta-lake-family-launch-hero": {
+    "localPath": "assets/editorial/delta-lake-family-launch-hero.webp",
+    "title": "Conceptual Delta Lake family launch planning scene",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual wooded Central New York reservoir ramp with trailerable family boat and family in fitted life jackets; not documentary photography of the named park",
+    "width": 1600,
+    "height": 900
+  },
+  "delta-lake-family-launch-card": {
+    "localPath": "assets/editorial/delta-lake-family-launch-card.webp",
+    "title": "Delta Lake family launch planning card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual family in fitted life jackets checking a launch plan beside a generic trailerable boat at a wooded hard ramp; no named-location claim",
+    "width": 1200,
+    "height": 900
+  },
+  "clean-drain-dry-hero": {
+    "localPath": "assets/editorial/clean-drain-dry-hero.webp",
+    "title": "Conceptual Clean Drain Dry trailerable-boat inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adults with gloves inspecting a generic trailerable boat on dry pavement, removing aquatic plant material to trash and checking drain and propulsion zones",
+    "width": 1600,
+    "height": 900
+  },
+  "clean-drain-dry-card": {
+    "localPath": "assets/editorial/clean-drain-dry-card.webp",
+    "title": "Clean Drain Dry inspection-zone card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adults inspecting generic trailerable-boat hull, trailer, drain and propulsion areas while removing aquatic plant material to trash; no treatment claim",
+    "width": 1200,
+    "height": 900
   }
 }

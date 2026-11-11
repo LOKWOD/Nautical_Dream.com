@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T17:09:16.746Z",
+  "generatedAt": "2026-11-11T16:20:01.677Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 270,
-    "commercialLinks": 466,
-    "activeAffiliateLinks": 466,
+    "eligiblePages": 273,
+    "commercialLinks": 469,
+    "activeAffiliateLinks": 469,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 466,
+    "amazonAffiliateLinks": 469,
     "fallbackLinks": 0,
     "changedPages": 1
   },
@@ -4188,6 +4188,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.lucasoil.com/product/marine-grease/",
       "destinationUrl": "https://www.amazon.com/s?k=Lucas+Oil+Marine+Grease&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-deck-hatch-access-plate-cutout-fit-guide.html",
+      "key": "marine-deck-hatch-access-plate-cutout-fit-guide.html::rectangular-marine-utility-access-hatches-with-published-cutout-corner-radius-flange-deck-",
+      "product": "rectangular marine utility access hatches with published cutout corner radius flange deck thickness latch and installation instructions",
+      "visibleText": "Compare documented rectangular utility hatches",
+      "originalUrl": "https://www.amazon.com/s?k=marine+rectangular+access+hatch+cutout+dimensions+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=rectangular+marine+utility+access+hatches+with+published+cutout+corner+radius+flange+deck+thickness+latch+and+installation+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-deck-hatch-access-plate-cutout-fit-guide.html",
+      "key": "marine-deck-hatch-access-plate-cutout-fit-guide.html::round-marine-inspection-deck-plates-with-published-cutout-diameter-material-traffic-guidan",
+      "product": "round marine inspection deck plates with published cutout diameter material traffic guidance seal and installation instructions",
+      "visibleText": "Compare documented round inspection plates",
+      "originalUrl": "https://www.amazon.com/s?k=marine+round+deck+inspection+plate+cutout+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=round+marine+inspection+deck+plates+with+published+cutout+diameter+material+traffic+guidance+seal+and+installation+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-deck-hatch-access-plate-cutout-fit-guide.html",
+      "key": "marine-deck-hatch-access-plate-cutout-fit-guide.html::framed-opening-marine-ventilation-hatches-with-published-cutout-radius-deck-thickness-open",
+      "product": "framed opening marine ventilation hatches with published cutout radius deck thickness opening sweep sealing and fitting instructions",
+      "visibleText": "Compare documented framed opening hatches",
+      "originalUrl": "https://www.amazon.com/s?k=marine+opening+ventilation+hatch+cutout+fitting+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=framed+opening+marine+ventilation+hatches+with+published+cutout+radius+deck+thickness+opening+sweep+sealing+and+fitting+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
