@@ -115,6 +115,9 @@ export function renderPage(page) {
     ? `<div class="fact-grid">${page.facts.map(([label, value]) => `<div class="fact"><strong>${esc(label)}</strong>${value}</div>`).join("")}</div>`
     : "";
   const heroStyle = hero?.src ? ` style="--hero:url('${esc(hero.src)}')"` : "";
+  const heroAccessibility = hero?.src
+    ? ` role="img" aria-label="${esc(hero.alt || page.title)}"`
+    : "";
   const disclosure = page.disclosure ? `<p class="disclosure"><strong>Editorial disclosure:</strong> ${page.disclosure}</p>` : "";
   const sources = page.sources?.length
     ? `<aside class="source-box" aria-label="Primary sources"><h2>Plan with current information</h2><p>Schedules, rules, prices and operating seasons change. Confirm the details that affect your trip directly with these primary sources:</p><ul>${page.sources.map(([label, url]) => `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a></li>`).join("")}</ul></aside>`
@@ -151,7 +154,7 @@ export function renderPage(page) {
 ${header()}
 <main>
   ${breadcrumbs}
-  <section class="article-hero${page.hero?.className ? ` ${esc(page.hero.className)}` : ""}"${heroStyle}><div class="shell"><div class="eyebrow">${esc(page.eyebrow)}</div><h1>${esc(page.title)}</h1><p>${esc(page.dek)}</p></div></section>
+  <section class="article-hero${page.hero?.className ? ` ${esc(page.hero.className)}` : ""}"${heroAccessibility}${heroStyle}><div class="shell"><div class="eyebrow">${esc(page.eyebrow)}</div><h1>${esc(page.title)}</h1><p>${esc(page.dek)}</p></div></section>
   <section class="section"><article class="shell article">
 ${disclosure}
     <div class="article-meta"><span>By <a href="editorial-team.html" rel="author">Nautical Dream Editorial Desk</a></span><span>Updated ${esc(displayDate)}</span><span>${esc(page.readTime || "12 minute read")}</span></div>

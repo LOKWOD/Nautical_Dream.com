@@ -14,6 +14,7 @@ for(const [i,p] of pages.entries()){
  const words=a.replace(/<[^>]*>/g,' ').split(/\s+/).filter(Boolean).length;
  if(words<1400)bad('thin '+p.slug+' '+words);
  for(const s of [p.title,p.hero.caption,'https://nauticaldream.com/'+p.slug,'"datePublished":"2026-11-12"','"dateModified":"2026-11-12"','BreadcrumbList','FAQPage','data-cf-beacon','data-site="nautical-dream"','property="og:image:alt"','name="twitter:image:alt"'])if(!h.includes(s))bad(p.slug+' missing '+s);
+ if(!h.includes(`role="img" aria-label="${p.hero.alt.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;')}"`))bad('hero accessibility '+p.slug);
  if(/"@type":"(?:Product|Review)"/.test(h))bad('fake commercial schema '+p.slug);
  const links=[...a.matchAll(/href="(?!https?:|mailto:|#)([^"#]+\.html)/g)].map(m=>m[1]);
  if(new Set(links).size<9)bad('weak internal cluster '+p.slug+' '+new Set(links).size);
