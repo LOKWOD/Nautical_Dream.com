@@ -1,5 +1,13 @@
 # Search Console editorial decisions
 
+## 2026-11-12
+
+- Report checked: `LOKWOD/site-analytics` generated 2026-11-11, covering 2026-10-12 through 2026-11-08.
+- Site signal: 25 impressions, 2 clicks, 8.0% CTR and average position 7.0; the HTTPS homepage carried every impression and both clicks.
+- Query/page signal used: only branded variants produced clicks — “nautical dream” at 2 impressions and average position 4, and “nautical dreams” at 5 impressions and average position 7. This supported another strong homepage lead, three hub placements and six reciprocal crawl paths rather than a branded page.
+- Weak signal deliberately ignored: one- or two-impression irrelevant, malformed or competitor fragments were too small and off-topic to steer a page.
+- Editorial effect: no item is Data-led. The diverse batch expands storage-moisture equipment intent, adds a distinct Central New York cartop-paddling destination and creates a winter used-boat transaction-control system.
+
 ## 2026-11-08
 
 - Report checked: `LOKWOD/site-analytics` generated 2026-11-04, covering 2026-10-05 through 2026-11-01.

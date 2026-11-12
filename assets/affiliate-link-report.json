@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-11T16:20:01.677Z",
+  "generatedAt": "2026-11-12T16:47:31.953Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 273,
-    "commercialLinks": 469,
-    "activeAffiliateLinks": 469,
+    "eligiblePages": 276,
+    "commercialLinks": 472,
+    "activeAffiliateLinks": 472,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 469,
+    "amazonAffiliateLinks": 472,
     "fallbackLinks": 0,
-    "changedPages": 1
+    "changedPages": 147
   },
   "links": [
     {
@@ -2208,6 +2208,39 @@
       "visibleText": "Compare marine propeller wrench and hardware kits on Amazon",
       "originalUrl": "https://www.mercurymarine.com/us/en/service-and-support/owners-resources/owners-manual.html",
       "destinationUrl": "https://www.amazon.com/s?k=marine+propeller+wrench+and+spare+retaining+hardware+kit+matched+to+outboard&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html",
+      "key": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html::choose-passive-desiccant-for-small-inspected-spaces",
+      "product": "Choose passive desiccant for small inspected spaces",
+      "visibleText": "Compare refillable boat moisture-absorber and desiccant systems by spill control, published capacity and replacement method",
+      "originalUrl": "https://www.amazon.com/s?k=refillable+boat+moisture+absorber+desiccant",
+      "destinationUrl": "https://www.amazon.com/s?k=Choose+passive+desiccant+for+small+inspected+spaces&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html",
+      "key": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html::choose-a-low-watt-air-dryer-only-where-its-heat-and-clearances-fit",
+      "product": "Choose a low-watt air dryer only where its heat and clearances fit",
+      "visibleText": "Compare low-watt marine storage air dryers by voltage, wattage, enclosure, clearances and published unattended-use limits",
+      "originalUrl": "https://www.amazon.com/s?k=marine+boat+storage+air+dryer+low+watt",
+      "destinationUrl": "https://www.amazon.com/s?k=Choose+a+low-watt+air+dryer+only+where+its+heat+and+clearances+fit&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html",
+      "key": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html::choose-an-active-dehumidifier-only-with-temperature-and-drainage-proof",
+      "product": "Choose an active dehumidifier only with temperature and drainage proof",
+      "visibleText": "Compare portable dehumidifiers by published low-temperature range, continuous-drain instructions and grounded-power requirements",
+      "originalUrl": "https://www.amazon.com/s?k=portable+dehumidifier+continuous+drain+low+temperature",
+      "destinationUrl": "https://www.amazon.com/s?k=Choose+an+active+dehumidifier+only+with+temperature+and+drainage+proof&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

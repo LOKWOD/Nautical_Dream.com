@@ -6352,5 +6352,83 @@
     "query": "Adults inspecting generic trailerable-boat hull, trailer, drain and propulsion areas while removing aquatic plant material to trash; no treatment claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-storage-moisture-control-hero": {
+    "localPath": "assets/editorial/boat-storage-moisture-control-hero.webp",
+    "title": "Conceptual boat-storage moisture-control category comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded passive absorber, low-watt warm-air circulator and compact dehumidifier in a dry generic boat cabin; category concepts only",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-storage-moisture-control-card": {
+    "localPath": "assets/editorial/boat-storage-moisture-control-card.webp",
+    "title": "Boat-storage moisture-control category card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Distinct unbranded passive absorber, warm-air circulator and dehumidifier comparison in a dry generic cabin; no performance or product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "chenango-valley-cartop-paddle-hero": {
+    "localPath": "assets/editorial/chenango-valley-cartop-paddle-hero.webp",
+    "title": "Conceptual Central New York family cartop-paddling plan",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual family in fitted PFDs planning beside two cartop kayaks at a generic wooded Central New York lake; not documentary photography",
+    "width": 1600,
+    "height": 900
+  },
+  "chenango-valley-cartop-paddle-card": {
+    "localPath": "assets/editorial/chenango-valley-cartop-paddle-card.webp",
+    "title": "Family cartop-paddling preparation card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Distinct conceptual adult and child carrying a generic kayak near a wooded inland lake while another adult checks a route; no location claim",
+    "width": 1200,
+    "height": 900
+  },
+  "winter-used-boat-buying-hero": {
+    "localPath": "assets/editorial/winter-used-boat-buying-hero.webp",
+    "title": "Conceptual winter stored-boat purchase inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual independent inspection of a generic winter-stored trailerable boat while the engine remains covered; no HIN, finding or certification claim",
+    "width": 1600,
+    "height": 900
+  },
+  "winter-used-boat-buying-card": {
+    "localPath": "assets/editorial/winter-used-boat-buying-card.webp",
+    "title": "Winter used-boat deferred-test card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Distinct conceptual close review of stored-boat identity, winterization and deferred-test records; no readable identifier or professional claim",
+    "width": 1200,
+    "height": 900
   }
 }
