@@ -6430,5 +6430,83 @@
     "query": "Distinct conceptual close review of stored-boat identity, winterization and deferred-test records; no readable identifier or professional claim",
     "width": 1200,
     "height": 900
+  },
+  "trailer-bunk-surface-fit-hero": {
+    "localPath": "assets/editorial/trailer-bunk-surface-fit-hero.webp",
+    "title": "Conceptual boat-trailer bunk surface and assembly comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded marine bunk carpet, smooth polymer bunk cover and complete carpeted replacement bunk on a workshop bench beside an empty trailer; category concepts only",
+    "width": 1600,
+    "height": 900
+  },
+  "trailer-bunk-surface-fit-card": {
+    "localPath": "assets/editorial/trailer-bunk-surface-fit-card.webp",
+    "title": "Boat-trailer bunk replacement fit card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Worn carpeted bunk, new marine carpet roll, polymer cover, fasteners and tape beside an empty safely secured generic trailer; no product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "cedar-point-family-launch-hero": {
+    "localPath": "assets/editorial/cedar-point-family-launch-hero.webp",
+    "title": "Conceptual Thousand Islands family launch planning scene",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Conceptual family in fitted PFDs planning beside a generic trailerable runabout at a calm Thousand Islands-style hard launch; not documentary photography of Cedar Point",
+    "width": 1600,
+    "height": 900
+  },
+  "cedar-point-family-launch-card": {
+    "localPath": "assets/editorial/cedar-point-family-launch-card.webp",
+    "title": "Cedar Point family launch planning card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Fitted PFDs, dock lines, blank checklist and binoculars on a picnic table beside a generic Thousand Islands-style shoreline; no named-location claim",
+    "width": 1200,
+    "height": 900
+  },
+  "child-wandering-boat-handoff-hero": {
+    "localPath": "assets/editorial/child-wandering-boat-handoff-hero.webp",
+    "title": "Conceptual family boat-day supervision handoff",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Respectful family in fitted PFDs making an explicit supervision handoff beside a securely tied generic boat and marina gate; no diagnosis, distress or identified person",
+    "width": 1600,
+    "height": 900
+  },
+  "child-wandering-boat-handoff-card": {
+    "localPath": "assets/editorial/child-wandering-boat-handoff-card.webp",
+    "title": "Child-wandering boat-day handoff card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Youth PFD, blank identification sheet, plain wristband, whistle, phone and generic handoff checklist; no personal data or tracking claim",
+    "width": 1200,
+    "height": 900
   }
 }

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["cedar-point-state-park-family-boat-launch-guide.html", "Cedar Point State Park With a Family Boat: Fifteen Trailer Spaces, Seasonal Services and a Short River Proof Run"],
     ["chenango-valley-state-park-family-cartop-paddling-guide.html", "Chenango Valley State Park With Kids: Hand-Carry the Boat, Confirm the Boathouse and Respect the October 15 Stop"],
     ["delta-lake-state-park-family-boat-launch-guide.html", "Delta Lake State Park With a Family Boat: Seasonal Hard Ramp, Low-Water Gate and a Short Proof Run"],
     ["lake-taghkanic-state-park-family-paddling-guide.html", "Lake Taghkanic State Park With Kids: Choose the Launch, Prove the Permit and Keep the First Loop Reversible"],
@@ -74,6 +75,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-trailer-bunk-carpet-cover-replacement-fit-guide.html", "Boat-Trailer Bunk Carpet and Covers: Match the Hull, Board, Hardware and Loading Method Before Buying"],
     ["boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html", "Boat Storage Moisture Control: Choose Desiccant, an Air Dryer or a Dehumidifier Without Creating a New Hazard"],
     ["marine-deck-hatch-access-plate-cutout-fit-guide.html", "Marine Deck Hatches and Access Plates: Match the Cutout, Deck, Seal and Job Before Buying"],
     ["kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html", "Kayak and Canoe Carts: Match the Hull, Loaded Weight and Carry Surface Before You Buy"],
@@ -146,6 +148,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["family-boat-day-child-wandering-handoff-emergency-plan.html", "Family Boat Day With a Child Who May Wander: Build the Shore Handoff, Worn-PFD and Emergency Search Plan"],
     ["buying-used-boat-in-winter-survey-sea-trial-contingency-guide.html", "Buying a Used Boat in Winter: Inspect What You Can, Write the Deferred Sea Trial and Don’t Wake a Winterized Engine"],
     ["clean-drain-dry-trailerable-boat-transfer-plan.html", "Clean, Drain, Dry Before the Next Lake: A Trailerable-Boat Transfer Plan That Names Every Hidden Zone"],
     ["dropped-gear-overboard-small-boat-recovery-decision-guide.html", "Dropped Gear Overboard: Nobody Jumps—Stop, Mark, Decide and Recover Only When the Boat Is Safe"],
