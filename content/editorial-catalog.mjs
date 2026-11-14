@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["jamesville-beach-park-family-cartop-paddling-guide.html", "Jamesville Beach Park With Kids: Carry the Boat, Respect the Seasonal Closure and Keep the Reservoir Loop Reversible"],
     ["cedar-point-state-park-family-boat-launch-guide.html", "Cedar Point State Park With a Family Boat: Fifteen Trailer Spaces, Seasonal Services and a Short River Proof Run"],
     ["chenango-valley-state-park-family-cartop-paddling-guide.html", "Chenango Valley State Park With Kids: Hand-Carry the Boat, Confirm the Boathouse and Respect the October 15 Stop"],
     ["delta-lake-state-park-family-boat-launch-guide.html", "Delta Lake State Park With a Family Boat: Seasonal Hard Ramp, Low-Water Gate and a Short Proof Run"],
@@ -75,6 +76,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-cleat-fixed-folding-pop-up-backing-fit-guide.html", "Boat Cleats: Match Fixed, Folding or Pop-Up Hardware to the Line, Deck Structure and Backing Before Buying"],
     ["boat-trailer-bunk-carpet-cover-replacement-fit-guide.html", "Boat-Trailer Bunk Carpet and Covers: Match the Hull, Board, Hardware and Loading Method Before Buying"],
     ["boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html", "Boat Storage Moisture Control: Choose Desiccant, an Air Dryer or a Dehumidifier Without Creating a New Hazard"],
     ["marine-deck-hatch-access-plate-cutout-fit-guide.html", "Marine Deck Hatches and Access Plates: Match the Cutout, Deck, Seal and Job Before Buying"],
@@ -148,6 +150,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["wheelchair-passenger-family-boat-day-transfer-seating-plan.html", "Family Boat Day With a Wheelchair User: Prove the Pier, Transfer, Seating and Emergency Exit Before Launch"],
     ["family-boat-day-child-wandering-handoff-emergency-plan.html", "Family Boat Day With a Child Who May Wander: Build the Shore Handoff, Worn-PFD and Emergency Search Plan"],
     ["buying-used-boat-in-winter-survey-sea-trial-contingency-guide.html", "Buying a Used Boat in Winter: Inspect What You Can, Write the Deferred Sea Trial and Don’t Wake a Winterized Engine"],
     ["clean-drain-dry-trailerable-boat-transfer-plan.html", "Clean, Drain, Dry Before the Next Lake: A Trailerable-Boat Transfer Plan That Names Every Hidden Zone"],

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13T16:36:08.105Z",
+  "generatedAt": "2026-11-14T16:38:20.027Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 278,
-    "commercialLinks": 475,
-    "activeAffiliateLinks": 475,
+    "eligiblePages": 280,
+    "commercialLinks": 478,
+    "activeAffiliateLinks": 478,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 475,
+    "amazonAffiliateLinks": 478,
     "fallbackLinks": 0,
-    "changedPages": 148
+    "changedPages": 69
   },
   "links": [
     {
@@ -1020,6 +1020,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.goldeagle.com/product/303-marine-recreation-aerospace-protectant/",
       "destinationUrl": "https://www.amazon.com/s?k=303+Marine+Aerospace+Protectant&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html",
+      "key": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html::fixed-horn-cleats-favor-simplicity-and-immediate-access",
+      "product": "Fixed horn cleats favor simplicity and immediate access",
+      "visibleText": "Compare marine fixed horn cleats by line clearance, footprint, fastener pattern, material and backing instructions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fixed+horn+boat+cleat+backing+plate",
+      "destinationUrl": "https://www.amazon.com/s?k=Fixed+horn+cleats+favor+simplicity+and+immediate+access&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html",
+      "key": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html::folding-cleats-reduce-projection-but-add-hinges-and-pinch-zones",
+      "product": "Folding cleats reduce projection but add hinges and pinch zones",
+      "visibleText": "Compare folding boat cleats by open and closed dimensions, line path, hinge service and documented duty",
+      "originalUrl": "https://www.amazon.com/s?k=marine+folding+boat+cleat+dimensioned+drawing",
+      "destinationUrl": "https://www.amazon.com/s?k=Folding+cleats+reduce+projection+but+add+hinges+and+pinch+zones&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html",
+      "key": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html::pop-up-cleats-need-the-most-complete-underside-proof",
+      "product": "Pop-up cleats need the most complete underside proof",
+      "visibleText": "Compare pop-up boat cleats by exact cutout, travel depth, drain system, fasteners and backing requirements",
+      "originalUrl": "https://www.amazon.com/s?k=marine+pop+up+boat+cleat+drain+cup+backing",
+      "destinationUrl": "https://www.amazon.com/s?k=Pop-up+cleats+need+the+most+complete+underside+proof&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

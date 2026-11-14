@@ -6508,5 +6508,83 @@
     "query": "Youth PFD, blank identification sheet, plain wristband, whistle, phone and generic handoff checklist; no personal data or tracking claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-cleat-selection-hero": {
+    "localPath": "assets/editorial/boat-cleat-selection-hero.webp",
+    "title": "Conceptual fixed, folding and pop-up boat-cleat comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded fixed horn, folding and pop-up cleats with backing plate, fasteners, calipers and generic deck mockup; category concepts only",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-cleat-selection-card": {
+    "localPath": "assets/editorial/boat-cleat-selection-card.webp",
+    "title": "Boat-cleat format and backing fit card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Fixed, folded and raised pop-up generic cleats with backing plate, washers, bolts and calipers; no named product",
+    "width": 1200,
+    "height": 900
+  },
+  "jamesville-family-paddling-hero": {
+    "localPath": "assets/editorial/jamesville-family-paddling-hero.webp",
+    "title": "Conceptual family hand-carry reservoir launch",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family in fitted PFDs carrying generic recreational kayaks from nearby parking to a calm wooded reservoir; not Jamesville documentary photography",
+    "width": 1600,
+    "height": 900
+  },
+  "jamesville-family-paddling-card": {
+    "localPath": "assets/editorial/jamesville-family-paddling-card.webp",
+    "title": "Family cartop-paddling preparation card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Plain PFDs, paddles, dry bags, carry cart and blank checklist beside a generic wooded reservoir; no named-location claim",
+    "width": 1200,
+    "height": 900
+  },
+  "wheelchair-boat-day-plan-hero": {
+    "localPath": "assets/editorial/wheelchair-boat-day-plan-hero.webp",
+    "title": "Conceptual wheelchair-user boat-day boarding evaluation",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Adult wheelchair user and companion in fitted PFDs evaluating pier-to-boat gap before transfer; no lifting, facility or accessible-vessel claim",
+    "width": 1600,
+    "height": 900
+  },
+  "wheelchair-boat-day-plan-card": {
+    "localPath": "assets/editorial/wheelchair-boat-day-plan-card.webp",
+    "title": "Accessible family boat-day acceptance card",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Blank access checklist, tape measure, PFD, dry bag, phone and wheelchair detail on a clear pier beside a generic boat",
+    "width": 1200,
+    "height": 900
   }
 }
