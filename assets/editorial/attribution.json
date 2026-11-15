@@ -6586,5 +6586,83 @@
     "query": "Blank access checklist, tape measure, PFD, dry bag, phone and wheelchair detail on a clear pier beside a generic boat",
     "width": 1200,
     "height": 900
+  },
+  "marine-sealant-compatibility-hero": {
+    "localPath": "assets/editorial/marine-sealant-compatibility-hero.webp",
+    "title": "Conceptual marine sealant and substrate compatibility workshop",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Three unbranded generic sealant cartridges, substrate coupons, scraper, tape and blank compatibility grid; no product or compatibility claim",
+    "width": 1600,
+    "height": 900
+  },
+  "marine-sealant-compatibility-card": {
+    "localPath": "assets/editorial/marine-sealant-compatibility-card.webp",
+    "title": "Marine sealant compatibility checklist still life",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic sealants, fiberglass, aluminum, teak, acrylic, rubber, scraper and blank checklist; no brand",
+    "width": 1200,
+    "height": 900
+  },
+  "north-sandy-pond-family-hero": {
+    "localPath": "assets/editorial/north-sandy-pond-family-hero.webp",
+    "title": "Conceptual protected-pond family trailer launch",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family with fitted life jackets at generic hard-surface protected-pond ramp; engine off, helm empty, no named-place or navigable-outlet claim",
+    "width": 1600,
+    "height": 900
+  },
+  "north-sandy-pond-family-card": {
+    "localPath": "assets/editorial/north-sandy-pond-family-card.webp",
+    "title": "Protected-pond family launch planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Four generic PFDs, line, chock, binoculars, unlabeled chart, weather radio, water and blank checklist beside generic pond",
+    "width": 1200,
+    "height": 900
+  },
+  "family-dog-boat-plan-hero": {
+    "localPath": "assets/editorial/family-dog-boat-plan-hero.webp",
+    "title": "Conceptual family dog boarding rehearsal at a stationary boat",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family in human PFDs rehearsing a wide nonslip ramp with dog in generic pet flotation aid at tied stationary boat; no certified-equipment claim",
+    "width": 1600,
+    "height": 900
+  },
+  "family-dog-boat-plan-card": {
+    "localPath": "assets/editorial/family-dog-boat-plan-card.webp",
+    "title": "Dog-aboard heat, boarding and flotation planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic pet flotation aid, harness, leash, mat, bowl, shade, towel, waste bags, blank checklist and separate human PFDs",
+    "width": 1200,
+    "height": 900
   }
 }

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["north-sandy-pond-family-boat-launch-guide.html", "North Sandy Pond With a Family Boat: Use the 25-Trailer Launch, Prove the Pond and Keep Lake Ontario Optional"],
     ["jamesville-beach-park-family-cartop-paddling-guide.html", "Jamesville Beach Park With Kids: Carry the Boat, Respect the Seasonal Closure and Keep the Reservoir Loop Reversible"],
     ["cedar-point-state-park-family-boat-launch-guide.html", "Cedar Point State Park With a Family Boat: Fifteen Trailer Spaces, Seasonal Services and a Short River Proof Run"],
     ["chenango-valley-state-park-family-cartop-paddling-guide.html", "Chenango Valley State Park With Kids: Hand-Carry the Boat, Confirm the Boathouse and Respect the October 15 Stop"],
@@ -76,6 +77,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html", "Marine Sealants: Match Polyurethane, Silicone or Polysulfide to the Substrate, Movement and Future Removal"],
     ["boat-cleat-fixed-folding-pop-up-backing-fit-guide.html", "Boat Cleats: Match Fixed, Folding or Pop-Up Hardware to the Line, Deck Structure and Backing Before Buying"],
     ["boat-trailer-bunk-carpet-cover-replacement-fit-guide.html", "Boat-Trailer Bunk Carpet and Covers: Match the Hull, Board, Hardware and Loading Method Before Buying"],
     ["boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html", "Boat Storage Moisture Control: Choose Desiccant, an Air Dryer or a Dehumidifier Without Creating a New Hazard"],
@@ -150,6 +152,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["family-boating-with-dog-pfd-boarding-heat-plan.html", "Family Boating With a Dog: Fit the Flotation Aid, Rehearse Boarding and Set Heat-and-Shore-Break Limits"],
     ["wheelchair-passenger-family-boat-day-transfer-seating-plan.html", "Family Boat Day With a Wheelchair User: Prove the Pier, Transfer, Seating and Emergency Exit Before Launch"],
     ["family-boat-day-child-wandering-handoff-emergency-plan.html", "Family Boat Day With a Child Who May Wander: Build the Shore Handoff, Worn-PFD and Emergency Search Plan"],
     ["buying-used-boat-in-winter-survey-sea-trial-contingency-guide.html", "Buying a Used Boat in Winter: Inspect What You Can, Write the Deferred Sea Trial and Don’t Wake a Winterized Engine"],

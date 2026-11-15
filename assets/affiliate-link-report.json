@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-14T16:38:20.027Z",
+  "generatedAt": "2026-11-15T16:40:49.955Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 280,
-    "commercialLinks": 478,
-    "activeAffiliateLinks": 478,
+    "eligiblePages": 282,
+    "commercialLinks": 481,
+    "activeAffiliateLinks": 481,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 478,
+    "amazonAffiliateLinks": 481,
     "fallbackLinks": 0,
-    "changedPages": 69
+    "changedPages": 13
   },
   "links": [
     {
@@ -4518,6 +4518,39 @@
       "visibleText": "Compare marine flush-mount magnetic steering compasses",
       "originalUrl": "https://www.amazon.com/s?k=marine+flush+mount+steering+compass",
       "destinationUrl": "https://www.amazon.com/s?k=marine+flush-mount+magnetic+steering+compasses&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html",
+      "key": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html::marine-polyurethane-adhesive-sealant",
+      "product": "marine polyurethane adhesive sealant",
+      "visibleText": "Compare marine polyurethane sealants by exact product data sheet, approved substrates, bond strength, water exposure and disassembly intent",
+      "originalUrl": "https://www.amazon.com/s?k=marine+polyurethane+adhesive+sealant+technical+data+sheet",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+polyurethane+adhesive+sealant&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html",
+      "key": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html::marine-silicone-glazing-sealant",
+      "product": "marine silicone glazing sealant",
+      "visibleText": "Compare marine silicone sealants by glazing approval, waterline limits, paintability, cleanup and the maker’s actual-substrate test instructions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+silicone+sealant+glazing+technical+data+sheet",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+silicone+glazing+sealant&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html",
+      "key": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html::marine-polysulfide-bedding-sealant",
+      "product": "marine polysulfide bedding sealant",
+      "visibleText": "Compare marine polysulfide sealants by named substrates, movement, paintability, chemical exposure, waterline use and cure schedule",
+      "originalUrl": "https://www.amazon.com/s?k=marine+polysulfide+sealant+technical+data+sheet",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+polysulfide+bedding+sealant&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

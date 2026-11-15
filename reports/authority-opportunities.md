@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-15 — sealant compatibility, North Sandy Pond and dog-aboard readiness
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| 3M Marine technical support | https://www.3m.com/3M/en_US/company-us/help-center/ | `marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html` — twelve-field substrate, movement, exposure, cure and disassembly record | Ask for corrections to the category-neutral polyurethane distinctions and the explicit rule that each current TDS and actual-substrate test controls; offer the worksheet without implying product testing or endorsement. | Qualified manufacturer-resource opportunity; not contacted |
+| NYS DEC — Oswego County boating access | https://dec.ny.gov/things-to-do/boating/launch-sites/oswego-county | `north-sandy-pond-family-boat-launch-guide.html` — ten-gate launch, protected-pond proof loop and outlet boundary | Invite correction of the 25-rig, hard-surface and accessibility facts and the deliberate refusal to claim outlet navigability; offer the card as a companion to official access information. | Qualified local-resource opportunity; not contacted |
+| American Veterinary Medical Association pet-owner education | https://www.avma.org/about/contact-us | `family-boating-with-dog-pfd-boarding-heat-plan.html` — twelve-gate veterinary readiness, flotation, boarding and heat framework | Invite correction of the acclimation, pet-flotation and heat boundaries; offer the boating-specific card as owner education, not veterinary advice or product approval. | Qualified veterinary-resource opportunity; not contacted |
+
 ## 2026-11-08 — dock contact fit, Nicks Lake access and clean boat-wrap recovery
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
