@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-15T16:40:49.955Z",
+  "generatedAt": "2026-11-16T17:05:43.681Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 282,
-    "commercialLinks": 481,
-    "activeAffiliateLinks": 481,
+    "eligiblePages": 284,
+    "commercialLinks": 484,
+    "activeAffiliateLinks": 484,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 481,
+    "amazonAffiliateLinks": 484,
     "fallbackLinks": 0,
-    "changedPages": 13
+    "changedPages": 73
   },
   "links": [
     {
@@ -2472,6 +2472,39 @@
       "visibleText": "Compare dry tool-storage pouches",
       "originalUrl": "https://www.mercurymarine.com/sp/en/parts-and-service/maintenance/maintenance-made-easy/whats-in-it-for-you",
       "destinationUrl": "https://www.amazon.com/s?k=reusable+waterproof+boat+tool+pouch+with+desiccant+storage&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-bow-stop-roller-v-block-fit-guide.html",
+      "key": "boat-trailer-bow-stop-roller-v-block-fit-guide.html::boat-trailer-tapered-bow-roller",
+      "product": "boat trailer tapered bow roller",
+      "visibleText": "Compare tapered boat-trailer bow rollers by exact bore, overall width, shaft hardware, contact profile and trailer-maker compatibility",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+tapered+bow+roller+shaft+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+tapered+bow+roller&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-bow-stop-roller-v-block-fit-guide.html",
+      "key": "boat-trailer-bow-stop-roller-v-block-fit-guide.html::boat-trailer-bow-stop-v-block",
+      "product": "boat trailer bow stop V-block",
+      "visibleText": "Compare boat-trailer V-block bow stops by angle, throat, mounting pattern, bolt size, material and stated trailer use",
+      "originalUrl": "https://www.amazon.com/s?k=boat+trailer+bow+stop+v+block+mounting+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+trailer+bow+stop+V-block&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-trailer-bow-stop-roller-v-block-fit-guide.html",
+      "key": "boat-trailer-bow-stop-roller-v-block-fit-guide.html::independent-boat-trailer-bow-support",
+      "product": "independent boat trailer bow support",
+      "visibleText": "Compare independent boat-trailer bow supports by tongue size, U-bolt envelope, post range, bracket construction and documented application",
+      "originalUrl": "https://www.amazon.com/s?k=independent+boat+trailer+bow+support+u+bolt+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=independent+boat+trailer+bow+support&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

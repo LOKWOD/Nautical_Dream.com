@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-16 — bow-stop fit, Cayuta Lake and family hearing protection
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| ShoreLand’r owner resources | https://www.shorelandr.com/pages/contact.htm | `boat-trailer-bow-stop-roller-v-block-fit-guide.html` — twelve-field bow-eye, winch-line, bracket and restraint record | Invite correction of the manufacturer-specific geometry summary and offer the category-neutral fit record while stating that the identified trailer manual controls. | Qualified manufacturer-resource opportunity; not contacted |
+| NYS DEC Region 8 fisheries and boating access | https://dec.ny.gov/about/contact-us/statewide-office-information/region-8 | `cayuta-lake-family-boat-launch-guide.html` — ten-gate launch and proof-loop card | Invite correction of the concrete-ramp, 15-rig and 588-acre facts and offer the facility-independent launch card as a companion to official access information. | Qualified local-resource opportunity; not contacted |
+| NIDCD Noisy Planet education program | https://www.noisyplanet.nidcd.nih.gov/about-us/contact-us | `family-boating-noise-hearing-protection-plan.html` — twelve-field source, dose, fit and communication record | Invite correction of the child-fit and overprotection boundaries and offer the boating-specific worksheet as hearing education, not a clinical or exposure certification. | Qualified federal education opportunity; not contacted |
+
 ## 2026-11-15 — sealant compatibility, North Sandy Pond and dog-aboard readiness
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

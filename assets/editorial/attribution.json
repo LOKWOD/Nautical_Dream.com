@@ -6664,5 +6664,83 @@
     "query": "Generic pet flotation aid, harness, leash, mat, bowl, shade, towel, waste bags, blank checklist and separate human PFDs",
     "width": 1200,
     "height": 900
+  },
+  "boat-trailer-bow-stop-fit-hero": {
+    "localPath": "assets/editorial/boat-trailer-bow-stop-fit-hero.webp",
+    "title": "Conceptual boat-trailer bow-stop geometry fit check",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Dry-land generic bow-eye, straight winch strap, roller, V-block bracket and tape-measure fit check with parked chocked trailer; no approval claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-trailer-bow-stop-fit-card": {
+    "localPath": "assets/editorial/boat-trailer-bow-stop-fit-card.webp",
+    "title": "Boat-trailer bow-stop fit components and measurement kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded tapered roller, V-block, bracket, shaft, U-bolts, caliper, tape and blank fit sheet; no compatibility claim",
+    "width": 1200,
+    "height": 900
+  },
+  "cayuta-lake-family-launch-hero": {
+    "localPath": "assets/editorial/cayuta-lake-family-launch-hero.webp",
+    "title": "Conceptual wooded small-lake family launch",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family with fitted life jackets and dock lines at a generic calm wooded concrete ramp; not Cayuta documentary photography",
+    "width": 1600,
+    "height": 900
+  },
+  "cayuta-lake-family-launch-card": {
+    "localPath": "assets/editorial/cayuta-lake-family-launch-card.webp",
+    "title": "Small-lake family launch planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Four generic PFDs, lines, chock, dry bag, binoculars, water, sunscreen, first aid and unlabeled map; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "family-boat-noise-hearing-plan-hero": {
+    "localPath": "assets/editorial/family-boat-noise-hearing-plan-hero.webp",
+    "title": "Conceptual family boat-noise planning at a secured dock",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Stationary tied runabout, engine off, adult with generic sound meter, child earmuff fit and blank seating plan; helm unobstructed",
+    "width": 1600,
+    "height": 900
+  },
+  "family-boat-noise-hearing-plan-card": {
+    "localPath": "assets/editorial/family-boat-noise-hearing-plan-card.webp",
+    "title": "Family hearing-protection and exposure planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Child earmuffs, adult earplugs, generic sound meter, watch and blank boat seating and exposure worksheet; no protection claim",
+    "width": 1200,
+    "height": 900
   }
 }
