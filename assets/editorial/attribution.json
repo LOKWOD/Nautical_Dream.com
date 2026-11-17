@@ -6742,5 +6742,83 @@
     "query": "Child earmuffs, adult earplugs, generic sound meter, watch and blank boat seating and exposure worksheet; no protection claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-fender-adjuster-fit-hero": {
+    "localPath": "assets/editorial/boat-fender-adjuster-fit-hero.webp",
+    "title": "Conceptual boat fender-adjuster interface comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic stationary powerboat with clip, rail-hanger and webbing fender-line categories at a dock; no universal-fit or product claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-fender-adjuster-fit-card": {
+    "localPath": "assets/editorial/boat-fender-adjuster-fit-card.webp",
+    "title": "Boat fender-adjuster categories and measurement kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded snap clip, clamp/jam hanger, webbing loop, two line sizes, caliper and blank worksheet; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "mexico-point-family-launch-hero": {
+    "localPath": "assets/editorial/mexico-point-family-launch-hero.webp",
+    "title": "Conceptual Great Lakes family launch through a sheltered channel",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic large concrete launch and sheltered river channel opening to a Great Lake, with children safely waiting; not Mexico Point documentary photography",
+    "width": 1600,
+    "height": 900
+  },
+  "mexico-point-family-launch-card": {
+    "localPath": "assets/editorial/mexico-point-family-launch-card.webp",
+    "title": "Lake Ontario family launch planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic PFDs, lines, chock, VHF, water, dry bag and blank route and forecast cards; no current-weather or named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "family-boat-sun-exposure-plan-hero": {
+    "localPath": "assets/editorial/family-boat-sun-exposure-plan-hero.webp",
+    "title": "Conceptual family boat sun-protection planning under shade",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Stationary family runabout with bimini, fitted PFDs, sun shirts, brimmed hats, sunglasses and adult applying sunscreen; no protection guarantee",
+    "width": 1600,
+    "height": 900
+  },
+  "family-boat-sun-exposure-plan-card": {
+    "localPath": "assets/editorial/family-boat-sun-exposure-plan-card.webp",
+    "title": "Family boating UV-protection planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded sunscreen, sun shirt, wide-brim hat, sunglasses, watch, water and blank exposure worksheet; no medical or product claim",
+    "width": 1200,
+    "height": 900
   }
 }

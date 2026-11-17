@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-17 — fender-adjuster fit, Mexico Point and family sun planning
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Taylor Made product support | https://www.taylormadeproducts.com/contact-us/ | `boat-fender-line-adjuster-rail-clip-strap-fit-guide.html` — eleven-field rail, line, lock and contact-zone fit record | Invite correction of the category distinctions and offer the brand-neutral interface record while stating that the identified product instructions control. | Qualified manufacturer-resource opportunity; not contacted |
+| NYS Parks Central Region / Mexico Point | https://parks.ny.gov/parks/mexicopoint/getting-there.aspx | `mexico-point-family-boat-launch-lake-ontario-guide.html` — twelve-gate river-and-lake departure card | Invite correction of the published season, fee, parking and pet summary and offer the two-stage departure card as a companion to official launch information. | Qualified local-resource opportunity; not contacted |
+| EPA Sun Safety program | https://www.epa.gov/sunsafety/forms/contact-us-about-sun-safety | `family-boating-sun-uv-exposure-protection-plan.html` — twelve-field UV, shade, clothing, label and timing record | Invite correction of the UV Index and layered-protection summary and offer the boat-specific worksheet as sun-safety education, not medical advice. | Qualified federal education opportunity; not contacted |
+
 ## 2026-11-16 — bow-stop fit, Cayuta Lake and family hearing protection
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["mexico-point-family-boat-launch-lake-ontario-guide.html", "Mexico Point With a Family Boat: Treat the Little Salmon River as the Proof Zone Before Lake Ontario"],
     ["cayuta-lake-family-boat-launch-guide.html", "Cayuta Lake With a Family Boat: Use the 15-Trailer DEC Launch and Keep the First Loop Small"],
     ["north-sandy-pond-family-boat-launch-guide.html", "North Sandy Pond With a Family Boat: Use the 25-Trailer Launch, Prove the Pond and Keep Lake Ontario Optional"],
     ["jamesville-beach-park-family-cartop-paddling-guide.html", "Jamesville Beach Park With Kids: Carry the Boat, Respect the Seasonal Closure and Keep the Reservoir Loop Reversible"],
@@ -78,6 +79,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-fender-line-adjuster-rail-clip-strap-fit-guide.html", "Boat Fender-Line Adjusters: Match the Rail, Line and Contact Zone Before Choosing a Clip, Hanger or Strap"],
     ["boat-trailer-bow-stop-roller-v-block-fit-guide.html", "Boat-Trailer Bow Stops: Match the Roller, V-Block or Independent Support to the Bow Eye and Winch Line"],
     ["marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html", "Marine Sealants: Match Polyurethane, Silicone or Polysulfide to the Substrate, Movement and Future Removal"],
     ["boat-cleat-fixed-folding-pop-up-backing-fit-guide.html", "Boat Cleats: Match Fixed, Folding or Pop-Up Hardware to the Line, Deck Structure and Backing Before Buying"],
@@ -154,6 +156,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["family-boating-sun-uv-exposure-protection-plan.html", "Family Boating Sun Plan: Read the UV Index, Layer Protection and Schedule Reapplication Before Departure"],
     ["family-boating-noise-hearing-protection-plan.html", "Protect Family Hearing Aboard: Measure the Noise, Cut Exposure and Keep Safety Signals Audible"],
     ["family-boating-with-dog-pfd-boarding-heat-plan.html", "Family Boating With a Dog: Fit the Flotation Aid, Rehearse Boarding and Set Heat-and-Shore-Break Limits"],
     ["wheelchair-passenger-family-boat-day-transfer-seating-plan.html", "Family Boat Day With a Wheelchair User: Prove the Pier, Transfer, Seating and Emergency Exit Before Launch"],

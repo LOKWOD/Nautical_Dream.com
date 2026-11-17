@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-16T17:05:43.681Z",
+  "generatedAt": "2026-11-17T17:05:35.201Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 284,
-    "commercialLinks": 484,
-    "activeAffiliateLinks": 484,
+    "eligiblePages": 286,
+    "commercialLinks": 487,
+    "activeAffiliateLinks": 487,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 484,
+    "amazonAffiliateLinks": 487,
     "fallbackLinks": 0,
-    "changedPages": 73
+    "changedPages": 74
   },
   "links": [
     {
@@ -1482,6 +1482,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.seachoice.com/products/dock-lines/",
       "destinationUrl": "https://www.amazon.com/s?k=Seachoice+Double-Braid+Nylon+Dock+Line&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html",
+      "key": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html::boat-fender-line-adjuster-for-rail-or-lifeline",
+      "product": "boat fender line adjuster for rail or lifeline",
+      "visibleText": "Compare snap-over boat fender-line adjusters by exact rail or lifeline range, accepted line diameter, material and instructions",
+      "originalUrl": "https://www.amazon.com/s?k=boat+fender+line+adjuster+rail+diameter+line+size",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+fender+line+adjuster+for+rail+or+lifeline&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html",
+      "key": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html::boat-fender-rail-hanger-with-line-adjuster",
+      "product": "boat fender rail hanger with line adjuster",
+      "visibleText": "Compare boat fender rail hangers by rail shape and diameter, line range, locking path, fasteners and manufacturer use",
+      "originalUrl": "https://www.amazon.com/s?k=boat+fender+hanger+rail+diameter+jam+cleat+line+size",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+fender+rail+hanger+with+line+adjuster&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html",
+      "key": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html::adjustable-webbing-boat-fender-strap",
+      "product": "adjustable webbing boat fender strap",
+      "visibleText": "Compare adjustable webbing boat fender straps by loop route, buckle security, length range, UV guidance and fender interface",
+      "originalUrl": "https://www.amazon.com/s?k=adjustable+boat+fender+strap+rail+webbing+buckle",
+      "destinationUrl": "https://www.amazon.com/s?k=adjustable+webbing+boat+fender+strap&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
