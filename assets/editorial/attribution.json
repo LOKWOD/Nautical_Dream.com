@@ -6820,5 +6820,83 @@
     "query": "Unbranded sunscreen, sun shirt, wide-brim hat, sunglasses, watch, water and blank exposure worksheet; no medical or product claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-cockpit-table-pedestal-fit-hero": {
+    "localPath": "assets/editorial/boat-cockpit-table-pedestal-fit-hero.webp",
+    "title": "Conceptual cockpit-table and pedestal fit inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Stationary generic runabout with loose tabletop, two post sizes, base, measuring tools and blank fit worksheet; no exact product or structural approval claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-cockpit-table-pedestal-fit-card": {
+    "localPath": "assets/editorial/boat-cockpit-table-pedestal-fit-card.webp",
+    "title": "Cockpit-table interface and measurement kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic tabletop underside, two pedestal ends, flush and surface bases, locking collar, caliper, tape, straightedge and blank fit card; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "silver-lake-state-park-family-launch-hero": {
+    "localPath": "assets/editorial/silver-lake-state-park-family-launch-hero.webp",
+    "title": "Conceptual western New York family launch briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Dry-side family launch briefing beside small trailered aluminum boat at generic undeveloped western New York lake; not Silver Lake documentary photography",
+    "width": 1600,
+    "height": 900
+  },
+  "silver-lake-state-park-family-launch-card": {
+    "localPath": "assets/editorial/silver-lake-state-park-family-launch-card.webp",
+    "title": "Family inland-lake departure planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic PFDs, dry bag, water, map, compass, binoculars, wipes, key and blank rules card; no named-place or current-condition claim",
+    "width": 1200,
+    "height": 900
+  },
+  "blind-low-vision-family-boat-day-hero": {
+    "localPath": "assets/editorial/blind-low-vision-family-boat-day-hero.webp",
+    "title": "Conceptual blind or low-vision passenger boat orientation",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Respectful collaborative tactile boat-layout briefing with blind or low-vision adult, family crew and stationary boat; no universal assistance or compliance claim",
+    "width": 1600,
+    "height": 900
+  },
+  "blind-low-vision-family-boat-day-card": {
+    "localPath": "assets/editorial/blind-low-vision-family-boat-day-card.webp",
+    "title": "Nonvisual family boat-day briefing kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic PFD, tactile boat outline, high-contrast route, radio, whistle, nonslip mat, dock line, water and blank role card; no exact product or accessibility compliance claim",
+    "width": 1200,
+    "height": 900
   }
 }

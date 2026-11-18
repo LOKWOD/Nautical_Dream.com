@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-17T17:05:35.201Z",
+  "generatedAt": "2026-11-18T16:26:30.766Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 286,
-    "commercialLinks": 487,
-    "activeAffiliateLinks": 487,
+    "eligiblePages": 288,
+    "commercialLinks": 490,
+    "activeAffiliateLinks": 490,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 487,
+    "amazonAffiliateLinks": 490,
     "fallbackLinks": 0,
-    "changedPages": 74
+    "changedPages": 75
   },
   "links": [
     {
@@ -1053,6 +1053,39 @@
       "visibleText": "Compare pop-up boat cleats by exact cutout, travel depth, drain system, fasteners and backing requirements",
       "originalUrl": "https://www.amazon.com/s?k=marine+pop+up+boat+cleat+drain+cup+backing",
       "destinationUrl": "https://www.amazon.com/s?k=Pop-up+cleats+need+the+most+complete+underside+proof&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html",
+      "key": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html::complete-removable-marine-cockpit-table-system",
+      "product": "complete removable marine cockpit table system",
+      "visibleText": "Compare complete removable marine cockpit-table systems by named family, post and base interfaces, top dimensions, installation manual and replacement-part support",
+      "originalUrl": "https://www.amazon.com/s?k=removable+marine+boat+cockpit+table+complete+pedestal+base+top",
+      "destinationUrl": "https://www.amazon.com/s?k=complete+removable+marine+cockpit+table+system&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html",
+      "key": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html::marine-cockpit-table-pedestal-post-matched-to-system",
+      "product": "marine cockpit table pedestal post matched to system",
+      "visibleText": "Compare marine table pedestal posts by exact system family, end geometry, diameter, height, lock and manufacturer instructions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+table+pedestal+post+thread+lock+exact+diameter",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+cockpit+table+pedestal+post+matched+to+system&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html",
+      "key": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html::marine-table-pedestal-deck-base-and-tabletop-mount",
+      "product": "marine table pedestal deck base and tabletop mount",
+      "visibleText": "Compare marine table pedestal bases and tabletop mounts only by exact system family, cutout, bolt pattern, deck range, backing and installation instructions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+table+pedestal+base+mount+exact+system+family",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+table+pedestal+deck+base+and+tabletop+mount&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

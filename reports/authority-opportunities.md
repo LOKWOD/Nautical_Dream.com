@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-18 — cockpit-table fit, Silver Lake and nonvisual boat-day planning
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Springfield Marine product support | https://www.springfieldgrp.com/contact-us/ | `boat-cockpit-table-top-pedestal-base-fit-buying-guide.html` — twelve-field system, post, base, top and stowage record | Invite correction of the interface distinctions and offer the brand-neutral fit record while stating that exact product and boat-builder instructions control. | Qualified manufacturer-resource opportunity; not contacted |
+| New York State Parks / Silver Lake State Park | https://newyorkstateparks.reserveamerica.com/camping/silver-lake-state-park/r/campgroundDetails.do?contractCode=NY&parkId=2107 | `silver-lake-state-park-family-boat-launch-guide.html` — current-status-first twelve-gate family launch card | Invite correction of the closure, launch, parking and facility summary and offer the conservative departure card as a companion to official information. | Qualified local-resource opportunity; not contacted |
+| U.S. Access Board accessibility contacts | https://www.access-board.gov/contact/ | `blind-low-vision-passenger-family-boat-day-plan.html` — twelve-field communication, route, boarding and emergency record | Invite correction of the built-environment summary and offer the passenger-led planning record as an editorial application, not an ADA-compliance claim. | Qualified federal education opportunity; not contacted |
+
 ## 2026-11-17 — fender-adjuster fit, Mexico Point and family sun planning
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
