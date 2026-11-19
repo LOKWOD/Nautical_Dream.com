@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-18T16:26:30.766Z",
+  "generatedAt": "2026-11-19T16:45:11.409Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 288,
-    "commercialLinks": 490,
-    "activeAffiliateLinks": 490,
+    "eligiblePages": 291,
+    "commercialLinks": 493,
+    "activeAffiliateLinks": 493,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 490,
+    "amazonAffiliateLinks": 493,
     "fallbackLinks": 0,
-    "changedPages": 75
+    "changedPages": 19
   },
   "links": [
     {
@@ -1251,6 +1251,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://www.goldeagle.com/product/303-fabric-guard/",
       "destinationUrl": "https://www.amazon.com/s?k=303+Marine+Fabric+Guard&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html",
+      "key": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html::recessed-marine-cup-holder-with-drain-and-published-cutout-depth-and-outlet-dimensions",
+      "product": "recessed marine cup holder with drain and published cutout depth and outlet dimensions",
+      "visibleText": "Compare recessed marine cup holders only by the exact cutout, flange, depth, drain outlet, material and installation instructions",
+      "originalUrl": "https://www.amazon.com/s?k=recessed+marine+cup+holder+with+drain+published+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=recessed+marine+cup+holder+with+drain+and+published+cutout+depth+and+outlet+dimensions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html",
+      "key": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html::surface-mount-marine-cup-holder-with-published-footprint-fastener-pattern-and-instructions",
+      "product": "surface mount marine cup holder with published footprint fastener pattern and instructions",
+      "visibleText": "Compare surface-mount marine cup holders by footprint, fastener pattern, container range and maker instructions",
+      "originalUrl": "https://www.amazon.com/s?k=surface+mount+marine+cup+holder+published+footprint+fastener+pattern",
+      "destinationUrl": "https://www.amazon.com/s?k=surface+mount+marine+cup+holder+with+published+footprint+fastener+pattern+and+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html",
+      "key": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html::clamp-on-marine-cup-holder-matched-to-exact-rail-profile-diameter-and-orientation-limits",
+      "product": "clamp on marine cup holder matched to exact rail profile diameter and orientation limits",
+      "visibleText": "Compare clamp-on marine cup holders by exact rail profile, diameter range, orientation, container range and retention method",
+      "originalUrl": "https://www.amazon.com/s?k=clamp+on+marine+cup+holder+rail+diameter+range",
+      "destinationUrl": "https://www.amazon.com/s?k=clamp+on+marine+cup+holder+matched+to+exact+rail+profile+diameter+and+orientation+limits&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["myers-park-cayuga-lake-family-boat-launch-guide.html", "Myers Park With a Family Boat: Three Ramps, a Written Fee Gate and a Short Cayuga Lake Proof Run"],
     ["silver-lake-state-park-family-boat-launch-guide.html", "Silver Lake State Park With a Family Boat: Verify the Seasonal Gate, Then Keep the First Loop Small"],
     ["mexico-point-family-boat-launch-lake-ontario-guide.html", "Mexico Point With a Family Boat: Treat the Little Salmon River as the Proof Zone Before Lake Ontario"],
     ["cayuta-lake-family-boat-launch-guide.html", "Cayuta Lake With a Family Boat: Use the 15-Trailer DEC Launch and Keep the First Loop Small"],
@@ -80,6 +81,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html", "Boat Cup Holders: Match the Cutout, Depth, Drain and Mount Before Replacing One"],
     ["boat-cockpit-table-top-pedestal-base-fit-buying-guide.html", "Boat Cockpit Tables: Match the Top, Pedestal, Base and Stowage Envelope Before Buying"],
     ["boat-fender-line-adjuster-rail-clip-strap-fit-guide.html", "Boat Fender-Line Adjusters: Match the Rail, Line and Contact Zone Before Choosing a Clip, Hanger or Strap"],
     ["boat-trailer-bow-stop-roller-v-block-fit-guide.html", "Boat-Trailer Bow Stops: Match the Roller, V-Block or Independent Support to the Bow Eye and Winch Line"],
@@ -158,6 +160,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-show-shopping-exact-build-quote-deposit-sea-trial-guide.html", "Boat Show Shopping: Compare the Exact Build, Written Quote, Deposit and Sea-Trial Gates"],
     ["blind-low-vision-passenger-family-boat-day-plan.html", "Family Boat Day With a Blind or Low-Vision Passenger: Build the Route, Briefing and Emergency Plan Together"],
     ["family-boating-sun-uv-exposure-protection-plan.html", "Family Boating Sun Plan: Read the UV Index, Layer Protection and Schedule Reapplication Before Departure"],
     ["family-boating-noise-hearing-protection-plan.html", "Protect Family Hearing Aboard: Measure the Noise, Cut Exposure and Keep Safety Signals Audible"],

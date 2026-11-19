@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-19 — cup-holder fit, Myers Park and boat-show buying
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| SeaSense product support | https://seasense.com/pages/contact-us | `boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html` — twelve-field opening, flange, depth, drain and structure record | Invite correction of the category distinctions and exact SeaSense example while stating that each selected component and boat builder control installation. | Qualified manufacturer-resource opportunity; not contacted |
+| Town of Lansing Parks & Recreation | https://www.lansingtownny.gov/1257/Myers-Park | `myers-park-cayuga-lake-family-boat-launch-guide.html` — current-fee-first twelve-gate family launch card | Invite correction of the fee, ramp, facility and Salt Point summary and offer the conservative card as a companion to official visitor information. | Qualified local-resource opportunity; not contacted |
+| Discover Boating / NMMA consumer education | https://www.discoverboating.com/contact-us | `boat-show-shopping-exact-build-quote-deposit-sea-trial-guide.html` — twelve-field normalized show quote and acceptance record | Invite correction of the certification, quote, deposit and sea-trial summary and offer the brand-neutral comparison card for buyer education. | Qualified national education opportunity; not contacted |
+
 ## 2026-11-18 — cockpit-table fit, Silver Lake and nonvisual boat-day planning
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

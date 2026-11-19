@@ -6898,5 +6898,83 @@
     "query": "Generic PFD, tactile boat outline, high-contrast route, radio, whistle, nonslip mat, dock line, water and blank role card; no exact product or accessibility compliance claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-cup-holder-fit-hero": {
+    "localPath": "assets/editorial/boat-cup-holder-fit-hero.webp",
+    "title": "Conceptual boat cup-holder fit inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic loose recessed, surface and clamp-on cup-holder categories with caliper, tape, drain hose and blank fit worksheet; no exact product, installation or universal-fit claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-cup-holder-fit-card": {
+    "localPath": "assets/editorial/boat-cup-holder-fit-card.webp",
+    "title": "Boat cup-holder category and measurement kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic cup-holder categories, caliper, tape, ruler, hose, fasteners and blank measurement card; no exact product claim",
+    "width": 1200,
+    "height": 900
+  },
+  "myers-park-family-launch-hero": {
+    "localPath": "assets/editorial/myers-park-family-launch-hero.webp",
+    "title": "Conceptual Finger Lakes family launch briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Dry-side family briefing beside secured trailered runabout at generic wooded Finger Lakes ramp; not Myers Park documentary photography or a current-condition claim",
+    "width": 1600,
+    "height": 900
+  },
+  "myers-park-family-launch-card": {
+    "localPath": "assets/editorial/myers-park-family-launch-card.webp",
+    "title": "Family launch departure and fee-planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "PFDs, generic lake map, weather radio, water, dry bag, key, blank registration sleeve and blank checklist; no named-place claim",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-show-buying-hero": {
+    "localPath": "assets/editorial/boat-show-buying-hero.webp",
+    "title": "Conceptual family boat-show comparison",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family comparing blank specifications and quote beside generic runabout at conceptual indoor show; no actual dealer, model, price or transaction claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-show-buying-card": {
+    "localPath": "assets/editorial/boat-show-buying-card.webp",
+    "title": "Boat-show quote and comparison worksheet kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Blank comparison worksheet and quotes with generic key, HIN placeholder, calculator, tape and model boat; no actual price or transaction claim",
+    "width": 1200,
+    "height": 900
   }
 }

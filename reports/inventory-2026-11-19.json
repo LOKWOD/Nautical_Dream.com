@@ -1,0 +1,550 @@
+{
+  "date": "2026-11-19",
+  "stage": "pre-publication",
+  "pageCount": 505,
+  "imageCount": 572,
+  "checkedFields": [
+    "title",
+    "slug",
+    "h1 subject",
+    "description/search intent",
+    "datePublished",
+    "section angles",
+    "image src/alt associations",
+    "commercial categories"
+  ],
+  "completeInventoryHashes": {
+    "pages": "2a69bdc85d0c78d24c237a127b4bccbf870072192a51b063fcefb537b50fe905",
+    "titleSlugSubjectIntent": "0a2f36283b403f2d51e6efa4f54604fab47fd171497dea853490a20ac5322d2a",
+    "imageAssociations": "949b484affad008ea282c78382c422117d2e74af19e5f6079e76295e69c9c26c",
+    "commercialCategories": "7ad8344f1fb175fb0e36a40d835e6de111e6255e1c57cd01c2c14758c24b6791",
+    "creditedAssets": "7d0d74b5f04915de96974547196104736e406c2eafd76fe6ea2b0cf4f4cbe171"
+  },
+  "previousFourteenDays": [
+    {
+      "slug": "blind-low-vision-passenger-family-boat-day-plan.html",
+      "title": "Boat Day With a Blind or Low-Vision Passenger",
+      "heading": "Family Boat Day With a Blind or Low-Vision Passenger: Build the Route, Briefing and Emergency Plan Together",
+      "datePublished": "2026-11-18",
+      "description": "Plan a boat day with a blind or low-vision passenger using preferred communication, a described or tactile layout, consent-based guiding, clear routes and.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-cabin-fan-voltage-airflow-mounting-buying-guide.html",
+      "title": "Boat Cabin Fans: Voltage, Airflow and Mounting Guide",
+      "heading": "Boat Cabin Fan Buying Guide: Match Voltage, Airflow, Guarding, Mounting and the Ignition-Protected Boundary",
+      "datePublished": "2026-11-07",
+      "description": "Choose a boat cabin fan by space, voltage, current draw, airflow, guarding, controls, mount, wiring and manufacturer limits—without confusing comfort airflow.",
+      "commercialCategories": [
+        "guarded 12 or 24 volt direct-wire marine cabin fans with published current draw dimensions mount instructions and accommodation-space limits",
+        "guarded rechargeable clamp fans with documented battery charging clamp range runtime and dry-space limits for temporary boat cabin use",
+        "guarded compact USB cabin fans with documented input power current draw dimensions base stability and cable length"
+      ]
+    },
+    {
+      "slug": "boat-cleat-fixed-folding-pop-up-backing-fit-guide.html",
+      "title": "Boat Cleat Buying Guide: Fixed, Folding &amp; Pop-Up Fit",
+      "heading": "Boat Cleats: Match Fixed, Folding or Pop-Up Hardware to the Line, Deck Structure and Backing Before Buying",
+      "datePublished": "2026-11-14",
+      "description": "Choose a fixed, folding or pop-up boat cleat by line size, duty, footprint, underside clearance, drainage, backing and the boat maker’s strong-point design.",
+      "commercialCategories": [
+        "Fixed horn cleats favor simplicity and immediate access",
+        "Folding cleats reduce projection but add hinges and pinch zones",
+        "Pop-up cleats need the most complete underside proof"
+      ]
+    },
+    {
+      "slug": "boat-cockpit-table-top-pedestal-base-fit-buying-guide.html",
+      "title": "Boat Cockpit Tables: Top, Pedestal &amp; Base Fit Guide",
+      "heading": "Boat Cockpit Tables: Match the Top, Pedestal, Base and Stowage Envelope Before Buying",
+      "datePublished": "2026-11-18",
+      "description": "Choose a removable boat cockpit table by system family, post diameter, mount and base interface, height, top size, deck structure, clearance and secure stowage.",
+      "commercialCategories": [
+        "complete removable marine cockpit table system",
+        "marine cockpit table pedestal post matched to system",
+        "marine table pedestal deck base and tabletop mount"
+      ]
+    },
+    {
+      "slug": "boat-cover-support-pole-bow-frame-fit-buying-guide.html",
+      "title": "Boat Cover Supports: Pole, Webbing or Bow Fit Guide",
+      "heading": "Boat Cover Supports: Choose a Pole, Webbing System or Bow Frame Without Creating a New Failure Point",
+      "datePublished": "2026-11-09",
+      "description": "Compare boat-cover support poles, webbing systems and bows by cover interface, span, drainage geometry, attachment, storage and exact instructions.",
+      "commercialCategories": [
+        "adjustable boat-cover support pole with documented length range cover interfaces and manufacturer instructions",
+        "boat-cover webbing support system with documented attachment points adjustment method and installation instructions",
+        "boat-cover bow support system with documented span end fittings sockets and manufacturer instructions"
+      ]
+    },
+    {
+      "slug": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html",
+      "title": "Boat Cup Holders: Recessed, Surface &amp; Clamp Fit Guide",
+      "heading": "Boat Cup Holders: Match the Cutout, Depth, Drain and Mount Before Replacing One",
+      "datePublished": "2026-11-19",
+      "description": "Choose a recessed, surface-mount or clamp-on boat cup holder by opening, flange, depth, drain, fasteners, rail fit, structure and the exact installation instructions.",
+      "commercialCategories": [
+        "recessed marine cup holder with drain and published cutout depth and outlet dimensions",
+        "surface mount marine cup holder with published footprint fastener pattern and instructions",
+        "clamp on marine cup holder matched to exact rail profile diameter and orientation limits"
+      ]
+    },
+    {
+      "slug": "boat-fender-line-adjuster-rail-clip-strap-fit-guide.html",
+      "title": "Boat Fender Adjusters: Rail Clip, Hanger or Strap?",
+      "heading": "Boat Fender-Line Adjusters: Match the Rail, Line and Contact Zone Before Choosing a Clip, Hanger or Strap",
+      "datePublished": "2026-11-17",
+      "description": "Choose a boat fender-line adjuster by rail shape and diameter, line size, fender load, contact height, release method and manufacturer limits—not a.",
+      "commercialCategories": [
+        "boat fender line adjuster for rail or lifeline",
+        "boat fender rail hanger with line adjuster",
+        "adjustable webbing boat fender strap"
+      ]
+    },
+    {
+      "slug": "boat-fishing-line-hooks-trash-carry-back-plan.html",
+      "title": "Boat Fishing-Line and Trash Carry-Back Plan",
+      "heading": "Boat Fishing-Line, Hook and Trash Carry-Back Plan: Contain It Before It Reaches Water, Wildlife or the Prop",
+      "datePublished": "2026-11-07",
+      "description": "Build a four-zone boat cleanup system for clipped fishing line, hooks, ordinary trash and liquids—with safe snag, propeller and wildlife boundaries.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-propeller-replacement-diameter-pitch-hub-fit-guide.html",
+      "title": "Boat Propeller Replacement: Diameter, Pitch and Hub Fit",
+      "heading": "Boat Propeller Replacement Buying Guide: Prove Diameter, Pitch, Hub, Rotation and WOT Fit",
+      "datePublished": "2026-11-05",
+      "description": "Build a boat-propeller fit record for engine and drive family, shaft or hub, diameter, pitch, blade count, rotation, clearance and wide-open-throttle RPM.",
+      "commercialCategories": [
+        "boat replacement propellers matched by engine or drive model gearcase propeller series diameter pitch blade count rotation and material",
+        "marine propeller hub kits matched to the selected propeller hub system engine or drive model shaft spline and required thrust hardware",
+        "boat propeller installation hardware kits matched to the exact engine or drive propeller shaft thrust washer spacer nut keeper and manual"
+      ]
+    },
+    {
+      "slug": "boat-show-shopping-exact-build-quote-deposit-sea-trial-guide.html",
+      "title": "Boat Show Shopping: Exact Build, Quote &amp; Sea-Trial Guide",
+      "heading": "Boat Show Shopping: Compare the Exact Build, Written Quote, Deposit and Sea-Trial Gates",
+      "datePublished": "2026-11-19",
+      "description": "Shop a boat show without buying the display story: identify the exact build, normalize written quotes, verify dealer and boat records, and make survey, sea trial and acceptance terms explicit.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-shrink-wrap-recycling-clean-dry-contaminant-plan.html",
+      "title": "Boat Shrink-Wrap Recycling: Clean, Dry and Accepted",
+      "heading": "Boat Shrink-Wrap Recycling: Confirm the Receiver, Remove Contaminants and Keep the Film Clean and Dry",
+      "datePublished": "2026-11-08",
+      "description": "Build a receiver-first boat shrink-wrap plan: confirm acceptance, remove contaminants, keep film clean and dry, bundle it correctly and record the route.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "boat-storage-moisture-control-desiccant-air-dryer-dehumidifier-guide.html",
+      "title": "Boat Storage Moisture Control: Desiccant vs Dehumidifier",
+      "heading": "Boat Storage Moisture Control: Choose Desiccant, an Air Dryer or a Dehumidifier Without Creating a New Hazard",
+      "datePublished": "2026-11-12",
+      "description": "Choose boat-storage moisture control by enclosure, temperature, drainage, inspection access, shore power, spill risk and fuel-space boundaries.",
+      "commercialCategories": [
+        "Choose passive desiccant for small inspected spaces",
+        "Choose a low-watt air dryer only where its heat and clearances fit",
+        "Choose an active dehumidifier only with temperature and drainage proof"
+      ]
+    },
+    {
+      "slug": "boat-trailer-bow-stop-roller-v-block-fit-guide.html",
+      "title": "Boat-Trailer Bow Stop Fit: Roller, V-Block or Support?",
+      "heading": "Boat-Trailer Bow Stops: Match the Roller, V-Block or Independent Support to the Bow Eye and Winch Line",
+      "datePublished": "2026-11-16",
+      "description": "Choose a trailer bow roller, V-block or independent support by the trailer maker, bow-eye geometry, winch-line alignment, bracket range, shaft size and hull.",
+      "commercialCategories": [
+        "boat trailer tapered bow roller",
+        "boat trailer bow stop V-block",
+        "independent boat trailer bow support"
+      ]
+    },
+    {
+      "slug": "boat-trailer-bunk-carpet-cover-replacement-fit-guide.html",
+      "title": "Boat-Trailer Bunk Carpet &amp; Cover Replacement Guide",
+      "heading": "Boat-Trailer Bunk Carpet and Covers: Match the Hull, Board, Hardware and Loading Method Before Buying",
+      "datePublished": "2026-11-13",
+      "description": "Choose trailer bunk carpet, polymer covers or complete replacement bunks by hull material, board dimensions, support geometry, hardware and loading method.",
+      "commercialCategories": [
+        "Replace carpet when the support is sound and the maker still calls for carpet",
+        "Use a polymer cover only when hull and trailer guidance allow it",
+        "Choose a complete replacement bunk when the board or hidden hardware fails"
+      ]
+    },
+    {
+      "slug": "boat-warranty-claim-evidence-file-guide.html",
+      "title": "Boat Warranty Claim Evidence File: Owner Checklist",
+      "heading": "Boat Warranty Claim Evidence File: Build the Coverage, Maintenance, Symptom and Authorization Record",
+      "datePublished": "2026-11-05",
+      "description": "Build a boat warranty claim file with written coverage, identity, maintenance proof, symptom timeline, authorization, repair findings and safety-defect routes.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "buying-used-boat-in-winter-survey-sea-trial-contingency-guide.html",
+      "title": "Buying a Used Boat in Winter: Survey and Sea-Trial Contingencies",
+      "heading": "Buying a Used Boat in Winter: Inspect What You Can, Write the Deferred Sea Trial and Don’t Wake a Winterized Engine",
+      "datePublished": "2026-11-12",
+      "description": "Control a winter used-boat purchase with identity proof, independent survey, winterization records, deferred launch and sea-trial terms, and written acceptance.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "canopus-lake-fahnestock-family-paddling-guide.html",
+      "title": "Canopus Lake Family Paddling Guide at Fahnestock",
+      "heading": "Canopus Lake at Fahnestock With Kids: Permit Gate, Hand Launch and a Three-Hour Small-Craft Plan",
+      "datePublished": "2026-11-07",
+      "description": "Plan a family paddle or row at Canopus Lake around the required park permit, hand launch, electric-motor limit, seasonal rentals, beach rules, weather and a.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "cayuta-lake-family-boat-launch-guide.html",
+      "title": "Cayuta Lake Family Boat Launch Guide",
+      "heading": "Cayuta Lake With a Family Boat: Use the 15-Trailer DEC Launch and Keep the First Loop Small",
+      "datePublished": "2026-11-16",
+      "description": "Plan a family boat day at Cayuta Lake from the DEC concrete ramp on Lock Heid Road, with a short proof loop, facility-independent logistics and conservative.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "cedar-point-state-park-family-boat-launch-guide.html",
+      "title": "Cedar Point State Park Family Boat Launch Guide",
+      "heading": "Cedar Point State Park With a Family Boat: Fifteen Trailer Spaces, Seasonal Services and a Short River Proof Run",
+      "datePublished": "2026-11-13",
+      "description": "Plan a Cedar Point State Park family boat day around its 15-space hard ramp, seasonal 2026 facilities, dockage, St. Lawrence weather and a conservative first run.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "chenango-valley-state-park-family-cartop-paddling-guide.html",
+      "title": "Chenango Valley State Park Family Cartop Paddling Guide",
+      "heading": "Chenango Valley State Park With Kids: Hand-Carry the Boat, Confirm the Boathouse and Respect the October 15 Stop",
+      "datePublished": "2026-11-12",
+      "description": "Plan a Chenango Valley State Park family paddle around cartop-only access, no gas motors or trailers, the April 15–October 15 season and current rental status.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "clean-drain-dry-trailerable-boat-transfer-plan.html",
+      "title": "Clean–Drain–Dry Plan for Trailerable Boats Between Lakes",
+      "heading": "Clean, Drain, Dry Before the Next Lake: A Trailerable-Boat Transfer Plan That Names Every Hidden Zone",
+      "datePublished": "2026-11-11",
+      "description": "Use a repeatable Clean–Drain–Dry record for boats, trailers, bilges, livewells, anchors, fishing gear and paddlecraft before moving between public waters.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "delta-lake-state-park-family-boat-launch-guide.html",
+      "title": "Delta Lake State Park Family Boat Launch Guide",
+      "heading": "Delta Lake State Park With a Family Boat: Seasonal Hard Ramp, Low-Water Gate and a Short Proof Run",
+      "datePublished": "2026-11-11",
+      "description": "Plan a Delta Lake family boat day around the seasonal hard-surface launch, low-water warning, 70-rig capacity, PFD rules and shore fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "dock-edge-bumper-profile-fit-buying-guide.html",
+      "title": "Dock Edge Bumpers: D, P and Flat Profile Fit Guide",
+      "heading": "Dock Edge Bumpers: Match the D, P or Flat Profile to the Boat Contact Zone Before Buying",
+      "datePublished": "2026-11-08",
+      "description": "Choose dock edging by the boat contact zone, water-level range, dock face, profile geometry, fasteners and exact manufacturer instructions.",
+      "commercialCategories": [
+        "marine D-profile dock edging with published cross-section dimensions material and manufacturer installation instructions",
+        "marine P-profile or top-wrap dock edging with published profile dimensions material and manufacturer mounting instructions",
+        "marine flat-face and corner dock bumpers with documented projection dimensions backing and installation instructions"
+      ]
+    },
+    {
+      "slug": "dock-swim-ladder-depth-freeboard-mounting-guide.html",
+      "title": "Dock Swim Ladders: Depth, Freeboard and Mounting Guide",
+      "heading": "Dock Swim Ladder Buying Guide: Match Water Depth, Freeboard, Exit Geometry and Mounting Structure",
+      "datePublished": "2026-11-06",
+      "description": "Choose a dock swim ladder by water depth, dock freeboard, submerged steps, handle geometry, mounting structure, stow position and manufacturer instructions.",
+      "commercialCategories": [
+        "fixed dock swim ladders with documented deck-to-lowest-rung reach rail spacing mounting dimensions load limit and installation manual",
+        "flip-up or slide-up dock swim ladders with documented deployment reach mounting envelope load limit and in-water access instructions",
+        "removable quick-release dock ladder systems with documented receiver structure locking method load limit and storage instructions"
+      ]
+    },
+    {
+      "slug": "dropped-gear-overboard-small-boat-recovery-decision-guide.html",
+      "title": "Dropped Gear Overboard: Small-Boat Recovery Decision",
+      "heading": "Dropped Gear Overboard: Nobody Jumps—Stop, Mark, Decide and Recover Only When the Boat Is Safe",
+      "datePublished": "2026-11-10",
+      "description": "Use a conservative small-boat plan for dropped hats and gear: protect people, maintain lookout, assess, and leave property when recovery adds risk.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "family-boat-day-child-wandering-handoff-emergency-plan.html",
+      "title": "Family Boat Day Child-Wandering Safety Plan",
+      "heading": "Family Boat Day With a Child Who May Wander: Build the Shore Handoff, Worn-PFD and Emergency Search Plan",
+      "datePublished": "2026-11-13",
+      "description": "Build a respectful boat-day plan for a child who may wander using named supervision, fitted life jackets, ID information, predictable transitions and immediate.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "family-boating-noise-hearing-protection-plan.html",
+      "title": "Family Boat Noise &amp; Hearing Protection Plan",
+      "heading": "Protect Family Hearing Aboard: Measure the Noise, Cut Exposure and Keep Safety Signals Audible",
+      "datePublished": "2026-11-16",
+      "description": "Build a family boat-noise plan around source control, distance, shorter exposure, breaks, correctly fitted hearing protection and an operator communication and.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "family-boating-sun-uv-exposure-protection-plan.html",
+      "title": "Family Boating Sun &amp; UV Protection Plan",
+      "heading": "Family Boating Sun Plan: Read the UV Index, Layer Protection and Schedule Reapplication Before Departure",
+      "datePublished": "2026-11-17",
+      "description": "Build a family boat sun plan from the daily UV Index, shade, clothing, hats, sunglasses, label-directed sunscreen and a written reapplication and exit schedule.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "family-boating-with-dog-pfd-boarding-heat-plan.html",
+      "title": "Boating With a Dog: PFD, Boarding &amp; Heat Plan",
+      "heading": "Family Boating With a Dog: Fit the Flotation Aid, Rehearse Boarding and Set Heat-and-Shore-Break Limits",
+      "datePublished": "2026-11-15",
+      "description": "Build a family dog-aboard plan around veterinary readiness, pet flotation fit, controlled boarding, nonslip footing, shade, water, shore breaks and an early exit.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "gilbert-lake-state-park-family-paddling-guide.html",
+      "title": "Gilbert Lake State Park Family Paddling Guide",
+      "heading": "Gilbert Lake State Park With Kids: Cartop Launch, Rental Window and a Reversible First Paddle",
+      "datePublished": "2026-11-09",
+      "description": "Plan a Gilbert Lake family paddle around cartop-only access, short carry, rental timing, electric-motor rules, life jackets and an easy shore fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "higley-flow-state-park-family-boat-launch-guide.html",
+      "title": "Higley Flow State Park Family Boat Launch Guide",
+      "heading": "Higley Flow State Park With a Family Boat: Ten Trailer Spaces, a Hard Ramp and a Short Proof Loop",
+      "datePublished": "2026-11-06",
+      "description": "Plan a family boat day at Higley Flow State Park around its 10-space hard-surface launch, 2026 season, fees, amenities, pets, weather and shore backup.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "jamesville-beach-park-family-cartop-paddling-guide.html",
+      "title": "Jamesville Beach Park Family Paddling Guide",
+      "heading": "Jamesville Beach Park With Kids: Carry the Boat, Respect the Seasonal Closure and Keep the Reservoir Loop Reversible",
+      "datePublished": "2026-11-14",
+      "description": "Plan a family kayak or canoe day at Jamesville Beach Park around its hand-carry launch, November–March closure, seasonal restrooms, beach rules and easy return plan.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "kayak-canoe-cart-hull-fit-wheel-terrain-buying-guide.html",
+      "title": "Kayak &amp; Canoe Cart Fit Guide: Hull, Load and Wheels",
+      "heading": "Kayak and Canoe Carts: Match the Hull, Loaded Weight and Carry Surface Before You Buy",
+      "datePublished": "2026-11-10",
+      "description": "Choose a kayak or canoe cart by hull contact, loaded weight, frame width, strap route, wheel surface and exact manufacturer instructions—not a universal-fit claim.",
+      "commercialCategories": [
+        "padded center-cradle kayak or canoe cart with published capacity contact width strap route and instructions",
+        "adjustable bunk-style kayak or canoe cart with published capacity bunk spacing hull guidance and instructions",
+        "wide soft-terrain wheel kayak or canoe cart with published capacity axle details hull contact and instructions"
+      ]
+    },
+    {
+      "slug": "lake-taghkanic-state-park-family-paddling-guide.html",
+      "title": "Lake Taghkanic Family Paddling Guide: Launch &amp; Permit",
+      "heading": "Lake Taghkanic State Park With Kids: Choose the Launch, Prove the Permit and Keep the First Loop Reversible",
+      "datePublished": "2026-11-10",
+      "description": "Plan a Lake Taghkanic family paddle around the two launch types, boat permit, electric-only motor rule, rentals, seasonal fees, weather and shore fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "marine-deck-hatch-access-plate-cutout-fit-guide.html",
+      "title": "Marine Deck Hatches: Cutout, Flange and Deck Fit Guide",
+      "heading": "Marine Deck Hatches and Access Plates: Match the Cutout, Deck, Seal and Job Before Buying",
+      "datePublished": "2026-11-11",
+      "description": "Choose a marine deck hatch or access plate by exact cutout, corner radius, flange, deck construction, exposure, seal and maker instructions.",
+      "commercialCategories": [
+        "rectangular marine utility access hatches with published cutout corner radius flange deck thickness latch and installation instructions",
+        "round marine inspection deck plates with published cutout diameter material traffic guidance seal and installation instructions",
+        "framed opening marine ventilation hatches with published cutout radius deck thickness opening sweep sealing and fitting instructions"
+      ]
+    },
+    {
+      "slug": "marine-sealant-polyurethane-silicone-polysulfide-compatibility-guide.html",
+      "title": "Marine Sealant Guide: Polyurethane, Silicone or Polysulfide?",
+      "heading": "Marine Sealants: Match Polyurethane, Silicone or Polysulfide to the Substrate, Movement and Future Removal",
+      "datePublished": "2026-11-15",
+      "description": "Choose a marine sealant by exact substrates, joint movement, water exposure, cure conditions, paintability, chemical contact and future disassembly—not color or.",
+      "commercialCategories": [
+        "marine polyurethane adhesive sealant",
+        "marine silicone glazing sealant",
+        "marine polysulfide bedding sealant"
+      ]
+    },
+    {
+      "slug": "mexico-point-family-boat-launch-lake-ontario-guide.html",
+      "title": "Mexico Point Family Boat Launch Guide for Lake Ontario",
+      "heading": "Mexico Point With a Family Boat: Treat the Little Salmon River as the Proof Zone Before Lake Ontario",
+      "datePublished": "2026-11-17",
+      "description": "Plan a Mexico Point family launch around the published April 1–November 1 season, dual concrete ramps, official parking records, Lake Ontario forecast and an.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "myers-park-cayuga-lake-family-boat-launch-guide.html",
+      "title": "Myers Park Family Boat Launch Guide on Cayuga Lake",
+      "heading": "Myers Park With a Family Boat: Three Ramps, a Written Fee Gate and a Short Cayuga Lake Proof Run",
+      "datePublished": "2026-11-19",
+      "description": "Plan a family boat day from Myers Park in Lansing with official 2026 launch and admission fees, three ramps, parking checks, HAB and weather gates, shore backups and a short first route.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "nicks-lake-old-forge-family-paddling-guide.html",
+      "title": "Nicks Lake Family Paddling Guide Near Old Forge",
+      "heading": "Nicks Lake Near Old Forge With Kids: No-Motor Water, Seasonal Launch and a Two-Hour Proof Loop",
+      "datePublished": "2026-11-08",
+      "description": "Plan Nicks Lake with kids around the no-motor rule, seasonal launch, fee, shallow water, weather, swimming boundary and shore fallback.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "north-sandy-pond-family-boat-launch-guide.html",
+      "title": "North Sandy Pond Family Boat Launch Guide",
+      "heading": "North Sandy Pond With a Family Boat: Use the 25-Trailer Launch, Prove the Pond and Keep Lake Ontario Optional",
+      "datePublished": "2026-11-15",
+      "description": "Plan a family boat day from the DEC North Sandy Pond launch using its hard-surface ramp and 25-rig parking while treating the Lake Ontario outlet as unverified.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "operator-incapacitated-passenger-emergency-card.html",
+      "title": "If the Boat Operator Can’t Continue: Passenger Card",
+      "heading": "If the Boat Operator Can’t Continue: Build a Passenger “Stop, Call, Position, Float” Card",
+      "datePublished": "2026-11-06",
+      "description": "Build a boat-specific passenger emergency card for safely reducing immediate motion, calling for help, reporting position and keeping everyone afloat.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "silver-lake-state-park-family-boat-launch-guide.html",
+      "title": "Silver Lake State Park Family Boat Launch Guide",
+      "heading": "Silver Lake State Park With a Family Boat: Verify the Seasonal Gate, Then Keep the First Loop Small",
+      "datePublished": "2026-11-18",
+      "description": "Plan a Silver Lake State Park family launch around the current closure notice, hard ramp, 40-rig published capacity, facilities, weather, water quality and.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "teach-kids-navigation-buoys-20-minute-tabletop-drill.html",
+      "title": "Teach Kids Navigation Buoys: 20-Minute Drill",
+      "heading": "Teach Kids Navigation Buoys in 20 Minutes: A Red, Green and Orange Tabletop Drill",
+      "datePublished": "2026-11-09",
+      "description": "Run a simple family tabletop buoy drill using red, green and orange markers, a toy boat and two direction changes—then transfer the lesson carefully to real water.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "thompsons-lake-state-park-carry-in-family-paddling-guide.html",
+      "title": "Thompson's Lake State Park Family Paddling Guide",
+      "heading": "Thompson's Lake State Park Carry-In Family Paddling Guide: Launch, Rentals and a Short Proof Loop",
+      "datePublished": "2026-11-05",
+      "description": "Plan a family paddle at Thompson's Lake State Park with its carry-in-only park access, seasonal rentals and swimming, PFD rules, pets, parking and land backup.",
+      "commercialCategories": []
+    },
+    {
+      "slug": "wheelchair-passenger-family-boat-day-transfer-seating-plan.html",
+      "title": "Wheelchair User Family Boat Day Planning Guide",
+      "heading": "Family Boat Day With a Wheelchair User: Prove the Pier, Transfer, Seating and Emergency Exit Before Launch",
+      "datePublished": "2026-11-14",
+      "description": "Plan a family boat day with a wheelchair user by verifying the accessible route, pier gap, transfer choice, onboard seating, mobility-device plan and emergency exit.",
+      "commercialCategories": []
+    }
+  ],
+  "newPages": [
+    {
+      "slug": "boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html",
+      "title": "Boat Cup Holders: Recessed, Surface &amp; Clamp Fit Guide",
+      "heading": "Boat Cup Holders: Match the Cutout, Depth, Drain and Mount Before Replacing One",
+      "description": "Choose a recessed, surface-mount or clamp-on boat cup holder by opening, flange, depth, drain, fasteners, rail fit, structure and the exact installation instructions.",
+      "angles": [
+        "Start with the existing part, not a shopping photo",
+        "Build the twelve-field cup-holder fit record",
+        "Choose recessed only when the whole cavity is proven",
+        "Use surface-mount hardware to avoid a large cutout—within limits",
+        "Choose a clamp-on holder when the rail is truly compatible",
+        "Make drainage explicit before the dry fit",
+        "Check bottles, cans and motion without pretending one holder fits all",
+        "Match materials and fasteners to the boat—not just the rim",
+        "Do a zero-damage fit check before any drilling",
+        "Know what not to buy and who should skip the job",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": [
+        "recessed marine cup holder with drain and published cutout depth and outlet dimensions",
+        "surface mount marine cup holder with published footprint fastener pattern and instructions",
+        "clamp on marine cup holder matched to exact rail profile diameter and orientation limits"
+      ]
+    },
+    {
+      "slug": "boat-show-shopping-exact-build-quote-deposit-sea-trial-guide.html",
+      "title": "Boat Show Shopping: Exact Build, Quote &amp; Sea-Trial Guide",
+      "heading": "Boat Show Shopping: Compare the Exact Build, Written Quote, Deposit and Sea-Trial Gates",
+      "description": "Shop a boat show without buying the display story: identify the exact build, normalize written quotes, verify dealer and boat records, and make survey, sea trial and acceptance terms explicit.",
+      "angles": [
+        "Define the use case before walking the floor",
+        "Use the twelve-field show comparison card",
+        "Identify the exact boat behind the display",
+        "Treat certification and dealer programs as evidence—not a verdict",
+        "Normalize the written quote before comparing price",
+        "Separate trade, financing and purchase price",
+        "Write the deposit rule before paying",
+        "Keep an independent inspection or survey gate",
+        "Make the sea trial resemble the real use case",
+        "Audit the trailer and tow system as a separate machine",
+        "Use the show day as a collection itinerary",
+        "Know what not to buy and who should skip a show deal",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": []
+    },
+    {
+      "slug": "myers-park-cayuga-lake-family-boat-launch-guide.html",
+      "title": "Myers Park Family Boat Launch Guide on Cayuga Lake",
+      "heading": "Myers Park With a Family Boat: Three Ramps, a Written Fee Gate and a Short Cayuga Lake Proof Run",
+      "description": "Plan a family boat day from Myers Park in Lansing with official 2026 launch and admission fees, three ramps, parking checks, HAB and weather gates, shore backups and a short first route.",
+      "angles": [
+        "Read the two official fee gates before leaving home",
+        "Use the twelve-gate departure card",
+        "Stage the family away from the ramp lanes",
+        "Run a short proof loop before choosing a direction",
+        "Use a three-hour first-visit itinerary",
+        "Check harmful algal blooms twice",
+        "Pack for independence even when facilities are listed",
+        "Use Salt Point as a separate shore fallback, not a motorboat launch",
+        "Ask exact accessibility and pet questions",
+        "Know who should skip Myers Park that day",
+        "Retrieve before the whole crew is done",
+        "Frequently asked questions",
+        "Plan with current information",
+        "Keep exploring"
+      ],
+      "images": [
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        },
+        {
+          "src": "assets/nautical-dream-logo.png",
+          "alt": "Nautical Dream"
+        }
+      ],
+      "commercialCategories": []
+    }
+  ]
+}
