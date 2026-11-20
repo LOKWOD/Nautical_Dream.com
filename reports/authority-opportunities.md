@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-20 — speaker compatibility, Wilson-Tuscarora launch gates and family berth readiness
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Garmin/Fusion product support | https://support.garmin.com/ | `marine-speaker-replacement-cutout-depth-impedance-fit-guide.html` — fifteen-field dimensional, electrical, exposure and compass record | Invite correction of the compatibility workflow and official XS-series example while stating that each exact speaker, source and vessel manual controls installation. | Qualified manufacturer-resource opportunity; not contacted |
+| Wilson-Tuscarora State Park | https://parks.ny.gov/parks/wilsontuscarora/details.aspx | `wilson-tuscarora-state-park-family-boat-launch-guide.html` — season-closed-first fourteen-gate bay and Lake Ontario decision card | Invite correction of the launch season, fee, parking, marina amenity and Tuscarora Bay summary while keeping Lake Ontario as a separate weather gate. | Qualified local-resource opportunity; not contacted |
+| U.S. Coast Guard Boating Safety Division | https://www.uscgboating.org/contact.php | `kids-sleeping-aboard-berth-co-night-exit-plan.html` — twelve-gate berth, CO, PFD, exit and adult-watch card | Invite correction of the federal CO and child-PFD summary and offer the conservative framework as a companion to official safety education. | Qualified national safety-resource opportunity; not contacted |
+
 ## 2026-11-19 — cup-holder fit, Myers Park and boat-show buying
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

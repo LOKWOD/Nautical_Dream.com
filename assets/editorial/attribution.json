@@ -6976,5 +6976,83 @@
     "query": "Blank comparison worksheet and quotes with generic key, HIN placeholder, calculator, tape and model boat; no actual price or transaction claim",
     "width": 1200,
     "height": 900
+  },
+  "marine-speaker-replacement-hero": {
+    "localPath": "assets/editorial/marine-speaker-replacement-hero.webp",
+    "title": "Conceptual marine-speaker compatibility inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic loose round marine speaker categories with caliper, tape, blank cutout template and fasteners; no exact product, energized circuit, installation or universal-fit claim",
+    "width": 1600,
+    "height": 900
+  },
+  "marine-speaker-replacement-card": {
+    "localPath": "assets/editorial/marine-speaker-replacement-card.webp",
+    "title": "Marine-speaker category and fit-record kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic round marine speakers, caliper, tape, blank dimensional card, pencil and fasteners; no exact product or connected wiring",
+    "width": 1200,
+    "height": 900
+  },
+  "wilson-tuscarora-family-launch-hero": {
+    "localPath": "assets/editorial/wilson-tuscarora-family-launch-hero.webp",
+    "title": "Conceptual Upstate New York family launch briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family in PFDs beside secured trailered runabout at generic Upstate New York lake ramp with blank launch card; not Wilson-Tuscarora documentary photography, current access or current water conditions",
+    "width": 1600,
+    "height": 900
+  },
+  "wilson-tuscarora-family-launch-card": {
+    "localPath": "assets/editorial/wilson-tuscarora-family-launch-card.webp",
+    "title": "Family seasonal launch-gate planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "PFDs, blank launch and registration cards, generic lake map, weather radio and Clean-Drain-Dry brush; no named-place or current-rule claim",
+    "width": 1200,
+    "height": 900
+  },
+  "kids-sleeping-aboard-hero": {
+    "localPath": "assets/editorial/kids-sleeping-aboard-hero.webp",
+    "title": "Conceptual family sleeping-aboard safety briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family inside stationary generic cabin boat rehearsing clear night exit with accessible PFDs, flashlights and CO alarm; no model-specific berth or monitored-overnight claim",
+    "width": 1600,
+    "height": 900
+  },
+  "kids-sleeping-aboard-card": {
+    "localPath": "assets/editorial/kids-sleeping-aboard-card.webp",
+    "title": "Family overnight berth-readiness kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down PFDs, flashlights, generic CO alarm, warm layer, first aid, blank float plan and weather radio on clean berth; no exact product claim",
+    "width": 1200,
+    "height": 900
   }
 }

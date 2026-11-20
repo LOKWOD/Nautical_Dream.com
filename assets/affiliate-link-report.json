@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-19T16:45:11.409Z",
+  "generatedAt": "2026-11-20T17:14:39.660Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 291,
-    "commercialLinks": 493,
-    "activeAffiliateLinks": 493,
+    "eligiblePages": 293,
+    "commercialLinks": 496,
+    "activeAffiliateLinks": 496,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 493,
+    "amazonAffiliateLinks": 496,
     "fallbackLinks": 0,
-    "changedPages": 19
+    "changedPages": 155
   },
   "links": [
     {
@@ -4683,6 +4683,39 @@
       "visibleText": "Compare marine polysulfide sealants by named substrates, movement, paintability, chemical exposure, waterline use and cure schedule",
       "originalUrl": "https://www.amazon.com/s?k=marine+polysulfide+sealant+technical+data+sheet",
       "destinationUrl": "https://www.amazon.com/s?k=marine+polysulfide+bedding+sealant&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-speaker-replacement-cutout-depth-impedance-fit-guide.html",
+      "key": "marine-speaker-replacement-cutout-depth-impedance-fit-guide.html::marine-speaker-pair-with-published-impedance-cutout-depth-and-installation-manual",
+      "product": "marine speaker pair with published impedance cutout depth and installation manual",
+      "visibleText": "Compare marine speaker pairs with published impedance, cutout, depth and installation instructions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+speakers+published+impedance+cutout+depth+manual",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+speaker+pair+with+published+impedance+cutout+depth+and+installation+manual&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-speaker-replacement-cutout-depth-impedance-fit-guide.html",
+      "key": "marine-speaker-replacement-cutout-depth-impedance-fit-guide.html::marine-stereo-speaker-set-with-rms-impedance-and-manufacturer-installation-documentation",
+      "product": "marine stereo speaker set with RMS impedance and manufacturer installation documentation",
+      "visibleText": "Compare marine speaker sets by RMS rating, impedance and maker documentation",
+      "originalUrl": "https://www.amazon.com/s?k=marine+stereo+speaker+RMS+impedance+installation+manual",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+stereo+speaker+set+with+RMS+impedance+and+manufacturer+installation+documentation&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "marine-speaker-replacement-cutout-depth-impedance-fit-guide.html",
+      "key": "marine-speaker-replacement-cutout-depth-impedance-fit-guide.html::marine-speaker-with-published-weather-exposure-orientation-sealing-and-compass-clearance-i",
+      "product": "marine speaker with published weather exposure orientation sealing and compass clearance instructions",
+      "visibleText": "Compare marine speakers with published exposure, sealing, orientation and compass-clearance instructions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+speakers+UV+salt+water+published+mounting+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+speaker+with+published+weather+exposure+orientation+sealing+and+compass+clearance+instructions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
