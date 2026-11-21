@@ -7054,5 +7054,83 @@
     "query": "Top-down PFDs, flashlights, generic CO alarm, warm layer, first aid, blank float plan and weather radio on clean berth; no exact product claim",
     "width": 1200,
     "height": 900
+  },
+  "boat-hatch-screen-shade-fit-hero": {
+    "localPath": "assets/editorial/boat-hatch-screen-shade-fit-hero.webp",
+    "title": "Conceptual boat hatch screen and shade compatibility inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic removable hatch mesh, pleated shade, roller cassette, tape, caliper and blank fit worksheet below unobstructed open hatch; no exact product, completed installation or universal-fit claim",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-hatch-screen-shade-fit-card": {
+    "localPath": "assets/editorial/boat-hatch-screen-shade-fit-card.webp",
+    "title": "Boat hatch screen and shade fit-record kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic hatch screen mesh, pleated shade, roller cassette, tape, caliper and blank dimensional card; no exact product or installation claim",
+    "width": 1200,
+    "height": 900
+  },
+  "oneida-shores-family-launch-hero": {
+    "localPath": "assets/editorial/oneida-shores-family-launch-hero.webp",
+    "title": "Conceptual Central New York multi-lane family launch briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family in fitted PFDs beside stationary secured trailered runabout at generic multi-lane Upstate New York lake ramp with blank checklist; not Oneida Shores documentary photography, current access or current water conditions",
+    "width": 1600,
+    "height": 900
+  },
+  "oneida-shores-family-launch-card": {
+    "localPath": "assets/editorial/oneida-shores-family-launch-card.webp",
+    "title": "Family launch-status and proof-run planning kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Four generic foam PFDs, blank launch checklist, generic unnamed lake map, weather radio, Clean-Drain-Dry brush and water; no named-place or current-rule claim",
+    "width": 1200,
+    "height": 900
+  },
+  "family-boating-asthma-plan-hero": {
+    "localPath": "assets/editorial/family-boating-asthma-plan-hero.webp",
+    "title": "Conceptual family asthma boat-day readiness briefing",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Parent and school-age child in fitted PFDs reviewing blank action card aboard stationary generic runabout with immediate shore exit and plain protective pouch; no symptoms, treatment, labeled medicine or real patient",
+    "width": 1600,
+    "height": 900
+  },
+  "family-boating-asthma-plan-card": {
+    "localPath": "assets/editorial/family-boating-asthma-plan-card.webp",
+    "title": "Family asthma action-plan and air-quality readiness kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down child PFD, blank action card, plain protective pouch, color-only AQI phone, water, hat and blank emergency card; no labels, medical claims or exact product endorsement",
+    "width": 1200,
+    "height": 900
   }
 }

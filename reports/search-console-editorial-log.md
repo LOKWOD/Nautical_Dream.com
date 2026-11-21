@@ -1,5 +1,13 @@
 # Search Console editorial decisions
 
+## 2026-11-21
+
+- Report checked: `LOKWOD/site-analytics` generated 2026-11-18, covering 2026-10-19 through 2026-11-15. It is three days old and usable under the eight-day rule.
+- Site signal: 19 impressions, 1 click, 5.3% CTR and average position 5.6; reported activity remains too sparse for a reliable nonbranded topic decision. The batch therefore strengthens the homepage, three hubs, feed, sitemap, catalog and six established-page crawl paths instead of chasing a tiny query sample.
+- Query/page signal used: “nautical dreams” had 3 impressions, 1 click and average position 7.3. It is branded navigation, so it justified stronger discovery and trust paths, not a competing branded article.
+- Weak signal deliberately ignored: `www.lakecomoboatfinder.com` (2 impressions, position 12.5) is competitor/domain noise, and `nauticaladvice.com` (1 impression, position 25) is too small and irrelevant. Neither selected a topic.
+- Editorial effect: no page is labeled Data-led because no supported nonbranded cluster exists. The batch adds one high-intent cabin-compatibility guide, one specific Central New York launch plan and one inclusive family health-logistics framework without repeating the previous fourteen days.
+
 ## 2026-11-20
 
 - Report checked: `LOKWOD/site-analytics` generated 2026-11-18, covering 2026-10-19 through 2026-11-15. It is two days old and usable under the eight-day rule.

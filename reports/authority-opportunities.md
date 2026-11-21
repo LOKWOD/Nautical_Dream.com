@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-21 — hatch fit, Oneida Shores launch and asthma boat-day planning
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Lewmar technical support | https://www.lewmar.com/contact-us | `boat-hatch-screen-shade-opening-frame-egress-fit-guide.html` — sixteen-field opening, frame, travel, ventilation and egress record | Invite correction of the compatibility workflow and official size-guide examples while stating that each exact hatch and accessory manual controls installation. | Qualified manufacturer-resource opportunity; not contacted |
+| Onondaga County Parks, Oneida Shores | https://onondagacountyparks.com/parks/oneida-shores-park/ | `oneida-shores-park-family-boat-launch-guide.html` — eight-lane map digest and fifteen-gate family launch card | Invite correction of the current hours, fee, off-season, payment, dock, lane and facility summary; keep the lake route explicitly editorial. | Qualified local-resource opportunity; not contacted |
+| CDC Asthma Program | https://www.cdc.gov/asthma/php/about/contact-us.html | `family-boating-child-asthma-action-air-quality-exit-plan.html` — action-plan, AQI, supply-access and evacuation logistics card | Invite correction of the CDC action-plan summary while making clear that the page never changes a clinician’s plan or medication instructions. | Qualified public-health resource opportunity; not contacted |
+
 ## 2026-11-20 — speaker compatibility, Wilson-Tuscarora launch gates and family berth readiness
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

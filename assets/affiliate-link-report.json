@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-20T17:14:39.660Z",
+  "generatedAt": "2026-11-21T16:23:48.162Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 293,
-    "commercialLinks": 496,
-    "activeAffiliateLinks": 496,
+    "eligiblePages": 295,
+    "commercialLinks": 499,
+    "activeAffiliateLinks": 499,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 496,
+    "amazonAffiliateLinks": 499,
     "fallbackLinks": 0,
-    "changedPages": 155
+    "changedPages": 66
   },
   "links": [
     {
@@ -1779,6 +1779,39 @@
       "visibleText": "View marine fuel-filter service tools on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=marine+fuel+filter+wrench+spill+absorbent+kit",
       "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+service+wrench+and+fuel+compatible+absorbent+supplies&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-screen-shade-opening-frame-egress-fit-guide.html",
+      "key": "boat-hatch-screen-shade-opening-frame-egress-fit-guide.html::combination-boat-hatch-screen-and-blackout-shade-with-published-opening-frame-and-installa",
+      "product": "combination boat hatch screen and blackout shade with published opening frame and installation dimensions",
+      "visibleText": "Compare combination boat hatch screen and blackout shade systems with published dimensions and instructions",
+      "originalUrl": "https://www.amazon.com/s?k=boat+hatch+screen+blackout+shade+published+dimensions+installation+manual",
+      "destinationUrl": "https://www.amazon.com/s?k=combination+boat+hatch+screen+and+blackout+shade+with+published+opening+frame+and+installation+dimensions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-screen-shade-opening-frame-egress-fit-guide.html",
+      "key": "boat-hatch-screen-shade-opening-frame-egress-fit-guide.html::removable-boat-hatch-mosquito-screen-with-exact-opening-dimensions-attachment-and-storage-",
+      "product": "removable boat hatch mosquito screen with exact opening dimensions attachment and storage instructions",
+      "visibleText": "Compare removable boat hatch mosquito screens with exact dimensions and attachment instructions",
+      "originalUrl": "https://www.amazon.com/s?k=removable+boat+hatch+mosquito+screen+exact+dimensions+instructions",
+      "destinationUrl": "https://www.amazon.com/s?k=removable+boat+hatch+mosquito+screen+with+exact+opening+dimensions+attachment+and+storage+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-screen-shade-opening-frame-egress-fit-guide.html",
+      "key": "boat-hatch-screen-shade-opening-frame-egress-fit-guide.html::marine-hatch-shade-with-published-cassette-width-travel-hold-down-and-installation-manual",
+      "product": "marine hatch shade with published cassette width travel hold-down and installation manual",
+      "visibleText": "Compare marine hatch shades with published cassette width, travel, hold-down and installation manuals",
+      "originalUrl": "https://www.amazon.com/s?k=marine+hatch+shade+published+cassette+width+travel+installation+manual",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+hatch+shade+with+published+cassette+width+travel+hold-down+and+installation+manual&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
