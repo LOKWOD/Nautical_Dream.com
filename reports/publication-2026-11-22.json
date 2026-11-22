@@ -1,8 +1,8 @@
 {
   "date": "2026-11-22",
-  "status": "pre-publication",
+  "status": "live-verified",
   "expectedNewPages": 3,
-  "publicationCommit": null,
+  "publicationCommit": "f71bc10d83d21d789eabcbdd15c92e9525e1e53a",
   "pages": [
     "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html",
     "uscg-vessel-documentation-renewal-official-source-third-party-mailer-guide.html",
@@ -11,8 +11,8 @@
   "imageQA": {
     "prePublicationEditorial": 6,
     "prePublicationProduct": 0,
-    "postDeploymentEditorial": 0,
+    "postDeploymentEditorial": 6,
     "postDeploymentProduct": 0
   },
-  "deployment": "pending"
+  "deployment": "succeeded: Deploy Nautical Dream static publication #224 and Static site audit #239"
 }
