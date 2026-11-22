@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T16:23:48.162Z",
+  "generatedAt": "2026-11-22T16:45:24.259Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 295,
-    "commercialLinks": 499,
-    "activeAffiliateLinks": 499,
+    "eligiblePages": 298,
+    "commercialLinks": 502,
+    "activeAffiliateLinks": 502,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 499,
+    "amazonAffiliateLinks": 502,
     "fallbackLinks": 0,
-    "changedPages": 66
+    "changedPages": 157
   },
   "links": [
     {
@@ -2065,6 +2065,39 @@
       "visibleText": "View moisture-meter calibration check blocks on Amazon",
       "originalUrl": "https://tramexmeters.com/moisture-meters/skipper-moisture-meter-5/skipper-5-support",
       "destinationUrl": "https://www.amazon.com/s?k=manufacturer+compatible+moisture+meter+calibration+check+box&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html",
+      "key": "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html::marine-mooring-pennant-with-published-nylon-construction-diameter-and-splice-details",
+      "product": "marine mooring pennant with published nylon construction diameter and splice details",
+      "visibleText": "Compare marine mooring pennants with published construction, diameter and splice details",
+      "originalUrl": "https://www.amazon.com/s?k=marine+mooring+pennant+nylon+published+diameter+construction+splice",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+mooring+pennant+with+published+nylon+construction+diameter+and+splice+details&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html",
+      "key": "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html::inspectable-marine-mooring-line-chafe-guard-with-published-dimensions-and-attachment-metho",
+      "product": "inspectable marine mooring line chafe guard with published dimensions and attachment method",
+      "visibleText": "Compare inspectable marine mooring-line chafe guards with published dimensions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+mooring+line+chafe+guard+inspectable+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=inspectable+marine+mooring+line+chafe+guard+with+published+dimensions+and+attachment+method&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html",
+      "key": "boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html::marine-mooring-thimble-and-shackle-with-published-dimensions-material-and-working-load-inf",
+      "product": "marine mooring thimble and shackle with published dimensions material and working load information",
+      "visibleText": "Compare marine mooring thimbles and shackles with published dimensions and load information",
+      "originalUrl": "https://www.amazon.com/s?k=marine+mooring+thimble+shackle+published+dimensions+working+load",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+mooring+thimble+and+shackle+with+published+dimensions+material+and+working+load+information&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

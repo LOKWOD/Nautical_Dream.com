@@ -7132,5 +7132,83 @@
     "query": "Top-down child PFD, blank action card, plain protective pouch, color-only AQI phone, water, hat and blank emergency card; no labels, medical claims or exact product endorsement",
     "width": 1200,
     "height": 900
+  },
+  "mooring-pennant-fit-hero": {
+    "localPath": "assets/editorial/mooring-pennant-fit-hero.webp",
+    "title": "Conceptual mooring-pennant fit inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic cabin boat bow, two navy pennants, chocks, spliced eyes, thimbles, shackles and measuring tools; no rated assembly or universal sizing claim",
+    "width": 1600,
+    "height": 900
+  },
+  "mooring-pennant-fit-card": {
+    "localPath": "assets/editorial/mooring-pennant-fit-card.webp",
+    "title": "Mooring-pennant component and inspection kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic rope constructions, spliced eyes, thimbles, shackles, chafe sleeves and blank record; no exact product endorsement",
+    "width": 1200,
+    "height": 900
+  },
+  "uscg-documentation-renewal-hero": {
+    "localPath": "assets/editorial/uscg-documentation-renewal-hero.webp",
+    "title": "Conceptual vessel-documentation source verification desk",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic boat, blank certificate, checklist, calendar, envelope and abstract government-style website; no Coast Guard form, seal, fee, URL or personal record",
+    "width": 1600,
+    "height": 900
+  },
+  "uscg-documentation-renewal-card": {
+    "localPath": "assets/editorial/uscg-documentation-renewal-card.webp",
+    "title": "Vessel-documentation official-origin verification kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic boat, blank certificate, checklist, calendar, magnifier, envelope and abstract webpage tile; no agency mark or record",
+    "width": 1200,
+    "height": 900
+  },
+  "erie-canal-museum-family-hero": {
+    "localPath": "assets/editorial/erie-canal-museum-family-hero.webp",
+    "title": "Conceptual family canal-history museum planning scene",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Family viewing a generic full-size canal boat replica and lock model in a brick exhibit hall; not documentary photography of Erie Canal Museum or its exact exhibits",
+    "width": 1600,
+    "height": 900
+  },
+  "erie-canal-museum-family-card": {
+    "localPath": "assets/editorial/erie-canal-museum-family-card.webp",
+    "title": "Family canal-history museum visit kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic canal boat model, lock model, blank 90-minute route, water, snack and access note; conceptual, not a named attraction record",
+    "width": 1200,
+    "height": 900
   }
 }

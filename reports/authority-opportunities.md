@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-22 — mooring fit, documentation trust and canal-museum family route
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Samson Rope technical resources | https://www.samsonrope.com/contact-us | `boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html` — fifteen-field line, chafe and hardware fit record | Invite correction of the rope safety and inspection summary while stating that local rules and exact maker data control every system. | Qualified manufacturer-resource opportunity; not contacted |
+| U.S. Coast Guard National Vessel Documentation Center | https://cgmix.uscg.mil/VDS/ContactUs.aspx | `uscg-vessel-documentation-renewal-official-source-third-party-mailer-guide.html` — transaction table and official-origin card | Invite correction of renewal timing, transaction routing and official-source language without seeking endorsement. | Qualified government-resource opportunity; not contacted |
+| Erie Canal Museum | https://eriecanalmuseum.org/contact/ | `erie-canal-museum-family-shore-day-guide.html` — 90-minute family route and accessibility digest | Invite correction of current visitor, parking, access and exhibit details while labeling the route editorial and the imagery conceptual. | Qualified local-resource opportunity; not contacted |
+
 ## 2026-11-21 — hatch fit, Oneida Shores launch and asthma boat-day planning
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["erie-canal-museum-family-shore-day-guide.html", "Erie Canal Museum With Kids: Plan the Weighlock, Full-Size Canal Boat and a 90-Minute Syracuse Shore Day"],
     ["oneida-shores-park-family-boat-launch-guide.html", "Oneida Shores Park With a Family Boat: Eight Launch Lanes, a Written Fee Gate and a Short Muskrat Bay Proof Run"],
     ["wilson-tuscarora-state-park-family-boat-launch-guide.html", "Wilson-Tuscarora With a Family Boat: Separate the Closed Launch Season, Tuscarora Bay Proof Loop and Lake Ontario Gate"],
     ["myers-park-cayuga-lake-family-boat-launch-guide.html", "Myers Park With a Family Boat: Three Ramps, a Written Fee Gate and a Short Cayuga Lake Proof Run"],
@@ -83,6 +84,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html", "Boat Mooring Pennants: Match the Line, Chafe Path, Thimble, Shackle and Boat Before Buying"],
     ["boat-hatch-screen-shade-opening-frame-egress-fit-guide.html", "Boat Hatch Screens and Shades: Match the Opening, Frame, Travel, Ventilation and Escape Path Before Buying"],
     ["marine-speaker-replacement-cutout-depth-impedance-fit-guide.html", "Marine Speaker Replacement: Match Cutout, Depth, Impedance, Power and Compass Clearance Before Buying"],
     ["boat-cup-holder-recessed-surface-clamp-fit-buying-guide.html", "Boat Cup Holders: Match the Cutout, Depth, Drain and Mount Before Replacing One"],
@@ -164,6 +166,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["uscg-vessel-documentation-renewal-official-source-third-party-mailer-guide.html", "Renewing a Coast Guard Certificate of Documentation: Verify the Official Source, Timing and Vessel Record Before Paying"],
     ["family-boating-child-asthma-action-air-quality-exit-plan.html", "Family Boating With a Child Who Has Asthma: Bring the Written Plan, Check Air Quality and Keep the Fast Exit Open"],
     ["kids-sleeping-aboard-berth-co-night-exit-plan.html", "Kids Sleeping Aboard: Prove the Berth, Carbon-Monoxide Boundary, Night Exit and Adult Watch Plan"],
     ["boat-show-shopping-exact-build-quote-deposit-sea-trial-guide.html", "Boat Show Shopping: Compare the Exact Build, Written Quote, Deposit and Sea-Trial Gates"],
