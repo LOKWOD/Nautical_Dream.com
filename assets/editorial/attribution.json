@@ -7210,5 +7210,83 @@
     "query": "Generic canal boat model, lock model, blank 90-minute route, water, snack and access note; conceptual, not a named attraction record",
     "width": 1200,
     "height": 900
+  },
+  "boat-hatch-gas-spring-fit-hero": {
+    "localPath": "assets/editorial/boat-hatch-gas-spring-fit-hero.webp",
+    "title": "Conceptual boat-hatch gas-spring fit inspection",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Generic supported hatch, gas springs, fittings, calipers, tape and blank worksheet; no specific boat, spring or completed installation",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-hatch-gas-spring-fit-card": {
+    "localPath": "assets/editorial/boat-hatch-gas-spring-fit-card.webp",
+    "title": "Gas-spring replacement measurement kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down generic springs, ball sockets, eyelets, calipers, tape and blank record; no exact product endorsement",
+    "width": 1200,
+    "height": 900
+  },
+  "noaa-enc-custom-chart-backup-hero": {
+    "localPath": "assets/editorial/noaa-enc-custom-chart-backup-hero.webp",
+    "title": "Conceptual navigation source-control station",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Unbranded devices, invented non-navigable chart shapes, dividers, ruler, booklet and blank update cards; no NOAA chart or official interface",
+    "width": 1600,
+    "height": 900
+  },
+  "noaa-enc-custom-chart-backup-card": {
+    "localPath": "assets/editorial/noaa-enc-custom-chart-backup-card.webp",
+    "title": "Navigation source-control backup kit",
+    "creator": "OpenAI image generation for Nautical Dream Editorial Desk",
+    "license": "Original AI-assisted editorial image",
+    "licenseUrl": "",
+    "sourceLabel": "OpenAI image generation",
+    "sourceUrl": "https://openai.com/index/image-generation/",
+    "originalUrl": "",
+    "query": "Top-down unbranded devices, invented chart, divider, ruler and blank checklist; no real waterway or operational chart",
+    "width": 1200,
+    "height": 900
+  },
+  "sackets-harbor-battlefield-family-hero": {
+    "localPath": "assets/editorial/sackets-harbor-battlefield-family-hero.webp",
+    "title": "Navy Yard Commandant’s House at Sackets Harbor Battlefield",
+    "creator": "Jerrye and Roy Klotz, MD",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceLabel": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SACKETTS_HARBOR_BATTLEFIELD.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/SACKETTS_HARBOR_BATTLEFIELD.jpg",
+    "query": "Exact named-place documentary image verified against the Wikimedia file page and final page subject",
+    "width": 1600,
+    "height": 900
+  },
+  "sackets-harbor-battlefield-family-card": {
+    "localPath": "assets/editorial/sackets-harbor-battlefield-family-card.webp",
+    "title": "Sackets Harbor marina and Lake Ontario at sunset",
+    "creator": "Aaronyoung777",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceLabel": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacketts_Harbor,_NY.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sacketts_Harbor%2C_NY.jpg",
+    "query": "Exact Sackets Harbor documentary image verified against the Wikimedia file page; used only for the optional village waterfront context",
+    "width": 1200,
+    "height": 900
   }
 }

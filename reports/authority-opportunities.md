@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-23 — hatch mechanism fit, navigation source control and Sackets Harbor family route
+
+No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Stabilus technical support | https://www.stabilus.com/contact | `boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html` — sixteen-field replacement record | Invite correction of measurement, pairing and orientation summaries while stating that exact application data controls. | Qualified manufacturer-resource opportunity; not contacted |
+| NOAA Office of Coast Survey customer assistance | https://www.nauticalcharts.noaa.gov/customer-service/assist/ | `noaa-enc-custom-chart-local-notice-to-mariners-backup-guide.html` — twelve-field navigation source-control card | Invite correction of ENC, Custom Chart and update-workflow language without seeking endorsement. | Qualified government-resource opportunity; not contacted |
+| Sackets Harbor Battlefield State Historic Site | https://parks.ny.gov/visit/historic-sites/sackets-harbor-battlefield-state-historic-site | `sackets-harbor-battlefield-family-shore-day-guide.html` — grounds-first 90-minute family route | Invite correction of seasonal access, pet, fee and visitor-logistics details while identifying the documentary photo credits. | Qualified local-resource opportunity; not contacted |
+
 ## 2026-11-22 — mooring fit, documentation trust and canal-museum family route
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.

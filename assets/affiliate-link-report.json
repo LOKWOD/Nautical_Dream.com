@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-22T16:45:24.259Z",
+  "generatedAt": "2026-11-23T17:12:14.566Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 298,
-    "commercialLinks": 502,
-    "activeAffiliateLinks": 502,
+    "eligiblePages": 301,
+    "commercialLinks": 505,
+    "activeAffiliateLinks": 505,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 502,
+    "amazonAffiliateLinks": 505,
     "fallbackLinks": 0,
-    "changedPages": 157
+    "changedPages": 158
   },
   "links": [
     {
@@ -1779,6 +1779,39 @@
       "visibleText": "View marine fuel-filter service tools on Amazon",
       "originalUrl": "https://www.amazon.com/s?k=marine+fuel+filter+wrench+spill+absorbent+kit",
       "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+filter+service+wrench+and+fuel+compatible+absorbent+supplies&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html",
+      "key": "boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html::marine-gas-spring-with-published-extended-length-compressed-length-stroke-and-force",
+      "product": "marine gas spring with published extended length compressed length stroke and force",
+      "visibleText": "Compare marine gas springs with published length, stroke and force",
+      "originalUrl": "https://www.amazon.com/s?k=marine+gas+spring+strut+published+length+stroke+force",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+gas+spring+with+published+extended+length+compressed+length+stroke+and+force&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html",
+      "key": "boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html::marine-gas-spring-end-fittings-with-published-ball-pin-thread-and-dimensional-information",
+      "product": "marine gas spring end fittings with published ball pin thread and dimensional information",
+      "visibleText": "Compare gas-spring end fittings with published dimensions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+gas+spring+ball+socket+eyelet+end+fitting+published+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+gas+spring+end+fittings+with+published+ball+pin+thread+and+dimensional+information&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html",
+      "key": "boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html::digital-caliper-with-published-measuring-range-accuracy-and-jaw-dimensions",
+      "product": "digital caliper with published measuring range accuracy and jaw dimensions",
+      "visibleText": "Compare digital calipers with published measuring range and accuracy",
+      "originalUrl": "https://www.amazon.com/s?k=digital+caliper+stainless+measurement+tool+published+range",
+      "destinationUrl": "https://www.amazon.com/s?k=digital+caliper+with+published+measuring+range+accuracy+and+jaw+dimensions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"
