@@ -7288,5 +7288,83 @@
     "query": "Exact Sackets Harbor documentary image verified against the Wikimedia file page; used only for the optional village waterfront context",
     "width": 1200,
     "height": 900
+  },
+  "outboard-primer-bulb-fit-hero": {
+    "localPath": "assets/editorial/outboard-primer-bulb-fit-hero.webp",
+    "title": "Conceptual outboard fuel-line fit record",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic tank-to-engine fuel path, primer-bulb flow arrow, connector families and measurement record; no exact product or completed installation",
+    "width": 1600,
+    "height": 900
+  },
+  "outboard-primer-bulb-fit-card": {
+    "localPath": "assets/editorial/outboard-primer-bulb-fit-card.webp",
+    "title": "Tank-to-engine primer-bulb fit card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic hose, bulb arrow and compatibility checkpoints; no exact product endorsement",
+    "width": 1200,
+    "height": 900
+  },
+  "navigation-light-failure-plan-hero": {
+    "localPath": "assets/editorial/navigation-light-failure-plan-hero.webp",
+    "title": "Conceptual navigation-light failure decision plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Simplified generic small powerboat with port red, starboard green and aft white conceptual sectors; official rules and approved configuration control",
+    "width": 1600,
+    "height": 900
+  },
+  "navigation-light-failure-plan-card": {
+    "localPath": "assets/editorial/navigation-light-failure-plan-card.webp",
+    "title": "Navigation-light go-no-go card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic boat plan view with port red, starboard green and aft white light positions plus a decision checklist; not a compliance diagram",
+    "width": 1200,
+    "height": 900
+  },
+  "used-boat-seller-evidence-hero": {
+    "localPath": "assets/editorial/used-boat-seller-evidence-hero.webp",
+    "title": "Conceptual used-boat seller evidence packet",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Invented boat silhouette, redacted ownership proof and generic service record; no real boat, document, HIN or transaction",
+    "width": 1600,
+    "height": 900
+  },
+  "used-boat-seller-evidence-card": {
+    "localPath": "assets/editorial/used-boat-seller-evidence-card.webp",
+    "title": "Used-boat proof packet card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Invented actual-boat photo placeholder, redacted document and generic service timeline; no real identifier or transaction",
+    "width": 1200,
+    "height": 900
   }
 }

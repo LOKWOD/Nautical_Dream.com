@@ -85,6 +85,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["outboard-fuel-primer-bulb-hose-connector-fit-guide.html", "Outboard Fuel Primer Bulbs: Match Hose ID, Flow Direction, Connectors and Engine Instructions Before Buying"],
     ["boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html", "Boat Hatch Gas Springs: Match Length, Stroke, Force, End Fittings and Mounting Geometry Before Buying"],
     ["boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html", "Boat Mooring Pennants: Match the Line, Chafe Path, Thimble, Shackle and Boat Before Buying"],
     ["boat-hatch-screen-shade-opening-frame-egress-fit-guide.html", "Boat Hatch Screens and Shades: Match the Opening, Frame, Travel, Ventilation and Escape Path Before Buying"],
@@ -168,6 +169,8 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["used-boat-listing-photo-document-evidence-packet-guide.html", "Selling a Used Boat: Build a Photo, Document and Service-Evidence Packet Buyers Can Verify"],
+    ["navigation-light-failure-sunset-go-no-go-response-guide.html", "Navigation-Light Failure Before Sunset: A Go/No-Go and Safe-Return Decision Guide"],
     ["noaa-enc-custom-chart-local-notice-to-mariners-backup-guide.html", "NOAA ENC and Custom Charts: Build an Updated Navigation Backup Without Trusting a Screenshot"],
     ["uscg-vessel-documentation-renewal-official-source-third-party-mailer-guide.html", "Renewing a Coast Guard Certificate of Documentation: Verify the Official Source, Timing and Vessel Record Before Paying"],
     ["family-boating-child-asthma-action-air-quality-exit-plan.html", "Family Boating With a Child Who Has Asthma: Bring the Written Plan, Check Air Quality and Keep the Fast Exit Open"],

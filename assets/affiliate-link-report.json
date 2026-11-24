@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-23T17:12:14.566Z",
+  "generatedAt": "2026-11-24T16:30:03.148Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 301,
-    "commercialLinks": 505,
-    "activeAffiliateLinks": 505,
+    "eligiblePages": 304,
+    "commercialLinks": 508,
+    "activeAffiliateLinks": 508,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 505,
+    "amazonAffiliateLinks": 508,
     "fallbackLinks": 0,
-    "changedPages": 158
+    "changedPages": 159
   },
   "links": [
     {
@@ -4925,6 +4925,39 @@
       "visibleText": "Check current price",
       "originalUrl": "https://mityvacstore.com/mityvac-7201/",
       "destinationUrl": "https://www.amazon.com/s?k=Mityvac+7201+Fluid+Evacuator+Plus&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-fuel-primer-bulb-hose-connector-fit-guide.html",
+      "key": "outboard-fuel-primer-bulb-hose-connector-fit-guide.html::marine-outboard-fuel-line-assembly-with-published-inside-diameter-and-connector-compatibil",
+      "product": "marine outboard fuel line assembly with published inside diameter and connector compatibility",
+      "visibleText": "Compare marine outboard fuel-line assemblies with published hose ID and connector compatibility",
+      "originalUrl": "https://www.amazon.com/s?k=marine+outboard+fuel+line+assembly+published+hose+inside+diameter+connector+compatibility",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+outboard+fuel+line+assembly+with+published+inside+diameter+and+connector+compatibility&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-fuel-primer-bulb-hose-connector-fit-guide.html",
+      "key": "outboard-fuel-primer-bulb-hose-connector-fit-guide.html::outboard-fuel-connector-with-published-engine-tank-side-and-model-compatibility",
+      "product": "outboard fuel connector with published engine tank side and model compatibility",
+      "visibleText": "Compare outboard fuel connectors with published engine/tank-side and model compatibility",
+      "originalUrl": "https://www.amazon.com/s?k=outboard+fuel+connector+engine+tank+side+published+brand+model+compatibility",
+      "destinationUrl": "https://www.amazon.com/s?k=outboard+fuel+connector+with+published+engine+tank+side+and+model+compatibility&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "outboard-fuel-primer-bulb-hose-connector-fit-guide.html",
+      "key": "outboard-fuel-primer-bulb-hose-connector-fit-guide.html::marine-fuel-hose-clamp-with-published-size-range-and-fuel-line-application",
+      "product": "marine fuel hose clamp with published size range and fuel-line application",
+      "visibleText": "Compare marine fuel-hose clamps with a published size range and fuel-line application",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fuel+hose+clamp+published+size+range+stainless+stepless",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+fuel+hose+clamp+with+published+size+range+and+fuel-line+application&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

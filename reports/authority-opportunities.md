@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-24 — fuel-line fit record, navigation-light decision card and used-boat seller packet
+
+No outreach was sent. Today’s citation-worthy assets are the fourteen-field fuel-line fit record, twelve-point navigation-light test and twenty-four-frame seller evidence shot list. Six established pages now link back into the three clusters.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Mercury Marine support | https://www.mercurymarine.com/us/en/contact | `outboard-fuel-primer-bulb-hose-connector-fit-guide.html` | Invite correction of model-specific primer-bulb, hose-ID and flow-orientation summaries while stating that the serial-number manual controls. | Qualified manufacturer-resource opportunity; not contacted |
+| U.S. Coast Guard Navigation Center | https://www.navcen.uscg.gov/contact-us | `navigation-light-failure-sunset-go-no-go-response-guide.html` | Invite correction of the Rule 20 digest and portable-light caveat without seeking endorsement. | Qualified government-resource opportunity; not contacted |
+| New York DMV boat title resources | https://dmv.ny.gov/contact-us | `used-boat-listing-photo-document-evidence-packet-guide.html` | Invite correction of New York ownership-transfer and lien-release summaries while pointing readers to the agency forms. | Qualified government-resource opportunity; not contacted |
+
 ## 2026-11-23 — hatch mechanism fit, navigation source control and Sackets Harbor family route
 
 No outreach was sent. These are corrections-first opportunities only; any future contact should offer the exact asset, disclose Nautical Dream's commercial links where relevant and invite factual corrections without requesting a link.
