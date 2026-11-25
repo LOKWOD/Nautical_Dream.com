@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-25 — latch fit record, six-layer launch card and two-copy photo workflow
+
+No outreach was sent. Today’s citation-worthy assets are the sixteen-field hatch-latch fit record, six-layer Seneca Lake State Park operating card and twelve-zone photo privacy review. Six established pages now link back into the three clusters.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| Southco technical support | https://southco.com/en_any_int/contact-us | `boat-hatch-latch-compression-slam-cam-fit-guide.html` | Invite correction of grip, pull-up and application terminology while making clear that exact drawings control. | Qualified manufacturer-resource opportunity; not contacted |
+| New York State Parks, Seneca Lake State Park | https://parks.ny.gov/parks/125/hours-of-operation.aspx | `seneca-lake-state-park-family-boat-launch-guide.html` | Invite correction of the six-layer operating summary and retain direct official confirmation as the call to action. | Qualified government-resource opportunity; not contacted |
+| Apple Personal Safety support | https://support.apple.com/contact | `family-boat-photo-geotag-privacy-sharing-guide.html` | Invite correction of the location-metadata workflow without implying that metadata removal prevents landmark inference or resharing. | Qualified platform-resource opportunity; not contacted |
+
 ## 2026-11-24 — fuel-line fit record, navigation-light decision card and used-boat seller packet
 
 No outreach was sent. Today’s citation-worthy assets are the fourteen-field fuel-line fit record, twelve-point navigation-light test and twenty-four-frame seller evidence shot list. Six established pages now link back into the three clusters.

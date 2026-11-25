@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["seneca-lake-state-park-family-boat-launch-guide.html", "Seneca Lake State Park With a Family Boat: Year-Round Ramp, Seasonal Services and a North-End Proof Loop"],
     ["sackets-harbor-battlefield-family-shore-day-guide.html", "Sackets Harbor Battlefield With Kids: Plan the Grounds, Seasonal Buildings and a 90-Minute Lake Ontario Shore Day"],
     ["erie-canal-museum-family-shore-day-guide.html", "Erie Canal Museum With Kids: Plan the Weighlock, Full-Size Canal Boat and a 90-Minute Syracuse Shore Day"],
     ["oneida-shores-park-family-boat-launch-guide.html", "Oneida Shores Park With a Family Boat: Eight Launch Lanes, a Written Fee Gate and a Short Muskrat Bay Proof Run"],
@@ -85,6 +86,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-hatch-latch-compression-slam-cam-fit-guide.html", "Boat Hatch Latches: Match Compression, Slam or Cam Hardware to the Cutout, Grip and Escape Path"],
     ["outboard-fuel-primer-bulb-hose-connector-fit-guide.html", "Outboard Fuel Primer Bulbs: Match Hose ID, Flow Direction, Connectors and Engine Instructions Before Buying"],
     ["boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html", "Boat Hatch Gas Springs: Match Length, Stroke, Force, End Fittings and Mounting Geometry Before Buying"],
     ["boat-mooring-pennant-line-chafe-thimble-shackle-fit-guide.html", "Boat Mooring Pennants: Match the Line, Chafe Path, Thimble, Shackle and Boat Before Buying"],
@@ -169,6 +171,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["family-boat-photo-geotag-privacy-sharing-guide.html", "Share Family Boat Photos Without Sharing the Slip, Home Address or Live Location"],
     ["used-boat-listing-photo-document-evidence-packet-guide.html", "Selling a Used Boat: Build a Photo, Document and Service-Evidence Packet Buyers Can Verify"],
     ["navigation-light-failure-sunset-go-no-go-response-guide.html", "Navigation-Light Failure Before Sunset: A Go/No-Go and Safe-Return Decision Guide"],
     ["noaa-enc-custom-chart-local-notice-to-mariners-backup-guide.html", "NOAA ENC and Custom Charts: Build an Updated Navigation Backup Without Trusting a Screenshot"],

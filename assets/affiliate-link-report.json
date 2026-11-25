@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-24T16:30:03.148Z",
+  "generatedAt": "2026-11-25T16:24:57.217Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 304,
-    "commercialLinks": 508,
-    "activeAffiliateLinks": 508,
+    "eligiblePages": 307,
+    "commercialLinks": 511,
+    "activeAffiliateLinks": 511,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 508,
+    "amazonAffiliateLinks": 511,
     "fallbackLinks": 0,
-    "changedPages": 159
+    "changedPages": 160
   },
   "links": [
     {
@@ -1812,6 +1812,39 @@
       "visibleText": "Compare digital calipers with published measuring range and accuracy",
       "originalUrl": "https://www.amazon.com/s?k=digital+caliper+stainless+measurement+tool+published+range",
       "destinationUrl": "https://www.amazon.com/s?k=digital+caliper+with+published+measuring+range+accuracy+and+jaw+dimensions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-latch-compression-slam-cam-fit-guide.html",
+      "key": "boat-hatch-latch-compression-slam-cam-fit-guide.html::marine-compression-hatch-latch-with-published-grip-pull-up-cutout-and-panel-dimensions",
+      "product": "marine compression hatch latch with published grip pull-up cutout and panel dimensions",
+      "visibleText": "Compare marine compression hatch latches with published grip, pull-up, cutout and panel dimensions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+compression+hatch+latch+published+grip+pull-up+cutout+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+compression+hatch+latch+with+published+grip+pull-up+cutout+and+panel+dimensions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-latch-compression-slam-cam-fit-guide.html",
+      "key": "boat-hatch-latch-compression-slam-cam-fit-guide.html::marine-slam-hatch-latch-with-published-cutout-panel-thickness-strike-and-inside-release",
+      "product": "marine slam hatch latch with published cutout panel thickness strike and inside release",
+      "visibleText": "Compare marine slam latches with published cutout, panel thickness, strike and inside-release details",
+      "originalUrl": "https://www.amazon.com/s?k=marine+slam+latch+published+cutout+panel+thickness+inside+release",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+slam+hatch+latch+with+published+cutout+panel+thickness+strike+and+inside+release&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-hatch-latch-compression-slam-cam-fit-guide.html",
+      "key": "boat-hatch-latch-compression-slam-cam-fit-guide.html::marine-cam-hatch-latch-with-published-grip-cam-length-rotation-and-cutout-dimensions",
+      "product": "marine cam hatch latch with published grip cam length rotation and cutout dimensions",
+      "visibleText": "Compare marine cam latches with published grip, cam length, rotation and cutout dimensions",
+      "originalUrl": "https://www.amazon.com/s?k=marine+cam+latch+published+grip+cam+length+cutout+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+cam+hatch+latch+with+published+grip+cam+length+rotation+and+cutout+dimensions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

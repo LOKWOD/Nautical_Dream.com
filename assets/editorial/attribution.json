@@ -7366,5 +7366,83 @@
     "query": "Invented actual-boat photo placeholder, redacted document and generic service timeline; no real identifier or transaction",
     "width": 1200,
     "height": 900
+  },
+  "boat-hatch-latch-fit-hero": {
+    "localPath": "assets/editorial/boat-hatch-latch-fit-hero.webp",
+    "title": "Conceptual boat hatch latch fit board",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic compression, slam and cam latch categories with cutout, grip, gasket and inside-release checkpoints; no exact product or installation",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-hatch-latch-fit-card": {
+    "localPath": "assets/editorial/boat-hatch-latch-fit-card.webp",
+    "title": "Boat hatch latch fit card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic rotating cam and panel with cutout, grip and release checkpoints; no exact product",
+    "width": 1200,
+    "height": 900
+  },
+  "seneca-lake-state-park-launch-hero": {
+    "localPath": "assets/editorial/seneca-lake-state-park-launch-hero.webp",
+    "title": "Conceptual Seneca Lake State Park launch plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Abstract north-end lake silhouette and decision layers based on official facility facts; not a destination photograph, chart, ramp diagram or navigation aid",
+    "width": 1600,
+    "height": 900
+  },
+  "seneca-lake-state-park-launch-card": {
+    "localPath": "assets/editorial/seneca-lake-state-park-launch-card.webp",
+    "title": "Seneca Lake State Park confirmation card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Abstract lake silhouette with year-round-ramp and seasonal-service reminder; not a map or destination photograph",
+    "width": 1200,
+    "height": 900
+  },
+  "family-boat-photo-privacy-hero": {
+    "localPath": "assets/editorial/family-boat-photo-privacy-hero.webp",
+    "title": "Conceptual family boat photo privacy workflow",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Invented private archive and reviewed sharing copy with removed location; no real family, child, boat, marina or document",
+    "width": 1600,
+    "height": 900
+  },
+  "family-boat-photo-privacy-card": {
+    "localPath": "assets/editorial/family-boat-photo-privacy-card.webp",
+    "title": "Boat photo privacy sharing card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Invented boat photo and removed location pin; no real person, place or vessel",
+    "width": 1200,
+    "height": 900
   }
 }
