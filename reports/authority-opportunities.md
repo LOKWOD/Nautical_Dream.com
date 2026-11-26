@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-26 — fuel-fill fit record, exact-launch operating card and stop-use release record
+
+No outreach was sent. Today’s citation-worthy assets are a fifteen-field fuel-fill replacement record, a seven-layer Point Au Roche operating card and a twelve-field stop-use/return-to-service record. Six established pages now link back into the three clusters.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| U.S. Coast Guard Product Assurance Branch | https://www.uscgboating.org/content/product-assurance-branch.php | `boat-stop-use-tag-defect-return-to-service-record.html` | Invite correction of the separation between owner stop-use control, recalls, consumer defect reports and accident reporting. | Qualified government-resource opportunity; not contacted |
+| New York State Parks, Point Au Roche | https://parks.ny.gov/visit/state-parks/point-au-roche-state-park | `point-au-roche-state-park-family-boat-launch-guide.html` | Invite correction of the two-launch interpretation and keep direct park confirmation as the call to action. | Qualified government-resource opportunity; not contacted |
+| PERKO technical support | https://www.perko.com/contact/ | `boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html` | Invite correction of cap, relief, integrated-vent and geometry terminology while stating that exact boat and product instructions control. | Qualified manufacturer-resource opportunity; not contacted |
+
 ## 2026-11-25 — latch fit record, six-layer launch card and two-copy photo workflow
 
 No outreach was sent. Today’s citation-worthy assets are the sixteen-field hatch-latch fit record, six-layer Seneca Lake State Park operating card and twelve-zone photo privacy review. Six established pages now link back into the three clusters.

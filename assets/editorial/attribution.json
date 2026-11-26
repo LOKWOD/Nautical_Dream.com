@@ -7444,5 +7444,83 @@
     "query": "Invented boat photo and removed location pin; no real person, place or vessel",
     "width": 1200,
     "height": 900
+  },
+  "boat-fuel-deck-fill-fit-hero": {
+    "localPath": "assets/editorial/boat-fuel-deck-fill-fit-hero.webp",
+    "title": "Conceptual boat fuel deck-fill fit record",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic labeled marine fuel deck fill with cap, receiver, neck, hose, vent, flange and emissions-system checkpoints; no exact product or installation",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-fuel-deck-fill-fit-card": {
+    "localPath": "assets/editorial/boat-fuel-deck-fill-fit-card.webp",
+    "title": "Boat fuel deck-fill fit card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic fuel fill and compatibility checkpoints; no exact product",
+    "width": 1200,
+    "height": 900
+  },
+  "point-au-roche-launch-hero": {
+    "localPath": "assets/editorial/point-au-roche-launch-hero.webp",
+    "title": "Conceptual Point Au Roche family launch plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Abstract Lake Champlain shoreline and official-fact decision board; not a destination photograph, chart, route map or ramp diagram",
+    "width": 1600,
+    "height": 900
+  },
+  "point-au-roche-launch-card": {
+    "localPath": "assets/editorial/point-au-roche-launch-card.webp",
+    "title": "Point Au Roche launch decision card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Abstract shoreline with ramp, weather, parking, return and shore-backup checks; not a map or destination photograph",
+    "width": 1200,
+    "height": 900
+  },
+  "boat-stop-use-tag-hero": {
+    "localPath": "assets/editorial/boat-stop-use-tag-hero.webp",
+    "title": "Conceptual boat stop-use and release record",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic red stop-use tag with evidence, diagnosis, correction, verification and release workflow; no real boat, repair or product",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-stop-use-tag-card": {
+    "localPath": "assets/editorial/boat-stop-use-tag-card.webp",
+    "title": "Boat stop-use control card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic stop-use tag with observe, isolate, diagnose, repair, verify and release stages",
+    "width": 1200,
+    "height": 900
   }
 }

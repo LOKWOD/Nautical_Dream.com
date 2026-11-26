@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2a839e"/><stop offset="1" stop-color="#0c3c58"/></linearGradient></defs>
+  <rect width="1600" height="900" fill="#071d2b"/><rect x="70" y="60" width="1460" height="780" rx="36" fill="#0d3042" stroke="#84d0cf" stroke-width="4"/>
+  <text x="120" y="145" fill="#f5e9c9" font-family="Arial" font-size="52" font-weight="700">POINT AU ROCHE FAMILY LAUNCH PLAN</text><text x="120" y="198" fill="#9ddde0" font-family="Arial" font-size="27">Lake Champlain · official facts separated from day-of conditions</text>
+  <path d="M120 600C300 410 410 640 575 430C700 270 790 430 910 315V700H120Z" fill="url(#w)" stroke="#8fd8df" stroke-width="5"/>
+  <path d="M220 620l140-95 145 95z" fill="#e5dcc2"/><rect x="330" y="485" width="42" height="142" fill="#b5a377"/><circle cx="458" cy="488" r="18" fill="#f4c06a"/>
+  <g font-family="Arial" font-size="28" fill="#fff"><text x="985" y="310">✓ Hard-surface launch</text><text x="985" y="370">✓ Open year-round, sunrise–sunset</text><text x="985" y="430">✓ 21 trailer spaces listed</text><text x="985" y="490">✓ Nature Center backup</text><text x="985" y="550">✓ Official lake forecast</text><text x="985" y="610">✓ Clean · Drain · Dry</text></g>
+  <rect x="120" y="730" width="1360" height="62" rx="14" fill="#173c45"/><text x="800" y="771" text-anchor="middle" fill="#fff" font-family="Arial" font-size="28" font-weight="700">CONCEPTUAL PLANNING BOARD · NOT A MAP, CHART OR RAMP DIAGRAM</text>
+</svg>

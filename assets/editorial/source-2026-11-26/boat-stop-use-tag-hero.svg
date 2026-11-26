@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#071d2b"/><rect x="70" y="60" width="1460" height="780" rx="34" fill="#102f3d" stroke="#67c8d2" stroke-width="4"/>
+  <text x="120" y="145" fill="#f5e9c9" font-family="Arial" font-size="52" font-weight="700">BOAT STOP-USE + RELEASE RECORD</text><text x="120" y="198" fill="#9ddde0" font-family="Arial" font-size="27">One visible status · one evidence trail · one named release authority</text>
+  <path d="M170 290h520l85 85v350H170z" fill="#8e1f23" stroke="#ffce89" stroke-width="7"/><circle cx="692" cy="375" r="25" fill="#071d2b"/><text x="470" y="455" text-anchor="middle" fill="#fff" font-family="Arial" font-size="72" font-weight="700">STOP USE</text><text x="470" y="520" text-anchor="middle" fill="#fff" font-family="Arial" font-size="28">DEFECT NOT YET RELEASED</text>
+  <g font-family="Arial" font-size="29" fill="#fff"><text x="875" y="320">1  OBSERVATION + TIME</text><text x="875" y="385">2  SYSTEM / HAZARD ZONE</text><text x="875" y="450">3  PHOTOS + MANUAL + RECALL</text><text x="875" y="515">4  QUALIFIED DIAGNOSIS</text><text x="875" y="580">5  CORRECTIVE WORK + TEST</text><text x="875" y="645">6  NAMED RETURN-TO-SERVICE RELEASE</text></g>
+  <rect x="120" y="755" width="1360" height="48" rx="12" fill="#163d49"/><text x="800" y="788" text-anchor="middle" fill="#fff" font-family="Arial" font-size="25" font-weight="700">A REMOVED TAG IS NOT EVIDENCE THAT THE BOAT IS SAFE</text>
+</svg>

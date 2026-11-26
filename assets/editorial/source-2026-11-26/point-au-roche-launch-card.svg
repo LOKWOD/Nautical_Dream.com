@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#071d2b"/><rect x="55" y="55" width="1090" height="790" rx="34" fill="#0d3042" stroke="#84d0cf" stroke-width="4"/>
+  <text x="95" y="135" fill="#f5e9c9" font-family="Arial" font-size="47" font-weight="700">POINT AU ROCHE</text><text x="95" y="185" fill="#9ddde0" font-family="Arial" font-size="28">Family launch decision card</text>
+  <path d="M95 610C260 420 390 660 560 410C650 280 760 400 840 330V690H95Z" fill="#1d718c" stroke="#8fd8df" stroke-width="5"/><path d="M185 625l115-80 115 80z" fill="#e5dcc2"/><rect x="280" y="515" width="35" height="116" fill="#b5a377"/>
+  <g font-family="Arial" font-size="26" fill="#fff"><text x="890" y="360">RAMP</text><text x="890" y="420">WEATHER</text><text x="890" y="480">PARKING</text><text x="890" y="540">RETURN</text><text x="890" y="600">SHORE BACKUP</text></g>
+  <text x="600" y="768" text-anchor="middle" fill="#f5e9c9" font-family="Arial" font-size="26" font-weight="700">CONCEPTUAL · VERIFY CURRENT PARK CONDITIONS</text>
+</svg>

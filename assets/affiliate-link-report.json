@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-25T16:24:57.217Z",
+  "generatedAt": "2026-11-26T16:39:46.798Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 307,
-    "commercialLinks": 511,
-    "activeAffiliateLinks": 511,
+    "eligiblePages": 309,
+    "commercialLinks": 514,
+    "activeAffiliateLinks": 514,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 511,
+    "amazonAffiliateLinks": 514,
     "fallbackLinks": 0,
-    "changedPages": 160
+    "changedPages": 161
   },
   "links": [
     {
@@ -1746,6 +1746,39 @@
       "visibleText": "Compare closed-toe sport-sandal categories on Amazon",
       "originalUrl": "https://astraldesigns.com/collections/water-shoes",
       "destinationUrl": "https://www.amazon.com/s?k=closed+toe+adjustable+sport+sandals+for+dock+and+family+boat+use&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html",
+      "key": "boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html::marine-fuel-fill-replacement-cap-matched-to-the-exact-deck-fill-manufacturer-part-number-i",
+      "product": "marine fuel-fill replacement cap matched to the exact deck-fill manufacturer part number interface seal and relief function",
+      "visibleText": "Compare exact-manufacturer marine fuel-fill replacement caps",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fuel+fill+replacement+cap+exact+manufacturer+part+number",
+      "destinationUrl": "https://www.amazon.com/s?k=marine+fuel-fill+replacement+cap+matched+to+the+exact+deck-fill+manufacturer+part+number+interface+seal+and+relief+function&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html",
+      "key": "boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html::straight-neck-marine-fuel-deck-fill-with-published-fuel-type-cap-function-fill-hose-vent-h",
+      "product": "straight-neck marine fuel deck fill with published fuel type cap function fill hose vent hose flange cutout neck and installation dimensions",
+      "visibleText": "Compare documented straight-neck marine fuel deck fills",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fuel+deck+fill+straight+neck+published+hose+vent+cutout+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=straight-neck+marine+fuel+deck+fill+with+published+fuel+type+cap+function+fill+hose+vent+hose+flange+cutout+neck+and+installation+dimensions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html",
+      "key": "boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html::angled-neck-marine-fuel-deck-fill-with-published-angle-fuel-type-cap-function-fill-hose-ve",
+      "product": "angled-neck marine fuel deck fill with published angle fuel type cap function fill hose vent hose flange cutout and installation dimensions",
+      "visibleText": "Compare documented angled-neck marine fuel deck fills",
+      "originalUrl": "https://www.amazon.com/s?k=marine+fuel+deck+fill+angled+neck+published+hose+vent+cutout+dimensions",
+      "destinationUrl": "https://www.amazon.com/s?k=angled-neck+marine+fuel+deck+fill+with+published+angle+fuel+type+cap+function+fill+hose+vent+hose+flange+cutout+and+installation+dimensions&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

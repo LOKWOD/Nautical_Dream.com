@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#071d2b"/><rect x="60" y="55" width="1080" height="790" rx="34" fill="#10364a" stroke="#62cbd5" stroke-width="4"/>
+  <text x="100" y="135" fill="#f5e9c9" font-family="Arial" font-size="48" font-weight="700">FUEL DECK FILL</text><text x="100" y="185" fill="#8fd8df" font-family="Arial" font-size="27">Prove the complete fit before buying</text>
+  <circle cx="330" cy="460" r="180" fill="#102736" stroke="#f4c06a" stroke-width="14"/><circle cx="330" cy="460" r="110" fill="#d7d9d8" stroke="#5c6870" stroke-width="11"/><text x="330" y="475" text-anchor="middle" fill="#071d2b" font-family="Arial" font-size="44" font-weight="700">FUEL</text>
+  <g font-family="Arial" font-size="29" fill="#fff"><text x="585" y="330">CAP INTERFACE</text><text x="585" y="390">NECK + HOSE</text><text x="585" y="450">VENT PATH</text><text x="585" y="510">FLANGE + CUTOUT</text><text x="585" y="570">SYSTEM / EMISSIONS</text></g>
+  <rect x="100" y="705" width="1000" height="72" rx="14" fill="#7f2022"/><text x="600" y="751" text-anchor="middle" fill="#fff" font-family="Arial" font-size="29" font-weight="700">NO UNIVERSAL CAP · NO FUEL-SYSTEM IMPROVISATION</text>
+</svg>

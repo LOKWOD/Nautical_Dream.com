@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["point-au-roche-state-park-family-boat-launch-guide.html", "Point Au Roche State Park With a Family Boat: Two Launch Records, Broad-Water Weather and a Shore Backup"],
     ["seneca-lake-state-park-family-boat-launch-guide.html", "Seneca Lake State Park With a Family Boat: Year-Round Ramp, Seasonal Services and a North-End Proof Loop"],
     ["sackets-harbor-battlefield-family-shore-day-guide.html", "Sackets Harbor Battlefield With Kids: Plan the Grounds, Seasonal Buildings and a 90-Minute Lake Ontario Shore Day"],
     ["erie-canal-museum-family-shore-day-guide.html", "Erie Canal Museum With Kids: Plan the Weighlock, Full-Size Canal Boat and a 90-Minute Syracuse Shore Day"],
@@ -86,6 +87,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html", "Boat Fuel Deck Fills: Match the Cap, Neck, Hose, Vent and Emissions System Before Replacement"],
     ["boat-hatch-latch-compression-slam-cam-fit-guide.html", "Boat Hatch Latches: Match Compression, Slam or Cam Hardware to the Cutout, Grip and Escape Path"],
     ["outboard-fuel-primer-bulb-hose-connector-fit-guide.html", "Outboard Fuel Primer Bulbs: Match Hose ID, Flow Direction, Connectors and Engine Instructions Before Buying"],
     ["boat-hatch-gas-spring-strut-force-length-end-fitting-fit-guide.html", "Boat Hatch Gas Springs: Match Length, Stroke, Force, End Fittings and Mounting Geometry Before Buying"],
@@ -171,6 +173,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["boat-stop-use-tag-defect-return-to-service-record.html", "Stop-Use Tags for Family Boats: Control a Suspected Defect Until Repair and Return-to-Service Release"],
     ["family-boat-photo-geotag-privacy-sharing-guide.html", "Share Family Boat Photos Without Sharing the Slip, Home Address or Live Location"],
     ["used-boat-listing-photo-document-evidence-packet-guide.html", "Selling a Used Boat: Build a Photo, Document and Service-Evidence Packet Buyers Can Verify"],
     ["navigation-light-failure-sunset-go-no-go-response-guide.html", "Navigation-Light Failure Before Sunset: A Go/No-Go and Safe-Return Decision Guide"],

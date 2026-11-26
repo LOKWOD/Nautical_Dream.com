@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#071d2b"/><rect x="55" y="55" width="1090" height="790" rx="34" fill="#102f3d" stroke="#67c8d2" stroke-width="4"/>
+  <text x="95" y="135" fill="#f5e9c9" font-family="Arial" font-size="48" font-weight="700">STOP USE</text><text x="95" y="185" fill="#9ddde0" font-family="Arial" font-size="28">Boat defect control and release record</text>
+  <path d="M105 285h500l70 70v330H105z" fill="#8e1f23" stroke="#ffce89" stroke-width="7"/><circle cx="595" cy="357" r="22" fill="#071d2b"/><text x="380" y="455" text-anchor="middle" fill="#fff" font-family="Arial" font-size="61" font-weight="700">DO NOT OPERATE</text>
+  <g font-family="Arial" font-size="28" fill="#fff"><text x="750" y="340">OBSERVE</text><text x="750" y="400">ISOLATE</text><text x="750" y="460">DIAGNOSE</text><text x="750" y="520">REPAIR</text><text x="750" y="580">VERIFY</text><text x="750" y="640">RELEASE</text></g>
+  <text x="600" y="775" text-anchor="middle" fill="#f5e9c9" font-family="Arial" font-size="27" font-weight="700">STATUS MUST FOLLOW THE BOAT, KEY AND RECORD</text>
+</svg>

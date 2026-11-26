@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#071d2b"/><rect x="70" y="65" width="1460" height="770" rx="34" fill="#0d3042" stroke="#5cc6d0" stroke-width="4"/>
+  <text x="120" y="150" fill="#f5e9c9" font-family="Arial" font-size="54" font-weight="700">FUEL DECK FILL FIT RECORD</text>
+  <text x="120" y="205" fill="#8fd8df" font-family="Arial" font-size="26">Match the whole assembly—not the cap's appearance</text>
+  <circle cx="420" cy="485" r="185" fill="#102736" stroke="#f4c06a" stroke-width="14"/><circle cx="420" cy="485" r="118" fill="#d7d9d8" stroke="#5c6870" stroke-width="12"/>
+  <path d="M420 365v240M300 485h240" stroke="#37444c" stroke-width="20"/><text x="330" y="510" fill="#071d2b" font-family="Arial" font-size="48" font-weight="700">FUEL</text>
+  <path d="M605 420h160v130H605" fill="none" stroke="#f4c06a" stroke-width="8"/><text x="610" y="365" fill="#f5e9c9" font-family="Arial" font-size="23">CAP + RECEIVER</text>
+  <g font-family="Arial" font-size="29" fill="#fff"><text x="850" y="330">□ maker + exact part family</text><text x="850" y="390">□ fuel type and required label</text><text x="850" y="450">□ cap thread / bayonet / seal</text><text x="850" y="510">□ neck angle, hose and vent</text><text x="850" y="570">□ flange, cutout and fasteners</text><text x="850" y="630">□ emissions-system compatibility</text></g>
+  <rect x="115" y="725" width="1370" height="65" rx="14" fill="#7f2022"/><text x="800" y="768" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" font-weight="700">STOP FOR ODOR, LEAKAGE, DAMAGED HOSE OR AN UNKNOWN FUEL SYSTEM</text>
+</svg>
