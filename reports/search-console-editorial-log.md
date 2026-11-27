@@ -1,5 +1,13 @@
 # Search Console editorial decisions
 
+## 2026-11-27
+
+- Report checked: `LOKWOD/site-analytics` generated 2026-11-25, covering 2026-10-26 through 2026-11-22. It is two days old and usable.
+- Site signal: 22 impressions, 1 click, 4.5% CTR and average position 8.4; the homepage had the only meaningful page volume, while the main hubs each showed one impression at position 12.
+- Signal used: “nautical dreams” had 3 impressions, 1 click and average position 8.3. Because this is tiny branded navigation, it supported a fresh homepage module, three relevant hubs, sitemap/feed/catalog updates and six reciprocal links—not a query-targeted page.
+- Weak signals deliberately ignored: `nauticaladvice.com` (4 impressions, position 27.2) and `www.lakecomoboatfinder.com` (2 impressions, position 12.5) are irrelevant competitor/domain noise. One-impression hub rows were too small to steer subject selection.
+- Editorial effect: no item is labeled Data-led because no credible nonbranded cluster exists. The batch expands registration-display and Adirondack hand-launch authority, then explores a family observation ritual.
+
 ## 2026-11-26
 
 - Report checked: `LOKWOD/site-analytics` generated 2026-11-25, covering 2026-10-26 through 2026-11-22. It is one day old and usable.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#071d29"/><rect x="58" y="52" width="1084" height="796" rx="32" fill="#12384a" stroke="#63d6e5" stroke-width="4"/>
+<text x="100" y="132" fill="#fff1d0" font-family="Arial" font-size="46" font-weight="700">PINE LAKE HAND LAUNCH</text><text x="100" y="178" fill="#9ed6dd" font-family="Arial" font-size="24">Carry first · paddle short · return early</text>
+<path d="M90 610 Q250 405 540 480 T770 430 V665 H90 Z" fill="#207c95" stroke="#a7e7ed" stroke-width="5"/><path d="M105 390 L285 390 L415 525" fill="none" stroke="#d3bb82" stroke-width="48" stroke-linecap="round"/><path d="M355 585 Q470 535 590 585 Q470 635 355 585Z" fill="#f5c469"/>
+<g font-family="Arial" font-size="27" fill="#fff"><text x="820" y="335">CARRY</text><text x="820" y="390">PFD FIT</text><text x="820" y="445">WEATHER</text><text x="820" y="500">CONTROL</text><text x="820" y="555">RETURN</text><text x="820" y="610">CLEAN</text></g>
+<rect x="100" y="720" width="1000" height="64" rx="12" fill="#17444b"/><text x="600" y="762" text-anchor="middle" fill="#fff" font-family="Arial" font-size="23" font-weight="700">CONCEPTUAL · VERIFY CURRENT DEC ACCESS</text>
+</svg>

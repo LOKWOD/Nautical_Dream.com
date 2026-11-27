@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#071d29"/><rect x="58" y="52" width="1084" height="796" rx="32" fill="#12384a" stroke="#63d6e5" stroke-width="4"/>
+<text x="100" y="132" fill="#fff1d0" font-family="Arial" font-size="46" font-weight="700">KIDS’ BOAT LOGBOOK</text><text x="100" y="178" fill="#9ed6dd" font-family="Arial" font-size="24">Notice · help · ask · hand off</text>
+<path d="M110 310 Q330 270 580 330 V675 Q335 625 110 680 Z" fill="#f7edd2" stroke="#f5c469" stroke-width="5"/><path d="M580 330 Q820 270 1080 310 V680 Q820 625 580 675 Z" fill="#fff7e6" stroke="#f5c469" stroke-width="5"/><line x1="580" y1="330" x2="580" y2="675" stroke="#c29b58" stroke-width="5"/>
+<g font-family="Arial" fill="#12384a"><text x="150" y="390" font-size="29" font-weight="700">CHILD PAGE</text><text x="150" y="455" font-size="25">☀ WEATHER</text><text x="150" y="510" font-size="25">✎ WILDLIFE</text><text x="150" y="565" font-size="25">✓ CREW JOB</text><text x="635" y="390" font-size="29" font-weight="700">ADULT STRIP</text><text x="635" y="455" font-size="25">VERIFY</text><text x="635" y="510" font-size="25">TRANSFER</text><text x="635" y="565" font-size="25">CLOSE</text></g>
+<rect x="100" y="730" width="1000" height="60" rx="12" fill="#17444b"/><text x="600" y="770" text-anchor="middle" fill="#fff" font-family="Arial" font-size="22" font-weight="700">OBSERVE · NEVER REPLACE ADULT RECORDS</text>
+</svg>

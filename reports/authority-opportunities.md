@@ -1,5 +1,15 @@
 # Authority opportunities
 
+## 2026-11-27 — registration-display proof, Pine Lake hand-launch card and two-layer kids’ logbook
+
+No outreach was sent. Today’s citation-worthy assets are a fourteen-field registration-lettering proof, an eight-layer Pine Lake hand-launch card and a twelve-box child/adult logbook spread. Six established pages now link back into the three clusters.
+
+| Target | Contact route | Asset match | Honest pitch angle | Status |
+|---|---|---|---|---|
+| New York State Parks Boating Education | https://parks.ny.gov/boating/education.aspx | `boat-registration-number-lettering-decal-display-buying-guide.html` | Invite correction of the New York number-display interpretation and offer the dimensioned buying proof as a plain-language supplement. | Qualified government-resource opportunity; not contacted |
+| New York DEC Shaker Mountain Wild Forest | https://dec.ny.gov/places/shaker-mountain-wild-forest | `pine-lake-hand-launch-family-paddling-guide.html` | Invite correction of the Northshore Road hand-launch interpretation while keeping DEC’s current facility page as the controlling source. | Qualified government-resource opportunity; not contacted |
+| National Weather Service education team | https://www.weather.gov/mrx/education | `kids-family-boat-logbook-weather-wildlife-maintenance-guide.html` | Invite educational feedback on the child observation prompts while stating clearly that the page is not a forecast, float plan or navigation record. | Qualified public-education opportunity; not contacted |
+
 ## 2026-11-26 — fuel-fill fit record, exact-launch operating card and stop-use release record
 
 No outreach was sent. Today’s citation-worthy assets are a fifteen-field fuel-fill replacement record, a seven-layer Point Au Roche operating card and a twelve-field stop-use/return-to-service record. Six established pages now link back into the three clusters.

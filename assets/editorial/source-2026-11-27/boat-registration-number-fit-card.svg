@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#071d29"/><rect x="58" y="52" width="1084" height="796" rx="32" fill="#12384a" stroke="#63d6e5" stroke-width="4"/>
+<text x="100" y="132" fill="#fff1d0" font-family="Arial" font-size="46" font-weight="700">REGISTRATION NUMBERS</text><text x="100" y="178" fill="#9ed6dd" font-family="Arial" font-size="24">Rule + sequence + surface fit</text>
+<path d="M105 535 Q235 355 610 375 L660 560 L130 615 Z" fill="#1f7187" stroke="#a7e7ed" stroke-width="5"/><text x="190" y="505" fill="#fff" font-family="Arial" font-size="55" font-weight="700" letter-spacing="4">ST 0000 XX</text>
+<g font-family="Arial" font-size="27" fill="#fff"><text x="730" y="330">HEIGHT</text><text x="730" y="385">GROUPING</text><text x="730" y="440">CONTRAST</text><text x="730" y="495">BOTH SIDES</text><text x="730" y="550">DECAL</text><text x="730" y="605">SURFACE</text></g>
+<rect x="100" y="720" width="1000" height="64" rx="12" fill="#92242a"/><text x="600" y="762" text-anchor="middle" fill="#fff" font-family="Arial" font-size="23" font-weight="700">VERIFY BEFORE ADHESIVE TOUCHES THE HULL</text>
+</svg>

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-26T16:39:46.798Z",
+  "generatedAt": "2026-11-27T16:58:09.141Z",
   "amazonConfigured": true,
   "amazonAssociateTag": "nauticaldr087-20",
   "totals": {
-    "eligiblePages": 309,
-    "commercialLinks": 514,
-    "activeAffiliateLinks": 514,
+    "eligiblePages": 312,
+    "commercialLinks": 517,
+    "activeAffiliateLinks": 517,
     "directAffiliateLinks": 0,
-    "amazonAffiliateLinks": 514,
+    "amazonAffiliateLinks": 517,
     "fallbackLinks": 0,
-    "changedPages": 161
+    "changedPages": 162
   },
   "links": [
     {
@@ -2373,6 +2373,39 @@
       "visibleText": "Compare exact propeller installation hardware kits",
       "originalUrl": "https://www.amazon.com/s?k=boat+propeller+installation+kit",
       "destinationUrl": "https://www.amazon.com/s?k=boat+propeller+installation+hardware+kits+matched+to+the+exact+engine+or+drive+propeller+shaft+thrust+washer+spacer+nut+keeper+and+manual&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-registration-number-lettering-decal-display-buying-guide.html",
+      "key": "boat-registration-number-lettering-decal-display-buying-guide.html::custom-pre-spaced-boat-registration-number-pair-with-documented-character-height-grouping-",
+      "product": "custom pre-spaced boat registration number pair with documented character height grouping dimensions color contrast and marine hull surface compatibility",
+      "visibleText": "Compare custom pre-spaced boat registration-number pairs",
+      "originalUrl": "https://www.amazon.com/s?k=custom+boat+registration+numbers+3+inch+block+letters+pair",
+      "destinationUrl": "https://www.amazon.com/s?k=custom+pre-spaced+boat+registration+number+pair+with+documented+character+height+grouping+dimensions+color+contrast+and+marine+hull+surface+compatibility&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-registration-number-lettering-decal-display-buying-guide.html",
+      "key": "boat-registration-number-lettering-decal-display-buying-guide.html::individual-marine-boat-registration-letter-and-number-kit-with-verified-block-character-he",
+      "product": "individual marine boat registration letter and number kit with verified block character height solid contrast and hull-surface adhesive instructions",
+      "visibleText": "Compare individual marine block-letter and number kits",
+      "originalUrl": "https://www.amazon.com/s?k=marine+boat+registration+letter+number+kit+3+inch+block",
+      "destinationUrl": "https://www.amazon.com/s?k=individual+marine+boat+registration+letter+and+number+kit+with+verified+block+character+height+solid+contrast+and+hull-surface+adhesive+instructions&tag=nauticaldr087-20",
+      "retailer": "Amazon",
+      "active": true,
+      "source": "amazon-search"
+    },
+    {
+      "page": "boat-registration-number-lettering-decal-display-buying-guide.html",
+      "key": "boat-registration-number-lettering-decal-display-buying-guide.html::boat-registration-number-placard-system-for-an-inflatable-or-removable-display-only-where-",
+      "product": "boat registration number placard system for an inflatable or removable display only where expressly permitted by the controlling state agency",
+      "visibleText": "Compare removable registration placards for permitted applications",
+      "originalUrl": "https://www.amazon.com/s?k=boat+registration+number+placard+inflatable+boat",
+      "destinationUrl": "https://www.amazon.com/s?k=boat+registration+number+placard+system+for+an+inflatable+or+removable+display+only+where+expressly+permitted+by+the+controlling+state+agency&tag=nauticaldr087-20",
       "retailer": "Amazon",
       "active": true,
       "source": "amazon-search"

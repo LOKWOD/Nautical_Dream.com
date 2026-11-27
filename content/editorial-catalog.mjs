@@ -1,5 +1,6 @@
 export const catalog = {
   destinations: [
+    ["pine-lake-hand-launch-family-paddling-guide.html", "Pine Lake Hand Launch With Kids: Carry-In Access, Northshore Road and a Short Reversible Paddle"],
     ["point-au-roche-state-park-family-boat-launch-guide.html", "Point Au Roche State Park With a Family Boat: Two Launch Records, Broad-Water Weather and a Shore Backup"],
     ["seneca-lake-state-park-family-boat-launch-guide.html", "Seneca Lake State Park With a Family Boat: Year-Round Ramp, Seasonal Services and a North-End Proof Loop"],
     ["sackets-harbor-battlefield-family-shore-day-guide.html", "Sackets Harbor Battlefield With Kids: Plan the Grounds, Seasonal Buildings and a 90-Minute Lake Ontario Shore Day"],
@@ -87,6 +88,7 @@ export const catalog = {
     ["erie-canal-guide.html", "Erie Canal Boating Guide"],
   ],
   guides: [
+    ["boat-registration-number-lettering-decal-display-buying-guide.html", "Boat Registration Numbers and Decals: Prove Size, Spacing, Contrast and Hull-Surface Fit Before You Buy"],
     ["boat-fuel-deck-fill-cap-neck-hose-vent-fit-guide.html", "Boat Fuel Deck Fills: Match the Cap, Neck, Hose, Vent and Emissions System Before Replacement"],
     ["boat-hatch-latch-compression-slam-cam-fit-guide.html", "Boat Hatch Latches: Match Compression, Slam or Cam Hardware to the Cutout, Grip and Escape Path"],
     ["outboard-fuel-primer-bulb-hose-connector-fit-guide.html", "Outboard Fuel Primer Bulbs: Match Hose ID, Flow Direction, Connectors and Engine Instructions Before Buying"],
@@ -173,6 +175,7 @@ export const catalog = {
     ["best-life-jackets.html", "Best Life Jackets for Boating"],
   ],
   journal: [
+    ["kids-family-boat-logbook-weather-wildlife-maintenance-guide.html", "A Kids’ Boat Logbook That Adults Will Keep: Weather, Wildlife, Crew Jobs and Maintenance Clues"],
     ["boat-stop-use-tag-defect-return-to-service-record.html", "Stop-Use Tags for Family Boats: Control a Suspected Defect Until Repair and Return-to-Service Release"],
     ["family-boat-photo-geotag-privacy-sharing-guide.html", "Share Family Boat Photos Without Sharing the Slip, Home Address or Live Location"],
     ["used-boat-listing-photo-document-evidence-packet-guide.html", "Selling a Used Boat: Build a Photo, Document and Service-Evidence Packet Buyers Can Verify"],

@@ -7522,5 +7522,83 @@
     "query": "Generic stop-use tag with observe, isolate, diagnose, repair, verify and release stages",
     "width": 1200,
     "height": 900
+  },
+  "boat-registration-number-fit-hero": {
+    "localPath": "assets/editorial/boat-registration-number-fit-hero.webp",
+    "title": "Conceptual boat registration-number display proof",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic registration-number fit board with invented characters, separator, contrast, two-side and validation-decal checks; not an assigned number or legal template",
+    "width": 1600,
+    "height": 900
+  },
+  "boat-registration-number-fit-card": {
+    "localPath": "assets/editorial/boat-registration-number-fit-card.webp",
+    "title": "Boat registration-number display card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic block-character, spacing, contrast and two-side decision card; not an assigned number or product",
+    "width": 1200,
+    "height": 900
+  },
+  "pine-lake-hand-launch-hero": {
+    "localPath": "assets/editorial/pine-lake-hand-launch-hero.webp",
+    "title": "Conceptual Pine Lake family hand-launch plan",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Abstract carry-in shoreline and small-paddlecraft decision board; not a destination photograph, chart, route map or depiction of current conditions",
+    "width": 1600,
+    "height": 900
+  },
+  "pine-lake-hand-launch-card": {
+    "localPath": "assets/editorial/pine-lake-hand-launch-card.webp",
+    "title": "Pine Lake hand-launch planning card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Abstract hand-launch planning board with carry, PFD, weather and easy-return checks; not a map or destination photograph",
+    "width": 1200,
+    "height": 900
+  },
+  "kids-boat-logbook-hero": {
+    "localPath": "assets/editorial/kids-boat-logbook-hero.webp",
+    "title": "Conceptual kids boat-logbook spread",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic open logbook with weather, wildlife, crew-job, question and adult follow-up fields; no real child, trip, route or weather report",
+    "width": 1600,
+    "height": 900
+  },
+  "kids-boat-logbook-card": {
+    "localPath": "assets/editorial/kids-boat-logbook-card.webp",
+    "title": "Kids boat-logbook activity card",
+    "creator": "Nautical Dream Editorial Desk",
+    "license": "Original editorial illustration",
+    "licenseUrl": "",
+    "sourceLabel": "Original SVG illustration",
+    "sourceUrl": "https://nauticaldream.com/editorial-policy.html",
+    "originalUrl": "",
+    "query": "Generic weather, wildlife, crew-job and adult follow-up logbook fields; not a navigation or maintenance record",
+    "width": 1200,
+    "height": 900
   }
 }
